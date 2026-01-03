@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 import os
+from datetime import datetime
 
 class TrendsAggregator:
     def __init__(self, storage):
@@ -19,7 +20,7 @@ class TrendsAggregator:
                 return cat
         return '其他'
 
-    def aggregate_and_export(self, output_path='web/data.json'):
+    def aggregate_and_export(self, insights=None, output_path='web/data.json'):
         """
         聚合最近一周的数据并生成前端 JSON
         """
@@ -28,23 +29,30 @@ class TrendsAggregator:
             print("没有数据可聚合")
             return
 
-        # 计算关键词权重 (出现次数 + 流量等级)
-        # 简单权重计算：出现一次记 1 分，流量包含 '万+' 的额外加分
-        def calculate_score(row):
-            score = 1
-            if '500万+' in str(row['traffic']): score += 10
-            elif '200万+' in str(row['traffic']): score += 5
-            elif '100万+' in str(row['traffic']): score += 3
-            elif '50万+' in str(row['traffic']): score += 2
-            return score
+        # 计算权重得分 (如果 JSONL 有 traffic_numeric 就用它)
+        if 'traffic_numeric' in df.columns:
+            def calculate_score(row):
+                # 基础分来自流量，加成来自频次
+                return row['traffic_numeric']
+        else:
+            def calculate_score(row):
+                score = 1
+                traffic_str = str(row.get('traffic', ''))
+                if '500万+' in traffic_str: score += 10
+                elif '200万+' in traffic_str: score += 5
+                elif '100万+' in traffic_str: score += 3
+                elif '50万+' in traffic_str: score += 2
+                return score
 
         df['score'] = df.apply(calculate_score, axis=1)
+        
+        # 重新分类以确保使用最新的分类逻辑
         df['category'] = df['keyword'].apply(self.categorize)
 
         # 按关键词聚合
         agg = df.groupby('keyword').agg({
             'score': 'sum',
-            'traffic': 'first',
+            'traffic_numeric': 'max' if 'traffic_numeric' in df.columns else 'count',
             'category': 'first',
             'timestamp': 'max'
         }).reset_index()
@@ -57,9 +65,10 @@ class TrendsAggregator:
 
         # 格式化为前端 JSON
         result = {
-            'last_updated': df['timestamp'].max().strftime('%Y-%m-%d %H:%M:%S'),
+            'last_updated': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
             'trends': top_trends.to_dict(orient='records'),
-            'category_stats': agg['category'].value_counts().to_dict()
+            'category_stats': agg['category'].value_counts().to_dict(),
+            'insights': insights or []
         }
 
         os.makedirs(os.path.dirname(output_path), exist_ok=True)

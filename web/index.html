@@ -21,6 +21,11 @@
         .cat-sports { background: #fbe9e7; color: #d84315; }
         .cat-finance { background: #e8f5e9; color: #2e7d32; }
         .cat-other { background: #f3e5f5; color: #7b1fa2; }
+        .insights-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 15px; margin-top: 15px; }
+        .insight-item { padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px; background: #fafafa; }
+        .insight-item h3 { margin-top: 0; font-size: 1.1em; color: #2e7d32; }
+        .insight-item .context { font-size: 0.85em; color: #666; margin-bottom: 8px; border-left: 3px solid #ccc; padding-left: 8px; }
+        .insight-item .suggestion { font-size: 0.95em; line-height: 1.5; }
         @media (max-width: 768px) { .dashboard-grid { grid-template-columns: 1fr; } }
     </style>
 </head>
@@ -39,6 +44,14 @@
             <div class="card">
                 <h2>领域趋势分布</h2>
                 <canvas id="categoryChart"></canvas>
+            </div>
+        </div>
+
+        <div class="card" style="margin-bottom: 30px;">
+            <h2>💡 产品方向建议 (AI 深度分析)</h2>
+            <div id="insights-container" class="insights-grid">
+                <!-- 动态加载 -->
+                <p style="color: #666;">正在生成分析...</p>
             </div>
         </div>
 

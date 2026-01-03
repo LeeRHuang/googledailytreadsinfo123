@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-01-03 13:26:44",
+  "last_updated": "2026-01-03 18:56:33",
   "trends": [
     {
       "keyword": "new year's eve",
-      "score": 35000000,
+      "score": 40000000,
       "traffic_numeric": 5000000,
       "category": "娱乐/生活",
-      "timestamp": "2026-01-03 13:26:44"
+      "timestamp": "2026-01-03 18:56:33"
     },
     {
       "keyword": "new year's day",
-      "score": 35000000,
+      "score": 40000000,
       "traffic_numeric": 5000000,
       "category": "娱乐/生活",
-      "timestamp": "2026-01-03 13:26:44"
+      "timestamp": "2026-01-03 18:56:33"
     },
     {
       "keyword": "ole miss vs georgia",
-      "score": 14000000,
+      "score": 16000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-01-03 13:26:44"
+      "timestamp": "2026-01-03 18:56:33"
     },
     {
       "keyword": "alabama vs indiana",
@@ -44,7 +44,21 @@
       "timestamp": "2026-01-03 13:26:44"
     },
     {
+      "keyword": "venezuela",
+      "score": 6000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-03 18:56:33"
+    },
+    {
       "keyword": "tatiana schlossberg",
+      "score": 4000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-03 18:56:33"
+    },
+    {
+      "keyword": "minnesota fraud",
       "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
@@ -58,42 +72,49 @@
       "timestamp": "2026-01-03 13:26:44"
     },
     {
-      "keyword": "minnesota fraud",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-03 13:26:44"
-    },
-    {
       "keyword": "curt cignetti",
-      "score": 2000000,
+      "score": 2100000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-01-03 07:02:47"
-    },
-    {
-      "keyword": "iran",
-      "score": 1400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-03 13:26:44"
-    },
-    {
-      "keyword": "winter classic 2026",
-      "score": 1400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-03 13:26:44"
-    },
-    {
-      "keyword": "trevon diggs",
-      "score": 1400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-03 13:26:44"
+      "timestamp": "2026-01-03 18:56:33"
     },
     {
       "keyword": "mtv",
+      "score": 1600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-03 18:56:33"
+    },
+    {
+      "keyword": "anthony joshua car crash",
+      "score": 1600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-03 18:56:33"
+    },
+    {
+      "keyword": "winter classic 2026",
+      "score": 1600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-03 18:56:33"
+    },
+    {
+      "keyword": "full moon january 2026",
+      "score": 1600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-03 18:56:33"
+    },
+    {
+      "keyword": "iran",
+      "score": 1600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-03 18:56:33"
+    },
+    {
+      "keyword": "trevon diggs",
       "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
@@ -107,39 +128,11 @@
       "timestamp": "2026-01-03 13:26:44"
     },
     {
-      "keyword": "full moon january 2026",
-      "score": 1400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-03 13:26:44"
-    },
-    {
-      "keyword": "anthony joshua car crash",
-      "score": 1400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-03 13:26:44"
-    },
-    {
       "keyword": "swiss ski resort explosion",
       "score": 1200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-01-03 12:36:05"
-    },
-    {
-      "keyword": "venezuela",
-      "score": 1000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-03 13:26:44"
-    },
-    {
-      "keyword": "wake forest vs ms state",
-      "score": 1000000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-01-03 13:26:44"
     },
     {
       "keyword": "stranger things spinoff",
@@ -149,6 +142,27 @@
       "timestamp": "2026-01-03 12:36:05"
     },
     {
+      "keyword": "wake forest vs ms state",
+      "score": 1000000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-01-03 13:26:44"
+    },
+    {
+      "keyword": "mamdani",
+      "score": 1000000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-03 18:56:33"
+    },
+    {
+      "keyword": "jodi hildebrandt",
+      "score": 900000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-03 18:56:33"
+    },
+    {
       "keyword": "arizona vs smu",
       "score": 800000,
       "traffic_numeric": 200000,
@@ -156,18 +170,18 @@
       "timestamp": "2026-01-03 12:36:05"
     },
     {
-      "keyword": "mamdani",
-      "score": 800000,
+      "keyword": "grizzlies vs lakers",
+      "score": 650000,
       "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-03 13:26:44"
+      "category": "体育",
+      "timestamp": "2026-01-03 18:56:33"
     },
     {
-      "keyword": "jodi hildebrandt",
-      "score": 700000,
+      "keyword": "thunder vs warriors",
+      "score": 600000,
       "traffic_numeric": 100000,
-      "category": "其他",
-      "timestamp": "2026-01-03 13:26:44"
+      "category": "体育",
+      "timestamp": "2026-01-03 18:56:33"
     },
     {
       "keyword": "zohran mamdani",
@@ -177,45 +191,31 @@
       "timestamp": "2026-01-03 12:36:05"
     },
     {
-      "keyword": "thunder vs warriors",
-      "score": 500000,
+      "keyword": "piper rockelle",
+      "score": 300000,
       "traffic_numeric": 100000,
-      "category": "体育",
-      "timestamp": "2026-01-03 13:26:44"
-    },
-    {
-      "keyword": "grizzlies vs lakers",
-      "score": 450000,
-      "traffic_numeric": 100000,
-      "category": "体育",
-      "timestamp": "2026-01-03 13:26:44"
-    },
-    {
-      "keyword": "smu football",
-      "score": 200000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-01-03 13:26:44"
+      "category": "其他",
+      "timestamp": "2026-01-03 18:56:33"
     },
     {
       "keyword": "montauk project",
+      "score": 300000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-03 18:56:33"
+    },
+    {
+      "keyword": "somali daycare minnesota",
       "score": 200000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-01-03 07:02:47"
-    },
-    {
-      "keyword": "piper rockelle",
-      "score": 200000,
-      "traffic_numeric": 100000,
-      "category": "其他",
-      "timestamp": "2026-01-03 13:26:44"
+      "timestamp": "2026-01-03 18:56:33"
     }
   ],
   "category_stats": {
-    "其他": 23,
-    "体育": 8,
-    "娱乐/生活": 2
+    "其他": 27,
+    "体育": 10,
+    "娱乐/生活": 3
   },
   "insights": [
     {

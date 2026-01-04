@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-01-04 07:10:21",
+  "last_updated": "2026-01-04 13:24:27",
   "trends": [
     {
       "keyword": "new year's eve",
-      "score": 50000000,
+      "score": 55000000,
       "traffic_numeric": 5000000,
       "category": "娱乐/生活",
-      "timestamp": "2026-01-04 07:10:21"
+      "timestamp": "2026-01-04 13:24:27"
     },
     {
       "keyword": "new year's day",
-      "score": 50000000,
+      "score": 52000000,
       "traffic_numeric": 5000000,
       "category": "娱乐/生活",
-      "timestamp": "2026-01-04 07:10:21"
+      "timestamp": "2026-01-04 13:24:27"
     },
     {
       "keyword": "ole miss vs georgia",
@@ -21,6 +21,13 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-01-04 03:13:46"
+    },
+    {
+      "keyword": "maduro",
+      "score": 15000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-04 13:24:27"
     },
     {
       "keyword": "did eleven die in stranger things",
@@ -37,13 +44,6 @@
       "timestamp": "2026-01-03 13:26:44"
     },
     {
-      "keyword": "maduro",
-      "score": 10000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-04 07:10:21"
-    },
-    {
       "keyword": "brigitte bardot",
       "score": 7000000,
       "traffic_numeric": 1000000,
@@ -58,18 +58,25 @@
       "timestamp": "2026-01-03 18:56:33"
     },
     {
+      "keyword": "seahawks vs 49ers",
+      "score": 5100000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-04 13:24:27"
+    },
+    {
       "keyword": "tatiana schlossberg",
-      "score": 4500000,
+      "score": 5000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-04 03:13:46"
+      "timestamp": "2026-01-04 13:24:27"
     },
     {
       "keyword": "alix earle",
-      "score": 4000000,
+      "score": 4500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-04 03:13:46"
+      "timestamp": "2026-01-04 13:24:27"
     },
     {
       "keyword": "minnesota fraud",
@@ -79,46 +86,46 @@
       "timestamp": "2026-01-03 13:26:44"
     },
     {
-      "keyword": "seahawks vs 49ers",
-      "score": 3100000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-04 07:10:21"
-    },
-    {
       "keyword": "full moon january 2026",
-      "score": 2600000,
+      "score": 3100000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-04 07:10:21"
-    },
-    {
-      "keyword": "curt cignetti",
-      "score": 2200000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-04 07:10:21"
-    },
-    {
-      "keyword": "anthony joshua car crash",
-      "score": 2000000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-04 07:10:21"
+      "timestamp": "2026-01-04 13:24:27"
     },
     {
       "keyword": "panthers vs buccaneers",
-      "score": 2000000,
+      "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-01-04 07:10:21"
+      "timestamp": "2026-01-04 13:24:27"
+    },
+    {
+      "keyword": "curt cignetti",
+      "score": 2300000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-04 13:24:27"
+    },
+    {
+      "keyword": "anthony joshua car crash",
+      "score": 2200000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-04 13:24:27"
     },
     {
       "keyword": "mtv",
-      "score": 2000000,
+      "score": 2200000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-01-04 07:10:21"
+      "timestamp": "2026-01-04 13:24:27"
+    },
+    {
+      "keyword": "iran",
+      "score": 1600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-03 18:56:33"
     },
     {
       "keyword": "winter classic 2026",
@@ -128,11 +135,18 @@
       "timestamp": "2026-01-03 18:56:33"
     },
     {
-      "keyword": "iran",
-      "score": 1600000,
+      "keyword": "tommy lee jones",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-04 13:24:27"
+    },
+    {
+      "keyword": "jodi hildebrandt",
+      "score": 1500000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-01-03 18:56:33"
+      "timestamp": "2026-01-04 13:24:27"
     },
     {
       "keyword": "camila mendoza olmos",
@@ -149,8 +163,8 @@
       "timestamp": "2026-01-03 13:26:44"
     },
     {
-      "keyword": "jodi hildebrandt",
-      "score": 1300000,
+      "keyword": "stranger things spinoff",
+      "score": 1200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-01-04 07:10:21"
@@ -163,11 +177,11 @@
       "timestamp": "2026-01-03 12:36:05"
     },
     {
-      "keyword": "stranger things spinoff",
-      "score": 1200000,
+      "keyword": "mamdani",
+      "score": 1000000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-01-04 07:10:21"
+      "timestamp": "2026-01-03 18:56:33"
     },
     {
       "keyword": "wake forest vs ms state",
@@ -177,20 +191,6 @@
       "timestamp": "2026-01-03 13:26:44"
     },
     {
-      "keyword": "tommy lee jones",
-      "score": 1000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-04 07:10:21"
-    },
-    {
-      "keyword": "mamdani",
-      "score": 1000000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-03 18:56:33"
-    },
-    {
       "keyword": "arizona vs smu",
       "score": 800000,
       "traffic_numeric": 200000,
@@ -198,23 +198,23 @@
       "timestamp": "2026-01-03 12:36:05"
     },
     {
+      "keyword": "piper rockelle",
+      "score": 700000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-04 13:24:27"
+    },
+    {
       "keyword": "grizzlies vs lakers",
       "score": 650000,
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-01-03 18:56:33"
-    },
-    {
-      "keyword": "zohran mamdani",
-      "score": 600000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-03 12:36:05"
     }
   ],
   "category_stats": {
-    "其他": 34,
-    "体育": 15,
+    "其他": 35,
+    "体育": 16,
     "娱乐/生活": 3
   },
   "insights": [

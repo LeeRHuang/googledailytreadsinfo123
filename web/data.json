@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-05 03:10:32",
+  "last_updated": "2026-01-05 07:11:13",
   "trends": [
     {
       "keyword": "new year's day",
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "maduro",
-      "score": 20000001,
+      "score": 25000001,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-05 03:10:32"
+      "timestamp": "2026-01-05 07:11:13"
     },
     {
       "keyword": "ole miss vs georgia",
@@ -100,18 +100,25 @@
       "timestamp": "2026-01-03 13:26:44"
     },
     {
-      "keyword": "mtv",
-      "score": 2600000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-05 03:10:32"
+      "keyword": "ravens vs steelers",
+      "score": 3000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-05 07:11:13"
     },
     {
       "keyword": "tommy lee jones",
-      "score": 2500000,
+      "score": 3000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-05 03:10:32"
+      "timestamp": "2026-01-05 07:11:13"
+    },
+    {
+      "keyword": "mtv",
+      "score": 2800000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-05 07:11:13"
     },
     {
       "keyword": "curt cignetti",
@@ -129,17 +136,38 @@
     },
     {
       "keyword": "jodi hildebrandt",
-      "score": 1900000,
+      "score": 2100000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-01-05 03:10:32"
+      "timestamp": "2026-01-05 07:11:13"
     },
     {
-      "keyword": "winter classic 2026",
-      "score": 1600000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-03 18:56:33"
+      "keyword": "cowboys vs giants",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-01-05 07:11:13"
+    },
+    {
+      "keyword": "nfl playoff schedule",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-01-05 07:11:13"
+    },
+    {
+      "keyword": "lions vs bears",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-01-05 07:11:13"
+    },
+    {
+      "keyword": "commanders vs eagles",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-01-05 07:11:13"
     },
     {
       "keyword": "iran",
@@ -149,11 +177,11 @@
       "timestamp": "2026-01-03 18:56:33"
     },
     {
-      "keyword": "cowboys vs giants",
-      "score": 1500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-01-05 03:10:32"
+      "keyword": "winter classic 2026",
+      "score": 1600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-03 18:56:33"
     },
     {
       "keyword": "camila mendoza olmos",
@@ -170,50 +198,22 @@
       "timestamp": "2026-01-03 13:26:44"
     },
     {
-      "keyword": "stranger things spinoff",
-      "score": 1200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-04 07:10:21"
-    },
-    {
-      "keyword": "swiss ski resort explosion",
-      "score": 1200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-03 12:36:05"
-    },
-    {
       "keyword": "piper rockelle",
-      "score": 1100000,
+      "score": 1300000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-01-05 03:10:32"
+      "timestamp": "2026-01-05 07:11:13"
     },
     {
-      "keyword": "ravens vs steelers",
-      "score": 1000000,
-      "traffic_numeric": 1000000,
+      "keyword": "packers vs vikings",
+      "score": 1200000,
+      "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-01-05 03:10:32"
-    },
-    {
-      "keyword": "nfl playoff schedule",
-      "score": 1000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-01-05 03:10:32"
-    },
-    {
-      "keyword": "commanders vs eagles",
-      "score": 1000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-01-05 03:10:32"
+      "timestamp": "2026-01-05 07:11:13"
     }
   ],
   "category_stats": {
-    "其他": 38,
+    "其他": 40,
     "体育": 32,
     "娱乐/生活": 4,
     "科技/AI": 3

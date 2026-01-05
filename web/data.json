@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-05 13:38:18",
+  "last_updated": "2026-01-05 19:15:31",
   "trends": [
     {
       "keyword": "new year's day",
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "maduro",
-      "score": 30000001,
+      "score": 35000001,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-05 13:38:18"
+      "timestamp": "2026-01-05 19:15:31"
     },
     {
       "keyword": "ole miss vs georgia",
@@ -44,11 +44,25 @@
       "timestamp": "2026-01-03 13:26:44"
     },
     {
+      "keyword": "venezuela",
+      "score": 8000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-05 19:15:31"
+    },
+    {
       "keyword": "seahawks vs 49ers",
       "score": 7100000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-01-04 19:01:32"
+    },
+    {
+      "keyword": "ravens vs steelers",
+      "score": 7000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-05 19:15:31"
     },
     {
       "keyword": "brigitte bardot",
@@ -58,25 +72,18 @@
       "timestamp": "2026-01-03 13:26:44"
     },
     {
-      "keyword": "venezuela",
+      "keyword": "nfl playoff schedule",
       "score": 6000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-03 18:56:33"
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-05 19:15:31"
     },
     {
       "keyword": "tatiana schlossberg",
-      "score": 5500000,
+      "score": 6000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-04 19:01:32"
-    },
-    {
-      "keyword": "ravens vs steelers",
-      "score": 5000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-05 13:38:18"
+      "timestamp": "2026-01-05 19:15:31"
     },
     {
       "keyword": "alix earle",
@@ -93,6 +100,13 @@
       "timestamp": "2026-01-05 03:10:32"
     },
     {
+      "keyword": "commanders vs eagles",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-01-05 19:15:31"
+    },
+    {
       "keyword": "panthers vs buccaneers",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -100,11 +114,18 @@
       "timestamp": "2026-01-04 19:01:32"
     },
     {
-      "keyword": "nfl playoff schedule",
+      "keyword": "lions vs bears",
       "score": 4000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-01-05 13:38:18"
+      "timestamp": "2026-01-05 19:15:31"
+    },
+    {
+      "keyword": "tommy lee jones",
+      "score": 4000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-05 19:15:31"
     },
     {
       "keyword": "minnesota fraud",
@@ -114,39 +135,25 @@
       "timestamp": "2026-01-03 13:26:44"
     },
     {
-      "keyword": "tommy lee jones",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-05 13:38:18"
-    },
-    {
-      "keyword": "commanders vs eagles",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-01-05 13:38:18"
-    },
-    {
       "keyword": "mtv",
-      "score": 3000000,
+      "score": 3200000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-01-05 13:38:18"
-    },
-    {
-      "keyword": "lions vs bears",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-01-05 13:38:18"
+      "timestamp": "2026-01-05 19:15:31"
     },
     {
       "keyword": "cowboys vs giants",
-      "score": 2500000,
+      "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-01-05 13:38:18"
+      "timestamp": "2026-01-05 19:15:31"
+    },
+    {
+      "keyword": "jodi hildebrandt",
+      "score": 2300000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-05 19:15:31"
     },
     {
       "keyword": "curt cignetti",
@@ -156,6 +163,13 @@
       "timestamp": "2026-01-04 13:24:27"
     },
     {
+      "keyword": "packers vs vikings",
+      "score": 2200000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-01-05 19:15:31"
+    },
+    {
       "keyword": "anthony joshua car crash",
       "score": 2200000,
       "traffic_numeric": 200000,
@@ -163,11 +177,11 @@
       "timestamp": "2026-01-04 13:24:27"
     },
     {
-      "keyword": "jodi hildebrandt",
-      "score": 2100000,
-      "traffic_numeric": 200000,
+      "keyword": "nicolas maduro",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-01-05 07:11:13"
+      "timestamp": "2026-01-05 19:15:31"
     },
     {
       "keyword": "venezuela news",
@@ -177,43 +191,29 @@
       "timestamp": "2026-01-05 13:38:18"
     },
     {
-      "keyword": "packers vs vikings",
-      "score": 1700000,
+      "keyword": "chiefs vs raiders",
+      "score": 2000000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-01-05 13:38:18"
+      "category": "科技/AI",
+      "timestamp": "2026-01-05 19:15:31"
     },
     {
-      "keyword": "iran",
-      "score": 1600000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-03 18:56:33"
-    },
-    {
-      "keyword": "winter classic 2026",
-      "score": 1600000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-03 18:56:33"
+      "keyword": "saints vs falcons",
+      "score": 1900000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-01-05 19:15:31"
     },
     {
       "keyword": "piper rockelle",
-      "score": 1500000,
+      "score": 1700000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-01-05 13:38:18"
-    },
-    {
-      "keyword": "chiefs vs raiders",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-01-05 13:38:18"
+      "timestamp": "2026-01-05 19:15:31"
     }
   ],
   "category_stats": {
-    "其他": 40,
+    "其他": 42,
     "体育": 33,
     "娱乐/生活": 4,
     "科技/AI": 3,

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-05 19:15:31",
+  "last_updated": "2026-01-06 02:41:30",
   "trends": [
     {
       "keyword": "new year's day",
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "maduro",
-      "score": 35000001,
+      "score": 40000001,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-05 19:15:31"
+      "timestamp": "2026-01-06 02:41:30"
     },
     {
       "keyword": "ole miss vs georgia",
@@ -45,10 +45,24 @@
     },
     {
       "keyword": "venezuela",
-      "score": 8000000,
+      "score": 10000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-05 19:15:31"
+      "timestamp": "2026-01-06 02:41:30"
+    },
+    {
+      "keyword": "ravens vs steelers",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-06 02:41:30"
+    },
+    {
+      "keyword": "nfl playoff schedule",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-06 02:41:30"
     },
     {
       "keyword": "seahawks vs 49ers",
@@ -58,13 +72,6 @@
       "timestamp": "2026-01-04 19:01:32"
     },
     {
-      "keyword": "ravens vs steelers",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-05 19:15:31"
-    },
-    {
       "keyword": "brigitte bardot",
       "score": 7000000,
       "traffic_numeric": 1000000,
@@ -72,18 +79,25 @@
       "timestamp": "2026-01-03 13:26:44"
     },
     {
-      "keyword": "nfl playoff schedule",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-05 19:15:31"
-    },
-    {
       "keyword": "tatiana schlossberg",
-      "score": 6000000,
+      "score": 6500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-05 19:15:31"
+      "timestamp": "2026-01-06 02:41:30"
+    },
+    {
+      "keyword": "lions vs bears",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-01-06 02:41:30"
+    },
+    {
+      "keyword": "tommy lee jones",
+      "score": 4500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-06 02:41:30"
     },
     {
       "keyword": "alix earle",
@@ -114,20 +128,6 @@
       "timestamp": "2026-01-04 19:01:32"
     },
     {
-      "keyword": "lions vs bears",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-01-05 19:15:31"
-    },
-    {
-      "keyword": "tommy lee jones",
-      "score": 4000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-05 19:15:31"
-    },
-    {
       "keyword": "minnesota fraud",
       "score": 3500000,
       "traffic_numeric": 500000,
@@ -135,25 +135,39 @@
       "timestamp": "2026-01-03 13:26:44"
     },
     {
-      "keyword": "mtv",
-      "score": 3200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-05 19:15:31"
-    },
-    {
       "keyword": "cowboys vs giants",
-      "score": 3000000,
+      "score": 3500000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-01-05 19:15:31"
+      "timestamp": "2026-01-06 02:41:30"
+    },
+    {
+      "keyword": "mtv",
+      "score": 3400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-06 02:41:30"
+    },
+    {
+      "keyword": "venezuela news",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-06 02:41:30"
+    },
+    {
+      "keyword": "chiefs vs raiders",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-01-06 02:41:30"
     },
     {
       "keyword": "jodi hildebrandt",
-      "score": 2300000,
+      "score": 2500000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-01-05 19:15:31"
+      "timestamp": "2026-01-06 02:41:30"
     },
     {
       "keyword": "curt cignetti",
@@ -184,18 +198,11 @@
       "timestamp": "2026-01-05 19:15:31"
     },
     {
-      "keyword": "venezuela news",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
+      "keyword": "piper rockelle",
+      "score": 1900000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-01-05 13:38:18"
-    },
-    {
-      "keyword": "chiefs vs raiders",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-01-05 19:15:31"
+      "timestamp": "2026-01-06 02:41:30"
     },
     {
       "keyword": "saints vs falcons",
@@ -203,18 +210,11 @@
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-01-05 19:15:31"
-    },
-    {
-      "keyword": "piper rockelle",
-      "score": 1700000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-05 19:15:31"
     }
   ],
   "category_stats": {
-    "其他": 42,
-    "体育": 33,
+    "其他": 45,
+    "体育": 35,
     "娱乐/生活": 4,
     "科技/AI": 3,
     "金融/商业": 1

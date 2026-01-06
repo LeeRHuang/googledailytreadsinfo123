@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-06 13:29:30",
+  "last_updated": "2026-01-06 19:01:21",
   "trends": [
     {
       "keyword": "new year's day",
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "maduro",
-      "score": 50000001,
+      "score": 50000002,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-06 13:29:30"
+      "timestamp": "2026-01-06 19:01:21"
     },
     {
       "keyword": "ole miss vs georgia",
@@ -45,10 +45,10 @@
     },
     {
       "keyword": "nfl playoff schedule",
-      "score": 12000000,
+      "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-01-06 13:29:30"
+      "timestamp": "2026-01-06 19:01:21"
     },
     {
       "keyword": "alabama vs indiana",
@@ -93,18 +93,18 @@
       "timestamp": "2026-01-06 13:29:30"
     },
     {
-      "keyword": "venezuela news",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-06 13:29:30"
-    },
-    {
       "keyword": "tommy lee jones",
       "score": 5000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-06 07:05:12"
+    },
+    {
+      "keyword": "venezuela news",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-06 13:29:30"
     },
     {
       "keyword": "alix earle",
@@ -121,11 +121,11 @@
       "timestamp": "2026-01-05 03:10:32"
     },
     {
-      "keyword": "panthers vs buccaneers",
+      "keyword": "commanders vs eagles",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-01-04 19:01:32"
+      "timestamp": "2026-01-05 19:15:31"
     },
     {
       "keyword": "cowboys vs giants",
@@ -135,18 +135,25 @@
       "timestamp": "2026-01-06 13:29:30"
     },
     {
-      "keyword": "commanders vs eagles",
+      "keyword": "tyler loop",
       "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-01-05 19:15:31"
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-06 19:01:21"
     },
     {
       "keyword": "mtv",
-      "score": 3800000,
+      "score": 4000000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-01-06 13:29:30"
+      "timestamp": "2026-01-06 19:01:21"
+    },
+    {
+      "keyword": "panthers vs buccaneers",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-01-04 19:01:32"
     },
     {
       "keyword": "minnesota fraud",
@@ -177,6 +184,20 @@
       "timestamp": "2026-01-06 13:29:30"
     },
     {
+      "keyword": "piper rockelle",
+      "score": 2500000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-06 19:01:21"
+    },
+    {
+      "keyword": "nicolas maduro",
+      "score": 2500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-06 19:01:21"
+    },
+    {
       "keyword": "curt cignetti",
       "score": 2300000,
       "traffic_numeric": 2000000,
@@ -184,39 +205,18 @@
       "timestamp": "2026-01-04 13:24:27"
     },
     {
-      "keyword": "piper rockelle",
-      "score": 2300000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-06 13:29:30"
-    },
-    {
       "keyword": "anthony joshua car crash",
       "score": 2200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-01-04 13:24:27"
-    },
-    {
-      "keyword": "tyler loop",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-06 07:05:12"
-    },
-    {
-      "keyword": "nicolas maduro",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-05 19:15:31"
     }
   ],
   "category_stats": {
-    "其他": 48,
-    "体育": 38,
+    "其他": 51,
+    "体育": 39,
+    "科技/AI": 4,
     "娱乐/生活": 4,
-    "科技/AI": 3,
     "金融/商业": 1
   },
   "insights": [

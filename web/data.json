@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-06 19:01:21",
+  "last_updated": "2026-01-07 02:37:08",
   "trends": [
     {
       "keyword": "new year's day",
@@ -9,6 +9,13 @@
       "timestamp": "2026-01-04 19:01:32"
     },
     {
+      "keyword": "maduro",
+      "score": 55000002,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-07 02:37:08"
+    },
+    {
       "keyword": "new year's eve",
       "score": 55000000,
       "traffic_numeric": 5000000,
@@ -16,18 +23,18 @@
       "timestamp": "2026-01-04 13:24:27"
     },
     {
-      "keyword": "maduro",
-      "score": 50000002,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-06 19:01:21"
-    },
-    {
       "keyword": "ole miss vs georgia",
       "score": 18000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-01-04 03:13:46"
+    },
+    {
+      "keyword": "nfl playoff schedule",
+      "score": 14500000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-07 02:37:08"
     },
     {
       "keyword": "did eleven die in stranger things",
@@ -42,13 +49,6 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-06 13:29:30"
-    },
-    {
-      "keyword": "nfl playoff schedule",
-      "score": 14000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-06 19:01:21"
     },
     {
       "keyword": "alabama vs indiana",
@@ -86,6 +86,13 @@
       "timestamp": "2026-01-03 13:26:44"
     },
     {
+      "keyword": "venezuela news",
+      "score": 7000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-07 02:37:08"
+    },
+    {
       "keyword": "lions vs bears",
       "score": 6500000,
       "traffic_numeric": 1000000,
@@ -93,18 +100,18 @@
       "timestamp": "2026-01-06 13:29:30"
     },
     {
-      "keyword": "tommy lee jones",
-      "score": 5000000,
-      "traffic_numeric": 500000,
+      "keyword": "tyler loop",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-01-06 07:05:12"
+      "timestamp": "2026-01-07 02:37:08"
     },
     {
-      "keyword": "venezuela news",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
+      "keyword": "tommy lee jones",
+      "score": 5500000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-06 13:29:30"
+      "timestamp": "2026-01-07 02:37:08"
     },
     {
       "keyword": "alix earle",
@@ -114,39 +121,18 @@
       "timestamp": "2026-01-04 13:24:27"
     },
     {
+      "keyword": "mtv",
+      "score": 4200000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-07 02:37:08"
+    },
+    {
       "keyword": "full moon january 2026",
       "score": 4100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-05 03:10:32"
-    },
-    {
-      "keyword": "commanders vs eagles",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-01-05 19:15:31"
-    },
-    {
-      "keyword": "cowboys vs giants",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-01-06 13:29:30"
-    },
-    {
-      "keyword": "tyler loop",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-06 19:01:21"
-    },
-    {
-      "keyword": "mtv",
-      "score": 4000000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-06 19:01:21"
     },
     {
       "keyword": "panthers vs buccaneers",
@@ -156,6 +142,20 @@
       "timestamp": "2026-01-04 19:01:32"
     },
     {
+      "keyword": "cowboys vs giants",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-01-06 13:29:30"
+    },
+    {
+      "keyword": "commanders vs eagles",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-01-05 19:15:31"
+    },
+    {
       "keyword": "minnesota fraud",
       "score": 3500000,
       "traffic_numeric": 500000,
@@ -163,18 +163,18 @@
       "timestamp": "2026-01-03 13:26:44"
     },
     {
+      "keyword": "nicolas maduro",
+      "score": 3500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-07 02:37:08"
+    },
+    {
       "keyword": "chiefs vs raiders",
       "score": 3000000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-01-06 13:29:30"
-    },
-    {
-      "keyword": "jodi hildebrandt",
-      "score": 2700000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-06 07:05:12"
     },
     {
       "keyword": "packers vs vikings",
@@ -185,17 +185,17 @@
     },
     {
       "keyword": "piper rockelle",
-      "score": 2500000,
+      "score": 2700000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-01-06 19:01:21"
+      "timestamp": "2026-01-07 02:37:08"
     },
     {
-      "keyword": "nicolas maduro",
-      "score": 2500000,
-      "traffic_numeric": 2000000,
+      "keyword": "jodi hildebrandt",
+      "score": 2700000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-01-06 19:01:21"
+      "timestamp": "2026-01-06 07:05:12"
     },
     {
       "keyword": "curt cignetti",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 51,
-    "体育": 39,
+    "其他": 53,
+    "体育": 42,
     "科技/AI": 4,
     "娱乐/生活": 4,
     "金融/商业": 1

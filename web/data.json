@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-08 02:37:01",
+  "last_updated": "2026-01-08 07:12:49",
   "trends": [
     {
       "keyword": "maduro",
-      "score": 72000002,
+      "score": 77000002,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-08 02:37:01"
+      "timestamp": "2026-01-08 07:12:49"
     },
     {
       "keyword": "new year's day",
@@ -44,25 +44,25 @@
       "timestamp": "2026-01-07 13:33:14"
     },
     {
+      "keyword": "tyler loop",
+      "score": 16000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-08 07:12:49"
+    },
+    {
+      "keyword": "venezuela news",
+      "score": 15000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-08 07:12:49"
+    },
+    {
       "keyword": "did eleven die in stranger things",
       "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-04 07:10:21"
-    },
-    {
-      "keyword": "tyler loop",
-      "score": 14000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-08 02:37:01"
-    },
-    {
-      "keyword": "venezuela news",
-      "score": 13000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-08 02:37:01"
     },
     {
       "keyword": "alabama vs indiana",
@@ -101,10 +101,10 @@
     },
     {
       "keyword": "nicolas maduro",
-      "score": 6500000,
+      "score": 7000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-01-08 02:37:01"
+      "timestamp": "2026-01-08 07:12:49"
     },
     {
       "keyword": "lions vs bears",
@@ -128,6 +128,13 @@
       "timestamp": "2026-01-07 07:04:06"
     },
     {
+      "keyword": "john harbaugh",
+      "score": 4500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-08 07:12:49"
+    },
+    {
       "keyword": "alix earle",
       "score": 4500000,
       "traffic_numeric": 500000,
@@ -149,13 +156,6 @@
       "timestamp": "2026-01-05 03:10:32"
     },
     {
-      "keyword": "commanders vs eagles",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-01-05 19:15:31"
-    },
-    {
       "keyword": "cowboys vs giants",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -170,18 +170,18 @@
       "timestamp": "2026-01-04 19:01:32"
     },
     {
-      "keyword": "john harbaugh",
-      "score": 3500000,
+      "keyword": "commanders vs eagles",
+      "score": 4000000,
       "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-08 02:37:01"
+      "category": "体育",
+      "timestamp": "2026-01-05 19:15:31"
     },
     {
-      "keyword": "piper rockelle",
-      "score": 3500000,
-      "traffic_numeric": 200000,
+      "keyword": "stranger things episode 9",
+      "score": 3750000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-08 02:37:01"
+      "timestamp": "2026-01-08 07:12:49"
     },
     {
       "keyword": "minnesota fraud",
@@ -189,6 +189,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-03 13:26:44"
+    },
+    {
+      "keyword": "piper rockelle",
+      "score": 3500000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-08 02:37:01"
     },
     {
       "keyword": "chevron stock",
@@ -203,19 +210,12 @@
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-01-06 13:29:30"
-    },
-    {
-      "keyword": "stranger things episode 9",
-      "score": 2750000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-08 02:37:01"
     }
   ],
   "category_stats": {
     "其他": 66,
-    "体育": 44,
-    "科技/AI": 4,
+    "体育": 46,
+    "科技/AI": 5,
     "娱乐/生活": 4,
     "金融/商业": 1
   },

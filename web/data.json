@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-08 19:10:53",
+  "last_updated": "2026-01-09 02:45:51",
   "trends": [
     {
       "keyword": "maduro",
-      "score": 87000002,
+      "score": 92000002,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-08 19:10:53"
+      "timestamp": "2026-01-09 02:45:51"
     },
     {
       "keyword": "new year's day",
@@ -24,10 +24,17 @@
     },
     {
       "keyword": "nfl playoff schedule",
-      "score": 22000000,
+      "score": 24000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-01-08 19:10:53"
+      "timestamp": "2026-01-09 02:45:51"
+    },
+    {
+      "keyword": "tyler loop",
+      "score": 18200000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-09 02:45:51"
     },
     {
       "keyword": "ole miss vs georgia",
@@ -35,13 +42,6 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-01-04 03:13:46"
-    },
-    {
-      "keyword": "tyler loop",
-      "score": 18000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-08 13:35:46"
     },
     {
       "keyword": "venezuela news",
@@ -79,11 +79,11 @@
       "timestamp": "2026-01-06 13:29:30"
     },
     {
-      "keyword": "nicolas maduro",
-      "score": 7500000,
+      "keyword": "renee nicole good",
+      "score": 9000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-01-08 13:35:46"
+      "timestamp": "2026-01-09 02:45:51"
     },
     {
       "keyword": "tatiana schlossberg",
@@ -93,18 +93,25 @@
       "timestamp": "2026-01-06 13:29:30"
     },
     {
+      "keyword": "john harbaugh",
+      "score": 7500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-09 02:45:51"
+    },
+    {
+      "keyword": "nicolas maduro",
+      "score": 7500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-08 13:35:46"
+    },
+    {
       "keyword": "seahawks vs 49ers",
       "score": 7100000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-01-04 19:01:32"
-    },
-    {
-      "keyword": "renee nicole good",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-08 19:10:53"
     },
     {
       "keyword": "brigitte bardot",
@@ -114,6 +121,13 @@
       "timestamp": "2026-01-03 13:26:44"
     },
     {
+      "keyword": "stranger things episode 9",
+      "score": 6750000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-09 02:45:51"
+    },
+    {
       "keyword": "lions vs bears",
       "score": 6500000,
       "traffic_numeric": 1000000,
@@ -121,25 +135,11 @@
       "timestamp": "2026-01-06 13:29:30"
     },
     {
-      "keyword": "john harbaugh",
-      "score": 6500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-08 19:10:53"
-    },
-    {
       "keyword": "tommy lee jones",
       "score": 6000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-07 07:04:06"
-    },
-    {
-      "keyword": "stranger things episode 9",
-      "score": 5750000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-08 19:10:53"
     },
     {
       "keyword": "venezuela president",
@@ -154,6 +154,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-04 13:24:27"
+    },
+    {
+      "keyword": "greenland",
+      "score": 4300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-09 02:45:51"
     },
     {
       "keyword": "mtv",
@@ -177,13 +184,6 @@
       "timestamp": "2026-01-05 19:15:31"
     },
     {
-      "keyword": "panthers vs buccaneers",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-01-04 19:01:32"
-    },
-    {
       "keyword": "cowboys vs giants",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -191,11 +191,11 @@
       "timestamp": "2026-01-06 13:29:30"
     },
     {
-      "keyword": "greenland",
-      "score": 3800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-08 19:10:53"
+      "keyword": "panthers vs buccaneers",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-01-04 19:01:32"
     },
     {
       "keyword": "chevron stock",
@@ -205,17 +205,17 @@
       "timestamp": "2026-01-08 19:10:53"
     },
     {
-      "keyword": "minnesota fraud",
+      "keyword": "piper rockelle",
       "score": 3500000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-01-03 13:26:44"
+      "timestamp": "2026-01-08 02:37:01"
     }
   ],
   "category_stats": {
-    "其他": 72,
-    "体育": 47,
-    "科技/AI": 5,
+    "其他": 77,
+    "体育": 50,
+    "科技/AI": 6,
     "娱乐/生活": 4,
     "金融/商业": 1
   },

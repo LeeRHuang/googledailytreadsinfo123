@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-09 13:27:31",
+  "last_updated": "2026-01-09 19:01:28",
   "trends": [
     {
       "keyword": "maduro",
-      "score": 98000002,
+      "score": 99000002,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-09 13:27:31"
+      "timestamp": "2026-01-09 19:01:28"
     },
     {
       "keyword": "new year's day",
@@ -24,10 +24,10 @@
     },
     {
       "keyword": "nfl playoff schedule",
-      "score": 28000000,
+      "score": 30000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-01-09 13:27:31"
+      "timestamp": "2026-01-09 19:01:28"
     },
     {
       "keyword": "tyler loop",
@@ -58,18 +58,18 @@
       "timestamp": "2026-01-07 13:33:14"
     },
     {
+      "keyword": "renee nicole good",
+      "score": 15000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-09 19:01:28"
+    },
+    {
       "keyword": "did eleven die in stranger things",
       "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-04 07:10:21"
-    },
-    {
-      "keyword": "renee nicole good",
-      "score": 13000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-09 13:27:31"
     },
     {
       "keyword": "alabama vs indiana",
@@ -87,24 +87,24 @@
     },
     {
       "keyword": "john harbaugh",
-      "score": 9500000,
+      "score": 10500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-09 13:27:31"
+      "timestamp": "2026-01-09 19:01:28"
     },
     {
       "keyword": "stranger things episode 9",
-      "score": 8750000,
+      "score": 9750000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-09 13:27:31"
+      "timestamp": "2026-01-09 19:01:28"
     },
     {
       "keyword": "nicolas maduro",
-      "score": 8000000,
+      "score": 8500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-01-09 13:27:31"
+      "timestamp": "2026-01-09 19:01:28"
     },
     {
       "keyword": "tatiana schlossberg",
@@ -121,18 +121,18 @@
       "timestamp": "2026-01-04 19:01:32"
     },
     {
-      "keyword": "venezuela president",
-      "score": 7000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-09 13:27:31"
-    },
-    {
       "keyword": "brigitte bardot",
       "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-03 13:26:44"
+    },
+    {
+      "keyword": "venezuela president",
+      "score": 7000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-09 13:27:31"
     },
     {
       "keyword": "lions vs bears",
@@ -150,10 +150,17 @@
     },
     {
       "keyword": "greenland",
-      "score": 5300000,
+      "score": 5800000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-09 13:27:31"
+      "timestamp": "2026-01-09 19:01:28"
+    },
+    {
+      "keyword": "chevron stock",
+      "score": 5600000,
+      "traffic_numeric": 2000000,
+      "category": "金融/商业",
+      "timestamp": "2026-01-09 19:01:28"
     },
     {
       "keyword": "alix earle",
@@ -177,6 +184,20 @@
       "timestamp": "2026-01-05 03:10:32"
     },
     {
+      "keyword": "trae young",
+      "score": 4100000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-09 19:01:28"
+    },
+    {
+      "keyword": "miami vs ole miss",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-09 19:01:28"
+    },
+    {
       "keyword": "panthers vs buccaneers",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -189,31 +210,10 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-01-05 19:15:31"
-    },
-    {
-      "keyword": "cowboys vs giants",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-01-06 13:29:30"
-    },
-    {
-      "keyword": "chevron stock",
-      "score": 3600000,
-      "traffic_numeric": 2000000,
-      "category": "金融/商业",
-      "timestamp": "2026-01-08 19:10:53"
-    },
-    {
-      "keyword": "piper rockelle",
-      "score": 3500000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-08 02:37:01"
     }
   ],
   "category_stats": {
-    "其他": 81,
+    "其他": 82,
     "体育": 52,
     "科技/AI": 7,
     "娱乐/生活": 4,

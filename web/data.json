@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-01-11 07:13:21",
+  "last_updated": "2026-01-11 13:30:43",
   "trends": [
     {
       "keyword": "maduro",
-      "score": 90000002,
+      "score": 85000002,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-10 02:42:55"
     },
     {
       "keyword": "renee nicole good",
-      "score": 45000000,
+      "score": 50000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-11 07:13:21"
+      "timestamp": "2026-01-11 13:30:43"
     },
     {
       "keyword": "nfl playoff schedule",
@@ -38,10 +38,10 @@
     },
     {
       "keyword": "john harbaugh",
-      "score": 16500000,
+      "score": 17500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-11 07:13:21"
+      "timestamp": "2026-01-11 13:30:43"
     },
     {
       "keyword": "nicolas maduro",
@@ -58,6 +58,13 @@
       "timestamp": "2026-01-10 19:00:24"
     },
     {
+      "keyword": "greenland",
+      "score": 11300000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-11 13:30:43"
+    },
+    {
       "keyword": "ravens vs steelers",
       "score": 11000000,
       "traffic_numeric": 2000000,
@@ -72,13 +79,6 @@
       "timestamp": "2026-01-10 02:42:55"
     },
     {
-      "keyword": "greenland",
-      "score": 10300000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-11 07:13:21"
-    },
-    {
       "keyword": "venezuela",
       "score": 10000000,
       "traffic_numeric": 2000000,
@@ -87,10 +87,10 @@
     },
     {
       "keyword": "oregon vs indiana",
-      "score": 8000000,
+      "score": 10000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-01-11 03:14:12"
+      "timestamp": "2026-01-11 13:30:43"
     },
     {
       "keyword": "trae young",
@@ -100,11 +100,11 @@
       "timestamp": "2026-01-10 13:19:16"
     },
     {
-      "keyword": "new year's day",
+      "keyword": "playoff schedule",
       "score": 7000000,
-      "traffic_numeric": 5000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-01-04 19:01:32"
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-11 13:30:43"
     },
     {
       "keyword": "venezuela president",
@@ -128,11 +128,11 @@
       "timestamp": "2026-01-06 13:29:30"
     },
     {
-      "keyword": "playoff schedule",
+      "keyword": "rams vs panthers",
       "score": 6000000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-11 07:13:21"
+      "category": "体育",
+      "timestamp": "2026-01-11 13:30:43"
     },
     {
       "keyword": "chevron stock",
@@ -142,15 +142,22 @@
       "timestamp": "2026-01-09 19:01:28"
     },
     {
-      "keyword": "new year's eve",
+      "keyword": "bears vs packers",
+      "score": 5100000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-01-11 13:30:43"
+    },
+    {
+      "keyword": "new year's day",
       "score": 5000000,
       "traffic_numeric": 5000000,
       "category": "娱乐/生活",
-      "timestamp": "2026-01-04 13:24:27"
+      "timestamp": "2026-01-04 19:01:32"
     },
     {
       "keyword": "tommy lee jones",
-      "score": 5000000,
+      "score": 4500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-07 07:04:06"
@@ -177,20 +184,6 @@
       "timestamp": "2026-01-05 19:15:31"
     },
     {
-      "keyword": "seahawks vs 49ers",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-04 19:01:32"
-    },
-    {
-      "keyword": "rams vs panthers",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-11 07:13:21"
-    },
-    {
       "keyword": "cowboys vs giants",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -198,11 +191,18 @@
       "timestamp": "2026-01-06 13:29:30"
     },
     {
-      "keyword": "piper rockelle",
-      "score": 3000000,
-      "traffic_numeric": 200000,
+      "keyword": "bruno mars tour",
+      "score": 3200000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-08 02:37:01"
+      "timestamp": "2026-01-11 13:30:43"
+    },
+    {
+      "keyword": "miami fl vs ole miss",
+      "score": 3000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-09 07:05:47"
     },
     {
       "keyword": "chiefs vs raiders",
@@ -213,10 +213,10 @@
     }
   ],
   "category_stats": {
-    "其他": 83,
-    "体育": 48,
+    "其他": 78,
+    "体育": 47,
     "科技/AI": 8,
-    "娱乐/生活": 4,
+    "娱乐/生活": 3,
     "金融/商业": 1
   },
   "insights": [

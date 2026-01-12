@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-01-12 07:06:47",
+  "last_updated": "2026-01-12 13:40:00",
   "trends": [
     {
       "keyword": "maduro",
-      "score": 80000001,
+      "score": 70000001,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-10 02:42:55"
     },
     {
       "keyword": "renee nicole good",
-      "score": 65000000,
+      "score": 70000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-12 07:06:47"
+      "timestamp": "2026-01-12 13:40:00"
     },
     {
       "keyword": "nfl playoff schedule",
-      "score": 35000000,
+      "score": 32000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-01-10 13:19:16"
     },
     {
       "keyword": "packers vs bears",
-      "score": 22000000,
+      "score": 27000000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-01-12 07:06:47"
+      "timestamp": "2026-01-12 13:40:00"
     },
     {
       "keyword": "john harbaugh",
@@ -45,7 +45,7 @@
     },
     {
       "keyword": "venezuela news",
-      "score": 18000000,
+      "score": 16000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-09 13:27:31"
@@ -63,6 +63,20 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-11 19:04:01"
+    },
+    {
+      "keyword": "49ers vs eagles",
+      "score": 12000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-01-12 13:40:00"
+    },
+    {
+      "keyword": "rams vs panthers",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-12 13:40:00"
     },
     {
       "keyword": "miami vs ole miss",
@@ -86,25 +100,11 @@
       "timestamp": "2026-01-11 13:30:43"
     },
     {
-      "keyword": "ravens vs steelers",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-06 13:29:30"
-    },
-    {
       "keyword": "venezuela",
       "score": 10000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-07 13:33:14"
-    },
-    {
-      "keyword": "rams vs panthers",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-12 07:06:47"
     },
     {
       "keyword": "playoff schedule",
@@ -128,32 +128,46 @@
       "timestamp": "2026-01-09 13:27:31"
     },
     {
-      "keyword": "49ers vs eagles",
-      "score": 7000000,
-      "traffic_numeric": 5000000,
+      "keyword": "bills vs jaguars",
+      "score": 6500000,
+      "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-01-12 07:06:47"
+      "timestamp": "2026-01-12 13:40:00"
     },
     {
       "keyword": "milo manheim",
-      "score": 5600000,
+      "score": 6100000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-12 07:06:47"
+      "timestamp": "2026-01-12 13:40:00"
+    },
+    {
+      "keyword": "ravens vs steelers",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-06 13:29:30"
+    },
+    {
+      "keyword": "golden globes 2026",
+      "score": 5700000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-12 13:40:00"
+    },
+    {
+      "keyword": "bruno mars tour",
+      "score": 5700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-12 13:40:00"
     },
     {
       "keyword": "chevron stock",
-      "score": 5600000,
+      "score": 5500000,
       "traffic_numeric": 2000000,
       "category": "金融/商业",
       "timestamp": "2026-01-09 19:01:28"
-    },
-    {
-      "keyword": "lions vs bears",
-      "score": 5500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-01-06 13:29:30"
     },
     {
       "keyword": "bears vs packers",
@@ -163,18 +177,25 @@
       "timestamp": "2026-01-11 13:30:43"
     },
     {
-      "keyword": "bruno mars tour",
-      "score": 4700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-12 07:06:47"
-    },
-    {
-      "keyword": "bills vs jaguars",
-      "score": 4500000,
+      "keyword": "chargers vs patriots",
+      "score": 5000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-01-12 07:06:47"
+      "timestamp": "2026-01-12 13:40:00"
+    },
+    {
+      "keyword": "bob weir",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-12 13:40:00"
+    },
+    {
+      "keyword": "people we meet on vacation",
+      "score": 4300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-12 13:40:00"
     },
     {
       "keyword": "indiana vs oregon",
@@ -184,37 +205,16 @@
       "timestamp": "2026-01-11 07:13:21"
     },
     {
-      "keyword": "bob weir",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-12 07:06:47"
-    },
-    {
-      "keyword": "people we meet on vacation",
-      "score": 3800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-12 07:06:47"
-    },
-    {
       "keyword": "his and hers",
-      "score": 3750000,
+      "score": 4250000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-12 07:06:47"
-    },
-    {
-      "keyword": "golden globes 2026",
-      "score": 3700000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-12 07:06:47"
+      "timestamp": "2026-01-12 13:40:00"
     }
   ],
   "category_stats": {
-    "其他": 78,
-    "体育": 48,
+    "其他": 79,
+    "体育": 44,
     "科技/AI": 7,
     "娱乐/生活": 2,
     "金融/商业": 1

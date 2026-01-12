@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-11 19:04:01",
+  "last_updated": "2026-01-12 03:00:57",
   "trends": [
     {
       "keyword": "maduro",
@@ -10,10 +10,10 @@
     },
     {
       "keyword": "renee nicole good",
-      "score": 55000000,
+      "score": 60000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-11 19:04:01"
+      "timestamp": "2026-01-12 03:00:57"
     },
     {
       "keyword": "nfl playoff schedule",
@@ -44,6 +44,13 @@
       "timestamp": "2026-01-09 13:27:31"
     },
     {
+      "keyword": "packers vs bears",
+      "score": 17000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-01-12 03:00:57"
+    },
+    {
       "keyword": "nicolas maduro",
       "score": 13500000,
       "traffic_numeric": 5000000,
@@ -63,13 +70,6 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-01-10 19:00:24"
-    },
-    {
-      "keyword": "packers vs bears",
-      "score": 12000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-01-11 19:04:01"
     },
     {
       "keyword": "ravens vs steelers",
@@ -107,18 +107,18 @@
       "timestamp": "2026-01-11 19:04:01"
     },
     {
+      "keyword": "rams vs panthers",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-12 03:00:57"
+    },
+    {
       "keyword": "trae young",
       "score": 7100000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-10 13:19:16"
-    },
-    {
-      "keyword": "rams vs panthers",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-11 19:04:01"
     },
     {
       "keyword": "venezuela president",
@@ -142,6 +142,13 @@
       "timestamp": "2026-01-09 19:01:28"
     },
     {
+      "keyword": "milo manheim",
+      "score": 5100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-12 03:00:57"
+    },
+    {
       "keyword": "bears vs packers",
       "score": 5100000,
       "traffic_numeric": 5000000,
@@ -149,11 +156,11 @@
       "timestamp": "2026-01-11 13:30:43"
     },
     {
-      "keyword": "milo manheim",
-      "score": 4600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-11 19:04:01"
+      "keyword": "49ers vs eagles",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-01-12 03:00:57"
     },
     {
       "keyword": "indiana vs oregon",
@@ -163,11 +170,11 @@
       "timestamp": "2026-01-11 07:13:21"
     },
     {
-      "keyword": "tommy lee jones",
-      "score": 4000000,
+      "keyword": "bruno mars tour",
+      "score": 4200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-07 07:04:06"
+      "timestamp": "2026-01-12 03:00:57"
     },
     {
       "keyword": "commanders vs eagles",
@@ -177,47 +184,46 @@
       "timestamp": "2026-01-05 19:15:31"
     },
     {
-      "keyword": "bruno mars tour",
-      "score": 3700000,
+      "keyword": "tommy lee jones",
+      "score": 4000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-11 19:04:01"
-    },
-    {
-      "keyword": "miami fl vs ole miss",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-09 07:05:47"
-    },
-    {
-      "keyword": "cowboys vs giants",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-01-06 13:29:30"
-    },
-    {
-      "keyword": "chiefs vs raiders",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-01-06 13:29:30"
+      "timestamp": "2026-01-07 07:04:06"
     },
     {
       "keyword": "people we meet on vacation",
-      "score": 2800000,
+      "score": 3300000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-11 19:04:01"
+      "timestamp": "2026-01-12 03:00:57"
+    },
+    {
+      "keyword": "his and hers",
+      "score": 3250000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-12 03:00:57"
+    },
+    {
+      "keyword": "bob weir",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-12 03:00:57"
     }
   ],
   "category_stats": {
-    "其他": 76,
-    "体育": 43,
+    "其他": 79,
+    "体育": 47,
     "科技/AI": 7,
     "娱乐/生活": 2,
     "金融/商业": 1
   },
-  "insights": []
+  "insights": [
+    {
+      "title": "季节性效率/计划应用",
+      "context": "新年计划相关关键词搜索量激增。",
+      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
+    }
+  ]
 }

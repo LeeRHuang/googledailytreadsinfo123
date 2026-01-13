@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-01-13 02:39:19",
+  "last_updated": "2026-01-13 07:09:24",
   "trends": [
     {
       "keyword": "renee nicole good",
-      "score": 80000000,
+      "score": 81000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-13 02:39:19"
+      "timestamp": "2026-01-13 07:09:24"
     },
     {
       "keyword": "maduro",
-      "score": 65000001,
+      "score": 55000001,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-10 02:42:55"
@@ -24,7 +24,7 @@
     },
     {
       "keyword": "nfl playoff schedule",
-      "score": 30000000,
+      "score": 26000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-01-10 13:19:16"
@@ -37,25 +37,25 @@
       "timestamp": "2026-01-11 19:04:01"
     },
     {
+      "keyword": "49ers vs eagles",
+      "score": 18000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-01-13 07:09:24"
+    },
+    {
       "keyword": "tyler loop",
-      "score": 18200000,
+      "score": 16200000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-09 02:45:51"
     },
     {
       "keyword": "venezuela news",
-      "score": 16000000,
+      "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-09 13:27:31"
-    },
-    {
-      "keyword": "49ers vs eagles",
-      "score": 16000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-01-13 02:39:19"
     },
     {
       "keyword": "rams vs panthers",
@@ -63,6 +63,13 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-01-12 19:05:40"
+    },
+    {
+      "keyword": "bills vs jaguars",
+      "score": 12500000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-13 07:09:24"
     },
     {
       "keyword": "greenland",
@@ -86,18 +93,18 @@
       "timestamp": "2026-01-10 02:42:55"
     },
     {
+      "keyword": "chargers vs patriots",
+      "score": 11000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-13 07:09:24"
+    },
+    {
       "keyword": "stranger things episode 9",
-      "score": 10750000,
+      "score": 10600000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-10 02:42:55"
-    },
-    {
-      "keyword": "bills vs jaguars",
-      "score": 10500000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-13 02:39:19"
     },
     {
       "keyword": "oregon vs indiana",
@@ -121,32 +128,25 @@
       "timestamp": "2026-01-11 19:04:01"
     },
     {
-      "keyword": "chargers vs patriots",
-      "score": 9000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-13 02:39:19"
-    },
-    {
-      "keyword": "venezuela",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-07 13:33:14"
-    },
-    {
       "keyword": "bruno mars tour",
-      "score": 7700000,
+      "score": 8700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-13 02:39:19"
+      "timestamp": "2026-01-13 07:09:24"
+    },
+    {
+      "keyword": "bob weir",
+      "score": 8000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-13 07:09:24"
     },
     {
       "keyword": "milo manheim",
-      "score": 7100000,
+      "score": 7600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-13 02:39:19"
+      "timestamp": "2026-01-13 07:09:24"
     },
     {
       "keyword": "trae young",
@@ -156,18 +156,32 @@
       "timestamp": "2026-01-10 13:19:16"
     },
     {
-      "keyword": "bob weir",
-      "score": 7000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-13 02:39:19"
-    },
-    {
       "keyword": "venezuela president",
       "score": 7000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-09 13:27:31"
+    },
+    {
+      "keyword": "people we meet on vacation",
+      "score": 6800000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-13 07:09:24"
+    },
+    {
+      "keyword": "barcelona vs real madrid",
+      "score": 6300000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-01-13 07:09:24"
+    },
+    {
+      "keyword": "his and hers",
+      "score": 6250000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-13 07:09:24"
     },
     {
       "keyword": "bears vs packers",
@@ -177,32 +191,11 @@
       "timestamp": "2026-01-12 19:05:40"
     },
     {
-      "keyword": "people we meet on vacation",
-      "score": 5800000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-13 02:39:19"
-    },
-    {
       "keyword": "chevron stock",
-      "score": 5300000,
+      "score": 4900000,
       "traffic_numeric": 2000000,
       "category": "金融/商业",
       "timestamp": "2026-01-09 19:01:28"
-    },
-    {
-      "keyword": "barcelona vs real madrid",
-      "score": 5300000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-01-13 02:39:19"
-    },
-    {
-      "keyword": "his and hers",
-      "score": 5250000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-13 02:39:19"
     },
     {
       "keyword": "indiana vs oregon",
@@ -210,11 +203,18 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-01-11 07:13:21"
+    },
+    {
+      "keyword": "playoff bracket nfl",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-12 13:40:00"
     }
   ],
   "category_stats": {
-    "其他": 83,
-    "体育": 40,
+    "其他": 84,
+    "体育": 39,
     "科技/AI": 6,
     "娱乐/生活": 2,
     "金融/商业": 1

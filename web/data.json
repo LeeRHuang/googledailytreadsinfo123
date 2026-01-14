@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-01-14 07:10:38",
+  "last_updated": "2026-01-14 13:40:16",
   "trends": [
     {
       "keyword": "renee nicole good",
-      "score": 92000000,
+      "score": 97000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-14 07:10:38"
+      "timestamp": "2026-01-14 13:40:16"
     },
     {
       "keyword": "maduro",
-      "score": 43000000,
+      "score": 38000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-10 02:42:55"
@@ -24,7 +24,7 @@
     },
     {
       "keyword": "nfl playoff schedule",
-      "score": 21000000,
+      "score": 20500000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-01-10 13:19:16"
@@ -38,10 +38,17 @@
     },
     {
       "keyword": "john harbaugh",
-      "score": 17500000,
+      "score": 17000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-11 19:04:01"
+    },
+    {
+      "keyword": "texans vs steelers",
+      "score": 16000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-01-14 13:40:16"
     },
     {
       "keyword": "bills vs jaguars",
@@ -58,11 +65,11 @@
       "timestamp": "2026-01-12 19:05:40"
     },
     {
-      "keyword": "texans vs steelers",
-      "score": 14000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-01-14 07:10:38"
+      "keyword": "bruno mars tour",
+      "score": 13700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-14 13:40:16"
     },
     {
       "keyword": "chargers vs patriots",
@@ -72,18 +79,11 @@
       "timestamp": "2026-01-13 13:30:18"
     },
     {
-      "keyword": "bruno mars tour",
-      "score": 12700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-14 07:10:38"
-    },
-    {
       "keyword": "bob weir",
-      "score": 12000000,
+      "score": 13000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-14 07:10:38"
+      "timestamp": "2026-01-14 13:40:16"
     },
     {
       "keyword": "miami vs ole miss",
@@ -93,25 +93,25 @@
       "timestamp": "2026-01-10 19:00:24"
     },
     {
+      "keyword": "his and hers",
+      "score": 11250000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-14 13:40:16"
+    },
+    {
       "keyword": "greenland",
-      "score": 11500000,
+      "score": 11000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-11 19:04:01"
     },
     {
-      "keyword": "his and hers",
-      "score": 10250000,
-      "traffic_numeric": 1000000,
+      "keyword": "milo manheim",
+      "score": 10100000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-14 07:10:38"
-    },
-    {
-      "keyword": "tyler loop",
-      "score": 10200000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-09 02:45:51"
+      "timestamp": "2026-01-14 13:40:16"
     },
     {
       "keyword": "oregon vs indiana",
@@ -121,27 +121,6 @@
       "timestamp": "2026-01-11 13:30:43"
     },
     {
-      "keyword": "venezuela news",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-09 13:27:31"
-    },
-    {
-      "keyword": "nicolas maduro",
-      "score": 10000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-10 02:42:55"
-    },
-    {
-      "keyword": "stranger things episode 9",
-      "score": 10000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-10 02:42:55"
-    },
-    {
       "keyword": "golden globes 2026",
       "score": 9700000,
       "traffic_numeric": 2000000,
@@ -149,11 +128,18 @@
       "timestamp": "2026-01-13 02:39:19"
     },
     {
-      "keyword": "milo manheim",
-      "score": 9600000,
-      "traffic_numeric": 500000,
+      "keyword": "stranger things episode 9",
+      "score": 9500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-14 07:10:38"
+      "timestamp": "2026-01-10 02:42:55"
+    },
+    {
+      "keyword": "nicolas maduro",
+      "score": 9000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-10 02:42:55"
     },
     {
       "keyword": "playoff schedule",
@@ -163,11 +149,25 @@
       "timestamp": "2026-01-11 19:04:01"
     },
     {
+      "keyword": "venezuela news",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-09 13:27:31"
+    },
+    {
       "keyword": "people we meet on vacation",
       "score": 8800000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-13 19:12:52"
+    },
+    {
+      "keyword": "tyler loop",
+      "score": 8200000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-09 02:45:51"
     },
     {
       "keyword": "renee good",
@@ -184,18 +184,18 @@
       "timestamp": "2026-01-10 13:19:16"
     },
     {
+      "keyword": "golden globe winners",
+      "score": 7000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-14 13:40:16"
+    },
+    {
       "keyword": "barcelona vs real madrid",
       "score": 6800000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-01-13 13:30:18"
-    },
-    {
-      "keyword": "golden globe winners",
-      "score": 6500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-14 07:10:38"
     },
     {
       "keyword": "bears vs packers",
@@ -206,15 +206,15 @@
     },
     {
       "keyword": "timothy busfield",
-      "score": 5070000,
-      "traffic_numeric": 500000,
+      "score": 6070000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-14 07:10:38"
+      "timestamp": "2026-01-14 13:40:16"
     }
   ],
   "category_stats": {
-    "其他": 88,
-    "体育": 29,
+    "其他": 85,
+    "体育": 32,
     "科技/AI": 5,
     "金融/商业": 1,
     "娱乐/生活": 1

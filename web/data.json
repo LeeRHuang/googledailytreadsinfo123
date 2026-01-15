@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15 13:39:52",
+  "last_updated": "2026-01-15 19:06:12",
   "trends": [
     {
       "keyword": "renee nicole good",
@@ -16,6 +16,13 @@
       "timestamp": "2026-01-13 02:39:19"
     },
     {
+      "keyword": "verizon outage",
+      "score": 21000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-15 19:06:12"
+    },
+    {
       "keyword": "49ers vs eagles",
       "score": 20000000,
       "traffic_numeric": 5000000,
@@ -23,18 +30,18 @@
       "timestamp": "2026-01-13 13:30:18"
     },
     {
+      "keyword": "bob weir",
+      "score": 18000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-15 19:06:12"
+    },
+    {
       "keyword": "maduro",
       "score": 18000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-10 02:42:55"
-    },
-    {
-      "keyword": "bob weir",
-      "score": 17000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-15 13:39:52"
     },
     {
       "keyword": "bruno mars tour",
@@ -56,13 +63,6 @@
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-01-14 13:40:16"
-    },
-    {
-      "keyword": "verizon outage",
-      "score": 16000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-15 13:39:52"
     },
     {
       "keyword": "bills vs jaguars",
@@ -115,10 +115,10 @@
     },
     {
       "keyword": "timothy busfield",
-      "score": 10070000,
+      "score": 11070000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-15 13:39:52"
+      "timestamp": "2026-01-15 19:06:12"
     },
     {
       "keyword": "oregon vs indiana",
@@ -191,16 +191,16 @@
       "timestamp": "2026-01-12 19:05:40"
     },
     {
-      "keyword": "stranger things episode 9",
+      "keyword": "nicolas maduro",
       "score": 6000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-10 02:42:55"
     },
     {
-      "keyword": "nicolas maduro",
+      "keyword": "stranger things episode 9",
       "score": 6000000,
-      "traffic_numeric": 5000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-10 02:42:55"
     },
@@ -213,10 +213,10 @@
     }
   ],
   "category_stats": {
-    "其他": 91,
+    "其他": 96,
     "体育": 34,
     "科技/AI": 4,
-    "金融/商业": 1
+    "金融/商业": 2
   },
   "insights": [
     {

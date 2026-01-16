@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-01-16 02:46:56",
+  "last_updated": "2026-01-16 07:10:09",
   "trends": [
     {
       "keyword": "renee nicole good",
-      "score": 89000000,
+      "score": 87000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-14 19:15:15"
@@ -17,10 +17,17 @@
     },
     {
       "keyword": "verizon outage",
-      "score": 26000000,
+      "score": 31000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-16 02:46:56"
+      "timestamp": "2026-01-16 07:10:09"
+    },
+    {
+      "keyword": "bob weir",
+      "score": 20000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-16 07:10:09"
     },
     {
       "keyword": "49ers vs eagles",
@@ -30,15 +37,8 @@
       "timestamp": "2026-01-13 13:30:18"
     },
     {
-      "keyword": "bob weir",
-      "score": 19000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-16 02:46:56"
-    },
-    {
       "keyword": "bruno mars tour",
-      "score": 16400000,
+      "score": 16200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-15 07:15:02"
@@ -59,7 +59,7 @@
     },
     {
       "keyword": "his and hers",
-      "score": 14200000,
+      "score": 14100000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-15 07:15:02"
@@ -72,18 +72,18 @@
       "timestamp": "2026-01-12 19:05:40"
     },
     {
+      "keyword": "timothy busfield",
+      "score": 13070000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-16 07:10:09"
+    },
+    {
       "keyword": "chargers vs patriots",
       "score": 13000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-01-13 13:30:18"
-    },
-    {
-      "keyword": "timothy busfield",
-      "score": 12070000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-16 02:46:56"
     },
     {
       "keyword": "mike tomlin",
@@ -100,18 +100,18 @@
       "timestamp": "2026-01-10 19:00:24"
     },
     {
-      "keyword": "nfl playoff schedule",
-      "score": 12000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-10 13:19:16"
-    },
-    {
       "keyword": "john harbaugh",
-      "score": 11000000,
+      "score": 10000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-11 19:04:01"
+    },
+    {
+      "keyword": "nfl playoff schedule",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-10 13:19:16"
     },
     {
       "keyword": "oregon vs indiana",
@@ -122,10 +122,10 @@
     },
     {
       "keyword": "golden globe winners",
-      "score": 9700000,
+      "score": 9900000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-01-16 02:46:56"
+      "timestamp": "2026-01-16 07:10:09"
     },
     {
       "keyword": "golden globes 2026",
@@ -136,17 +136,10 @@
     },
     {
       "keyword": "milo manheim",
-      "score": 9300000,
+      "score": 9100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-14 13:40:16"
-    },
-    {
-      "keyword": "playoff schedule",
-      "score": 9000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-11 19:04:01"
     },
     {
       "keyword": "renee good",
@@ -154,6 +147,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-14 19:15:15"
+    },
+    {
+      "keyword": "playoff schedule",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-11 19:04:01"
     },
     {
       "keyword": "people we meet on vacation",
@@ -164,17 +164,10 @@
     },
     {
       "keyword": "greenland",
-      "score": 8000000,
+      "score": 7500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-11 19:04:01"
-    },
-    {
-      "keyword": "maduro",
-      "score": 8000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-10 02:42:55"
     },
     {
       "keyword": "barcelona vs real madrid",
@@ -198,25 +191,32 @@
       "timestamp": "2026-01-10 02:42:55"
     },
     {
-      "keyword": "trae young",
+      "keyword": "indiana vs miami",
       "score": 5000000,
       "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-10 13:19:16"
+      "category": "体育",
+      "timestamp": "2026-01-16 07:10:09"
     },
     {
       "keyword": "fetty wap",
-      "score": 4700000,
+      "score": 4650000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-01-15 13:39:52"
+    },
+    {
+      "keyword": "trae young",
+      "score": 4500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-10 13:19:16"
     }
   ],
   "category_stats": {
-    "其他": 90,
+    "其他": 89,
     "体育": 35,
-    "科技/AI": 3,
-    "金融/商业": 2
+    "金融/商业": 2,
+    "科技/AI": 1
   },
   "insights": [
     {

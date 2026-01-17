@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-16 19:07:24",
+  "last_updated": "2026-01-17 02:40:14",
   "trends": [
     {
       "keyword": "renee nicole good",
@@ -10,10 +10,10 @@
     },
     {
       "keyword": "verizon outage",
-      "score": 41000000,
+      "score": 46000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-16 19:07:24"
+      "timestamp": "2026-01-17 02:40:14"
     },
     {
       "keyword": "packers vs bears",
@@ -24,10 +24,10 @@
     },
     {
       "keyword": "bob weir",
-      "score": 22000000,
+      "score": 23000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-16 19:07:24"
+      "timestamp": "2026-01-17 02:40:14"
     },
     {
       "keyword": "49ers vs eagles",
@@ -35,6 +35,13 @@
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-01-13 13:30:18"
+    },
+    {
+      "keyword": "mike tomlin",
+      "score": 16000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-17 02:40:14"
     },
     {
       "keyword": "texans vs steelers",
@@ -72,13 +79,6 @@
       "timestamp": "2026-01-15 07:15:02"
     },
     {
-      "keyword": "mike tomlin",
-      "score": 14000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-16 13:32:27"
-    },
-    {
       "keyword": "rams vs panthers",
       "score": 14000000,
       "traffic_numeric": 2000000,
@@ -114,18 +114,18 @@
       "timestamp": "2026-01-13 02:39:19"
     },
     {
-      "keyword": "playoff schedule",
-      "score": 9000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-11 19:04:01"
-    },
-    {
       "keyword": "renee good",
       "score": 9000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-14 19:15:15"
+    },
+    {
+      "keyword": "playoff schedule",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-11 19:04:01"
     },
     {
       "keyword": "people we meet on vacation",
@@ -213,8 +213,9 @@
     }
   ],
   "category_stats": {
-    "其他": 91,
-    "体育": 35,
+    "其他": 95,
+    "体育": 36,
+    "娱乐/生活": 1,
     "金融/商业": 1,
     "科技/AI": 1
   },

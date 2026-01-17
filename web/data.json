@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-01-17 02:40:14",
+  "last_updated": "2026-01-17 07:10:35",
   "trends": [
     {
       "keyword": "renee nicole good",
-      "score": 83000000,
+      "score": 73000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-14 19:15:15"
     },
     {
       "keyword": "verizon outage",
-      "score": 46000000,
+      "score": 51000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-17 02:40:14"
+      "timestamp": "2026-01-17 07:10:35"
     },
     {
       "keyword": "packers vs bears",
@@ -24,10 +24,10 @@
     },
     {
       "keyword": "bob weir",
-      "score": 23000000,
+      "score": 24000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-17 02:40:14"
+      "timestamp": "2026-01-17 07:10:35"
     },
     {
       "keyword": "49ers vs eagles",
@@ -52,14 +52,14 @@
     },
     {
       "keyword": "bruno mars tour",
-      "score": 15800000,
+      "score": 15400000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-15 07:15:02"
     },
     {
       "keyword": "timothy busfield",
-      "score": 15070000,
+      "score": 15050000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-16 19:07:24"
@@ -72,13 +72,6 @@
       "timestamp": "2026-01-13 13:30:18"
     },
     {
-      "keyword": "his and hers",
-      "score": 14000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-15 07:15:02"
-    },
-    {
       "keyword": "rams vs panthers",
       "score": 14000000,
       "traffic_numeric": 2000000,
@@ -86,18 +79,18 @@
       "timestamp": "2026-01-12 19:05:40"
     },
     {
+      "keyword": "his and hers",
+      "score": 13600000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-15 07:15:02"
+    },
+    {
       "keyword": "chargers vs patriots",
       "score": 13000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-01-13 13:30:18"
-    },
-    {
-      "keyword": "oregon vs indiana",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-11 13:30:43"
     },
     {
       "keyword": "golden globe winners",
@@ -108,17 +101,10 @@
     },
     {
       "keyword": "golden globes 2026",
-      "score": 9400000,
+      "score": 9200000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-13 02:39:19"
-    },
-    {
-      "keyword": "renee good",
-      "score": 9000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-14 19:15:15"
     },
     {
       "keyword": "playoff schedule",
@@ -128,32 +114,25 @@
       "timestamp": "2026-01-11 19:04:01"
     },
     {
+      "keyword": "renee good",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-14 19:15:15"
+    },
+    {
       "keyword": "people we meet on vacation",
-      "score": 8800000,
+      "score": 8400000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-13 19:12:52"
     },
     {
       "keyword": "milo manheim",
-      "score": 8700000,
+      "score": 8000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-14 13:40:16"
-    },
-    {
-      "keyword": "john harbaugh",
-      "score": 8000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-11 19:04:01"
-    },
-    {
-      "keyword": "miami vs ole miss",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-10 19:00:24"
     },
     {
       "keyword": "indiana vs miami",
@@ -170,13 +149,6 @@
       "timestamp": "2026-01-13 13:30:18"
     },
     {
-      "keyword": "greenland",
-      "score": 6500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-11 19:04:01"
-    },
-    {
       "keyword": "bears vs packers",
       "score": 6100000,
       "traffic_numeric": 5000000,
@@ -184,25 +156,25 @@
       "timestamp": "2026-01-12 19:05:40"
     },
     {
-      "keyword": "nfl playoff schedule",
+      "keyword": "john harbaugh",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-11 19:04:01"
+    },
+    {
+      "keyword": "oregon vs indiana",
       "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-01-10 13:19:16"
+      "timestamp": "2026-01-11 13:30:43"
     },
     {
-      "keyword": "nicolas maduro",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-10 02:42:55"
-    },
-    {
-      "keyword": "fetty wap",
+      "keyword": "greenland",
       "score": 4500000,
-      "traffic_numeric": 200000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-15 13:39:52"
+      "timestamp": "2026-01-11 19:04:01"
     },
     {
       "keyword": "fa cup",
@@ -210,11 +182,39 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-15 19:06:12"
+    },
+    {
+      "keyword": "scott adams",
+      "score": 4200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-16 13:32:27"
+    },
+    {
+      "keyword": "fetty wap",
+      "score": 4200000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-15 13:39:52"
+    },
+    {
+      "keyword": "miami vs ole miss",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-10 19:00:24"
+    },
+    {
+      "keyword": "playoff bracket nfl",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-12 13:40:00"
     }
   ],
   "category_stats": {
-    "其他": 95,
-    "体育": 36,
+    "其他": 90,
+    "体育": 39,
     "娱乐/生活": 1,
     "金融/商业": 1,
     "科技/AI": 1

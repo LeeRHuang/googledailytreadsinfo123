@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-01-17 19:08:56",
+  "last_updated": "2026-01-18 03:11:43",
   "trends": [
+    {
+      "keyword": "verizon outage",
+      "score": 66000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-18 03:11:43"
+    },
     {
       "keyword": "renee nicole good",
       "score": 63000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-14 19:15:15"
-    },
-    {
-      "keyword": "verizon outage",
-      "score": 61000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-17 19:08:56"
     },
     {
       "keyword": "packers vs bears",
@@ -100,18 +100,18 @@
       "timestamp": "2026-01-16 07:10:09"
     },
     {
-      "keyword": "golden globes 2026",
-      "score": 9000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-13 02:39:19"
-    },
-    {
       "keyword": "renee good",
       "score": 9000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-14 19:15:15"
+    },
+    {
+      "keyword": "golden globes 2026",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-13 02:39:19"
     },
     {
       "keyword": "people we meet on vacation",
@@ -128,18 +128,18 @@
       "timestamp": "2026-01-11 19:04:01"
     },
     {
-      "keyword": "indiana vs miami",
-      "score": 7000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-01-16 19:07:24"
-    },
-    {
       "keyword": "milo manheim",
       "score": 7000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-14 13:40:16"
+    },
+    {
+      "keyword": "indiana vs miami",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-01-16 19:07:24"
     },
     {
       "keyword": "barcelona vs real madrid",
@@ -170,25 +170,11 @@
       "timestamp": "2026-01-15 19:06:12"
     },
     {
-      "keyword": "playoff bracket nfl",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-12 13:40:00"
-    },
-    {
       "keyword": "nfl bracket",
       "score": 4000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-01-13 13:30:18"
-    },
-    {
-      "keyword": "tell me lies",
-      "score": 4000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-17 07:10:35"
     },
     {
       "keyword": "oregon vs indiana",
@@ -205,6 +191,20 @@
       "timestamp": "2026-01-11 19:04:01"
     },
     {
+      "keyword": "tell me lies",
+      "score": 4000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-17 07:10:35"
+    },
+    {
+      "keyword": "playoff bracket nfl",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-12 13:40:00"
+    },
+    {
       "keyword": "fetty wap",
       "score": 3800000,
       "traffic_numeric": 200000,
@@ -213,11 +213,11 @@
     }
   ],
   "category_stats": {
-    "其他": 89,
-    "体育": 40,
-    "娱乐/生活": 1,
-    "金融/商业": 1,
-    "科技/AI": 1
+    "其他": 95,
+    "体育": 43,
+    "娱乐/生活": 2,
+    "科技/AI": 2,
+    "金融/商业": 1
   },
   "insights": [
     {

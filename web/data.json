@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-20 13:34:18",
+  "last_updated": "2026-01-20 20:05:51",
   "trends": [
     {
       "keyword": "verizon outage",
-      "score": 101000000,
+      "score": 106000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-20 13:34:18"
+      "timestamp": "2026-01-20 20:05:51"
     },
     {
       "keyword": "rams vs bears",
@@ -14,6 +14,13 @@
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-01-20 13:34:18"
+    },
+    {
+      "keyword": "dr. martin luther king jr. day",
+      "score": 22700000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-20 20:05:51"
     },
     {
       "keyword": "bo nix",
@@ -30,13 +37,6 @@
       "timestamp": "2026-01-17 13:21:28"
     },
     {
-      "keyword": "dr. martin luther king jr. day",
-      "score": 17700000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-20 13:34:18"
-    },
-    {
       "keyword": "49ers vs seahawks",
       "score": 17000000,
       "traffic_numeric": 5000000,
@@ -45,7 +45,7 @@
     },
     {
       "keyword": "bob weir",
-      "score": 17000000,
+      "score": 16000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-17 19:08:56"
@@ -65,25 +65,11 @@
       "timestamp": "2026-01-20 13:34:18"
     },
     {
-      "keyword": "renee nicole good",
-      "score": 12000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-14 19:15:15"
-    },
-    {
       "keyword": "timothy busfield",
-      "score": 11500000,
+      "score": 11000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-16 19:07:24"
-    },
-    {
-      "keyword": "texans vs steelers",
-      "score": 11000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-01-14 13:40:16"
     },
     {
       "keyword": "texans vs patriots",
@@ -100,6 +86,13 @@
       "timestamp": "2026-01-20 07:11:38"
     },
     {
+      "keyword": "renee nicole good",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-14 19:15:15"
+    },
+    {
       "keyword": "the rip",
       "score": 7500000,
       "traffic_numeric": 1000000,
@@ -107,32 +100,25 @@
       "timestamp": "2026-01-20 07:11:38"
     },
     {
-      "keyword": "bruno mars tour",
-      "score": 7000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-15 07:15:02"
+      "keyword": "texans vs steelers",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-14 13:40:16"
     },
     {
       "keyword": "his and hers",
-      "score": 7000000,
+      "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-15 07:15:02"
     },
     {
-      "keyword": "renee good",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-14 19:15:15"
-    },
-    {
-      "keyword": "golden globe winners",
-      "score": 5900000,
+      "keyword": "bruno mars tour",
+      "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-16 07:10:09"
+      "timestamp": "2026-01-15 07:15:02"
     },
     {
       "keyword": "insurrection act",
@@ -140,6 +126,20 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-20 07:11:38"
+    },
+    {
+      "keyword": "golden globe winners",
+      "score": 5400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-16 07:10:09"
+    },
+    {
+      "keyword": "miami fl vs indiana",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-01-20 20:05:51"
     },
     {
       "keyword": "cooper",
@@ -156,6 +156,13 @@
       "timestamp": "2026-01-19 03:07:14"
     },
     {
+      "keyword": "renee good",
+      "score": 5000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-14 19:15:15"
+    },
+    {
       "keyword": "euphoria season 3",
       "score": 4800000,
       "traffic_numeric": 500000,
@@ -164,14 +171,21 @@
     },
     {
       "keyword": "scott adams",
-      "score": 4700000,
+      "score": 4600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-17 13:21:28"
     },
     {
-      "keyword": "tell me lies",
+      "keyword": "jarrett stidham",
       "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-20 20:05:51"
+    },
+    {
+      "keyword": "tell me lies",
+      "score": 3900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-17 07:10:35"
@@ -185,7 +199,7 @@
     },
     {
       "keyword": "bts world tour 2026",
-      "score": 3500000,
+      "score": 3400000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-01-18 19:09:15"
@@ -196,34 +210,14 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-01-18 19:09:15"
-    },
-    {
-      "keyword": "bears vs rams",
-      "score": 3200000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-19 07:16:58"
-    },
-    {
-      "keyword": "senegal vs morocco",
-      "score": 3050000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-01-20 13:34:18"
     }
   ],
   "category_stats": {
-    "其他": 109,
-    "体育": 47,
+    "其他": 108,
+    "体育": 51,
     "娱乐/生活": 5,
-    "科技/AI": 2,
-    "金融/商业": 1
+    "金融/商业": 2,
+    "科技/AI": 2
   },
-  "insights": [
-    {
-      "title": "季节性效率/计划应用",
-      "context": "新年计划相关关键词搜索量激增。",
-      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
-    }
-  ]
+  "insights": []
 }

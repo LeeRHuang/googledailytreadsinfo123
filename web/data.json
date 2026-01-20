@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-19 19:10:09",
+  "last_updated": "2026-01-20 02:58:03",
   "trends": [
     {
       "keyword": "verizon outage",
@@ -9,15 +9,15 @@
       "timestamp": "2026-01-19 19:10:09"
     },
     {
-      "keyword": "renee nicole good",
-      "score": 23000000,
+      "keyword": "rams vs bears",
+      "score": 21000000,
       "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-14 19:15:15"
+      "category": "体育",
+      "timestamp": "2026-01-20 02:58:03"
     },
     {
       "keyword": "bob weir",
-      "score": 20000000,
+      "score": 19000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-17 19:08:56"
@@ -30,6 +30,20 @@
       "timestamp": "2026-01-17 13:21:28"
     },
     {
+      "keyword": "renee nicole good",
+      "score": 18000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-14 19:15:15"
+    },
+    {
+      "keyword": "bo nix",
+      "score": 18000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-20 02:58:03"
+    },
+    {
       "keyword": "49ers vs seahawks",
       "score": 17000000,
       "traffic_numeric": 5000000,
@@ -38,24 +52,10 @@
     },
     {
       "keyword": "texans vs steelers",
-      "score": 16000000,
+      "score": 15000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-01-14 13:40:16"
-    },
-    {
-      "keyword": "bo nix",
-      "score": 16000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-19 19:10:09"
-    },
-    {
-      "keyword": "rams vs bears",
-      "score": 16000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-01-19 19:10:09"
     },
     {
       "keyword": "bills vs broncos",
@@ -66,17 +66,17 @@
     },
     {
       "keyword": "timothy busfield",
-      "score": 13000000,
+      "score": 12500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-16 19:07:24"
     },
     {
-      "keyword": "bruno mars tour",
-      "score": 10000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-15 07:15:02"
+      "keyword": "texans vs patriots",
+      "score": 10600000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-20 02:58:03"
     },
     {
       "keyword": "golden globe winners",
@@ -86,13 +86,6 @@
       "timestamp": "2026-01-16 07:10:09"
     },
     {
-      "keyword": "his and hers",
-      "score": 9500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-15 07:15:02"
-    },
-    {
       "keyword": "renee good",
       "score": 9000000,
       "traffic_numeric": 2000000,
@@ -100,11 +93,25 @@
       "timestamp": "2026-01-14 19:15:15"
     },
     {
-      "keyword": "texans vs patriots",
-      "score": 8600000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-19 19:10:09"
+      "keyword": "his and hers",
+      "score": 9000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-15 07:15:02"
+    },
+    {
+      "keyword": "bruno mars tour",
+      "score": 9000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-15 07:15:02"
+    },
+    {
+      "keyword": "dr. martin luther king jr. day",
+      "score": 7700000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-20 02:58:03"
     },
     {
       "keyword": "indiana vs miami",
@@ -115,31 +122,24 @@
     },
     {
       "keyword": "the rip",
-      "score": 6000000,
+      "score": 6500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-19 19:10:09"
+      "timestamp": "2026-01-20 02:58:03"
     },
     {
-      "keyword": "bills vs jaguars",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
+      "keyword": "miami vs indiana",
+      "score": 5200000,
+      "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-01-13 13:30:18"
+      "timestamp": "2026-01-20 02:58:03"
     },
     {
-      "keyword": "49ers vs eagles",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-13 13:30:18"
-    },
-    {
-      "keyword": "chargers vs patriots",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-13 13:30:18"
+      "keyword": "insurrection act",
+      "score": 5000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-20 02:58:03"
     },
     {
       "keyword": "cooper",
@@ -147,13 +147,6 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-19 07:16:58"
-    },
-    {
-      "keyword": "packers vs bears",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-01-13 02:39:19"
     },
     {
       "keyword": "49ers vs seahawks match player stats",
@@ -170,18 +163,32 @@
       "timestamp": "2026-01-17 13:21:28"
     },
     {
-      "keyword": "insurrection act",
-      "score": 4500000,
+      "keyword": "euphoria season 3",
+      "score": 4300000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-19 19:10:09"
+      "timestamp": "2026-01-20 02:58:03"
     },
     {
-      "keyword": "people we meet on vacation",
+      "keyword": "bills vs jaguars",
       "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-13 19:12:52"
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-13 13:30:18"
+    },
+    {
+      "keyword": "49ers vs eagles",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-13 13:30:18"
+    },
+    {
+      "keyword": "chargers vs patriots",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-13 13:30:18"
     },
     {
       "keyword": "tell me lies",
@@ -189,13 +196,6 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-17 07:10:35"
-    },
-    {
-      "keyword": "euphoria season 3",
-      "score": 3800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-19 19:10:09"
     },
     {
       "keyword": "kyle tucker",
@@ -213,10 +213,10 @@
     }
   ],
   "category_stats": {
-    "其他": 105,
+    "其他": 107,
     "体育": 51,
-    "娱乐/生活": 4,
-    "科技/AI": 3,
+    "娱乐/生活": 5,
+    "科技/AI": 2,
     "金融/商业": 1
   },
   "insights": [

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-20 20:05:51",
+  "last_updated": "2026-01-21 02:56:15",
   "trends": [
     {
       "keyword": "verizon outage",
@@ -9,6 +9,13 @@
       "timestamp": "2026-01-20 20:05:51"
     },
     {
+      "keyword": "dr. martin luther king jr. day",
+      "score": 27700000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-21 02:56:15"
+    },
+    {
       "keyword": "rams vs bears",
       "score": 26000000,
       "traffic_numeric": 5000000,
@@ -16,18 +23,11 @@
       "timestamp": "2026-01-20 13:34:18"
     },
     {
-      "keyword": "dr. martin luther king jr. day",
-      "score": 22700000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-20 20:05:51"
-    },
-    {
       "keyword": "bo nix",
-      "score": 20000000,
+      "score": 22000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-01-20 13:34:18"
+      "timestamp": "2026-01-21 02:56:15"
     },
     {
       "keyword": "mike tomlin",
@@ -93,6 +93,13 @@
       "timestamp": "2026-01-14 19:15:15"
     },
     {
+      "keyword": "miami fl vs indiana",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-01-21 02:56:15"
+    },
+    {
       "keyword": "the rip",
       "score": 7500000,
       "traffic_numeric": 1000000,
@@ -107,14 +114,14 @@
       "timestamp": "2026-01-14 13:40:16"
     },
     {
-      "keyword": "his and hers",
+      "keyword": "bruno mars tour",
       "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-15 07:15:02"
     },
     {
-      "keyword": "bruno mars tour",
+      "keyword": "his and hers",
       "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
@@ -135,11 +142,11 @@
       "timestamp": "2026-01-16 07:10:09"
     },
     {
-      "keyword": "miami fl vs indiana",
+      "keyword": "renee good",
       "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-01-20 20:05:51"
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-14 19:15:15"
     },
     {
       "keyword": "cooper",
@@ -154,13 +161,6 @@
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-01-19 03:07:14"
-    },
-    {
-      "keyword": "renee good",
-      "score": 5000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-14 19:15:15"
     },
     {
       "keyword": "euphoria season 3",
@@ -178,10 +178,10 @@
     },
     {
       "keyword": "jarrett stidham",
-      "score": 4000000,
+      "score": 4200000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-01-20 20:05:51"
+      "timestamp": "2026-01-21 02:56:15"
     },
     {
       "keyword": "tell me lies",
@@ -191,6 +191,13 @@
       "timestamp": "2026-01-17 07:10:35"
     },
     {
+      "keyword": "kianna underwood",
+      "score": 3670000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-21 02:56:15"
+    },
+    {
       "keyword": "kyle tucker",
       "score": 3550000,
       "traffic_numeric": 500000,
@@ -198,23 +205,16 @@
       "timestamp": "2026-01-18 03:11:43"
     },
     {
-      "keyword": "bts world tour 2026",
-      "score": 3400000,
-      "traffic_numeric": 200000,
+      "keyword": "sean mcdermott",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-18 19:09:15"
-    },
-    {
-      "keyword": "sascha riley",
-      "score": 3400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-18 19:09:15"
+      "timestamp": "2026-01-21 02:56:15"
     }
   ],
   "category_stats": {
-    "其他": 108,
-    "体育": 51,
+    "其他": 109,
+    "体育": 52,
     "娱乐/生活": 5,
     "金融/商业": 2,
     "科技/AI": 2

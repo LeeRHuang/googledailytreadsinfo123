@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-21 02:56:15",
+  "last_updated": "2026-01-21 07:05:41",
   "trends": [
     {
       "keyword": "verizon outage",
@@ -10,10 +10,10 @@
     },
     {
       "keyword": "dr. martin luther king jr. day",
-      "score": 27700000,
+      "score": 32700000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-21 02:56:15"
+      "timestamp": "2026-01-21 07:05:41"
     },
     {
       "keyword": "rams vs bears",
@@ -30,13 +30,6 @@
       "timestamp": "2026-01-21 02:56:15"
     },
     {
-      "keyword": "mike tomlin",
-      "score": 18000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-17 13:21:28"
-    },
-    {
       "keyword": "49ers vs seahawks",
       "score": 17000000,
       "traffic_numeric": 5000000,
@@ -44,8 +37,15 @@
       "timestamp": "2026-01-18 19:09:15"
     },
     {
-      "keyword": "bob weir",
+      "keyword": "mike tomlin",
       "score": 16000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-17 13:21:28"
+    },
+    {
+      "keyword": "bob weir",
+      "score": 15000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-17 19:08:56"
@@ -65,18 +65,18 @@
       "timestamp": "2026-01-20 13:34:18"
     },
     {
-      "keyword": "timothy busfield",
-      "score": 11000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-16 19:07:24"
-    },
-    {
       "keyword": "texans vs patriots",
       "score": 10600000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-01-20 02:58:03"
+    },
+    {
+      "keyword": "timothy busfield",
+      "score": 10500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-16 19:07:24"
     },
     {
       "keyword": "miami vs indiana",
@@ -86,18 +86,18 @@
       "timestamp": "2026-01-20 07:11:38"
     },
     {
-      "keyword": "renee nicole good",
-      "score": 10000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-14 19:15:15"
-    },
-    {
       "keyword": "miami fl vs indiana",
       "score": 10000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-01-21 02:56:15"
+    },
+    {
+      "keyword": "renee nicole good",
+      "score": 8000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-14 19:15:15"
     },
     {
       "keyword": "the rip",
@@ -107,46 +107,11 @@
       "timestamp": "2026-01-20 07:11:38"
     },
     {
-      "keyword": "texans vs steelers",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-14 13:40:16"
-    },
-    {
-      "keyword": "bruno mars tour",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-15 07:15:02"
-    },
-    {
-      "keyword": "his and hers",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-15 07:15:02"
-    },
-    {
       "keyword": "insurrection act",
       "score": 5500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-20 07:11:38"
-    },
-    {
-      "keyword": "golden globe winners",
-      "score": 5400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-16 07:10:09"
-    },
-    {
-      "keyword": "renee good",
-      "score": 5000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-14 19:15:15"
     },
     {
       "keyword": "cooper",
@@ -163,6 +128,20 @@
       "timestamp": "2026-01-19 03:07:14"
     },
     {
+      "keyword": "his and hers",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-15 07:15:02"
+    },
+    {
+      "keyword": "bruno mars tour",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-15 07:15:02"
+    },
+    {
       "keyword": "euphoria season 3",
       "score": 4800000,
       "traffic_numeric": 500000,
@@ -170,32 +149,53 @@
       "timestamp": "2026-01-20 07:11:38"
     },
     {
+      "keyword": "sean mcdermott",
+      "score": 4500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-21 07:05:41"
+    },
+    {
+      "keyword": "golden globe winners",
+      "score": 4400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-16 07:10:09"
+    },
+    {
+      "keyword": "jarrett stidham",
+      "score": 4400000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-21 07:05:41"
+    },
+    {
       "keyword": "scott adams",
-      "score": 4600000,
+      "score": 4400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-17 13:21:28"
     },
     {
-      "keyword": "jarrett stidham",
-      "score": 4200000,
-      "traffic_numeric": 2000000,
+      "keyword": "kianna underwood",
+      "score": 4170000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-21 02:56:15"
+      "timestamp": "2026-01-21 07:05:41"
+    },
+    {
+      "keyword": "texans vs steelers",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-01-14 13:40:16"
     },
     {
       "keyword": "tell me lies",
-      "score": 3900000,
+      "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-17 07:10:35"
-    },
-    {
-      "keyword": "kianna underwood",
-      "score": 3670000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-21 02:56:15"
     },
     {
       "keyword": "kyle tucker",
@@ -205,16 +205,16 @@
       "timestamp": "2026-01-18 03:11:43"
     },
     {
-      "keyword": "sean mcdermott",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
+      "keyword": "sascha riley",
+      "score": 3400000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-01-21 02:56:15"
+      "timestamp": "2026-01-18 19:09:15"
     }
   ],
   "category_stats": {
-    "其他": 109,
-    "体育": 52,
+    "其他": 110,
+    "体育": 55,
     "娱乐/生活": 5,
     "金融/商业": 2,
     "科技/AI": 2

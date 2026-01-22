@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-01-21 19:23:08",
+  "last_updated": "2026-01-22 03:05:27",
   "trends": [
     {
       "keyword": "verizon outage",
-      "score": 110000000,
+      "score": 105000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-21 13:39:16"
     },
     {
       "keyword": "dr. martin luther king jr. day",
-      "score": 42700000,
+      "score": 47700000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-21 19:23:08"
+      "timestamp": "2026-01-22 03:05:27"
     },
     {
       "keyword": "rams vs bears",
@@ -51,18 +51,18 @@
       "timestamp": "2026-01-18 19:09:15"
     },
     {
-      "keyword": "bob weir",
-      "score": 12000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-17 19:08:56"
-    },
-    {
       "keyword": "indiana vs miami",
       "score": 11000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-01-20 13:34:18"
+    },
+    {
+      "keyword": "bob weir",
+      "score": 11000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-17 19:08:56"
     },
     {
       "keyword": "texans vs patriots",
@@ -80,17 +80,17 @@
     },
     {
       "keyword": "mike tomlin",
-      "score": 10000000,
+      "score": 8000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-17 13:21:28"
     },
     {
-      "keyword": "timothy busfield",
-      "score": 8000000,
+      "keyword": "sean mcdermott",
+      "score": 7500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-16 19:07:24"
+      "timestamp": "2026-01-22 03:05:27"
     },
     {
       "keyword": "the rip",
@@ -100,11 +100,11 @@
       "timestamp": "2026-01-20 07:11:38"
     },
     {
-      "keyword": "sean mcdermott",
-      "score": 6500000,
+      "keyword": "timothy busfield",
+      "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-21 19:23:08"
+      "timestamp": "2026-01-16 19:07:24"
     },
     {
       "keyword": "insurrection act",
@@ -114,11 +114,25 @@
       "timestamp": "2026-01-20 07:11:38"
     },
     {
+      "keyword": "winter storm watch",
+      "score": 5200000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-22 03:05:27"
+    },
+    {
       "keyword": "49ers vs seahawks match player stats",
       "score": 5000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-01-19 03:07:14"
+    },
+    {
+      "keyword": "jarrett stidham",
+      "score": 5000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-22 03:05:27"
     },
     {
       "keyword": "cooper",
@@ -128,15 +142,8 @@
       "timestamp": "2026-01-19 07:16:58"
     },
     {
-      "keyword": "jarrett stidham",
-      "score": 4800000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-21 19:23:08"
-    },
-    {
       "keyword": "euphoria season 3",
-      "score": 4800000,
+      "score": 4700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-20 07:11:38"
@@ -156,6 +163,13 @@
       "timestamp": "2026-01-21 19:23:08"
     },
     {
+      "keyword": "brooklyn beckham",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-22 03:05:27"
+    },
+    {
       "keyword": "kyle tucker",
       "score": 3550000,
       "traffic_numeric": 500000,
@@ -163,11 +177,11 @@
       "timestamp": "2026-01-18 03:11:43"
     },
     {
-      "keyword": "scott adams",
-      "score": 3500000,
-      "traffic_numeric": 500000,
+      "keyword": "melanie mcguire",
+      "score": 3350000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-01-17 13:21:28"
+      "timestamp": "2026-01-22 03:05:27"
     },
     {
       "keyword": "bears vs rams",
@@ -177,44 +191,30 @@
       "timestamp": "2026-01-19 07:16:58"
     },
     {
-      "keyword": "winter storm watch",
-      "score": 3200000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-21 19:23:08"
-    },
-    {
-      "keyword": "melanie mcguire",
-      "score": 3150000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-21 19:23:08"
-    },
-    {
-      "keyword": "tell me lies",
-      "score": 3100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-17 07:10:35"
-    },
-    {
-      "keyword": "sascha riley",
-      "score": 3100000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-18 19:09:15"
-    },
-    {
       "keyword": "senegal vs morocco",
       "score": 3050000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-01-20 13:34:18"
+    },
+    {
+      "keyword": "australian open",
+      "score": 3050000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-22 03:05:27"
+    },
+    {
+      "keyword": "scott adams",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-17 13:21:28"
     }
   ],
   "category_stats": {
-    "其他": 112,
-    "体育": 52,
+    "其他": 113,
+    "体育": 53,
     "娱乐/生活": 5,
     "金融/商业": 2,
     "科技/AI": 2

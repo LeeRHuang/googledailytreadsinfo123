@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-01-23 02:47:04",
+  "last_updated": "2026-01-23 07:17:16",
   "trends": [
     {
       "keyword": "verizon outage",
-      "score": 85000000,
+      "score": 80000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-21 13:39:16"
@@ -16,18 +16,18 @@
       "timestamp": "2026-01-22 13:42:49"
     },
     {
+      "keyword": "winter storm watch",
+      "score": 27200000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-23 07:17:16"
+    },
+    {
       "keyword": "rams vs bears",
       "score": 26000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-01-20 13:34:18"
-    },
-    {
-      "keyword": "winter storm watch",
-      "score": 22200000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-23 02:47:04"
     },
     {
       "keyword": "bo nix",
@@ -59,10 +59,10 @@
     },
     {
       "keyword": "sean mcdermott",
-      "score": 11500000,
+      "score": 12500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-23 02:47:04"
+      "timestamp": "2026-01-23 07:17:16"
     },
     {
       "keyword": "texans vs patriots",
@@ -79,25 +79,11 @@
       "timestamp": "2026-01-20 07:11:38"
     },
     {
-      "keyword": "indiana vs miami",
-      "score": 8000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-01-20 13:34:18"
-    },
-    {
       "keyword": "the rip",
       "score": 7500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-20 07:11:38"
-    },
-    {
-      "keyword": "bob weir",
-      "score": 7000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-17 19:08:56"
     },
     {
       "keyword": "brooklyn beckham",
@@ -107,6 +93,27 @@
       "timestamp": "2026-01-22 19:17:24"
     },
     {
+      "keyword": "indiana vs miami",
+      "score": 7000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-01-20 13:34:18"
+    },
+    {
+      "keyword": "jarrett stidham",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-23 07:17:16"
+    },
+    {
+      "keyword": "bob weir",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-17 19:08:56"
+    },
+    {
       "keyword": "mike tomlin",
       "score": 6000000,
       "traffic_numeric": 2000000,
@@ -114,15 +121,8 @@
       "timestamp": "2026-01-17 13:21:28"
     },
     {
-      "keyword": "jarrett stidham",
-      "score": 5800000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-23 02:47:04"
-    },
-    {
       "keyword": "insurrection act",
-      "score": 5200000,
+      "score": 5000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-20 07:11:38"
@@ -150,10 +150,17 @@
     },
     {
       "keyword": "australian open",
-      "score": 4250000,
+      "score": 4550000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-23 02:47:04"
+      "timestamp": "2026-01-23 07:17:16"
+    },
+    {
+      "keyword": "winter storm",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-23 07:17:16"
     },
     {
       "keyword": "bo nix injury",
@@ -161,13 +168,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-21 19:23:08"
-    },
-    {
-      "keyword": "euphoria season 3",
-      "score": 3900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-20 07:11:38"
     },
     {
       "keyword": "champions league",
@@ -184,11 +184,18 @@
       "timestamp": "2026-01-22 13:42:49"
     },
     {
-      "keyword": "kyle tucker",
-      "score": 3400000,
+      "keyword": "euphoria season 3",
+      "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-18 03:11:43"
+      "timestamp": "2026-01-20 07:11:38"
+    },
+    {
+      "keyword": "uefa champions league",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-01-23 07:17:16"
     },
     {
       "keyword": "bears vs rams",
@@ -198,18 +205,11 @@
       "timestamp": "2026-01-19 07:16:58"
     },
     {
-      "keyword": "senegal vs morocco",
-      "score": 3050000,
+      "keyword": "davos",
+      "score": 3200000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-01-20 13:34:18"
-    },
-    {
-      "keyword": "timothy busfield",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-16 19:07:24"
+      "timestamp": "2026-01-23 07:17:16"
     }
   ],
   "category_stats": {
@@ -219,5 +219,11 @@
     "科技/AI": 3,
     "金融/商业": 2
   },
-  "insights": []
+  "insights": [
+    {
+      "title": "季节性效率/计划应用",
+      "context": "新年计划相关关键词搜索量激增。",
+      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
+    }
+  ]
 }

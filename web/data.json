@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-01-23 07:17:16",
+  "last_updated": "2026-01-23 13:36:43",
   "trends": [
     {
       "keyword": "verizon outage",
-      "score": 80000000,
+      "score": 75000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-21 13:39:16"
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "winter storm watch",
-      "score": 27200000,
+      "score": 32200000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-23 07:17:16"
+      "timestamp": "2026-01-23 13:36:43"
     },
     {
       "keyword": "rams vs bears",
@@ -59,10 +59,10 @@
     },
     {
       "keyword": "sean mcdermott",
-      "score": 12500000,
+      "score": 13500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-23 07:17:16"
+      "timestamp": "2026-01-23 13:36:43"
     },
     {
       "keyword": "texans vs patriots",
@@ -93,39 +93,25 @@
       "timestamp": "2026-01-22 19:17:24"
     },
     {
+      "keyword": "jarrett stidham",
+      "score": 6200000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-23 13:36:43"
+    },
+    {
       "keyword": "indiana vs miami",
-      "score": 7000000,
+      "score": 6000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-01-20 13:34:18"
     },
     {
-      "keyword": "jarrett stidham",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-23 07:17:16"
-    },
-    {
       "keyword": "bob weir",
-      "score": 6000000,
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-17 19:08:56"
-    },
-    {
-      "keyword": "mike tomlin",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-17 13:21:28"
-    },
-    {
-      "keyword": "insurrection act",
-      "score": 5000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-20 07:11:38"
     },
     {
       "keyword": "cooper",
@@ -142,6 +128,20 @@
       "timestamp": "2026-01-19 03:07:14"
     },
     {
+      "keyword": "australian open",
+      "score": 4850000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-23 13:36:43"
+    },
+    {
+      "keyword": "insurrection act",
+      "score": 4800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-20 07:11:38"
+    },
+    {
       "keyword": "kianna underwood",
       "score": 4670000,
       "traffic_numeric": 500000,
@@ -149,11 +149,18 @@
       "timestamp": "2026-01-21 13:39:16"
     },
     {
-      "keyword": "australian open",
-      "score": 4550000,
-      "traffic_numeric": 500000,
+      "keyword": "uefa champions league",
+      "score": 4500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-01-23 13:36:43"
+    },
+    {
+      "keyword": "bo nix injury",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-01-23 07:17:16"
+      "timestamp": "2026-01-21 19:23:08"
     },
     {
       "keyword": "winter storm",
@@ -163,11 +170,11 @@
       "timestamp": "2026-01-23 07:17:16"
     },
     {
-      "keyword": "bo nix injury",
+      "keyword": "mike tomlin",
       "score": 4000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-01-21 19:23:08"
+      "timestamp": "2026-01-17 13:21:28"
     },
     {
       "keyword": "champions league",
@@ -184,37 +191,30 @@
       "timestamp": "2026-01-22 13:42:49"
     },
     {
-      "keyword": "euphoria season 3",
-      "score": 3700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-20 07:11:38"
-    },
-    {
-      "keyword": "uefa champions league",
-      "score": 3500000,
+      "keyword": "extreme cold watch",
+      "score": 3750000,
       "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-01-23 07:17:16"
-    },
-    {
-      "keyword": "bears vs rams",
-      "score": 3200000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-19 07:16:58"
+      "category": "其他",
+      "timestamp": "2026-01-23 13:36:43"
     },
     {
       "keyword": "davos",
-      "score": 3200000,
+      "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-23 07:17:16"
+      "timestamp": "2026-01-23 13:36:43"
+    },
+    {
+      "keyword": "euphoria season 3",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-20 07:11:38"
     }
   ],
   "category_stats": {
-    "其他": 111,
-    "体育": 51,
+    "其他": 109,
+    "体育": 49,
     "娱乐/生活": 5,
     "科技/AI": 3,
     "金融/商业": 2

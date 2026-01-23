@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-01-22 19:17:24",
+  "last_updated": "2026-01-23 02:47:04",
   "trends": [
     {
       "keyword": "verizon outage",
-      "score": 90000000,
+      "score": 85000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-21 13:39:16"
@@ -23,18 +23,18 @@
       "timestamp": "2026-01-20 13:34:18"
     },
     {
+      "keyword": "winter storm watch",
+      "score": 22200000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-23 02:47:04"
+    },
+    {
       "keyword": "bo nix",
       "score": 22000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-21 02:56:15"
-    },
-    {
-      "keyword": "winter storm watch",
-      "score": 17200000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-22 19:17:24"
     },
     {
       "keyword": "49ers vs seahawks",
@@ -58,18 +58,18 @@
       "timestamp": "2026-01-18 19:09:15"
     },
     {
+      "keyword": "sean mcdermott",
+      "score": 11500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-23 02:47:04"
+    },
+    {
       "keyword": "texans vs patriots",
       "score": 10600000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-01-20 02:58:03"
-    },
-    {
-      "keyword": "sean mcdermott",
-      "score": 10500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-22 19:17:24"
     },
     {
       "keyword": "miami vs indiana",
@@ -80,17 +80,10 @@
     },
     {
       "keyword": "indiana vs miami",
-      "score": 9000000,
+      "score": 8000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-01-20 13:34:18"
-    },
-    {
-      "keyword": "bob weir",
-      "score": 8000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-17 19:08:56"
     },
     {
       "keyword": "the rip",
@@ -98,6 +91,13 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-20 07:11:38"
+    },
+    {
+      "keyword": "bob weir",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-17 19:08:56"
     },
     {
       "keyword": "brooklyn beckham",
@@ -115,14 +115,14 @@
     },
     {
       "keyword": "jarrett stidham",
-      "score": 5600000,
+      "score": 5800000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-01-22 19:17:24"
+      "timestamp": "2026-01-23 02:47:04"
     },
     {
       "keyword": "insurrection act",
-      "score": 5400000,
+      "score": 5200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-20 07:11:38"
@@ -149,18 +149,11 @@
       "timestamp": "2026-01-21 13:39:16"
     },
     {
-      "keyword": "euphoria season 3",
-      "score": 4100000,
+      "keyword": "australian open",
+      "score": 4250000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-20 07:11:38"
-    },
-    {
-      "keyword": "timothy busfield",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-16 19:07:24"
+      "timestamp": "2026-01-23 02:47:04"
     },
     {
       "keyword": "bo nix injury",
@@ -170,18 +163,18 @@
       "timestamp": "2026-01-21 19:23:08"
     },
     {
+      "keyword": "euphoria season 3",
+      "score": 3900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-20 07:11:38"
+    },
+    {
       "keyword": "champions league",
       "score": 3900000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-01-22 19:17:24"
-    },
-    {
-      "keyword": "australian open",
-      "score": 3850000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-22 13:42:49"
     },
     {
       "keyword": "melanie mcguire",
@@ -192,7 +185,7 @@
     },
     {
       "keyword": "kyle tucker",
-      "score": 3500000,
+      "score": 3400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-18 03:11:43"
@@ -210,14 +203,21 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-01-20 13:34:18"
+    },
+    {
+      "keyword": "timothy busfield",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-16 19:07:24"
     }
   ],
   "category_stats": {
-    "其他": 109,
-    "体育": 50,
+    "其他": 111,
+    "体育": 51,
     "娱乐/生活": 5,
-    "金融/商业": 2,
-    "科技/AI": 2
+    "科技/AI": 3,
+    "金融/商业": 2
   },
   "insights": []
 }

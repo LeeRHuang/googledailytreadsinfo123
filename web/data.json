@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-01-24 02:38:06",
+  "last_updated": "2026-01-24 06:59:35",
   "trends": [
     {
       "keyword": "verizon outage",
-      "score": 70000000,
+      "score": 65000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-21 13:39:16"
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "winter storm watch",
-      "score": 42200000,
+      "score": 47200000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-24 02:38:06"
+      "timestamp": "2026-01-24 06:59:35"
     },
     {
       "keyword": "rams vs bears",
@@ -45,10 +45,10 @@
     },
     {
       "keyword": "sean mcdermott",
-      "score": 15500000,
+      "score": 16500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-24 02:38:06"
+      "timestamp": "2026-01-24 06:59:35"
     },
     {
       "keyword": "miami fl vs indiana",
@@ -79,8 +79,22 @@
       "timestamp": "2026-01-20 07:11:38"
     },
     {
-      "keyword": "the rip",
+      "keyword": "winter storm",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-24 06:59:35"
+    },
+    {
+      "keyword": "jarrett stidham",
       "score": 7400000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-24 06:59:35"
+    },
+    {
+      "keyword": "the rip",
+      "score": 7200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-20 07:11:38"
@@ -93,46 +107,32 @@
       "timestamp": "2026-01-22 19:17:24"
     },
     {
-      "keyword": "jarrett stidham",
-      "score": 6900000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-24 02:38:06"
-    },
-    {
-      "keyword": "winter storm",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-24 02:38:06"
-    },
-    {
       "keyword": "oscar nominations 2026",
-      "score": 5500000,
+      "score": 6500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-24 02:38:06"
+      "timestamp": "2026-01-24 06:59:35"
+    },
+    {
+      "keyword": "nicola peltz",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-24 06:59:35"
     },
     {
       "keyword": "australian open",
-      "score": 5150000,
+      "score": 5550000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-24 02:38:06"
+      "timestamp": "2026-01-24 06:59:35"
     },
     {
-      "keyword": "indiana vs miami",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-01-20 13:34:18"
-    },
-    {
-      "keyword": "cooper",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
+      "keyword": "davos",
+      "score": 5200000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-19 07:16:58"
+      "timestamp": "2026-01-24 06:59:35"
     },
     {
       "keyword": "49ers vs seahawks match player stats",
@@ -142,18 +142,25 @@
       "timestamp": "2026-01-19 03:07:14"
     },
     {
-      "keyword": "nicola peltz",
+      "keyword": "cooper",
       "score": 5000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-24 02:38:06"
+      "timestamp": "2026-01-19 07:16:58"
     },
     {
-      "keyword": "davos",
-      "score": 4700000,
+      "keyword": "indiana vs miami",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-01-20 13:34:18"
+    },
+    {
+      "keyword": "usha vance",
+      "score": 4900000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-24 02:38:06"
+      "timestamp": "2026-01-24 06:59:35"
     },
     {
       "keyword": "kianna underwood",
@@ -163,13 +170,6 @@
       "timestamp": "2026-01-21 13:39:16"
     },
     {
-      "keyword": "insurrection act",
-      "score": 4600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-20 07:11:38"
-    },
-    {
       "keyword": "uefa champions league",
       "score": 4500000,
       "traffic_numeric": 1000000,
@@ -177,32 +177,18 @@
       "timestamp": "2026-01-23 13:36:43"
     },
     {
-      "keyword": "usha vance",
+      "keyword": "insurrection act",
       "score": 4400000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-24 02:38:06"
+      "timestamp": "2026-01-20 07:11:38"
     },
     {
       "keyword": "extreme cold watch",
-      "score": 4150000,
+      "score": 4350000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-24 02:38:06"
-    },
-    {
-      "keyword": "mike tomlin",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-17 13:21:28"
-    },
-    {
-      "keyword": "bob weir",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-17 19:08:56"
+      "timestamp": "2026-01-24 06:59:35"
     },
     {
       "keyword": "bo nix injury",
@@ -210,10 +196,24 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-21 19:23:08"
+    },
+    {
+      "keyword": "champions league",
+      "score": 3900000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-01-22 19:17:24"
+    },
+    {
+      "keyword": "melanie mcguire",
+      "score": 3700000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-22 13:42:49"
     }
   ],
   "category_stats": {
-    "其他": 111,
+    "其他": 112,
     "体育": 49,
     "娱乐/生活": 5,
     "科技/AI": 3,

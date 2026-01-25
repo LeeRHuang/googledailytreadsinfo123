@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-24 19:09:40",
+  "last_updated": "2026-01-25 03:06:52",
   "trends": [
     {
       "keyword": "dr. martin luther king jr. day",
@@ -10,10 +10,10 @@
     },
     {
       "keyword": "winter storm watch",
-      "score": 52200001,
+      "score": 57200001,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-24 19:09:39"
+      "timestamp": "2026-01-25 03:06:52"
     },
     {
       "keyword": "verizon outage",
@@ -65,6 +65,13 @@
       "timestamp": "2026-01-18 19:09:15"
     },
     {
+      "keyword": "winter storm",
+      "score": 13000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-25 03:06:52"
+    },
+    {
       "keyword": "texans vs patriots",
       "score": 10600000,
       "traffic_numeric": 2000000,
@@ -80,29 +87,22 @@
     },
     {
       "keyword": "oscar nominations 2026",
-      "score": 8500000,
+      "score": 9500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-24 19:09:39"
+      "timestamp": "2026-01-25 03:06:52"
+    },
+    {
+      "keyword": "nicola peltz",
+      "score": 9000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-25 03:06:52"
     },
     {
       "keyword": "jarrett stidham",
       "score": 8400000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-24 19:09:39"
-    },
-    {
-      "keyword": "winter storm",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-24 06:59:35"
-    },
-    {
-      "keyword": "nicola peltz",
-      "score": 8000000,
-      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-24 19:09:39"
     },
@@ -177,18 +177,18 @@
       "timestamp": "2026-01-21 13:39:16"
     },
     {
-      "keyword": "don lemon",
-      "score": 4350000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-24 19:09:39"
-    },
-    {
       "keyword": "extreme cold watch",
       "score": 4350000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-24 06:59:35"
+    },
+    {
+      "keyword": "don lemon",
+      "score": 4350000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-24 19:09:39"
     },
     {
       "keyword": "bo nix injury",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 104,
-    "体育": 42,
+    "其他": 111,
+    "体育": 43,
     "娱乐/生活": 5,
     "科技/AI": 3,
     "金融/商业": 1

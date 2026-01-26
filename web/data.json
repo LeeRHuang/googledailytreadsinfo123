@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-26 03:08:41",
+  "last_updated": "2026-01-26 07:11:48",
   "trends": [
     {
       "keyword": "winter storm watch",
-      "score": 77200001,
+      "score": 82200001,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-26 03:08:41"
+      "timestamp": "2026-01-26 07:11:48"
     },
     {
       "keyword": "dr. martin luther king jr. day",
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "winter storm",
-      "score": 33000000,
+      "score": 38000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-26 03:08:41"
+      "timestamp": "2026-01-26 07:11:48"
     },
     {
       "keyword": "verizon outage",
@@ -58,11 +58,25 @@
       "timestamp": "2026-01-26 03:08:41"
     },
     {
+      "keyword": "alex pretti",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-26 07:11:48"
+    },
+    {
       "keyword": "bo nix",
       "score": 12000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-21 02:56:15"
+    },
+    {
+      "keyword": "rams vs seahawks",
+      "score": 11200000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-01-26 07:11:48"
     },
     {
       "keyword": "nicola peltz",
@@ -79,13 +93,6 @@
       "timestamp": "2026-01-20 07:11:38"
     },
     {
-      "keyword": "alex pretti",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-26 03:08:41"
-    },
-    {
       "keyword": "jarrett stidham",
       "score": 8400000,
       "traffic_numeric": 2000000,
@@ -100,11 +107,25 @@
       "timestamp": "2026-01-20 02:58:03"
     },
     {
+      "keyword": "patriots vs broncos",
+      "score": 7500000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-01-26 07:11:48"
+    },
+    {
       "keyword": "brooklyn beckham",
       "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-22 19:17:24"
+    },
+    {
+      "keyword": "alex honnold",
+      "score": 6800000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-26 07:11:48"
     },
     {
       "keyword": "ufc",
@@ -121,25 +142,11 @@
       "timestamp": "2026-01-25 13:26:23"
     },
     {
-      "keyword": "rams vs seahawks",
-      "score": 6200000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-01-26 03:08:41"
-    },
-    {
-      "keyword": "alex honnold",
-      "score": 5800000,
-      "traffic_numeric": 1000000,
+      "keyword": "extreme cold warning",
+      "score": 5550000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-26 03:08:41"
-    },
-    {
-      "keyword": "patriots vs broncos",
-      "score": 5500000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-01-26 03:08:41"
+      "timestamp": "2026-01-26 07:11:48"
     },
     {
       "keyword": "davos",
@@ -156,11 +163,11 @@
       "timestamp": "2026-01-24 06:59:35"
     },
     {
-      "keyword": "extreme cold warning",
-      "score": 5050000,
-      "traffic_numeric": 500000,
+      "keyword": "cooper",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-26 03:08:41"
+      "timestamp": "2026-01-19 07:16:58"
     },
     {
       "keyword": "indiana vs miami",
@@ -168,13 +175,6 @@
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-01-20 13:34:18"
-    },
-    {
-      "keyword": "cooper",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-19 07:16:58"
     },
     {
       "keyword": "don lemon",
@@ -205,16 +205,16 @@
       "timestamp": "2026-01-21 19:23:08"
     },
     {
-      "keyword": "champions league",
-      "score": 3900000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-01-22 19:17:24"
+      "keyword": "justin gaethje",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-26 07:11:48"
     }
   ],
   "category_stats": {
-    "其他": 108,
-    "体育": 34,
+    "其他": 110,
+    "体育": 36,
     "娱乐/生活": 4,
     "科技/AI": 2,
     "金融/商业": 1

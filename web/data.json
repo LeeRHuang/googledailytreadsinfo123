@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-25 19:01:29",
+  "last_updated": "2026-01-26 03:08:41",
   "trends": [
     {
       "keyword": "winter storm watch",
-      "score": 72200001,
+      "score": 77200001,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-25 19:01:29"
+      "timestamp": "2026-01-26 03:08:41"
     },
     {
       "keyword": "dr. martin luther king jr. day",
@@ -16,22 +16,22 @@
       "timestamp": "2026-01-22 13:42:49"
     },
     {
+      "keyword": "winter storm",
+      "score": 33000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-26 03:08:41"
+    },
+    {
       "keyword": "verizon outage",
-      "score": 35000000,
+      "score": 25000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-21 13:39:16"
     },
     {
-      "keyword": "winter storm",
-      "score": 28000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-25 19:01:29"
-    },
-    {
       "keyword": "rams vs bears",
-      "score": 26000000,
+      "score": 21000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-01-20 13:34:18"
@@ -44,13 +44,6 @@
       "timestamp": "2026-01-24 19:09:39"
     },
     {
-      "keyword": "bo nix",
-      "score": 16000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-21 02:56:15"
-    },
-    {
       "keyword": "miami fl vs indiana",
       "score": 15000000,
       "traffic_numeric": 5000000,
@@ -59,10 +52,17 @@
     },
     {
       "keyword": "oscar nominations 2026",
-      "score": 12500000,
+      "score": 13500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-25 19:01:29"
+      "timestamp": "2026-01-26 03:08:41"
+    },
+    {
+      "keyword": "bo nix",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-21 02:56:15"
     },
     {
       "keyword": "nicola peltz",
@@ -72,18 +72,18 @@
       "timestamp": "2026-01-25 13:26:23"
     },
     {
-      "keyword": "texans vs patriots",
-      "score": 10200000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-01-20 02:58:03"
-    },
-    {
       "keyword": "miami vs indiana",
       "score": 10200000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-01-20 07:11:38"
+    },
+    {
+      "keyword": "alex pretti",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-26 03:08:41"
     },
     {
       "keyword": "jarrett stidham",
@@ -93,11 +93,11 @@
       "timestamp": "2026-01-24 19:09:39"
     },
     {
-      "keyword": "alex pretti",
+      "keyword": "texans vs patriots",
       "score": 8000000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-25 19:01:29"
+      "category": "体育",
+      "timestamp": "2026-01-20 02:58:03"
     },
     {
       "keyword": "brooklyn beckham",
@@ -121,11 +121,25 @@
       "timestamp": "2026-01-25 13:26:23"
     },
     {
-      "keyword": "australian open",
-      "score": 5300000,
-      "traffic_numeric": 500000,
+      "keyword": "rams vs seahawks",
+      "score": 6200000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-01-26 03:08:41"
+    },
+    {
+      "keyword": "alex honnold",
+      "score": 5800000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-24 06:59:35"
+      "timestamp": "2026-01-26 03:08:41"
+    },
+    {
+      "keyword": "patriots vs broncos",
+      "score": 5500000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-01-26 03:08:41"
     },
     {
       "keyword": "davos",
@@ -135,32 +149,18 @@
       "timestamp": "2026-01-24 06:59:35"
     },
     {
-      "keyword": "cooper",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
+      "keyword": "australian open",
+      "score": 5100000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-19 07:16:58"
+      "timestamp": "2026-01-24 06:59:35"
     },
     {
-      "keyword": "bills vs broncos",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-01-18 19:09:15"
-    },
-    {
-      "keyword": "49ers vs seahawks match player stats",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-01-19 03:07:14"
-    },
-    {
-      "keyword": "49ers vs seahawks",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-01-18 19:09:15"
+      "keyword": "extreme cold warning",
+      "score": 5050000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-26 03:08:41"
     },
     {
       "keyword": "indiana vs miami",
@@ -170,32 +170,18 @@
       "timestamp": "2026-01-20 13:34:18"
     },
     {
+      "keyword": "cooper",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-19 07:16:58"
+    },
+    {
       "keyword": "don lemon",
       "score": 4850000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-25 13:26:23"
-    },
-    {
-      "keyword": "alex honnold",
-      "score": 4800000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-25 19:01:29"
-    },
-    {
-      "keyword": "extreme cold warning",
-      "score": 4550000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-25 19:01:29"
-    },
-    {
-      "keyword": "the rip",
-      "score": 4500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-20 07:11:38"
     },
     {
       "keyword": "uefa champions league",
@@ -210,13 +196,27 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-24 06:59:35"
+    },
+    {
+      "keyword": "bo nix injury",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-21 19:23:08"
+    },
+    {
+      "keyword": "champions league",
+      "score": 3900000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-01-22 19:17:24"
     }
   ],
   "category_stats": {
-    "其他": 107,
-    "体育": 41,
+    "其他": 108,
+    "体育": 34,
     "娱乐/生活": 4,
-    "科技/AI": 3,
+    "科技/AI": 2,
     "金融/商业": 1
   },
   "insights": [

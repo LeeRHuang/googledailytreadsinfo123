@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-26 19:14:57",
+  "last_updated": "2026-01-27 02:56:58",
   "trends": [
     {
       "keyword": "winter storm watch",
-      "score": 92200001,
+      "score": 92200002,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-26 19:14:57"
+      "timestamp": "2026-01-27 02:56:58"
     },
     {
       "keyword": "dr. martin luther king jr. day",
@@ -24,10 +24,17 @@
     },
     {
       "keyword": "patriots vs broncos",
-      "score": 17500000,
+      "score": 22500000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-01-26 19:14:57"
+      "timestamp": "2026-01-27 02:56:58"
+    },
+    {
+      "keyword": "alex pretti",
+      "score": 18000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-27 02:56:58"
     },
     {
       "keyword": "sean mcdermott",
@@ -42,13 +49,6 @@
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-01-26 13:41:13"
-    },
-    {
-      "keyword": "alex pretti",
-      "score": 16000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-26 19:14:57"
     },
     {
       "keyword": "verizon outage",
@@ -72,6 +72,13 @@
       "timestamp": "2026-01-26 03:08:41"
     },
     {
+      "keyword": "super bowl 2026",
+      "score": 12000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-27 02:56:58"
+    },
+    {
       "keyword": "nicola peltz",
       "score": 11000000,
       "traffic_numeric": 1000000,
@@ -79,11 +86,11 @@
       "timestamp": "2026-01-25 13:26:23"
     },
     {
-      "keyword": "miami vs indiana",
+      "keyword": "justin gaethje",
       "score": 10000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-01-20 07:11:38"
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-27 02:56:58"
     },
     {
       "keyword": "rams vs bears",
@@ -93,11 +100,18 @@
       "timestamp": "2026-01-20 13:34:18"
     },
     {
+      "keyword": "miami vs indiana",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-01-20 07:11:38"
+    },
+    {
       "keyword": "alex honnold",
-      "score": 8800000,
+      "score": 9800000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-26 19:14:57"
+      "timestamp": "2026-01-27 02:56:58"
     },
     {
       "keyword": "jarrett stidham",
@@ -107,11 +121,11 @@
       "timestamp": "2026-01-24 19:09:39"
     },
     {
-      "keyword": "justin gaethje",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
+      "keyword": "extreme cold warning",
+      "score": 7050000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-26 19:14:57"
+      "timestamp": "2026-01-27 02:56:58"
     },
     {
       "keyword": "brooklyn beckham",
@@ -119,20 +133,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-22 19:17:24"
-    },
-    {
-      "keyword": "super bowl 2026",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-26 19:14:57"
-    },
-    {
-      "keyword": "extreme cold warning",
-      "score": 6550000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-26 19:14:57"
     },
     {
       "keyword": "ufc",
@@ -156,6 +156,13 @@
       "timestamp": "2026-01-21 02:56:15"
     },
     {
+      "keyword": "ryan wedding",
+      "score": 5400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-27 02:56:58"
+    },
+    {
       "keyword": "davos",
       "score": 5200000,
       "traffic_numeric": 500000,
@@ -170,11 +177,11 @@
       "timestamp": "2026-01-20 13:34:18"
     },
     {
-      "keyword": "ryan wedding",
+      "keyword": "elizabeth smart",
       "score": 4900000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-26 19:14:57"
+      "timestamp": "2026-01-27 02:56:58"
     },
     {
       "keyword": "australian open",
@@ -198,13 +205,6 @@
       "timestamp": "2026-01-23 13:36:43"
     },
     {
-      "keyword": "elizabeth smart",
-      "score": 4400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-26 19:14:57"
-    },
-    {
       "keyword": "extreme cold watch",
       "score": 4350000,
       "traffic_numeric": 1000000,
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 112,
-    "体育": 33,
+    "其他": 117,
+    "体育": 34,
     "娱乐/生活": 3,
     "科技/AI": 3,
     "金融/商业": 1

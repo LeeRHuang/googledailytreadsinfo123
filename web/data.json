@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28 13:39:43",
+  "last_updated": "2026-01-28 19:16:44",
   "trends": [
     {
       "keyword": "winter storm watch",
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "superbowl",
-      "score": 30000000,
+      "score": 35000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-28 13:39:43"
+      "timestamp": "2026-01-28 19:16:44"
     },
     {
       "keyword": "alex pretti",
@@ -94,10 +94,10 @@
     },
     {
       "keyword": "extreme cold warning",
-      "score": 10050000,
+      "score": 10550000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-28 13:39:43"
+      "timestamp": "2026-01-28 19:16:44"
     },
     {
       "keyword": "ryan wedding",
@@ -105,6 +105,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-28 13:39:43"
+    },
+    {
+      "keyword": "alex pretti shooting",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-28 19:16:44"
     },
     {
       "keyword": "elizabeth smart",
@@ -119,13 +126,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-25 13:26:23"
-    },
-    {
-      "keyword": "alex pretti shooting",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-28 13:39:43"
     },
     {
       "keyword": "usha vance",
@@ -156,18 +156,18 @@
       "timestamp": "2026-01-24 06:59:35"
     },
     {
-      "keyword": "uefa champions league",
-      "score": 4100000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-01-23 13:36:43"
-    },
-    {
       "keyword": "ice storm warning",
       "score": 4100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-26 13:41:13"
+    },
+    {
+      "keyword": "uefa champions league",
+      "score": 4100000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-01-23 13:36:43"
     },
     {
       "keyword": "exploding trees",
@@ -198,22 +198,22 @@
       "timestamp": "2026-01-25 13:26:23"
     },
     {
+      "keyword": "tom homan",
+      "score": 3100000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-28 19:16:44"
+    },
+    {
       "keyword": "victoria beckham",
       "score": 3100000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-26 19:14:57"
-    },
-    {
-      "keyword": "weather channel",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-24 13:31:55"
     }
   ],
   "category_stats": {
-    "其他": 113,
+    "其他": 120,
     "体育": 22,
     "科技/AI": 3,
     "娱乐/生活": 1

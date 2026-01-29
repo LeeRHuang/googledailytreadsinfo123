@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-01-29 07:39:22",
+  "last_updated": "2026-01-29 13:57:28",
   "trends": [
     {
       "keyword": "winter storm watch",
-      "score": 95000004,
+      "score": 90000004,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-28 03:08:04"
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "superbowl",
-      "score": 40000000,
+      "score": 45000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-29 03:16:40"
+      "timestamp": "2026-01-29 13:57:28"
     },
     {
       "keyword": "alex pretti",
@@ -72,6 +72,13 @@
       "timestamp": "2026-01-27 02:56:58"
     },
     {
+      "keyword": "alex pretti shooting",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-01-29 13:57:28"
+    },
+    {
       "keyword": "nicola peltz",
       "score": 11000000,
       "traffic_numeric": 1000000,
@@ -86,20 +93,6 @@
       "timestamp": "2026-01-28 19:16:44"
     },
     {
-      "keyword": "alex pretti shooting",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-01-29 07:39:22"
-    },
-    {
-      "keyword": "sean mcdermott",
-      "score": 9500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-24 19:09:39"
-    },
-    {
       "keyword": "ryan wedding",
       "score": 8900000,
       "traffic_numeric": 500000,
@@ -107,8 +100,15 @@
       "timestamp": "2026-01-29 03:16:40"
     },
     {
+      "keyword": "sean mcdermott",
+      "score": 8500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-24 19:09:39"
+    },
+    {
       "keyword": "elizabeth smart",
-      "score": 7200000,
+      "score": 7100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-28 07:12:26"
@@ -121,18 +121,18 @@
       "timestamp": "2026-01-25 13:26:23"
     },
     {
+      "keyword": "tom homan",
+      "score": 5100000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-29 13:57:28"
+    },
+    {
       "keyword": "usha vance",
-      "score": 5200000,
+      "score": 5000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-25 13:26:23"
-    },
-    {
-      "keyword": "dr. martin luther king jr. day",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-22 13:42:49"
     },
     {
       "keyword": "ice storm warning",
@@ -142,32 +142,18 @@
       "timestamp": "2026-01-26 13:41:13"
     },
     {
-      "keyword": "tom homan",
-      "score": 4100000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-29 03:16:40"
-    },
-    {
-      "keyword": "davos",
-      "score": 4000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-24 06:59:35"
-    },
-    {
       "keyword": "exploding trees",
-      "score": 3800000,
+      "score": 3700000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-01-27 13:45:03"
     },
     {
-      "keyword": "uefa champions league",
+      "keyword": "davos",
       "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-01-23 13:36:43"
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-24 06:59:35"
     },
     {
       "keyword": "mark kerr",
@@ -177,18 +163,18 @@
       "timestamp": "2026-01-29 07:39:22"
     },
     {
-      "keyword": "jarrett stidham",
-      "score": 3200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-24 19:09:39"
-    },
-    {
       "keyword": "victoria beckham",
       "score": 3100000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-26 19:14:57"
+    },
+    {
+      "keyword": "uefa champions league",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-01-23 13:36:43"
     },
     {
       "keyword": "weather channel",
@@ -198,22 +184,36 @@
       "timestamp": "2026-01-24 13:31:55"
     },
     {
-      "keyword": "extreme cold watch",
+      "keyword": "jarrett stidham",
       "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-24 19:09:39"
+    },
+    {
+      "keyword": "free bert",
+      "score": 2950000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-29 07:39:22"
+    },
+    {
+      "keyword": "extreme cold watch",
+      "score": 2800000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-24 06:59:35"
     },
     {
-      "keyword": "australian open",
-      "score": 3000000,
+      "keyword": "don lemon",
+      "score": 2600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-24 06:59:35"
+      "timestamp": "2026-01-25 13:26:23"
     }
   ],
   "category_stats": {
-    "其他": 117,
+    "其他": 112,
     "体育": 22,
     "科技/AI": 4,
     "娱乐/生活": 2

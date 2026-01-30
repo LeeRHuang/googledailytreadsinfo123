@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-01-30 07:36:02",
+  "last_updated": "2026-01-30 13:52:17",
   "trends": [
     {
       "keyword": "winter storm watch",
-      "score": 75000004,
+      "score": 70000004,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-28 03:08:04"
@@ -45,10 +45,10 @@
     },
     {
       "keyword": "alex pretti shooting",
-      "score": 18000000,
+      "score": 18500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-01-30 07:36:02"
+      "timestamp": "2026-01-30 13:52:17"
     },
     {
       "keyword": "justin gaethje",
@@ -73,24 +73,31 @@
     },
     {
       "keyword": "oscar nominations 2026",
-      "score": 11000000,
+      "score": 10000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-26 03:08:41"
     },
     {
+      "keyword": "when is the super bowl",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-30 13:52:17"
+    },
+    {
       "keyword": "extreme cold warning",
-      "score": 9800000,
+      "score": 9600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-28 19:16:44"
     },
     {
-      "keyword": "nicola peltz",
-      "score": 9000000,
+      "keyword": "tom homan",
+      "score": 9100000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-25 13:26:23"
+      "timestamp": "2026-01-30 13:52:17"
     },
     {
       "keyword": "ryan wedding",
@@ -100,18 +107,11 @@
       "timestamp": "2026-01-29 03:16:40"
     },
     {
-      "keyword": "tom homan",
-      "score": 8100000,
+      "keyword": "nicola peltz",
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-30 07:36:02"
-    },
-    {
-      "keyword": "elizabeth smart",
-      "score": 6700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-28 07:12:26"
+      "timestamp": "2026-01-25 13:26:23"
     },
     {
       "keyword": "ufc",
@@ -121,18 +121,18 @@
       "timestamp": "2026-01-25 13:26:23"
     },
     {
+      "keyword": "elizabeth smart",
+      "score": 6500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-28 07:12:26"
+    },
+    {
       "keyword": "sean mcdermott",
-      "score": 5500000,
+      "score": 4500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-24 19:09:39"
-    },
-    {
-      "keyword": "when is the super bowl",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-30 07:36:02"
     },
     {
       "keyword": "mark kerr",
@@ -149,18 +149,11 @@
       "timestamp": "2026-01-26 13:41:13"
     },
     {
-      "keyword": "usha vance",
-      "score": 3500000,
+      "keyword": "nipah virus",
+      "score": 3300000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-25 13:26:23"
-    },
-    {
-      "keyword": "exploding trees",
-      "score": 3200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-27 13:45:03"
+      "timestamp": "2026-01-30 13:52:17"
     },
     {
       "keyword": "victoria beckham",
@@ -170,11 +163,25 @@
       "timestamp": "2026-01-26 19:14:57"
     },
     {
-      "keyword": "weather channel",
+      "keyword": "usha vance",
       "score": 3000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-24 13:31:55"
+      "timestamp": "2026-01-25 13:26:23"
+    },
+    {
+      "keyword": "government shutdown 2026",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-30 13:52:17"
+    },
+    {
+      "keyword": "exploding trees",
+      "score": 3000000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-27 13:45:03"
     },
     {
       "keyword": "free bert",
@@ -184,13 +191,6 @@
       "timestamp": "2026-01-29 07:39:22"
     },
     {
-      "keyword": "nipah virus",
-      "score": 2800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-30 07:36:02"
-    },
-    {
       "keyword": "guy fieri",
       "score": 2500000,
       "traffic_numeric": 200000,
@@ -198,26 +198,26 @@
       "timestamp": "2026-01-28 13:39:43"
     },
     {
-      "keyword": "government shutdown 2026",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-30 07:36:02"
-    },
-    {
       "keyword": "paddy pimblett",
       "score": 2400000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-25 19:01:29"
+    },
+    {
+      "keyword": "generator",
+      "score": 2300000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-27 02:56:58"
     }
   ],
   "category_stats": {
     "其他": 114,
-    "体育": 21,
+    "体育": 19,
+    "金融/商业": 3,
     "科技/AI": 3,
-    "娱乐/生活": 2,
-    "金融/商业": 1
+    "娱乐/生活": 2
   },
   "insights": [
     {

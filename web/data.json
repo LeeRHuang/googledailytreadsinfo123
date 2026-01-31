@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31 13:38:02",
+  "last_updated": "2026-01-31 19:10:27",
   "trends": [
     {
       "keyword": "superbowl",
@@ -10,7 +10,7 @@
     },
     {
       "keyword": "winter storm watch",
-      "score": 50000004,
+      "score": 50000003,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-28 03:08:04"
@@ -30,8 +30,15 @@
       "timestamp": "2026-01-29 03:16:40"
     },
     {
-      "keyword": "alex honnold",
+      "keyword": "when is the super bowl",
       "score": 25200000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-31 19:10:27"
+    },
+    {
+      "keyword": "alex honnold",
+      "score": 25000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-29 07:39:22"
@@ -44,18 +51,11 @@
       "timestamp": "2026-01-27 02:56:58"
     },
     {
-      "keyword": "when is the super bowl",
-      "score": 20200000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-31 13:38:02"
-    },
-    {
       "keyword": "alex pretti shooting",
-      "score": 19300000,
+      "score": 19500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-01-31 13:38:02"
+      "timestamp": "2026-01-31 19:10:27"
     },
     {
       "keyword": "justin gaethje",
@@ -66,14 +66,14 @@
     },
     {
       "keyword": "catherine o'hara",
-      "score": 17000000,
+      "score": 17000001,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-01-31 13:38:02"
+      "timestamp": "2026-01-31 19:10:27"
     },
     {
       "keyword": "rams vs seahawks",
-      "score": 16000000,
+      "score": 15800000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-01-26 13:41:13"
@@ -100,67 +100,67 @@
       "timestamp": "2026-01-31 03:15:35"
     },
     {
-      "keyword": "extreme cold warning",
-      "score": 8200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-28 19:16:44"
-    },
-    {
       "keyword": "ryan wedding",
-      "score": 8200000,
+      "score": 8000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-29 03:16:40"
     },
     {
+      "keyword": "extreme cold warning",
+      "score": 7700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-28 19:16:44"
+    },
+    {
       "keyword": "ufc",
-      "score": 6500000,
+      "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-25 13:26:23"
     },
     {
-      "keyword": "oscar nominations 2026",
+      "keyword": "government shutdown 2026",
       "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-26 03:08:41"
+      "timestamp": "2026-01-31 19:10:27"
     },
     {
       "keyword": "elizabeth smart",
-      "score": 5700000,
+      "score": 5500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-28 07:12:26"
     },
     {
-      "keyword": "government shutdown 2026",
-      "score": 5000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-31 13:38:02"
-    },
-    {
-      "keyword": "don lemon",
-      "score": 4500000,
+      "keyword": "bridgerton season 4",
+      "score": 5300000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-31 13:38:02"
+      "timestamp": "2026-01-31 19:10:27"
     },
     {
       "keyword": "melania movie",
-      "score": 4500000,
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "娱乐/生活",
-      "timestamp": "2026-01-31 13:38:02"
+      "timestamp": "2026-01-31 19:10:27"
     },
     {
-      "keyword": "bridgerton season 4",
-      "score": 4300000,
+      "keyword": "oscar nominations 2026",
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-31 13:38:02"
+      "timestamp": "2026-01-26 03:08:41"
+    },
+    {
+      "keyword": "gold price",
+      "score": 4500000,
+      "traffic_numeric": 1000000,
+      "category": "金融/商业",
+      "timestamp": "2026-01-31 19:10:27"
     },
     {
       "keyword": "mark kerr",
@@ -170,11 +170,11 @@
       "timestamp": "2026-01-30 07:36:02"
     },
     {
-      "keyword": "nicola peltz",
+      "keyword": "don lemon",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-01-25 13:26:23"
+      "timestamp": "2026-01-31 13:38:02"
     },
     {
       "keyword": "nipah virus",
@@ -185,17 +185,10 @@
     },
     {
       "keyword": "ice storm warning",
-      "score": 3700000,
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-26 13:41:13"
-    },
-    {
-      "keyword": "gold price",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "金融/商业",
-      "timestamp": "2026-01-31 13:38:02"
     },
     {
       "keyword": "victoria beckham",
@@ -205,16 +198,23 @@
       "timestamp": "2026-01-26 19:14:57"
     },
     {
+      "keyword": "nicola peltz",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-01-25 13:26:23"
+    },
+    {
       "keyword": "free bert",
-      "score": 2900000,
+      "score": 2800000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-01-29 07:39:22"
     }
   ],
   "category_stats": {
-    "其他": 119,
-    "体育": 20,
+    "其他": 121,
+    "体育": 21,
     "金融/商业": 5,
     "科技/AI": 3,
     "娱乐/生活": 2

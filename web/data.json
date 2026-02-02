@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01 19:12:59",
+  "last_updated": "2026-02-02 03:37:23",
   "trends": [
     {
       "keyword": "superbowl",
@@ -17,31 +17,17 @@
     },
     {
       "keyword": "winter storm watch",
-      "score": 30000003,
+      "score": 25000003,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-28 03:08:04"
     },
     {
-      "keyword": "patriots vs broncos",
-      "score": 22000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-01-27 02:56:58"
-    },
-    {
       "keyword": "alex honnold",
-      "score": 21000000,
+      "score": 20000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-29 07:39:22"
-    },
-    {
-      "keyword": "winter storm",
-      "score": 20000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-26 19:14:57"
     },
     {
       "keyword": "alex pretti shooting",
@@ -51,36 +37,43 @@
       "timestamp": "2026-01-31 19:10:27"
     },
     {
+      "keyword": "catherine o'hara",
+      "score": 17000006,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-02 03:37:23"
+    },
+    {
+      "keyword": "patriots vs broncos",
+      "score": 17000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-01-27 02:56:58"
+    },
+    {
       "keyword": "alex pretti",
-      "score": 18000000,
+      "score": 16000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-29 03:16:40"
     },
     {
       "keyword": "justin gaethje",
-      "score": 18000000,
+      "score": 16000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-01-28 07:12:26"
     },
     {
-      "keyword": "catherine o'hara",
-      "score": 17000005,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-01 19:12:59"
-    },
-    {
-      "keyword": "rams vs seahawks",
+      "keyword": "winter storm",
       "score": 15000000,
       "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-01-26 13:41:13"
+      "category": "其他",
+      "timestamp": "2026-01-26 19:14:57"
     },
     {
       "keyword": "super bowl 2026",
-      "score": 12000000,
+      "score": 11000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-01-27 02:56:58"
@@ -93,6 +86,13 @@
       "timestamp": "2026-01-31 03:15:35"
     },
     {
+      "keyword": "melania movie",
+      "score": 10000000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-02-02 03:37:23"
+    },
+    {
       "keyword": "superbowl sunday 2026",
       "score": 10000000,
       "traffic_numeric": 5000000,
@@ -100,18 +100,25 @@
       "timestamp": "2026-01-31 03:15:35"
     },
     {
-      "keyword": "melania movie",
-      "score": 9000000,
-      "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-02-01 19:12:59"
+      "keyword": "rams vs seahawks",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-01-26 13:41:13"
     },
     {
       "keyword": "bridgerton season 4",
-      "score": 7800000,
+      "score": 8300000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-01 19:12:59"
+      "timestamp": "2026-02-02 03:37:23"
+    },
+    {
+      "keyword": "epstein files",
+      "score": 7750000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-02 03:37:23"
     },
     {
       "keyword": "government shutdown 2026",
@@ -121,32 +128,18 @@
       "timestamp": "2026-02-01 13:41:07"
     },
     {
-      "keyword": "ryan wedding",
-      "score": 6000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-29 03:16:40"
-    },
-    {
       "keyword": "extreme cold warning",
-      "score": 6000000,
+      "score": 5500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-01-28 19:16:44"
     },
     {
-      "keyword": "epstein files",
-      "score": 5750000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-01 19:12:59"
-    },
-    {
-      "keyword": "elizabeth smart",
-      "score": 4700000,
+      "keyword": "ryan wedding",
+      "score": 5500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-01-28 07:12:26"
+      "timestamp": "2026-01-29 03:16:40"
     },
     {
       "keyword": "ufc 325",
@@ -163,6 +156,13 @@
       "timestamp": "2026-01-31 19:10:27"
     },
     {
+      "keyword": "elizabeth smart",
+      "score": 4500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-01-28 07:12:26"
+    },
+    {
       "keyword": "nipah virus",
       "score": 3800000,
       "traffic_numeric": 500000,
@@ -177,18 +177,25 @@
       "timestamp": "2026-01-31 13:38:02"
     },
     {
-      "keyword": "mark kerr",
-      "score": 3400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-01-30 07:36:02"
-    },
-    {
       "keyword": "irs refund",
       "score": 3300000,
       "traffic_numeric": 500000,
       "category": "金融/商业",
       "timestamp": "2026-02-01 19:12:59"
+    },
+    {
+      "keyword": "nicki minaj",
+      "score": 3300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-02 03:37:23"
+    },
+    {
+      "keyword": "mark kerr",
+      "score": 3200000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-01-30 07:36:02"
     },
     {
       "keyword": "shakur stevenson",
@@ -198,25 +205,18 @@
       "timestamp": "2026-02-01 19:12:59"
     },
     {
-      "keyword": "clawdbot",
-      "score": 2800000,
-      "traffic_numeric": 200000,
+      "keyword": "grammys 2026",
+      "score": 3100000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-01-31 19:10:27"
-    },
-    {
-      "keyword": "nicki minaj",
-      "score": 2800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-01 13:41:07"
+      "timestamp": "2026-02-02 03:37:23"
     }
   ],
   "category_stats": {
-    "其他": 121,
-    "体育": 22,
+    "其他": 125,
+    "体育": 23,
+    "科技/AI": 5,
     "金融/商业": 5,
-    "科技/AI": 4,
     "娱乐/生活": 2
   },
   "insights": [

@@ -1,13 +1,6 @@
 {
-  "last_updated": "2026-02-04 14:00:46",
+  "last_updated": "2026-02-04 19:33:27",
   "trends": [
-    {
-      "keyword": "superbowl",
-      "score": 36000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-01 07:29:23"
-    },
     {
       "keyword": "when is the super bowl",
       "score": 35200000,
@@ -17,38 +10,45 @@
     },
     {
       "keyword": "grammy winners 2026",
-      "score": 27500000,
+      "score": 32500000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-04 14:00:46"
+      "timestamp": "2026-02-04 19:33:27"
+    },
+    {
+      "keyword": "superbowl",
+      "score": 31000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-01 07:29:23"
     },
     {
       "keyword": "epstein files",
-      "score": 24750000,
+      "score": 26750000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-04 14:00:46"
+      "timestamp": "2026-02-04 19:33:27"
     },
     {
       "keyword": "catherine o'hara",
-      "score": 17000015,
+      "score": 17000016,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-04 14:00:46"
+      "timestamp": "2026-02-04 19:33:27"
     },
     {
       "keyword": "did the groundhog see his shadow 2026",
-      "score": 14000000,
+      "score": 16000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-04 14:00:46"
+      "timestamp": "2026-02-04 19:33:27"
     },
     {
-      "keyword": "alex pretti shooting",
-      "score": 13500000,
+      "keyword": "savannah guthrie",
+      "score": 13100000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-01-31 19:10:27"
+      "timestamp": "2026-02-04 19:33:27"
     },
     {
       "keyword": "grammys 2026",
@@ -65,11 +65,11 @@
       "timestamp": "2026-02-02 13:49:00"
     },
     {
-      "keyword": "savannah guthrie",
-      "score": 11100000,
+      "keyword": "alex pretti shooting",
+      "score": 11500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-04 14:00:46"
+      "timestamp": "2026-01-31 19:10:27"
     },
     {
       "keyword": "chappell roan grammys",
@@ -93,22 +93,22 @@
       "timestamp": "2026-02-02 07:44:40"
     },
     {
-      "keyword": "tom homan",
+      "keyword": "bridgerton cast",
       "score": 8000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-04 19:33:27"
+    },
+    {
+      "keyword": "tom homan",
+      "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-01-31 03:15:35"
     },
     {
-      "keyword": "bridgerton cast",
-      "score": 7000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-04 07:34:15"
-    },
-    {
       "keyword": "government shutdown 2026",
-      "score": 7000000,
+      "score": 6800000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-01 13:41:07"
@@ -135,8 +135,15 @@
       "timestamp": "2026-01-31 19:10:27"
     },
     {
+      "keyword": "billie eilish",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-04 19:33:27"
+    },
+    {
       "keyword": "ufc 325",
-      "score": 4100000,
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-01 13:41:07"
@@ -149,6 +156,20 @@
       "timestamp": "2026-01-29 07:39:22"
     },
     {
+      "keyword": "bad bunny",
+      "score": 3900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-04 19:33:27"
+    },
+    {
+      "keyword": "chappell roan",
+      "score": 3700000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-02-04 19:33:27"
+    },
+    {
       "keyword": "don lemon",
       "score": 3500000,
       "traffic_numeric": 1000000,
@@ -156,11 +177,11 @@
       "timestamp": "2026-01-31 13:38:02"
     },
     {
-      "keyword": "bad bunny",
-      "score": 3400000,
-      "traffic_numeric": 500000,
+      "keyword": "2026 winter olympics",
+      "score": 3500000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-04 14:00:46"
+      "timestamp": "2026-02-04 19:33:27"
     },
     {
       "keyword": "olivia dean",
@@ -177,18 +198,11 @@
       "timestamp": "2026-02-01 19:12:59"
     },
     {
-      "keyword": "billie eilish",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-04 14:00:46"
-    },
-    {
       "keyword": "moltbook",
-      "score": 2950000,
+      "score": 3150000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-02-04 14:00:46"
+      "timestamp": "2026-02-04 19:33:27"
     },
     {
       "keyword": "iron lung",
@@ -196,25 +210,11 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-02 13:49:00"
-    },
-    {
-      "keyword": "cher",
-      "score": 2800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-04 03:27:14"
-    },
-    {
-      "keyword": "nipah virus",
-      "score": 2700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-01-30 19:22:23"
     }
   ],
   "category_stats": {
-    "其他": 131,
-    "体育": 20,
+    "其他": 129,
+    "体育": 21,
     "科技/AI": 6,
     "金融/商业": 5,
     "娱乐/生活": 2

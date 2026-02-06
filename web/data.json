@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-02-06 13:55:25",
+  "last_updated": "2026-02-06 19:32:35",
   "trends": [
     {
       "keyword": "savannah guthrie",
-      "score": 48100000,
+      "score": 53100000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-06 13:55:25"
-    },
-    {
-      "keyword": "epstein files",
-      "score": 40750000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-06 13:55:25"
+      "timestamp": "2026-02-06 19:32:35"
     },
     {
       "keyword": "2026 winter olympics",
-      "score": 38500000,
+      "score": 43500000,
       "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-06 19:32:35"
+    },
+    {
+      "keyword": "epstein files",
+      "score": 40700000,
+      "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-06 13:55:25"
     },
@@ -38,7 +38,7 @@
     },
     {
       "keyword": "catherine o'hara",
-      "score": 22000022,
+      "score": 20000022,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-06 13:55:25"
@@ -52,10 +52,10 @@
     },
     {
       "keyword": "chappell roan grammys",
-      "score": 18000000,
+      "score": 19000000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
-      "timestamp": "2026-02-06 07:40:09"
+      "timestamp": "2026-02-06 19:32:35"
     },
     {
       "keyword": "grammys 2026",
@@ -72,39 +72,32 @@
       "timestamp": "2026-02-01 07:29:23"
     },
     {
+      "keyword": "bad bunny",
+      "score": 10400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-06 19:32:35"
+    },
+    {
       "keyword": "melania movie",
-      "score": 10500000,
+      "score": 10000000,
       "traffic_numeric": 1000000,
       "category": "娱乐/生活",
       "timestamp": "2026-02-02 13:49:00"
     },
     {
-      "keyword": "superbowl sunday 2026",
-      "score": 10000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-01-31 03:15:35"
-    },
-    {
-      "keyword": "bad bunny",
-      "score": 9400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-06 13:55:25"
+      "keyword": "chappell roan",
+      "score": 9200000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-02-06 19:32:35"
     },
     {
       "keyword": "billie eilish",
-      "score": 8900000,
+      "score": 9100000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-06 13:55:25"
-    },
-    {
-      "keyword": "chappell roan",
-      "score": 8700000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-02-06 13:55:25"
+      "timestamp": "2026-02-06 19:32:35"
     },
     {
       "keyword": "bridgerton cast",
@@ -115,17 +108,17 @@
     },
     {
       "keyword": "bridgerton season 4",
-      "score": 8000000,
+      "score": 7500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-02 07:44:40"
     },
     {
       "keyword": "nba trades",
-      "score": 6000000,
+      "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-02-06 13:55:25"
+      "timestamp": "2026-02-06 19:32:35"
     },
     {
       "keyword": "moltbook",
@@ -142,6 +135,13 @@
       "timestamp": "2026-02-02 13:49:00"
     },
     {
+      "keyword": "superbowl sunday 2026",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-01-31 03:15:35"
+    },
+    {
       "keyword": "catherine o'hara cause of death",
       "score": 5000000,
       "traffic_numeric": 5000000,
@@ -149,53 +149,46 @@
       "timestamp": "2026-02-06 13:55:25"
     },
     {
-      "keyword": "government shutdown 2026",
+      "keyword": "bitcoin price",
       "score": 4500000,
+      "traffic_numeric": 1000000,
+      "category": "金融/商业",
+      "timestamp": "2026-02-06 19:32:35"
+    },
+    {
+      "keyword": "jeffrey epstein",
+      "score": 4400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-06 19:32:35"
+    },
+    {
+      "keyword": "nicki minaj",
+      "score": 4100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-03 13:53:17"
+    },
+    {
+      "keyword": "government shutdown 2026",
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-01 13:41:07"
     },
     {
       "keyword": "gold price",
-      "score": 4500000,
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "金融/商业",
       "timestamp": "2026-01-31 19:10:27"
     },
     {
-      "keyword": "nicki minaj",
-      "score": 4300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-03 13:53:17"
-    },
-    {
-      "keyword": "don lemon",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-01-31 13:38:02"
-    },
-    {
       "keyword": "peter attia",
-      "score": 3500000,
+      "score": 3700000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-02-06 13:55:25"
-    },
-    {
-      "keyword": "bitcoin price",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "金融/商业",
-      "timestamp": "2026-02-06 13:55:25"
-    },
-    {
-      "keyword": "jeffrey epstein",
-      "score": 3400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-06 13:55:25"
+      "timestamp": "2026-02-06 19:32:35"
     },
     {
       "keyword": "cher",
@@ -210,14 +203,21 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-04 07:34:15"
+    },
+    {
+      "keyword": "irs refund",
+      "score": 3100000,
+      "traffic_numeric": 500000,
+      "category": "金融/商业",
+      "timestamp": "2026-02-01 19:12:59"
     }
   ],
   "category_stats": {
-    "其他": 114,
+    "其他": 111,
     "体育": 19,
-    "金融/商业": 5,
     "科技/AI": 5,
-    "娱乐/生活": 2
+    "金融/商业": 3,
+    "娱乐/生活": 3
   },
   "insights": [
     {

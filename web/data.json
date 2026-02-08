@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-02-07 19:09:47",
+  "last_updated": "2026-02-08 03:51:54",
   "trends": [
     {
       "keyword": "savannah guthrie",
-      "score": 68100001,
+      "score": 68100002,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-07 19:09:47"
+      "timestamp": "2026-02-08 03:51:54"
     },
     {
       "keyword": "2026 winter olympics",
-      "score": 43500004,
+      "score": 43500005,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-07 19:09:47"
+      "timestamp": "2026-02-08 03:51:54"
     },
     {
       "keyword": "epstein files",
-      "score": 39500000,
+      "score": 39000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-06 13:55:25"
@@ -45,24 +45,17 @@
     },
     {
       "keyword": "chappell roan",
-      "score": 15200000,
+      "score": 17200000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
-      "timestamp": "2026-02-07 13:45:15"
-    },
-    {
-      "keyword": "when is the super bowl",
-      "score": 15000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-01 19:12:59"
+      "timestamp": "2026-02-08 03:51:54"
     },
     {
       "keyword": "bad bunny",
-      "score": 14400000,
+      "score": 15400000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-07 19:09:47"
+      "timestamp": "2026-02-08 03:51:54"
     },
     {
       "keyword": "grammys 2026",
@@ -73,10 +66,10 @@
     },
     {
       "keyword": "billie eilish",
-      "score": 10200000,
+      "score": 10400000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-07 19:09:47"
+      "timestamp": "2026-02-08 03:51:54"
     },
     {
       "keyword": "superbowl",
@@ -84,6 +77,13 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-01 07:29:23"
+    },
+    {
+      "keyword": "when is the super bowl",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-01 19:12:59"
     },
     {
       "keyword": "nba trades",
@@ -101,31 +101,24 @@
     },
     {
       "keyword": "melania movie",
-      "score": 7500000,
+      "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "娱乐/生活",
       "timestamp": "2026-02-02 13:49:00"
     },
     {
-      "keyword": "shakur stevenson",
-      "score": 5100000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-02 13:49:00"
-    },
-    {
       "keyword": "catherine o'hara",
-      "score": 5000022,
+      "score": 5000021,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-06 13:55:25"
     },
     {
-      "keyword": "bridgerton season 4",
+      "keyword": "shakur stevenson",
       "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-02 07:44:40"
+      "timestamp": "2026-02-02 13:49:00"
     },
     {
       "keyword": "catherine o'hara cause of death",
@@ -136,7 +129,7 @@
     },
     {
       "keyword": "moltbook",
-      "score": 5000000,
+      "score": 4900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-06 13:55:25"
@@ -163,18 +156,32 @@
       "timestamp": "2026-02-07 07:32:41"
     },
     {
-      "keyword": "nicki minaj",
-      "score": 3900000,
-      "traffic_numeric": 500000,
+      "keyword": "bridgerton season 4",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-03 13:53:17"
+      "timestamp": "2026-02-02 07:44:40"
     },
     {
       "keyword": "lewis hamilton",
-      "score": 3700000,
+      "score": 3900000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-02-07 19:09:47"
+      "timestamp": "2026-02-08 03:51:54"
+    },
+    {
+      "keyword": "trumprx",
+      "score": 3600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-08 03:51:54"
+    },
+    {
+      "keyword": "nicki minaj",
+      "score": 3400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-03 13:53:17"
     },
     {
       "keyword": "cher",
@@ -189,13 +196,6 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-04 07:34:15"
-    },
-    {
-      "keyword": "trumprx",
-      "score": 3100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-07 19:09:47"
     },
     {
       "keyword": "james harden",
@@ -213,11 +213,11 @@
     }
   ],
   "category_stats": {
-    "其他": 114,
+    "其他": 116,
     "体育": 20,
     "科技/AI": 5,
     "娱乐/生活": 4,
-    "金融/商业": 3
+    "金融/商业": 2
   },
   "insights": [
     {

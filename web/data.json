@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08 19:20:05",
+  "last_updated": "2026-02-09 03:44:17",
   "trends": [
     {
       "keyword": "savannah guthrie",
@@ -10,14 +10,14 @@
     },
     {
       "keyword": "2026 winter olympics",
-      "score": 43500008,
+      "score": 43500009,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-08 19:20:05"
+      "timestamp": "2026-02-09 03:44:17"
     },
     {
       "keyword": "epstein files",
-      "score": 35000000,
+      "score": 33000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-06 13:55:25"
@@ -38,7 +38,7 @@
     },
     {
       "keyword": "chappell roan",
-      "score": 21700000,
+      "score": 21500000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-02-08 19:20:05"
@@ -58,18 +58,25 @@
       "timestamp": "2026-02-05 13:56:27"
     },
     {
-      "keyword": "grammys 2026",
-      "score": 12000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-02 13:49:00"
-    },
-    {
       "keyword": "billie eilish",
       "score": 11000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-08 19:20:05"
+    },
+    {
+      "keyword": "grammys 2026",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-02 13:49:00"
+    },
+    {
+      "keyword": "olympics schedule",
+      "score": 9200000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-09 03:44:17"
     },
     {
       "keyword": "nba trades",
@@ -79,11 +86,11 @@
       "timestamp": "2026-02-07 13:45:15"
     },
     {
-      "keyword": "olympics schedule",
-      "score": 8200000,
-      "traffic_numeric": 2000000,
+      "keyword": "kid rock",
+      "score": 8000000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-08 19:20:05"
+      "timestamp": "2026-02-09 03:44:17"
     },
     {
       "keyword": "what time is the super bowl",
@@ -94,21 +101,21 @@
     },
     {
       "keyword": "bridgerton cast",
-      "score": 6500000,
+      "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-04 19:33:27"
     },
     {
       "keyword": "trumprx",
-      "score": 5100000,
+      "score": 5600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-02-08 19:20:05"
+      "timestamp": "2026-02-09 03:44:17"
     },
     {
       "keyword": "catherine o'hara",
-      "score": 5000017,
+      "score": 5000016,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-06 13:55:25"
@@ -121,18 +128,18 @@
       "timestamp": "2026-02-06 13:55:25"
     },
     {
-      "keyword": "lewis hamilton",
-      "score": 4500000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-02-08 19:20:05"
-    },
-    {
       "keyword": "bitcoin price",
       "score": 4500000,
       "traffic_numeric": 1000000,
       "category": "金融/商业",
       "timestamp": "2026-02-06 19:32:35"
+    },
+    {
+      "keyword": "lewis hamilton",
+      "score": 4500000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-02-08 19:20:05"
     },
     {
       "keyword": "jeffrey epstein",
@@ -143,17 +150,24 @@
     },
     {
       "keyword": "peter attia",
-      "score": 4300000,
+      "score": 4200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-07 07:32:41"
     },
     {
       "keyword": "moltbook",
-      "score": 4200000,
+      "score": 4000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-06 13:55:25"
+    },
+    {
+      "keyword": "brad arnold",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-09 03:44:17"
     },
     {
       "keyword": "super bowl time",
@@ -161,13 +175,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-08 13:41:30"
-    },
-    {
-      "keyword": "olivia dean",
-      "score": 3300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-04 07:34:15"
     },
     {
       "keyword": "cher",
@@ -184,18 +191,11 @@
       "timestamp": "2026-02-08 07:31:58"
     },
     {
-      "keyword": "opalite music video",
-      "score": 3000000,
+      "keyword": "olivia dean",
+      "score": 3100000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-02-08 19:20:05"
-    },
-    {
-      "keyword": "kid rock",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-08 19:20:05"
+      "timestamp": "2026-02-04 07:34:15"
     },
     {
       "keyword": "james harden",
@@ -205,16 +205,16 @@
       "timestamp": "2026-02-05 13:56:27"
     },
     {
-      "keyword": "melania movie",
+      "keyword": "opalite music video",
       "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-02-02 13:49:00"
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-08 19:20:05"
     }
   ],
   "category_stats": {
-    "其他": 102,
-    "体育": 18,
+    "其他": 113,
+    "体育": 19,
     "科技/AI": 5,
     "娱乐/生活": 4,
     "金融/商业": 1

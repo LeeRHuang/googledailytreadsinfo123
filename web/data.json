@@ -1,37 +1,37 @@
 {
-  "last_updated": "2026-02-09 20:01:15",
+  "last_updated": "2026-02-10 03:50:25",
   "trends": [
     {
       "keyword": "savannah guthrie",
-      "score": 68000005,
+      "score": 67000005,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-08 19:20:05"
     },
     {
       "keyword": "2026 winter olympics",
-      "score": 43500012,
+      "score": 43500013,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-09 20:01:15"
-    },
-    {
-      "keyword": "grammy winners 2026",
-      "score": 32500000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-04 19:33:27"
+      "timestamp": "2026-02-10 03:50:25"
     },
     {
       "keyword": "epstein files",
-      "score": 29000000,
+      "score": 28000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-06 13:55:25"
     },
     {
+      "keyword": "grammy winners 2026",
+      "score": 27500000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-04 19:33:27"
+    },
+    {
       "keyword": "chappell roan grammys",
-      "score": 22000000,
+      "score": 21000000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-02-08 19:20:05"
@@ -44,18 +44,18 @@
       "timestamp": "2026-02-08 19:20:05"
     },
     {
-      "keyword": "did the groundhog see his shadow 2026",
-      "score": 20000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-05 13:56:27"
-    },
-    {
       "keyword": "bad bunny",
-      "score": 19700000,
+      "score": 19200000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-08 19:20:05"
+    },
+    {
+      "keyword": "did the groundhog see his shadow 2026",
+      "score": 18000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-05 13:56:27"
     },
     {
       "keyword": "kid rock",
@@ -66,10 +66,10 @@
     },
     {
       "keyword": "olympics schedule",
-      "score": 11700000,
+      "score": 12200000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-09 20:01:15"
+      "timestamp": "2026-02-10 03:50:25"
     },
     {
       "keyword": "billie eilish",
@@ -77,6 +77,13 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-08 19:20:05"
+    },
+    {
+      "keyword": "kid rock halftime show",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-02-10 03:50:25"
     },
     {
       "keyword": "nba trades",
@@ -87,10 +94,17 @@
     },
     {
       "keyword": "brad arnold",
-      "score": 7000000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-09 20:01:15"
+      "timestamp": "2026-02-10 03:50:25"
+    },
+    {
+      "keyword": "trumprx",
+      "score": 7100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-10 03:50:25"
     },
     {
       "keyword": "what time is the super bowl",
@@ -100,13 +114,6 @@
       "timestamp": "2026-02-08 19:20:05"
     },
     {
-      "keyword": "trumprx",
-      "score": 6600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-09 20:01:15"
-    },
-    {
       "keyword": "nancy guthrie update",
       "score": 6000000,
       "traffic_numeric": 2000000,
@@ -114,15 +121,15 @@
       "timestamp": "2026-02-09 20:01:15"
     },
     {
-      "keyword": "bridgerton cast",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
+      "keyword": "olimpiadas de invierno 2026",
+      "score": 5150000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-02-04 19:33:27"
+      "timestamp": "2026-02-10 03:50:25"
     },
     {
       "keyword": "catherine o'hara",
-      "score": 5000014,
+      "score": 5000013,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-06 13:55:25"
@@ -135,18 +142,18 @@
       "timestamp": "2026-02-09 20:01:15"
     },
     {
+      "keyword": "super bowl score",
+      "score": 5000001,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-02-10 03:50:25"
+    },
+    {
       "keyword": "seahawks vs patriots",
       "score": 5000001,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-02-09 07:50:16"
-    },
-    {
-      "keyword": "kid rock halftime show",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-02-09 20:01:15"
     },
     {
       "keyword": "catherine o'hara cause of death",
@@ -156,11 +163,18 @@
       "timestamp": "2026-02-06 13:55:25"
     },
     {
-      "keyword": "olimpiadas de invierno 2026",
-      "score": 4650000,
-      "traffic_numeric": 500000,
+      "keyword": "bridgerton cast",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-09 20:01:15"
+      "timestamp": "2026-02-04 19:33:27"
+    },
+    {
+      "keyword": "ilia malinin",
+      "score": 4950000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-10 03:50:25"
     },
     {
       "keyword": "bitcoin price",
@@ -171,7 +185,7 @@
     },
     {
       "keyword": "lewis hamilton",
-      "score": 4500000,
+      "score": 4400000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-02-08 19:20:05"
@@ -184,39 +198,25 @@
       "timestamp": "2026-02-06 19:32:35"
     },
     {
-      "keyword": "ilia malinin",
-      "score": 3950000,
+      "keyword": "super bowl mvp",
+      "score": 4200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-09 20:01:15"
+      "timestamp": "2026-02-10 03:50:25"
     },
     {
-      "keyword": "peter attia",
-      "score": 3900000,
-      "traffic_numeric": 500000,
+      "keyword": "olympic medal count",
+      "score": 3800000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-07 07:32:41"
-    },
-    {
-      "keyword": "moltbook",
-      "score": 3600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-06 13:55:25"
-    },
-    {
-      "keyword": "super bowl time",
-      "score": 3500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-08 13:41:30"
+      "timestamp": "2026-02-10 03:50:25"
     }
   ],
   "category_stats": {
-    "其他": 114,
-    "体育": 20,
-    "科技/AI": 6,
-    "娱乐/生活": 4,
+    "其他": 112,
+    "体育": 21,
+    "科技/AI": 7,
+    "娱乐/生活": 5,
     "金融/商业": 1
   },
   "insights": [

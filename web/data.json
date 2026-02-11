@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-02-11 03:44:52",
+  "last_updated": "2026-02-11 07:41:11",
   "trends": [
     {
       "keyword": "savannah guthrie",
-      "score": 61000005,
+      "score": 59000005,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-08 19:20:05"
     },
     {
       "keyword": "2026 winter olympics",
-      "score": 43500016,
+      "score": 43000016,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-10 19:48:01"
@@ -30,13 +30,6 @@
       "timestamp": "2026-02-08 19:20:05"
     },
     {
-      "keyword": "epstein files",
-      "score": 20000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-06 13:55:25"
-    },
-    {
       "keyword": "kid rock",
       "score": 18000000,
       "traffic_numeric": 5000000,
@@ -44,8 +37,15 @@
       "timestamp": "2026-02-09 14:09:03"
     },
     {
-      "keyword": "bad bunny",
+      "keyword": "epstein files",
       "score": 18000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-06 13:55:25"
+    },
+    {
+      "keyword": "bad bunny",
+      "score": 17500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-08 19:20:05"
@@ -58,13 +58,6 @@
       "timestamp": "2026-02-10 14:17:54"
     },
     {
-      "keyword": "chappell roan grammys",
-      "score": 14000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-02-08 19:20:05"
-    },
-    {
       "keyword": "olympics schedule",
       "score": 13700000,
       "traffic_numeric": 2000000,
@@ -73,38 +66,38 @@
     },
     {
       "keyword": "brad arnold",
-      "score": 12000000,
+      "score": 13000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-11 03:44:52"
+      "timestamp": "2026-02-11 07:41:11"
+    },
+    {
+      "keyword": "chappell roan grammys",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-02-08 19:20:05"
+    },
+    {
+      "keyword": "ilia malinin",
+      "score": 10950000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-11 07:41:11"
     },
     {
       "keyword": "grammy winners 2026",
-      "score": 10500000,
+      "score": 10000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-04 19:33:27"
     },
     {
-      "keyword": "did the groundhog see his shadow 2026",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-05 13:56:27"
-    },
-    {
       "keyword": "billie eilish",
-      "score": 10000000,
+      "score": 9000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-08 19:20:05"
-    },
-    {
-      "keyword": "ilia malinin",
-      "score": 8950000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-11 03:44:52"
     },
     {
       "keyword": "trumprx",
@@ -114,23 +107,30 @@
       "timestamp": "2026-02-11 03:44:52"
     },
     {
+      "keyword": "did the groundhog see his shadow 2026",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-05 13:56:27"
+    },
+    {
       "keyword": "nba trades",
-      "score": 8400000,
+      "score": 7900000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-02-07 13:45:15"
     },
     {
+      "keyword": "olympic medal count",
+      "score": 7800000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-11 07:41:11"
+    },
+    {
       "keyword": "olimpiadas de invierno 2026",
       "score": 7150000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-11 03:44:52"
-    },
-    {
-      "keyword": "olympic medal count",
-      "score": 6800000,
-      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-11 03:44:52"
     },
@@ -157,7 +157,7 @@
     },
     {
       "keyword": "catherine o'hara",
-      "score": 5000009,
+      "score": 5000008,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-06 13:55:25"
@@ -177,13 +177,6 @@
       "timestamp": "2026-02-09 07:50:16"
     },
     {
-      "keyword": "catherine o'hara cause of death",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-06 13:55:25"
-    },
-    {
       "keyword": "guthrie update",
       "score": 5000000,
       "traffic_numeric": 2000000,
@@ -191,18 +184,25 @@
       "timestamp": "2026-02-10 19:48:01"
     },
     {
+      "keyword": "catherine o'hara cause of death",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-06 13:55:25"
+    },
+    {
+      "keyword": "charlie puth",
+      "score": 5000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-11 07:41:11"
+    },
+    {
       "keyword": "bitcoin price",
       "score": 4500000,
       "traffic_numeric": 1000000,
       "category": "金融/商业",
       "timestamp": "2026-02-06 19:32:35"
-    },
-    {
-      "keyword": "charlie puth",
-      "score": 4500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-11 03:44:52"
     },
     {
       "keyword": "super bowl mvp",
@@ -213,9 +213,9 @@
     }
   ],
   "category_stats": {
-    "其他": 108,
+    "其他": 110,
     "体育": 24,
-    "科技/AI": 8,
+    "科技/AI": 9,
     "娱乐/生活": 5,
     "金融/商业": 1
   },

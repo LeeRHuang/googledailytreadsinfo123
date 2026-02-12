@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-02-12 07:49:08",
+  "last_updated": "2026-02-12 14:09:29",
   "trends": [
     {
       "keyword": "savannah guthrie",
-      "score": 45000005,
+      "score": 40000005,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-08 19:20:05"
     },
     {
       "keyword": "2026 winter olympics",
-      "score": 30000016,
+      "score": 25000016,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-10 19:48:01"
@@ -23,32 +23,32 @@
       "timestamp": "2026-02-10 19:48:01"
     },
     {
-      "keyword": "kid rock",
+      "keyword": "brad arnold",
       "score": 18000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-12 14:09:29"
+    },
+    {
+      "keyword": "kid rock",
+      "score": 17800000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-09 14:09:03"
     },
     {
       "keyword": "chappell roan",
-      "score": 17000000,
+      "score": 16500000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-02-08 19:20:05"
     },
     {
-      "keyword": "brad arnold",
-      "score": 17000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-12 07:49:08"
-    },
-    {
-      "keyword": "bad bunny",
-      "score": 15500000,
+      "keyword": "ilia malinin",
+      "score": 15950000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-08 19:20:05"
+      "timestamp": "2026-02-12 14:09:29"
     },
     {
       "keyword": "super bowl score",
@@ -58,11 +58,25 @@
       "timestamp": "2026-02-10 14:17:54"
     },
     {
-      "keyword": "ilia malinin",
-      "score": 14950000,
+      "keyword": "bad bunny",
+      "score": 14500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-12 07:49:08"
+      "timestamp": "2026-02-08 19:20:05"
+    },
+    {
+      "keyword": "nancy guthrie update today",
+      "score": 14000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-02-12 14:09:29"
+    },
+    {
+      "keyword": "olympic medal count",
+      "score": 13800000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-12 14:09:29"
     },
     {
       "keyword": "olympics schedule",
@@ -72,39 +86,18 @@
       "timestamp": "2026-02-10 19:48:01"
     },
     {
-      "keyword": "nancy guthrie update today",
-      "score": 12000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-02-12 07:49:08"
-    },
-    {
-      "keyword": "olympic medal count",
-      "score": 11800000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-12 07:49:08"
-    },
-    {
       "keyword": "trumprx",
-      "score": 10100000,
+      "score": 10600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-02-12 03:46:09"
+      "timestamp": "2026-02-12 14:09:29"
     },
     {
       "keyword": "epstein files",
-      "score": 10000000,
+      "score": 8000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-06 13:55:25"
-    },
-    {
-      "keyword": "chappell roan grammys",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-02-08 19:20:05"
     },
     {
       "keyword": "charlie puth",
@@ -114,8 +107,22 @@
       "timestamp": "2026-02-12 07:49:08"
     },
     {
+      "keyword": "ricky martin",
+      "score": 7000008,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-12 14:09:29"
+    },
+    {
+      "keyword": "chappell roan grammys",
+      "score": 7000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-02-08 19:20:05"
+    },
+    {
       "keyword": "olimpiadas de invierno 2026",
-      "score": 6900000,
+      "score": 6800000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-11 03:44:52"
@@ -126,13 +133,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-10 19:48:01"
-    },
-    {
-      "keyword": "nba trades",
-      "score": 6500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-02-07 13:45:15"
     },
     {
       "keyword": "what time is the super bowl",
@@ -149,18 +149,32 @@
       "timestamp": "2026-02-09 20:01:15"
     },
     {
-      "keyword": "jutta leerdam",
-      "score": 5200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-12 07:49:08"
+      "keyword": "nba trades",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-02-07 13:45:15"
     },
     {
-      "keyword": "ricky martin",
-      "score": 5000008,
+      "keyword": "james vanderbeek",
+      "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-12 07:49:08"
+      "timestamp": "2026-02-12 14:09:29"
+    },
+    {
+      "keyword": "jutta leerdam",
+      "score": 5700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-12 14:09:29"
+    },
+    {
+      "keyword": "jessica alba",
+      "score": 5100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-12 14:09:29"
     },
     {
       "keyword": "who won the super bowl 2026",
@@ -171,7 +185,7 @@
     },
     {
       "keyword": "catherine o'hara",
-      "score": 5000004,
+      "score": 5000003,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-06 13:55:25"
@@ -184,20 +198,6 @@
       "timestamp": "2026-02-09 07:50:16"
     },
     {
-      "keyword": "billie eilish",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-08 19:20:05"
-    },
-    {
-      "keyword": "catherine o'hara cause of death",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-06 13:55:25"
-    },
-    {
       "keyword": "guthrie update",
       "score": 5000000,
       "traffic_numeric": 2000000,
@@ -205,17 +205,17 @@
       "timestamp": "2026-02-10 19:48:01"
     },
     {
-      "keyword": "jessica alba",
-      "score": 4600000,
-      "traffic_numeric": 500000,
+      "keyword": "catherine o'hara cause of death",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-12 07:49:08"
+      "timestamp": "2026-02-06 13:55:25"
     }
   ],
   "category_stats": {
-    "其他": 109,
-    "体育": 24,
-    "科技/AI": 10,
+    "其他": 108,
+    "体育": 22,
+    "科技/AI": 11,
     "娱乐/生活": 4,
     "金融/商业": 1
   },

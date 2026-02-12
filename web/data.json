@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-02-11 19:49:38",
+  "last_updated": "2026-02-12 03:46:09",
   "trends": [
     {
       "keyword": "savannah guthrie",
-      "score": 55000005,
+      "score": 50000005,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-08 19:20:05"
     },
     {
       "keyword": "2026 winter olympics",
-      "score": 40000016,
+      "score": 35000016,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-10 19:48:01"
@@ -23,13 +23,6 @@
       "timestamp": "2026-02-10 19:48:01"
     },
     {
-      "keyword": "chappell roan",
-      "score": 18000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-02-08 19:20:05"
-    },
-    {
       "keyword": "kid rock",
       "score": 18000000,
       "traffic_numeric": 5000000,
@@ -37,8 +30,22 @@
       "timestamp": "2026-02-09 14:09:03"
     },
     {
+      "keyword": "chappell roan",
+      "score": 17500000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-02-08 19:20:05"
+    },
+    {
+      "keyword": "brad arnold",
+      "score": 16000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-12 03:46:09"
+    },
+    {
       "keyword": "bad bunny",
-      "score": 16500000,
+      "score": 16000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-08 19:20:05"
@@ -51,18 +58,11 @@
       "timestamp": "2026-02-10 14:17:54"
     },
     {
-      "keyword": "brad arnold",
-      "score": 15000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-11 19:49:38"
-    },
-    {
-      "keyword": "epstein files",
-      "score": 14000000,
+      "keyword": "ilia malinin",
+      "score": 13950000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-06 13:55:25"
+      "timestamp": "2026-02-12 03:46:09"
     },
     {
       "keyword": "olympics schedule",
@@ -72,60 +72,60 @@
       "timestamp": "2026-02-10 19:48:01"
     },
     {
-      "keyword": "ilia malinin",
-      "score": 12950000,
+      "keyword": "epstein files",
+      "score": 12000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-11 19:49:38"
+      "timestamp": "2026-02-06 13:55:25"
+    },
+    {
+      "keyword": "olympic medal count",
+      "score": 10800000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-12 03:46:09"
+    },
+    {
+      "keyword": "trumprx",
+      "score": 10100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-12 03:46:09"
+    },
+    {
+      "keyword": "nancy guthrie update today",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-02-12 03:46:09"
     },
     {
       "keyword": "chappell roan grammys",
-      "score": 11000000,
+      "score": 9000000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-02-08 19:20:05"
     },
     {
-      "keyword": "olympic medal count",
-      "score": 9800000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-11 19:49:38"
-    },
-    {
-      "keyword": "trumprx",
-      "score": 9600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-11 19:49:38"
-    },
-    {
-      "keyword": "nancy guthrie update today",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-02-11 19:49:38"
-    },
-    {
       "keyword": "nba trades",
-      "score": 7500000,
+      "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-02-07 13:45:15"
     },
     {
       "keyword": "olimpiadas de invierno 2026",
-      "score": 7100000,
+      "score": 7000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-11 03:44:52"
     },
     {
-      "keyword": "billie eilish",
+      "keyword": "charlie puth",
       "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-08 19:20:05"
+      "timestamp": "2026-02-12 03:46:09"
     },
     {
       "keyword": "olympics",
@@ -136,17 +136,17 @@
     },
     {
       "keyword": "what time is the super bowl",
-      "score": 6500000,
+      "score": 6300000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-08 19:20:05"
     },
     {
-      "keyword": "charlie puth",
+      "keyword": "billie eilish",
       "score": 6000000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-11 19:49:38"
+      "timestamp": "2026-02-08 19:20:05"
     },
     {
       "keyword": "nancy guthrie update",
@@ -157,7 +157,7 @@
     },
     {
       "keyword": "catherine o'hara",
-      "score": 5000006,
+      "score": 5000005,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-06 13:55:25"
@@ -177,6 +177,13 @@
       "timestamp": "2026-02-09 07:50:16"
     },
     {
+      "keyword": "guthrie update",
+      "score": 5000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-02-10 19:48:01"
+    },
+    {
       "keyword": "catherine o'hara cause of death",
       "score": 5000000,
       "traffic_numeric": 5000000,
@@ -184,11 +191,11 @@
       "timestamp": "2026-02-06 13:55:25"
     },
     {
-      "keyword": "guthrie update",
-      "score": 5000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-02-10 19:48:01"
+      "keyword": "jutta leerdam",
+      "score": 4700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-12 03:46:09"
     },
     {
       "keyword": "bitcoin price",
@@ -203,18 +210,11 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-10 03:50:25"
-    },
-    {
-      "keyword": "jutta leerdam",
-      "score": 4200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-11 19:49:38"
     }
   ],
   "category_stats": {
-    "其他": 109,
-    "体育": 23,
+    "其他": 110,
+    "体育": 24,
     "科技/AI": 10,
     "娱乐/生活": 4,
     "金融/商业": 1

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13 07:41:10",
+  "last_updated": "2026-02-13 13:52:13",
   "trends": [
     {
       "keyword": "savannah guthrie",
@@ -16,6 +16,13 @@
       "timestamp": "2026-02-10 19:48:01"
     },
     {
+      "keyword": "olympic medal count",
+      "score": 21800000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-13 13:52:13"
+    },
+    {
       "keyword": "brad arnold",
       "score": 20000000,
       "traffic_numeric": 1000000,
@@ -23,17 +30,17 @@
       "timestamp": "2026-02-13 07:41:10"
     },
     {
+      "keyword": "james vanderbeek",
+      "score": 20000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-13 13:52:13"
+    },
+    {
       "keyword": "nancy guthrie update today",
       "score": 20000000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
-      "timestamp": "2026-02-13 07:41:10"
-    },
-    {
-      "keyword": "olympic medal count",
-      "score": 19800000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
       "timestamp": "2026-02-13 07:41:10"
     },
     {
@@ -58,13 +65,6 @@
       "timestamp": "2026-02-10 14:17:54"
     },
     {
-      "keyword": "james vanderbeek",
-      "score": 15000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-13 07:41:10"
-    },
-    {
       "keyword": "chappell roan",
       "score": 15000000,
       "traffic_numeric": 2000000,
@@ -79,18 +79,18 @@
       "timestamp": "2026-02-10 19:48:01"
     },
     {
+      "keyword": "ricky martin",
+      "score": 13000008,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-13 13:52:13"
+    },
+    {
       "keyword": "bad bunny",
       "score": 12000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-08 19:20:05"
-    },
-    {
-      "keyword": "ricky martin",
-      "score": 11000008,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-13 07:41:10"
     },
     {
       "keyword": "trumprx",
@@ -114,18 +114,18 @@
       "timestamp": "2026-02-12 07:49:08"
     },
     {
+      "keyword": "jessica alba",
+      "score": 7100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-13 13:52:13"
+    },
+    {
       "keyword": "olympics",
       "score": 6700000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-10 19:48:01"
-    },
-    {
-      "keyword": "jessica alba",
-      "score": 6600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-13 07:41:10"
     },
     {
       "keyword": "jutta leerdam",
@@ -213,7 +213,7 @@
     }
   ],
   "category_stats": {
-    "其他": 118,
+    "其他": 122,
     "体育": 25,
     "科技/AI": 11,
     "娱乐/生活": 5,

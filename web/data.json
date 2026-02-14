@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14 07:37:49",
+  "last_updated": "2026-02-14 13:38:14",
   "trends": [
     {
       "keyword": "kid rock halftime show",
@@ -44,6 +44,13 @@
       "timestamp": "2026-02-14 07:37:49"
     },
     {
+      "keyword": "2026 winter olympics men figure skating",
+      "score": 18200000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-14 13:38:14"
+    },
+    {
       "keyword": "ilia malinin",
       "score": 16950000,
       "traffic_numeric": 2000000,
@@ -56,6 +63,13 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-09 14:09:03"
+    },
+    {
+      "keyword": "james van der beek",
+      "score": 15050000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-14 13:38:14"
     },
     {
       "keyword": "super bowl score",
@@ -72,32 +86,11 @@
       "timestamp": "2026-02-10 19:48:01"
     },
     {
-      "keyword": "2026 winter olympics men figure skating",
-      "score": 13200000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-14 07:37:49"
-    },
-    {
-      "keyword": "james van der beek",
-      "score": 10050000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-14 07:37:49"
-    },
-    {
       "keyword": "jessica alba",
-      "score": 8600000,
+      "score": 9100000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-02-14 07:37:49"
-    },
-    {
-      "keyword": "chappell roan",
-      "score": 8500000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-02-08 19:20:05"
+      "timestamp": "2026-02-14 13:38:14"
     },
     {
       "keyword": "trumprx",
@@ -105,6 +98,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-12 14:09:29"
+    },
+    {
+      "keyword": "chappell roan",
+      "score": 8500000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-02-08 19:20:05"
     },
     {
       "keyword": "charlie puth",
@@ -142,6 +142,13 @@
       "timestamp": "2026-02-09 20:01:15"
     },
     {
+      "keyword": "pam bondi",
+      "score": 5800000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-14 13:38:14"
+    },
+    {
       "keyword": "olimpiadas de invierno 2026",
       "score": 5400000,
       "traffic_numeric": 500000,
@@ -170,13 +177,6 @@
       "timestamp": "2026-02-09 07:50:16"
     },
     {
-      "keyword": "what time is the super bowl",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-08 19:20:05"
-    },
-    {
       "keyword": "guthrie update",
       "score": 5000000,
       "traffic_numeric": 2000000,
@@ -184,18 +184,18 @@
       "timestamp": "2026-02-10 19:48:01"
     },
     {
+      "keyword": "what time is the super bowl",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-08 19:20:05"
+    },
+    {
       "keyword": "2026 winter olympics ice hockey",
       "score": 4900000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-12 19:52:52"
-    },
-    {
-      "keyword": "pam bondi",
-      "score": 4800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-14 07:37:49"
     },
     {
       "keyword": "super bowl mvp",
@@ -213,9 +213,9 @@
     }
   ],
   "category_stats": {
-    "其他": 117,
+    "其他": 122,
     "体育": 24,
-    "科技/AI": 10,
+    "科技/AI": 11,
     "娱乐/生活": 7
   },
   "insights": [

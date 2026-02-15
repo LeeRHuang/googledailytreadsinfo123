@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-02-15 07:40:59",
+  "last_updated": "2026-02-15 13:39:15",
   "trends": [
     {
       "keyword": "2026 winter olympics men figure skating",
-      "score": 33200000,
+      "score": 38200000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-15 07:40:59"
+      "timestamp": "2026-02-15 13:39:15"
     },
     {
       "keyword": "james van der beek",
-      "score": 30050000,
+      "score": 35050000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-15 07:40:59"
+      "timestamp": "2026-02-15 13:39:15"
     },
     {
       "keyword": "james vanderbeek",
@@ -80,10 +80,17 @@
     },
     {
       "keyword": "jessica alba",
-      "score": 10600000,
+      "score": 11100000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-02-15 07:40:59"
+      "timestamp": "2026-02-15 13:39:15"
+    },
+    {
+      "keyword": "pam bondi",
+      "score": 9800000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-15 13:39:15"
     },
     {
       "keyword": "olympics schedule",
@@ -91,13 +98,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-10 19:48:01"
-    },
-    {
-      "keyword": "pam bondi",
-      "score": 8800000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-15 07:40:59"
     },
     {
       "keyword": "charlie puth",
@@ -149,18 +149,18 @@
       "timestamp": "2026-02-09 07:50:16"
     },
     {
-      "keyword": "guthrie update",
-      "score": 5000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-02-10 19:48:01"
-    },
-    {
       "keyword": "what time is the super bowl",
       "score": 5000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-08 19:20:05"
+    },
+    {
+      "keyword": "guthrie update",
+      "score": 5000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-02-10 19:48:01"
     },
     {
       "keyword": "2026 winter olympics ice hockey",
@@ -184,6 +184,13 @@
       "timestamp": "2026-02-11 03:44:52"
     },
     {
+      "keyword": "wuthering heights movie",
+      "score": 3600000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-02-15 13:39:15"
+    },
+    {
       "keyword": "madison chock",
       "score": 3400000,
       "traffic_numeric": 500000,
@@ -191,18 +198,11 @@
       "timestamp": "2026-02-13 13:52:13"
     },
     {
-      "keyword": "wuthering heights movie",
-      "score": 3100000,
+      "keyword": "olympic hockey",
+      "score": 3300000,
       "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-02-15 07:40:59"
-    },
-    {
-      "keyword": "bad bunny",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-08 19:20:05"
+      "timestamp": "2026-02-15 13:39:15"
     },
     {
       "keyword": "jesse van rootselaar",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 125,
-    "体育": 24,
+    "其他": 128,
+    "体育": 26,
     "科技/AI": 11,
     "娱乐/生活": 10
   },

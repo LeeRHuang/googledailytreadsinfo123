@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-02-15 13:39:15",
+  "last_updated": "2026-02-15 19:15:14",
   "trends": [
     {
       "keyword": "2026 winter olympics men figure skating",
-      "score": 38200000,
+      "score": 43200000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-15 13:39:15"
+      "timestamp": "2026-02-15 19:15:14"
     },
     {
       "keyword": "james van der beek",
-      "score": 35050000,
+      "score": 40050000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-15 13:39:15"
+      "timestamp": "2026-02-15 19:15:14"
     },
     {
       "keyword": "james vanderbeek",
@@ -31,24 +31,17 @@
     },
     {
       "keyword": "olympic medal count",
-      "score": 23400000,
+      "score": 23200000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-13 19:35:10"
     },
     {
       "keyword": "ricky martin",
-      "score": 22000008,
+      "score": 23000008,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-15 07:40:59"
-    },
-    {
-      "keyword": "brad arnold",
-      "score": 21000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-14 07:37:49"
+      "timestamp": "2026-02-15 19:15:14"
     },
     {
       "keyword": "nancy guthrie update today",
@@ -58,15 +51,22 @@
       "timestamp": "2026-02-13 07:41:10"
     },
     {
+      "keyword": "brad arnold",
+      "score": 20000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-14 07:37:49"
+    },
+    {
       "keyword": "ilia malinin",
-      "score": 16900000,
+      "score": 16700000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-12 19:52:52"
     },
     {
       "keyword": "kid rock",
-      "score": 15700000,
+      "score": 15500000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-09 14:09:03"
@@ -80,24 +80,17 @@
     },
     {
       "keyword": "jessica alba",
-      "score": 11100000,
+      "score": 11600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-02-15 13:39:15"
+      "timestamp": "2026-02-15 19:15:14"
     },
     {
       "keyword": "pam bondi",
-      "score": 9800000,
+      "score": 10800000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-15 13:39:15"
-    },
-    {
-      "keyword": "olympics schedule",
-      "score": 9500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-10 19:48:01"
+      "timestamp": "2026-02-15 19:15:14"
     },
     {
       "keyword": "charlie puth",
@@ -107,11 +100,11 @@
       "timestamp": "2026-02-12 07:49:08"
     },
     {
-      "keyword": "trumprx",
-      "score": 6500000,
-      "traffic_numeric": 500000,
+      "keyword": "olympics schedule",
+      "score": 7500000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-12 14:09:29"
+      "timestamp": "2026-02-10 19:48:01"
     },
     {
       "keyword": "jutta leerdam",
@@ -119,6 +112,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-12 19:52:52"
+    },
+    {
+      "keyword": "trumprx",
+      "score": 6000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-12 14:09:29"
     },
     {
       "keyword": "nancy guthrie update",
@@ -170,6 +170,13 @@
       "timestamp": "2026-02-12 19:52:52"
     },
     {
+      "keyword": "wuthering heights movie",
+      "score": 4600000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-02-15 19:15:14"
+    },
+    {
       "keyword": "super bowl mvp",
       "score": 4200000,
       "traffic_numeric": 1000000,
@@ -184,11 +191,11 @@
       "timestamp": "2026-02-11 03:44:52"
     },
     {
-      "keyword": "wuthering heights movie",
-      "score": 3600000,
+      "keyword": "olympic hockey",
+      "score": 3500000,
       "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-02-15 13:39:15"
+      "category": "其他",
+      "timestamp": "2026-02-15 19:15:14"
     },
     {
       "keyword": "madison chock",
@@ -198,25 +205,18 @@
       "timestamp": "2026-02-13 13:52:13"
     },
     {
-      "keyword": "olympic hockey",
-      "score": 3300000,
+      "keyword": "usa hockey",
+      "score": 3200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-15 13:39:15"
-    },
-    {
-      "keyword": "jesse van rootselaar",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-13 19:35:10"
+      "timestamp": "2026-02-15 19:15:14"
     }
   ],
   "category_stats": {
     "其他": 128,
-    "体育": 26,
-    "科技/AI": 11,
-    "娱乐/生活": 10
+    "体育": 25,
+    "科技/AI": 12,
+    "娱乐/生活": 9
   },
   "insights": [
     {

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-02-14 19:11:30",
+  "last_updated": "2026-02-15 03:35:02",
   "trends": [
+    {
+      "keyword": "2026 winter olympics men figure skating",
+      "score": 28200000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-15 03:35:02"
+    },
+    {
+      "keyword": "james van der beek",
+      "score": 25050000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-15 03:35:02"
+    },
     {
       "keyword": "james vanderbeek",
       "score": 25000000,
@@ -23,13 +37,6 @@
       "timestamp": "2026-02-13 19:35:10"
     },
     {
-      "keyword": "2026 winter olympics men figure skating",
-      "score": 23200000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-14 19:11:30"
-    },
-    {
       "keyword": "brad arnold",
       "score": 22000000,
       "traffic_numeric": 1000000,
@@ -37,18 +44,11 @@
       "timestamp": "2026-02-14 07:37:49"
     },
     {
-      "keyword": "james van der beek",
-      "score": 20050000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-14 19:11:30"
-    },
-    {
       "keyword": "ricky martin",
-      "score": 20000008,
+      "score": 21000008,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-14 19:11:30"
+      "timestamp": "2026-02-15 03:35:02"
     },
     {
       "keyword": "nancy guthrie update today",
@@ -87,10 +87,10 @@
     },
     {
       "keyword": "jessica alba",
-      "score": 9600000,
+      "score": 10100000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-02-14 19:11:30"
+      "timestamp": "2026-02-15 03:35:02"
     },
     {
       "keyword": "charlie puth",
@@ -100,6 +100,13 @@
       "timestamp": "2026-02-12 07:49:08"
     },
     {
+      "keyword": "pam bondi",
+      "score": 7800000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-15 03:35:02"
+    },
+    {
       "keyword": "trumprx",
       "score": 7500000,
       "traffic_numeric": 500000,
@@ -107,11 +114,11 @@
       "timestamp": "2026-02-12 14:09:29"
     },
     {
-      "keyword": "pam bondi",
-      "score": 6800000,
-      "traffic_numeric": 1000000,
+      "keyword": "olympics",
+      "score": 6500000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-14 19:11:30"
+      "timestamp": "2026-02-10 19:48:01"
     },
     {
       "keyword": "chappell roan",
@@ -119,13 +126,6 @@
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-02-08 19:20:05"
-    },
-    {
-      "keyword": "olympics",
-      "score": 6500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-10 19:48:01"
     },
     {
       "keyword": "jutta leerdam",
@@ -170,18 +170,18 @@
       "timestamp": "2026-02-11 03:44:52"
     },
     {
-      "keyword": "what time is the super bowl",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-08 19:20:05"
-    },
-    {
       "keyword": "guthrie update",
       "score": 5000000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-02-10 19:48:01"
+    },
+    {
+      "keyword": "what time is the super bowl",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-08 19:20:05"
     },
     {
       "keyword": "2026 winter olympics ice hockey",
@@ -213,10 +213,10 @@
     }
   ],
   "category_stats": {
-    "其他": 119,
-    "体育": 22,
-    "科技/AI": 11,
-    "娱乐/生活": 7
+    "其他": 124,
+    "体育": 24,
+    "科技/AI": 12,
+    "娱乐/生活": 9
   },
   "insights": [
     {

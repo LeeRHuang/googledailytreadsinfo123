@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-02-16 07:50:58",
+  "last_updated": "2026-02-16 13:56:55",
   "trends": [
     {
       "keyword": "2026 winter olympics men figure skating",
-      "score": 53200000,
+      "score": 58200000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-16 07:50:58"
+      "timestamp": "2026-02-16 13:56:55"
     },
     {
       "keyword": "james van der beek",
-      "score": 50050000,
+      "score": 55050000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-16 07:50:58"
+      "timestamp": "2026-02-16 13:56:55"
     },
     {
       "keyword": "james vanderbeek",
@@ -73,10 +73,10 @@
     },
     {
       "keyword": "pam bondi",
-      "score": 12800000,
+      "score": 13800000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-16 07:50:58"
+      "timestamp": "2026-02-16 13:56:55"
     },
     {
       "keyword": "jessica alba",
@@ -86,25 +86,25 @@
       "timestamp": "2026-02-15 19:15:14"
     },
     {
+      "keyword": "2026 winter olympics alpine skiing",
+      "score": 8700000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-16 13:56:55"
+    },
+    {
+      "keyword": "wuthering heights movie",
+      "score": 8600000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-02-16 13:56:55"
+    },
+    {
       "keyword": "charlie puth",
       "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-12 07:49:08"
-    },
-    {
-      "keyword": "2026 winter olympics alpine skiing",
-      "score": 6700000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-16 07:50:58"
-    },
-    {
-      "keyword": "wuthering heights movie",
-      "score": 6600000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-02-16 07:50:58"
     },
     {
       "keyword": "jutta leerdam",
@@ -157,17 +157,10 @@
     },
     {
       "keyword": "usa hockey",
-      "score": 4200000,
+      "score": 4700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-16 03:43:55"
-    },
-    {
-      "keyword": "nancy guthrie update",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-02-09 20:01:15"
+      "timestamp": "2026-02-16 13:56:55"
     },
     {
       "keyword": "olympics schedule",
@@ -177,18 +170,25 @@
       "timestamp": "2026-02-10 19:48:01"
     },
     {
+      "keyword": "olympic hockey",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-16 13:56:55"
+    },
+    {
+      "keyword": "nancy guthrie update",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-02-09 20:01:15"
+    },
+    {
       "keyword": "olimpiadas de invierno 2026",
       "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-11 03:44:52"
-    },
-    {
-      "keyword": "olympic hockey",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-15 19:15:14"
     },
     {
       "keyword": "madison chock",
@@ -213,7 +213,7 @@
     }
   ],
   "category_stats": {
-    "其他": 121,
+    "其他": 123,
     "体育": 24,
     "科技/AI": 12,
     "娱乐/生活": 10,

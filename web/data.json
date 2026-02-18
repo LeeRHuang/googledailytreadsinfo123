@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-18 03:41:38",
+  "last_updated": "2026-02-18 07:44:49",
   "trends": [
     {
       "keyword": "james van der beek",
-      "score": 85050000,
+      "score": 90050000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-18 03:41:38"
+      "timestamp": "2026-02-18 07:44:49"
     },
     {
       "keyword": "2026 winter olympics men figure skating",
@@ -16,6 +16,13 @@
       "timestamp": "2026-02-16 13:56:55"
     },
     {
+      "keyword": "elana meyers taylor",
+      "score": 30000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-18 07:44:49"
+    },
+    {
       "keyword": "james vanderbeek",
       "score": 25000000,
       "traffic_numeric": 5000000,
@@ -23,25 +30,11 @@
       "timestamp": "2026-02-13 19:35:10"
     },
     {
-      "keyword": "elana meyers taylor",
-      "score": 25000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-18 03:41:38"
-    },
-    {
       "keyword": "ricky martin",
-      "score": 22000004,
+      "score": 22000002,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-15 19:15:14"
-    },
-    {
-      "keyword": "nancy guthrie update today",
-      "score": 20000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-02-13 07:41:10"
     },
     {
       "keyword": "pam bondi",
@@ -59,10 +52,17 @@
     },
     {
       "keyword": "olympic medal count",
-      "score": 18000000,
+      "score": 16000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-13 19:35:10"
+    },
+    {
+      "keyword": "nancy guthrie update today",
+      "score": 16000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-02-13 07:41:10"
     },
     {
       "keyword": "wuthering heights movie",
@@ -72,29 +72,22 @@
       "timestamp": "2026-02-17 19:48:30"
     },
     {
+      "keyword": "robert duvall",
+      "score": 12500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-18 07:44:49"
+    },
+    {
       "keyword": "brad arnold",
-      "score": 11000000,
+      "score": 9000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-14 07:37:49"
     },
     {
-      "keyword": "robert duvall",
-      "score": 10500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-18 03:41:38"
-    },
-    {
-      "keyword": "ilia malinin",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-12 19:52:52"
-    },
-    {
       "keyword": "jessica alba",
-      "score": 9400000,
+      "score": 9000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-15 19:15:14"
@@ -107,6 +100,20 @@
       "timestamp": "2026-02-17 13:54:43"
     },
     {
+      "keyword": "lunar new year",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-02-18 07:44:49"
+    },
+    {
+      "keyword": "ilia malinin",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-12 19:52:52"
+    },
+    {
       "keyword": "olympic hockey",
       "score": 5200000,
       "traffic_numeric": 1000000,
@@ -114,39 +121,18 @@
       "timestamp": "2026-02-17 13:54:43"
     },
     {
-      "keyword": "2026 winter olympics ice hockey",
-      "score": 4900000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-12 19:52:52"
-    },
-    {
       "keyword": "michael jordan",
-      "score": 4200000,
+      "score": 4700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-18 03:41:38"
+      "timestamp": "2026-02-18 07:44:49"
     },
     {
-      "keyword": "lunar new year",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-02-18 03:41:38"
-    },
-    {
-      "keyword": "jutta leerdam",
-      "score": 4000000,
-      "traffic_numeric": 500000,
+      "keyword": "2026 winter olympics ice hockey",
+      "score": 4700000,
+      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-12 19:52:52"
-    },
-    {
-      "keyword": "charlie puth",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-12 07:49:08"
     },
     {
       "keyword": "daytona 500",
@@ -156,18 +142,18 @@
       "timestamp": "2026-02-16 19:23:58"
     },
     {
-      "keyword": "madison chock",
-      "score": 3000000,
-      "traffic_numeric": 500000,
+      "keyword": "jesse jackson",
+      "score": 3200000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-13 13:52:13"
+      "timestamp": "2026-02-18 07:44:49"
     },
     {
-      "keyword": "medal count olympics 2026",
+      "keyword": "charlie puth",
       "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-15 19:15:14"
+      "timestamp": "2026-02-12 07:49:08"
     },
     {
       "keyword": "jesse van rootselaar",
@@ -177,18 +163,32 @@
       "timestamp": "2026-02-13 19:35:10"
     },
     {
+      "keyword": "medal count olympics 2026",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-15 19:15:14"
+    },
+    {
+      "keyword": "madison chock",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-13 13:52:13"
+    },
+    {
+      "keyword": "jutta leerdam",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-12 19:52:52"
+    },
+    {
       "keyword": "kurt cobain",
-      "score": 2950000,
+      "score": 2900000,
       "traffic_numeric": 200000,
       "category": "科技/AI",
       "timestamp": "2026-02-16 03:43:55"
-    },
-    {
-      "keyword": "les wexner",
-      "score": 2800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-02-14 13:38:14"
     },
     {
       "keyword": "chloe kim",
@@ -198,23 +198,23 @@
       "timestamp": "2026-02-13 13:52:13"
     },
     {
+      "keyword": "les wexner",
+      "score": 2500000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-02-14 13:38:14"
+    },
+    {
       "keyword": "nba all star game",
       "score": 2500000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-02-16 19:23:58"
-    },
-    {
-      "keyword": "trumprx",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-12 14:09:29"
     }
   ],
   "category_stats": {
-    "其他": 135,
-    "体育": 26,
+    "其他": 129,
+    "体育": 24,
     "娱乐/生活": 11,
     "科技/AI": 9,
     "金融/商业": 1

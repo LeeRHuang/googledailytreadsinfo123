@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-17 19:48:30",
+  "last_updated": "2026-02-18 03:41:38",
   "trends": [
     {
       "keyword": "james van der beek",
-      "score": 80050000,
+      "score": 85050000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-17 19:48:30"
+      "timestamp": "2026-02-18 03:41:38"
     },
     {
       "keyword": "2026 winter olympics men figure skating",
@@ -23,6 +23,13 @@
       "timestamp": "2026-02-13 19:35:10"
     },
     {
+      "keyword": "elana meyers taylor",
+      "score": 25000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-18 03:41:38"
+    },
+    {
       "keyword": "ricky martin",
       "score": 22000004,
       "traffic_numeric": 2000000,
@@ -37,23 +44,16 @@
       "timestamp": "2026-02-13 07:41:10"
     },
     {
-      "keyword": "elana meyers taylor",
-      "score": 20000000,
-      "traffic_numeric": 5000000,
+      "keyword": "pam bondi",
+      "score": 19300000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-17 19:48:30"
+      "timestamp": "2026-02-18 03:41:38"
     },
     {
       "keyword": "2026 winter olympics alpine skiing",
       "score": 18700000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-17 19:48:30"
-    },
-    {
-      "keyword": "pam bondi",
-      "score": 18300000,
-      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-17 19:48:30"
     },
@@ -79,6 +79,13 @@
       "timestamp": "2026-02-14 07:37:49"
     },
     {
+      "keyword": "robert duvall",
+      "score": 10500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-18 03:41:38"
+    },
+    {
       "keyword": "ilia malinin",
       "score": 10000000,
       "traffic_numeric": 2000000,
@@ -91,13 +98,6 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-15 19:15:14"
-    },
-    {
-      "keyword": "robert duvall",
-      "score": 8500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-17 19:48:30"
     },
     {
       "keyword": "usa hockey",
@@ -121,18 +121,18 @@
       "timestamp": "2026-02-12 19:52:52"
     },
     {
-      "keyword": "charlie puth",
-      "score": 4000000,
+      "keyword": "michael jordan",
+      "score": 4200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-12 07:49:08"
+      "timestamp": "2026-02-18 03:41:38"
     },
     {
-      "keyword": "michael jordan",
+      "keyword": "lunar new year",
       "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-17 19:48:30"
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-02-18 03:41:38"
     },
     {
       "keyword": "jutta leerdam",
@@ -142,18 +142,18 @@
       "timestamp": "2026-02-12 19:52:52"
     },
     {
+      "keyword": "charlie puth",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-12 07:49:08"
+    },
+    {
       "keyword": "daytona 500",
       "score": 3400000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-16 19:23:58"
-    },
-    {
-      "keyword": "jesse van rootselaar",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-13 19:35:10"
     },
     {
       "keyword": "madison chock",
@@ -168,6 +168,13 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-15 19:15:14"
+    },
+    {
+      "keyword": "jesse van rootselaar",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-13 19:35:10"
     },
     {
       "keyword": "kurt cobain",
@@ -203,19 +210,12 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-12 14:09:29"
-    },
-    {
-      "keyword": "alysa liu",
-      "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-13 07:41:10"
     }
   ],
   "category_stats": {
-    "其他": 133,
-    "体育": 25,
-    "娱乐/生活": 10,
+    "其他": 135,
+    "体育": 26,
+    "娱乐/生活": 11,
     "科技/AI": 9,
     "金融/商业": 1
   },

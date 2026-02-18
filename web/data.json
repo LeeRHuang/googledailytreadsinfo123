@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-18 07:44:49",
+  "last_updated": "2026-02-18 13:56:49",
   "trends": [
     {
       "keyword": "james van der beek",
-      "score": 90050000,
+      "score": 95050000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-18 07:44:49"
+      "timestamp": "2026-02-18 13:56:49"
     },
     {
       "keyword": "2026 winter olympics men figure skating",
@@ -73,10 +73,10 @@
     },
     {
       "keyword": "robert duvall",
-      "score": 12500000,
+      "score": 14500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-18 07:44:49"
+      "timestamp": "2026-02-18 13:56:49"
     },
     {
       "keyword": "brad arnold",
@@ -93,18 +93,18 @@
       "timestamp": "2026-02-15 19:15:14"
     },
     {
+      "keyword": "lunar new year",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-02-18 13:56:49"
+    },
+    {
       "keyword": "usa hockey",
       "score": 6200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-17 13:54:43"
-    },
-    {
-      "keyword": "lunar new year",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-02-18 07:44:49"
     },
     {
       "keyword": "ilia malinin",
@@ -122,10 +122,17 @@
     },
     {
       "keyword": "michael jordan",
-      "score": 4700000,
+      "score": 5200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-18 07:44:49"
+      "timestamp": "2026-02-18 13:56:49"
+    },
+    {
+      "keyword": "2026 winter olympics men's snowboarding slopestyle",
+      "score": 5020000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-18 13:56:49"
     },
     {
       "keyword": "2026 winter olympics ice hockey",
@@ -135,18 +142,18 @@
       "timestamp": "2026-02-12 19:52:52"
     },
     {
+      "keyword": "jesse jackson",
+      "score": 4200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-18 13:56:49"
+    },
+    {
       "keyword": "daytona 500",
       "score": 3400000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-16 19:23:58"
-    },
-    {
-      "keyword": "jesse jackson",
-      "score": 3200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-18 07:44:49"
     },
     {
       "keyword": "charlie puth",
@@ -156,6 +163,13 @@
       "timestamp": "2026-02-12 07:49:08"
     },
     {
+      "keyword": "is youtube down",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-18 13:56:49"
+    },
+    {
       "keyword": "jesse van rootselaar",
       "score": 3000000,
       "traffic_numeric": 500000,
@@ -163,11 +177,11 @@
       "timestamp": "2026-02-13 19:35:10"
     },
     {
-      "keyword": "medal count olympics 2026",
+      "keyword": "jutta leerdam",
       "score": 3000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-02-15 19:15:14"
+      "timestamp": "2026-02-12 19:52:52"
     },
     {
       "keyword": "madison chock",
@@ -177,11 +191,11 @@
       "timestamp": "2026-02-13 13:52:13"
     },
     {
-      "keyword": "jutta leerdam",
+      "keyword": "medal count olympics 2026",
       "score": 3000000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-12 19:52:52"
+      "timestamp": "2026-02-15 19:15:14"
     },
     {
       "keyword": "kurt cobain",
@@ -196,25 +210,11 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-13 13:52:13"
-    },
-    {
-      "keyword": "les wexner",
-      "score": 2500000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-02-14 13:38:14"
-    },
-    {
-      "keyword": "nba all star game",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-02-16 19:23:58"
     }
   ],
   "category_stats": {
-    "其他": 129,
-    "体育": 24,
+    "其他": 131,
+    "体育": 26,
     "娱乐/生活": 11,
     "科技/AI": 9,
     "金融/商业": 1

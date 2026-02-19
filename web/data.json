@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-18 19:45:21",
+  "last_updated": "2026-02-19 03:32:49",
   "trends": [
     {
       "keyword": "james van der beek",
-      "score": 95050000,
+      "score": 95000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-18 13:56:49"
@@ -31,14 +31,14 @@
     },
     {
       "keyword": "ricky martin",
-      "score": 22000001,
+      "score": 22000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-15 19:15:14"
     },
     {
       "keyword": "pam bondi",
-      "score": 19300000,
+      "score": 19200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-18 03:41:38"
@@ -52,17 +52,10 @@
     },
     {
       "keyword": "robert duvall",
-      "score": 16500000,
+      "score": 18500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-18 19:45:21"
-    },
-    {
-      "keyword": "olympic medal count",
-      "score": 15000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-13 19:35:10"
+      "timestamp": "2026-02-19 03:32:49"
     },
     {
       "keyword": "wuthering heights movie",
@@ -72,8 +65,15 @@
       "timestamp": "2026-02-17 19:48:30"
     },
     {
-      "keyword": "nancy guthrie update today",
+      "keyword": "olympic medal count",
       "score": 14000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-13 19:35:10"
+    },
+    {
+      "keyword": "nancy guthrie update today",
+      "score": 12000000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-02-13 07:41:10"
@@ -87,17 +87,24 @@
     },
     {
       "keyword": "jessica alba",
-      "score": 8500000,
+      "score": 8000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-15 19:15:14"
     },
     {
       "keyword": "brad arnold",
-      "score": 8000000,
+      "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-14 07:37:49"
+    },
+    {
+      "keyword": "jesse jackson",
+      "score": 6200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-19 03:32:49"
     },
     {
       "keyword": "usa hockey",
@@ -107,25 +114,18 @@
       "timestamp": "2026-02-17 13:54:43"
     },
     {
-      "keyword": "michael jordan",
-      "score": 5400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-18 19:45:21"
-    },
-    {
       "keyword": "2026 winter olympics men's snowboarding slopestyle",
-      "score": 5220000,
+      "score": 5720000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-18 19:45:21"
+      "timestamp": "2026-02-19 03:32:49"
     },
     {
-      "keyword": "jesse jackson",
-      "score": 5200000,
+      "keyword": "michael jordan",
+      "score": 5600000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-18 19:45:21"
+      "timestamp": "2026-02-19 03:32:49"
     },
     {
       "keyword": "olympic hockey",
@@ -135,18 +135,32 @@
       "timestamp": "2026-02-17 13:54:43"
     },
     {
-      "keyword": "ilia malinin",
+      "keyword": "mikaela shiffrin",
       "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-19 03:32:49"
+    },
+    {
+      "keyword": "ilia malinin",
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-12 19:52:52"
     },
     {
       "keyword": "2026 winter olympics ice hockey",
-      "score": 4500000,
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-12 19:52:52"
+    },
+    {
+      "keyword": "rhode island shooting",
+      "score": 3600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-19 03:32:49"
     },
     {
       "keyword": "daytona 500",
@@ -156,11 +170,18 @@
       "timestamp": "2026-02-16 19:23:58"
     },
     {
-      "keyword": "rhode island shooting",
-      "score": 3100000,
+      "keyword": "ramadan 2026",
+      "score": 3300000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-02-18 19:45:21"
+      "timestamp": "2026-02-19 03:32:49"
+    },
+    {
+      "keyword": "ash wednesday",
+      "score": 3100000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-19 03:32:49"
     },
     {
       "keyword": "medal count olympics 2026",
@@ -170,11 +191,11 @@
       "timestamp": "2026-02-15 19:15:14"
     },
     {
-      "keyword": "is youtube down",
+      "keyword": "jesse van rootselaar",
       "score": 3000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-02-18 13:56:49"
+      "timestamp": "2026-02-13 19:35:10"
     },
     {
       "keyword": "madison chock",
@@ -184,37 +205,16 @@
       "timestamp": "2026-02-13 13:52:13"
     },
     {
-      "keyword": "jesse van rootselaar",
+      "keyword": "is youtube down",
       "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-13 19:35:10"
-    },
-    {
-      "keyword": "kurt cobain",
-      "score": 2800000,
-      "traffic_numeric": 200000,
-      "category": "科技/AI",
-      "timestamp": "2026-02-16 03:43:55"
-    },
-    {
-      "keyword": "ramadan 2026",
-      "score": 2800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-18 19:45:21"
-    },
-    {
-      "keyword": "nba all star game",
-      "score": 2500000,
       "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-02-16 19:23:58"
+      "category": "其他",
+      "timestamp": "2026-02-18 13:56:49"
     }
   ],
   "category_stats": {
-    "其他": 134,
-    "体育": 29,
+    "其他": 137,
+    "体育": 28,
     "娱乐/生活": 12,
     "科技/AI": 8,
     "金融/商业": 1

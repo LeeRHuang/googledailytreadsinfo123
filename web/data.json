@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19 14:09:34",
+  "last_updated": "2026-02-19 19:41:27",
   "trends": [
     {
       "keyword": "james van der beek",
@@ -24,10 +24,10 @@
     },
     {
       "keyword": "robert duvall",
-      "score": 22500000,
+      "score": 24500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-19 14:09:34"
+      "timestamp": "2026-02-19 19:41:27"
     },
     {
       "keyword": "james vanderbeek",
@@ -79,18 +79,18 @@
       "timestamp": "2026-02-19 07:52:15"
     },
     {
+      "keyword": "jesse jackson",
+      "score": 9200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-19 19:41:27"
+    },
+    {
       "keyword": "lunar new year",
       "score": 9000000,
       "traffic_numeric": 2000000,
       "category": "娱乐/生活",
       "timestamp": "2026-02-18 19:45:21"
-    },
-    {
-      "keyword": "jesse jackson",
-      "score": 8200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-19 14:09:34"
     },
     {
       "keyword": "2026 winter olympics men's snowboarding slopestyle",
@@ -114,6 +114,13 @@
       "timestamp": "2026-02-17 13:54:43"
     },
     {
+      "keyword": "michael jordan",
+      "score": 6200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-19 19:41:27"
+    },
+    {
       "keyword": "nancy guthrie update today",
       "score": 6000000,
       "traffic_numeric": 2000000,
@@ -121,11 +128,11 @@
       "timestamp": "2026-02-13 07:41:10"
     },
     {
-      "keyword": "michael jordan",
-      "score": 6000000,
+      "keyword": "ash wednesday",
+      "score": 5300000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-19 14:09:34"
+      "timestamp": "2026-02-19 19:41:27"
     },
     {
       "keyword": "olympic hockey",
@@ -133,13 +140,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-17 13:54:43"
-    },
-    {
-      "keyword": "ash wednesday",
-      "score": 5100000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-19 14:09:34"
     },
     {
       "keyword": "brad arnold",
@@ -170,6 +170,13 @@
       "timestamp": "2026-02-16 19:23:58"
     },
     {
+      "keyword": "shia labeouf",
+      "score": 3200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-19 19:41:27"
+    },
+    {
       "keyword": "medal count olympics 2026",
       "score": 3000000,
       "traffic_numeric": 1000000,
@@ -184,6 +191,13 @@
       "timestamp": "2026-02-18 13:56:49"
     },
     {
+      "keyword": "2026 winter olympics women single skating free skating",
+      "score": 3000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-19 19:41:27"
+    },
+    {
       "keyword": "youtube down",
       "score": 3000000,
       "traffic_numeric": 1000000,
@@ -196,24 +210,10 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-19 07:52:15"
-    },
-    {
-      "keyword": "shia labeouf",
-      "score": 2700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-19 14:09:34"
-    },
-    {
-      "keyword": "nba all star game",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-02-16 19:23:58"
     }
   ],
   "category_stats": {
-    "其他": 135,
+    "其他": 141,
     "体育": 27,
     "娱乐/生活": 12,
     "科技/AI": 8,

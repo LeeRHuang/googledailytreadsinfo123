@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19 19:41:27",
+  "last_updated": "2026-02-20 03:31:39",
   "trends": [
     {
       "keyword": "james van der beek",
@@ -24,17 +24,10 @@
     },
     {
       "keyword": "robert duvall",
-      "score": 24500000,
+      "score": 26500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-19 19:41:27"
-    },
-    {
-      "keyword": "james vanderbeek",
-      "score": 19000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-13 19:35:10"
+      "timestamp": "2026-02-20 03:31:39"
     },
     {
       "keyword": "2026 winter olympics alpine skiing",
@@ -45,14 +38,21 @@
     },
     {
       "keyword": "pam bondi",
-      "score": 18000000,
+      "score": 17500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-18 03:41:38"
     },
     {
+      "keyword": "james vanderbeek",
+      "score": 17000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-13 19:35:10"
+    },
+    {
       "keyword": "ricky martin",
-      "score": 16000000,
+      "score": 15000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-15 19:15:14"
@@ -65,11 +65,11 @@
       "timestamp": "2026-02-17 19:48:30"
     },
     {
-      "keyword": "olympic medal count",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
+      "keyword": "jesse jackson",
+      "score": 10200000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-13 19:35:10"
+      "timestamp": "2026-02-20 03:31:39"
     },
     {
       "keyword": "mikaela shiffrin",
@@ -79,18 +79,25 @@
       "timestamp": "2026-02-19 07:52:15"
     },
     {
-      "keyword": "jesse jackson",
-      "score": 9200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-19 19:41:27"
-    },
-    {
       "keyword": "lunar new year",
       "score": 9000000,
       "traffic_numeric": 2000000,
       "category": "娱乐/生活",
       "timestamp": "2026-02-18 19:45:21"
+    },
+    {
+      "keyword": "2026 winter olympics women single skating free skating",
+      "score": 8000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-20 03:31:39"
+    },
+    {
+      "keyword": "olympic medal count",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-13 19:35:10"
     },
     {
       "keyword": "2026 winter olympics men's snowboarding slopestyle",
@@ -100,11 +107,11 @@
       "timestamp": "2026-02-19 14:09:34"
     },
     {
-      "keyword": "jessica alba",
-      "score": 6500000,
-      "traffic_numeric": 500000,
+      "keyword": "michael jordan",
+      "score": 6400000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-15 19:15:14"
+      "timestamp": "2026-02-20 03:31:39"
     },
     {
       "keyword": "usa hockey",
@@ -114,32 +121,32 @@
       "timestamp": "2026-02-17 13:54:43"
     },
     {
-      "keyword": "michael jordan",
-      "score": 6200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-19 19:41:27"
-    },
-    {
-      "keyword": "nancy guthrie update today",
+      "keyword": "jessica alba",
       "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-02-13 07:41:10"
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-15 19:15:14"
     },
     {
       "keyword": "ash wednesday",
-      "score": 5300000,
+      "score": 5500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-19 19:41:27"
+      "timestamp": "2026-02-20 03:31:39"
     },
     {
       "keyword": "olympic hockey",
-      "score": 5200000,
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-17 13:54:43"
+    },
+    {
+      "keyword": "nancy guthrie update today",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-02-13 07:41:10"
     },
     {
       "keyword": "brad arnold",
@@ -156,6 +163,13 @@
       "timestamp": "2026-02-19 14:09:34"
     },
     {
+      "keyword": "shia labeouf",
+      "score": 3700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-20 03:31:39"
+    },
+    {
       "keyword": "rhode island shooting",
       "score": 3600000,
       "traffic_numeric": 500000,
@@ -170,18 +184,18 @@
       "timestamp": "2026-02-16 19:23:58"
     },
     {
-      "keyword": "shia labeouf",
-      "score": 3200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-19 19:41:27"
-    },
-    {
-      "keyword": "medal count olympics 2026",
+      "keyword": "youtube down",
       "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-15 19:15:14"
+      "timestamp": "2026-02-19 07:52:15"
+    },
+    {
+      "keyword": "lil poppa",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-20 03:31:39"
     },
     {
       "keyword": "is youtube down",
@@ -191,30 +205,16 @@
       "timestamp": "2026-02-18 13:56:49"
     },
     {
-      "keyword": "2026 winter olympics women single skating free skating",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-19 19:41:27"
-    },
-    {
-      "keyword": "youtube down",
+      "keyword": "medal count olympics 2026",
       "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-19 07:52:15"
-    },
-    {
-      "keyword": "carolyn bessette kennedy",
-      "score": 2700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-19 07:52:15"
+      "timestamp": "2026-02-15 19:15:14"
     }
   ],
   "category_stats": {
-    "其他": 141,
-    "体育": 27,
+    "其他": 139,
+    "体育": 29,
     "娱乐/生活": 12,
     "科技/AI": 8,
     "金融/商业": 1

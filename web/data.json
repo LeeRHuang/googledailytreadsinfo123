@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-20 19:40:42",
+  "last_updated": "2026-02-21 03:24:16",
   "trends": [
     {
       "keyword": "james van der beek",
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "robert duvall",
-      "score": 32500000,
+      "score": 34500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-20 19:40:42"
+      "timestamp": "2026-02-21 03:24:16"
     },
     {
       "keyword": "elana meyers taylor",
@@ -31,10 +31,10 @@
     },
     {
       "keyword": "2026 winter olympics women single skating free skating",
-      "score": 23000000,
+      "score": 28000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-20 19:40:42"
+      "timestamp": "2026-02-21 03:24:16"
     },
     {
       "keyword": "2026 winter olympics alpine skiing",
@@ -42,6 +42,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-17 19:48:30"
+    },
+    {
+      "keyword": "eric dane",
+      "score": 16000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-21 03:24:16"
     },
     {
       "keyword": "pam bondi",
@@ -59,17 +66,10 @@
     },
     {
       "keyword": "jesse jackson",
-      "score": 13200000,
+      "score": 14200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-20 19:40:42"
-    },
-    {
-      "keyword": "eric dane",
-      "score": 11000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-20 19:40:42"
+      "timestamp": "2026-02-21 03:24:16"
     },
     {
       "keyword": "mikaela shiffrin",
@@ -94,10 +94,17 @@
     },
     {
       "keyword": "michael jordan",
+      "score": 7200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-21 03:24:16"
+    },
+    {
+      "keyword": "lil poppa",
       "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-20 19:40:42"
+      "timestamp": "2026-02-21 03:24:16"
     },
     {
       "keyword": "2026 winter olympics men's snowboarding slopestyle",
@@ -107,11 +114,18 @@
       "timestamp": "2026-02-19 14:09:34"
     },
     {
-      "keyword": "lil poppa",
-      "score": 6000000,
+      "keyword": "shia labeouf",
+      "score": 5700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-21 03:24:16"
+    },
+    {
+      "keyword": "prince andrew",
+      "score": 5700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-20 19:40:42"
+      "timestamp": "2026-02-21 03:24:16"
     },
     {
       "keyword": "ash wednesday",
@@ -126,20 +140,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-17 13:54:43"
-    },
-    {
-      "keyword": "shia labeouf",
-      "score": 5200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-20 19:40:42"
-    },
-    {
-      "keyword": "prince andrew",
-      "score": 4700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-20 19:40:42"
     },
     {
       "keyword": "jessica alba",
@@ -205,16 +205,16 @@
       "timestamp": "2026-02-19 07:52:15"
     },
     {
-      "keyword": "nba all star game",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-02-16 19:23:58"
+      "keyword": "james talarico",
+      "score": 2670000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-02-21 03:24:16"
     }
   ],
   "category_stats": {
-    "其他": 134,
-    "体育": 26,
+    "其他": 139,
+    "体育": 28,
     "娱乐/生活": 11,
     "科技/AI": 7,
     "金融/商业": 1

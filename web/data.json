@@ -1,33 +1,40 @@
 {
-  "last_updated": "2026-02-21 13:41:46",
+  "last_updated": "2026-02-21 19:12:29",
   "trends": [
     {
       "keyword": "james van der beek",
-      "score": 80000000,
+      "score": 75000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-18 13:56:49"
     },
     {
+      "keyword": "2026 winter olympics women single skating free skating",
+      "score": 43000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-21 19:12:29"
+    },
+    {
+      "keyword": "robert duvall",
+      "score": 40500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-21 19:12:29"
+    },
+    {
       "keyword": "2026 winter olympics men figure skating",
-      "score": 40000000,
+      "score": 35000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-16 13:56:55"
     },
     {
-      "keyword": "robert duvall",
-      "score": 38500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-21 13:41:46"
-    },
-    {
-      "keyword": "2026 winter olympics women single skating free skating",
-      "score": 38000000,
+      "keyword": "eric dane",
+      "score": 31000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-21 13:41:46"
+      "timestamp": "2026-02-21 19:12:29"
     },
     {
       "keyword": "elana meyers taylor",
@@ -35,13 +42,6 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-18 07:44:49"
-    },
-    {
-      "keyword": "eric dane",
-      "score": 26000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-21 13:41:46"
     },
     {
       "keyword": "2026 winter olympics alpine skiing",
@@ -52,24 +52,31 @@
     },
     {
       "keyword": "jesse jackson",
-      "score": 16200000,
+      "score": 17200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-21 13:41:46"
+      "timestamp": "2026-02-21 19:12:29"
+    },
+    {
+      "keyword": "wuthering heights movie",
+      "score": 13000000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-02-17 19:48:30"
     },
     {
       "keyword": "pam bondi",
-      "score": 13500000,
+      "score": 12500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-18 03:41:38"
     },
     {
-      "keyword": "wuthering heights movie",
-      "score": 13500000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-02-17 19:48:30"
+      "keyword": "lil poppa",
+      "score": 10000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-21 19:12:29"
     },
     {
       "keyword": "mikaela shiffrin",
@@ -86,18 +93,18 @@
       "timestamp": "2026-02-18 19:45:21"
     },
     {
-      "keyword": "lil poppa",
-      "score": 9000000,
+      "keyword": "prince andrew",
+      "score": 8700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-21 13:41:46"
+      "timestamp": "2026-02-21 19:12:29"
     },
     {
-      "keyword": "prince andrew",
-      "score": 7700000,
-      "traffic_numeric": 1000000,
+      "keyword": "shia labeouf",
+      "score": 7200000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-02-21 13:41:46"
+      "timestamp": "2026-02-21 19:12:29"
     },
     {
       "keyword": "michael jordan",
@@ -112,13 +119,6 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-19 14:09:34"
-    },
-    {
-      "keyword": "shia labeouf",
-      "score": 6700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-21 13:41:46"
     },
     {
       "keyword": "alysa liu",
@@ -142,11 +142,11 @@
       "timestamp": "2026-02-17 13:54:43"
     },
     {
-      "keyword": "ricky martin",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
+      "keyword": "james talarico",
+      "score": 3870000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-02-15 19:15:14"
+      "timestamp": "2026-02-21 19:12:29"
     },
     {
       "keyword": "ramadan 2026",
@@ -163,25 +163,11 @@
       "timestamp": "2026-02-19 03:32:49"
     },
     {
-      "keyword": "olympic hockey",
-      "score": 3400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-17 13:54:43"
-    },
-    {
       "keyword": "daytona 500",
-      "score": 3400000,
+      "score": 3300000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-16 19:23:58"
-    },
-    {
-      "keyword": "james talarico",
-      "score": 3370000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-21 13:41:46"
     },
     {
       "keyword": "mens hockey olympics",
@@ -205,17 +191,31 @@
       "timestamp": "2026-02-19 07:52:15"
     },
     {
-      "keyword": "medal count olympics 2026",
-      "score": 2600000,
+      "keyword": "ricky martin",
+      "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-15 19:15:14"
+    },
+    {
+      "keyword": "olympic hockey",
+      "score": 2900000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-17 13:54:43"
+    },
+    {
+      "keyword": "tyra banks",
+      "score": 2650000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-02-21 19:12:29"
     }
   ],
   "category_stats": {
-    "其他": 130,
-    "体育": 27,
-    "娱乐/生活": 11,
+    "其他": 131,
+    "体育": 28,
+    "娱乐/生活": 9,
     "科技/AI": 8,
     "金融/商业": 1
   },

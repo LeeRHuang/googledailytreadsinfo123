@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22 03:37:14",
+  "last_updated": "2026-02-22 07:27:57",
   "trends": [
     {
       "keyword": "james van der beek",
@@ -9,6 +9,13 @@
       "timestamp": "2026-02-18 13:56:49"
     },
     {
+      "keyword": "robert duvall",
+      "score": 44500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-22 07:27:57"
+    },
+    {
       "keyword": "2026 winter olympics women single skating free skating",
       "score": 43000000,
       "traffic_numeric": 5000000,
@@ -16,18 +23,11 @@
       "timestamp": "2026-02-21 19:12:29"
     },
     {
-      "keyword": "robert duvall",
-      "score": 42500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-22 03:37:14"
-    },
-    {
       "keyword": "eric dane",
-      "score": 36000000,
+      "score": 41000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-22 03:37:14"
+      "timestamp": "2026-02-22 07:27:57"
     },
     {
       "keyword": "elana meyers taylor",
@@ -44,6 +44,13 @@
       "timestamp": "2026-02-16 13:56:55"
     },
     {
+      "keyword": "jesse jackson",
+      "score": 19200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-22 07:27:57"
+    },
+    {
       "keyword": "2026 winter olympics alpine skiing",
       "score": 18700000,
       "traffic_numeric": 2000000,
@@ -51,11 +58,18 @@
       "timestamp": "2026-02-17 19:48:30"
     },
     {
-      "keyword": "jesse jackson",
-      "score": 18200000,
+      "keyword": "alysa liu",
+      "score": 16500000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-22 07:27:57"
+    },
+    {
+      "keyword": "lil poppa",
+      "score": 12000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-22 03:37:14"
+      "timestamp": "2026-02-22 07:27:57"
     },
     {
       "keyword": "wuthering heights movie",
@@ -65,13 +79,6 @@
       "timestamp": "2026-02-17 19:48:30"
     },
     {
-      "keyword": "alysa liu",
-      "score": 11500000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-22 03:37:14"
-    },
-    {
       "keyword": "pam bondi",
       "score": 11500000,
       "traffic_numeric": 1000000,
@@ -79,11 +86,11 @@
       "timestamp": "2026-02-18 03:41:38"
     },
     {
-      "keyword": "lil poppa",
-      "score": 11000000,
+      "keyword": "prince andrew",
+      "score": 10200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-22 03:37:14"
+      "timestamp": "2026-02-22 07:27:57"
     },
     {
       "keyword": "mikaela shiffrin",
@@ -91,13 +98,6 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-19 07:52:15"
-    },
-    {
-      "keyword": "prince andrew",
-      "score": 9700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-22 03:37:14"
     },
     {
       "keyword": "lunar new year",
@@ -108,10 +108,10 @@
     },
     {
       "keyword": "shia labeouf",
-      "score": 7700000,
+      "score": 8200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-02-22 03:37:14"
+      "timestamp": "2026-02-22 07:27:57"
     },
     {
       "keyword": "michael jordan",
@@ -142,11 +142,18 @@
       "timestamp": "2026-02-17 13:54:43"
     },
     {
+      "keyword": "blizzard warning",
+      "score": 4500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-22 07:27:57"
+    },
+    {
       "keyword": "james talarico",
-      "score": 4070000,
+      "score": 4270000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-02-22 03:37:14"
+      "timestamp": "2026-02-22 07:27:57"
     },
     {
       "keyword": "ramadan 2026",
@@ -177,11 +184,18 @@
       "timestamp": "2026-02-21 13:41:46"
     },
     {
-      "keyword": "youtube down",
+      "keyword": "tyra banks",
+      "score": 3050000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-02-22 07:27:57"
+    },
+    {
+      "keyword": "usa vs canada hockey",
       "score": 3000000,
       "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-19 07:52:15"
+      "category": "体育",
+      "timestamp": "2026-02-22 07:27:57"
     },
     {
       "keyword": "is youtube down",
@@ -191,30 +205,16 @@
       "timestamp": "2026-02-18 13:56:49"
     },
     {
-      "keyword": "olympic hockey",
-      "score": 2900000,
+      "keyword": "youtube down",
+      "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-17 13:54:43"
-    },
-    {
-      "keyword": "tyra banks",
-      "score": 2850000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-02-22 03:37:14"
-    },
-    {
-      "keyword": "blizzard warning",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-22 03:37:14"
+      "timestamp": "2026-02-19 07:52:15"
     }
   ],
   "category_stats": {
-    "其他": 132,
-    "体育": 29,
+    "其他": 133,
+    "体育": 30,
     "娱乐/生活": 7,
     "科技/AI": 7,
     "金融/商业": 1

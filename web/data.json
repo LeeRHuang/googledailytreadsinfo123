@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-02-24 03:33:49",
+  "last_updated": "2026-02-24 07:38:42",
   "trends": [
     {
       "keyword": "eric dane",
-      "score": 76000000,
+      "score": 81000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-24 03:33:49"
+      "timestamp": "2026-02-24 07:38:42"
     },
     {
       "keyword": "robert duvall",
-      "score": 52000000,
+      "score": 50000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-02-23 07:52:35"
@@ -24,17 +24,10 @@
     },
     {
       "keyword": "james van der beek",
-      "score": 35000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-18 13:56:49"
-    },
-    {
-      "keyword": "elana meyers taylor",
       "score": 30000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-18 07:44:49"
+      "timestamp": "2026-02-18 13:56:49"
     },
     {
       "keyword": "jesse jackson",
@@ -44,11 +37,25 @@
       "timestamp": "2026-02-24 03:33:49"
     },
     {
+      "keyword": "elana meyers taylor",
+      "score": 25000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-18 07:44:49"
+    },
+    {
       "keyword": "alysa liu",
       "score": 21500000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-22 13:35:58"
+    },
+    {
+      "keyword": "el mencho",
+      "score": 18100000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-24 07:38:42"
     },
     {
       "keyword": "blizzard warning",
@@ -65,11 +72,11 @@
       "timestamp": "2026-02-24 03:33:49"
     },
     {
-      "keyword": "el mencho",
-      "score": 13100000,
-      "traffic_numeric": 5000000,
+      "keyword": "johnny gaudreau",
+      "score": 13000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-24 03:33:49"
+      "timestamp": "2026-02-24 07:38:42"
     },
     {
       "keyword": "lil poppa",
@@ -86,13 +93,6 @@
       "timestamp": "2026-02-22 19:17:38"
     },
     {
-      "keyword": "johnny gaudreau",
-      "score": 11000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-24 03:33:49"
-    },
-    {
       "keyword": "mikaela shiffrin",
       "score": 10000000,
       "traffic_numeric": 5000000,
@@ -107,25 +107,11 @@
       "timestamp": "2026-02-18 19:45:21"
     },
     {
-      "keyword": "2026 winter olympics alpine skiing",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-17 19:48:30"
-    },
-    {
       "keyword": "rondale moore",
-      "score": 8000000,
+      "score": 9000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-24 03:33:49"
-    },
-    {
-      "keyword": "michael jordan",
-      "score": 7200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-21 03:24:16"
+      "timestamp": "2026-02-24 07:38:42"
     },
     {
       "keyword": "2026 winter olympics men's snowboarding slopestyle",
@@ -133,6 +119,20 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-19 14:09:34"
+    },
+    {
+      "keyword": "michael jordan",
+      "score": 6200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-21 03:24:16"
+    },
+    {
+      "keyword": "2026 winter olympics alpine skiing",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-17 19:48:30"
     },
     {
       "keyword": "ash wednesday",
@@ -163,13 +163,6 @@
       "timestamp": "2026-02-22 13:35:58"
     },
     {
-      "keyword": "wuthering heights movie",
-      "score": 5000000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-02-17 19:48:30"
-    },
-    {
       "keyword": "ryan garcia fight",
       "score": 4600000,
       "traffic_numeric": 1000000,
@@ -178,28 +171,28 @@
     },
     {
       "keyword": "pam bondi",
-      "score": 4500000,
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-18 03:41:38"
     },
     {
       "keyword": "tyra banks",
-      "score": 3850000,
+      "score": 3800000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-02-23 07:52:35"
     },
     {
       "keyword": "ramadan 2026",
-      "score": 3700000,
+      "score": 3600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-19 14:09:34"
     },
     {
       "keyword": "rhode island shooting",
-      "score": 3600000,
+      "score": 3400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-19 03:32:49"
@@ -210,12 +203,19 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-02-23 14:06:48"
+    },
+    {
+      "keyword": "wuthering heights movie",
+      "score": 3000000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-02-17 19:48:30"
     }
   ],
   "category_stats": {
-    "其他": 130,
-    "体育": 26,
-    "娱乐/生活": 6,
+    "其他": 132,
+    "体育": 25,
+    "娱乐/生活": 5,
     "科技/AI": 3
   },
   "insights": [

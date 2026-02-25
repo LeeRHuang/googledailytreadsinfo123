@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-02-25 13:59:53",
+  "last_updated": "2026-02-25 19:41:56",
   "trends": [
     {
       "keyword": "eric dane",
-      "score": 106000000,
+      "score": 111000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-25 13:59:53"
+      "timestamp": "2026-02-25 19:41:56"
     },
     {
       "keyword": "el mencho",
-      "score": 43100000,
+      "score": 48100000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-25 13:59:53"
+      "timestamp": "2026-02-25 19:41:56"
     },
     {
       "keyword": "2026 winter olympics women single skating free skating",
@@ -30,18 +30,18 @@
       "timestamp": "2026-02-23 07:52:35"
     },
     {
-      "keyword": "jesse jackson",
-      "score": 21000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-24 03:33:49"
-    },
-    {
       "keyword": "alysa liu",
       "score": 21000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-22 13:35:58"
+    },
+    {
+      "keyword": "jesse jackson",
+      "score": 21000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-24 03:33:49"
     },
     {
       "keyword": "blizzard warning",
@@ -94,10 +94,24 @@
     },
     {
       "keyword": "state of the union",
-      "score": 6000000,
+      "score": 8000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-25 13:59:53"
+      "timestamp": "2026-02-25 19:41:56"
+    },
+    {
+      "keyword": "connor hellebuyck",
+      "score": 6200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-25 19:41:56"
+    },
+    {
+      "keyword": "robert carradine",
+      "score": 5600000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-25 19:41:56"
     },
     {
       "keyword": "2026 winter olympics",
@@ -105,13 +119,6 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-23 03:40:13"
-    },
-    {
-      "keyword": "connor hellebuyck",
-      "score": 5200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-25 13:59:53"
     },
     {
       "keyword": "usa vs canada hockey",
@@ -126,13 +133,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-23 03:40:13"
-    },
-    {
-      "keyword": "robert carradine",
-      "score": 4600000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-25 13:59:53"
     },
     {
       "keyword": "james talarico",
@@ -150,10 +150,10 @@
     },
     {
       "keyword": "john davidson",
-      "score": 3800000,
+      "score": 4300000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-02-25 13:59:53"
+      "timestamp": "2026-02-25 19:41:56"
     },
     {
       "keyword": "iran",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 123,
-    "体育": 27,
+    "其他": 129,
+    "体育": 30,
     "科技/AI": 6,
     "娱乐/生活": 3,
     "金融/商业": 1

@@ -1,33 +1,19 @@
 {
-  "last_updated": "2026-02-27 19:37:06",
+  "last_updated": "2026-02-28 03:13:16",
   "trends": [
     {
       "keyword": "eric dane",
-      "score": 125000000,
+      "score": 120000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-26 19:35:48"
     },
     {
       "keyword": "el mencho",
-      "score": 76100000,
+      "score": 78100000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-02-27 19:37:06"
-    },
-    {
-      "keyword": "2026 winter olympics women single skating free skating",
-      "score": 25000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-21 19:12:29"
-    },
-    {
-      "keyword": "robert duvall",
-      "score": 22000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-23 07:52:35"
+      "timestamp": "2026-02-28 03:13:16"
     },
     {
       "keyword": "alysa liu",
@@ -35,6 +21,20 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-22 13:35:58"
+    },
+    {
+      "keyword": "2026 winter olympics women single skating free skating",
+      "score": 20000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-02-21 19:12:29"
+    },
+    {
+      "keyword": "robert duvall",
+      "score": 20000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-23 07:52:35"
     },
     {
       "keyword": "blizzard warning",
@@ -51,6 +51,13 @@
       "timestamp": "2026-02-24 14:08:06"
     },
     {
+      "keyword": "robert carradine",
+      "score": 14600000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-28 03:13:16"
+    },
+    {
       "keyword": "rondale moore",
       "score": 14000000,
       "traffic_numeric": 1000000,
@@ -58,15 +65,8 @@
       "timestamp": "2026-02-25 13:59:53"
     },
     {
-      "keyword": "robert carradine",
-      "score": 13600000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-27 19:37:06"
-    },
-    {
       "keyword": "jesse jackson",
-      "score": 13000000,
+      "score": 12000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-24 03:33:49"
@@ -79,22 +79,22 @@
       "timestamp": "2026-02-26 07:43:02"
     },
     {
-      "keyword": "prince andrew",
-      "score": 8500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-22 19:17:38"
-    },
-    {
       "keyword": "shia labeouf",
-      "score": 8500000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-24 03:33:49"
     },
     {
+      "keyword": "prince andrew",
+      "score": 7500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-22 19:17:38"
+    },
+    {
       "keyword": "lil poppa",
-      "score": 8000000,
+      "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-22 19:17:38"
@@ -114,6 +114,13 @@
       "timestamp": "2026-02-23 03:40:13"
     },
     {
+      "keyword": "martin short",
+      "score": 5100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-28 03:13:16"
+    },
+    {
       "keyword": "usa vs canada hockey",
       "score": 5000000,
       "traffic_numeric": 2000000,
@@ -126,13 +133,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-23 03:40:13"
-    },
-    {
-      "keyword": "martin short",
-      "score": 4600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-27 13:52:37"
     },
     {
       "keyword": "john davidson",
@@ -150,31 +150,24 @@
     },
     {
       "keyword": "punch the monkey",
-      "score": 3150000,
+      "score": 3100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-26 14:08:09"
     },
     {
       "keyword": "iran",
-      "score": 2900000,
+      "score": 2700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-25 03:42:32"
     },
     {
       "keyword": "james talarico",
-      "score": 2900000,
+      "score": 2700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-23 03:40:13"
-    },
-    {
-      "keyword": "mens hockey olympics",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-21 13:41:46"
     },
     {
       "keyword": "2026 winter olympics freestyle skiing",
@@ -184,37 +177,44 @@
       "timestamp": "2026-02-22 19:17:38"
     },
     {
+      "keyword": "willie colon",
+      "score": 2050000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-02-24 07:38:42"
+    },
+    {
+      "keyword": "scream 7",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-28 03:13:16"
+    },
+    {
       "keyword": "chicago bears",
-      "score": 2200000,
+      "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-02-24 14:08:06"
     },
     {
       "keyword": "tyra banks",
-      "score": 2200000,
+      "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-02-23 07:52:35"
     },
     {
       "keyword": "winter weather advisory",
-      "score": 2100000,
+      "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-02-23 14:06:48"
-    },
-    {
-      "keyword": "willie colon",
-      "score": 2050000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-02-24 07:38:42"
     }
   ],
   "category_stats": {
-    "其他": 130,
-    "体育": 38,
+    "其他": 128,
+    "体育": 43,
     "科技/AI": 9,
     "娱乐/生活": 3,
     "金融/商业": 2

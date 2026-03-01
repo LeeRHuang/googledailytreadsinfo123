@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01 13:36:30",
+  "last_updated": "2026-03-01 19:07:38",
   "trends": [
     {
       "keyword": "el mencho",
@@ -16,18 +16,18 @@
       "timestamp": "2026-02-26 19:35:48"
     },
     {
-      "keyword": "robert carradine",
-      "score": 20600000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-01 13:36:30"
-    },
-    {
       "keyword": "iran",
-      "score": 19400000,
+      "score": 24400000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-01 13:36:30"
+      "timestamp": "2026-03-01 19:07:38"
+    },
+    {
+      "keyword": "robert carradine",
+      "score": 21600000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-01 19:07:38"
     },
     {
       "keyword": "johnny gaudreau",
@@ -59,10 +59,10 @@
     },
     {
       "keyword": "scream 7",
-      "score": 8000000,
+      "score": 9000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-01 13:36:30"
+      "timestamp": "2026-03-01 19:07:38"
     },
     {
       "keyword": "connor hellebuyck",
@@ -79,6 +79,13 @@
       "timestamp": "2026-02-23 07:52:35"
     },
     {
+      "keyword": "jim carrey",
+      "score": 5120000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-01 19:07:38"
+    },
+    {
       "keyword": "martin short",
       "score": 5100000,
       "traffic_numeric": 500000,
@@ -93,6 +100,13 @@
       "timestamp": "2026-02-23 03:40:13"
     },
     {
+      "keyword": "mexico",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-01 07:31:03"
+    },
+    {
       "keyword": "jesse jackson",
       "score": 5000000,
       "traffic_numeric": 1000000,
@@ -100,11 +114,11 @@
       "timestamp": "2026-02-24 03:33:49"
     },
     {
-      "keyword": "mexico",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
+      "keyword": "anthropic",
+      "score": 4700000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-01 07:31:03"
+      "timestamp": "2026-03-01 19:07:38"
     },
     {
       "keyword": "shia labeouf",
@@ -121,25 +135,25 @@
       "timestamp": "2026-02-25 19:41:56"
     },
     {
-      "keyword": "anthropic",
-      "score": 4200000,
-      "traffic_numeric": 500000,
+      "keyword": "iran news",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-01 13:36:30"
-    },
-    {
-      "keyword": "jim carrey",
-      "score": 4120000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-01 13:36:30"
+      "timestamp": "2026-03-01 19:07:38"
     },
     {
       "keyword": "pokemon winds and waves",
-      "score": 3400000,
+      "score": 3900000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-01 13:36:30"
+      "timestamp": "2026-03-01 19:07:38"
+    },
+    {
+      "keyword": "dubai",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-01 19:07:38"
     },
     {
       "keyword": "punch the monkey",
@@ -149,18 +163,18 @@
       "timestamp": "2026-02-26 14:08:09"
     },
     {
-      "keyword": "dubai",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-01 13:36:30"
-    },
-    {
       "keyword": "punch monkey",
       "score": 2400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-26 19:35:48"
+    },
+    {
+      "keyword": "resident evil requiem",
+      "score": 2200000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-03-01 19:07:38"
     },
     {
       "keyword": "blizzard",
@@ -170,25 +184,11 @@
       "timestamp": "2026-02-24 03:33:49"
     },
     {
-      "keyword": "iran news",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-01 13:36:30"
-    },
-    {
       "keyword": "ryan garcia fight",
       "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-23 03:40:13"
-    },
-    {
-      "keyword": "resident evil requiem",
-      "score": 2000000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-03-01 13:36:30"
     },
     {
       "keyword": "smiling friends",
@@ -205,16 +205,16 @@
       "timestamp": "2026-02-27 19:37:06"
     },
     {
-      "keyword": "tate mcrae",
-      "score": 1600000,
+      "keyword": "bobby j brown",
+      "score": 1770000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-02-25 13:59:53"
+      "timestamp": "2026-03-01 19:07:38"
     }
   ],
   "category_stats": {
-    "其他": 124,
-    "体育": 42,
+    "其他": 126,
+    "体育": 46,
     "科技/AI": 12,
     "娱乐/生活": 3,
     "金融/商业": 2

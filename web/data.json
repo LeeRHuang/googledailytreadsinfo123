@@ -1,40 +1,33 @@
 {
-  "last_updated": "2026-03-02 07:43:45",
+  "last_updated": "2026-03-02 13:55:25",
   "trends": [
     {
       "keyword": "el mencho",
-      "score": 86000000,
+      "score": 84000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-01 07:31:03"
     },
     {
       "keyword": "eric dane",
-      "score": 75000000,
+      "score": 70000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-26 19:35:48"
     },
     {
       "keyword": "iran",
-      "score": 34200000,
+      "score": 39000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-02 07:43:45"
+      "timestamp": "2026-03-02 13:55:25"
     },
     {
       "keyword": "robert carradine",
-      "score": 22600000,
+      "score": 23600000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-02 03:25:20"
-    },
-    {
-      "keyword": "johnny gaudreau",
-      "score": 12000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-24 14:08:06"
+      "timestamp": "2026-03-02 13:55:25"
     },
     {
       "keyword": "state of the union",
@@ -45,52 +38,52 @@
     },
     {
       "keyword": "scream 7",
-      "score": 11000000,
+      "score": 12000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-02 07:43:45"
+      "timestamp": "2026-03-02 13:55:25"
+    },
+    {
+      "keyword": "johnny gaudreau",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-24 14:08:06"
     },
     {
       "keyword": "rondale moore",
-      "score": 10000000,
+      "score": 9000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-02-25 13:59:53"
     },
     {
       "keyword": "jim carrey",
-      "score": 7120000,
+      "score": 8120000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-02 07:43:45"
-    },
-    {
-      "keyword": "blizzard warning",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-23 19:45:16"
-    },
-    {
-      "keyword": "connor hellebuyck",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-26 03:31:59"
+      "timestamp": "2026-03-02 13:55:25"
     },
     {
       "keyword": "anthropic",
-      "score": 5700000,
+      "score": 6200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-02 07:43:45"
+      "timestamp": "2026-03-02 13:55:25"
     },
     {
       "keyword": "dubai",
-      "score": 5500000,
+      "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
-      "timestamp": "2026-03-02 07:43:45"
+      "timestamp": "2026-03-02 13:55:25"
+    },
+    {
+      "keyword": "connor hellebuyck",
+      "score": 5500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-26 03:31:59"
     },
     {
       "keyword": "martin short",
@@ -108,10 +101,24 @@
     },
     {
       "keyword": "john davidson",
-      "score": 4200000,
+      "score": 4100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-25 19:41:56"
+    },
+    {
+      "keyword": "ayatollah khomeini",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-02 13:55:25"
+    },
+    {
+      "keyword": "blizzard warning",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-02-23 19:45:16"
     },
     {
       "keyword": "iran news",
@@ -142,23 +149,23 @@
       "timestamp": "2026-02-24 03:33:49"
     },
     {
-      "keyword": "shia labeouf",
-      "score": 3000000,
+      "keyword": "neil sedaka",
+      "score": 2800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-02 13:55:25"
+    },
+    {
+      "keyword": "austin shooting",
+      "score": 2700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-24 03:33:49"
+      "timestamp": "2026-03-02 13:55:25"
     },
     {
       "keyword": "resident evil requiem",
       "score": 2600000,
       "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-03-02 07:43:45"
-    },
-    {
-      "keyword": "neil sedaka",
-      "score": 2300000,
-      "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-02 07:43:45"
     },
@@ -170,25 +177,11 @@
       "timestamp": "2026-03-02 07:43:45"
     },
     {
-      "keyword": "ayatollah khomeini",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-02 03:25:20"
-    },
-    {
-      "keyword": "punch monkey",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-26 19:35:48"
-    },
-    {
-      "keyword": "robert duvall",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-23 07:52:35"
+      "keyword": "scary movie 6",
+      "score": 2080000,
+      "traffic_numeric": 200000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-03-02 13:55:25"
     },
     {
       "keyword": "blizzard",
@@ -198,11 +191,11 @@
       "timestamp": "2026-02-24 03:33:49"
     },
     {
-      "keyword": "scary movie 6",
-      "score": 1880000,
-      "traffic_numeric": 200000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-03-02 07:43:45"
+      "keyword": "shia labeouf",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-24 03:33:49"
     },
     {
       "keyword": "smiling friends",
@@ -210,12 +203,19 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-03-01 07:31:03"
+    },
+    {
+      "keyword": "punch monkey",
+      "score": 1800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-26 19:35:48"
     }
   ],
   "category_stats": {
-    "其他": 129,
-    "体育": 47,
-    "科技/AI": 13,
+    "其他": 126,
+    "体育": 45,
+    "科技/AI": 14,
     "娱乐/生活": 5,
     "金融/商业": 2
   },

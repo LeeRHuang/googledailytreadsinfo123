@@ -1,33 +1,40 @@
 {
-  "last_updated": "2026-03-03 03:32:01",
+  "last_updated": "2026-03-03 07:39:03",
   "trends": [
     {
       "keyword": "el mencho",
-      "score": 80000000,
+      "score": 70000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-01 07:31:03"
     },
     {
+      "keyword": "iran",
+      "score": 53800000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-03-03 07:39:03"
+    },
+    {
       "keyword": "eric dane",
-      "score": 60000000,
+      "score": 50000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-26 19:35:48"
     },
     {
-      "keyword": "iran",
-      "score": 48800000,
-      "traffic_numeric": 5000000,
+      "keyword": "robert carradine",
+      "score": 24500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-03 03:32:01"
     },
     {
-      "keyword": "robert carradine",
-      "score": 24600000,
-      "traffic_numeric": 1000000,
+      "keyword": "jim carrey",
+      "score": 14120000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-03 03:32:01"
+      "timestamp": "2026-03-03 07:39:03"
     },
     {
       "keyword": "scream 7",
@@ -35,13 +42,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-02 19:37:15"
-    },
-    {
-      "keyword": "jim carrey",
-      "score": 12120000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-03 03:32:01"
     },
     {
       "keyword": "state of the union",
@@ -58,18 +58,11 @@
       "timestamp": "2026-03-03 03:32:01"
     },
     {
-      "keyword": "rondale moore",
-      "score": 7000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-25 13:59:53"
-    },
-    {
       "keyword": "dubai",
-      "score": 7000000,
+      "score": 7500000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
-      "timestamp": "2026-03-03 03:32:01"
+      "timestamp": "2026-03-03 07:39:03"
     },
     {
       "keyword": "anthropic",
@@ -79,11 +72,11 @@
       "timestamp": "2026-03-02 19:37:15"
     },
     {
-      "keyword": "johnny gaudreau",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
+      "keyword": "austin shooting",
+      "score": 5700000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-02-24 14:08:06"
+      "timestamp": "2026-03-03 07:39:03"
     },
     {
       "keyword": "martin short",
@@ -93,6 +86,13 @@
       "timestamp": "2026-02-28 03:13:16"
     },
     {
+      "keyword": "rondale moore",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-25 13:59:53"
+    },
+    {
       "keyword": "mexico",
       "score": 5000000,
       "traffic_numeric": 1000000,
@@ -100,18 +100,18 @@
       "timestamp": "2026-03-01 07:31:03"
     },
     {
-      "keyword": "austin shooting",
-      "score": 4700000,
-      "traffic_numeric": 1000000,
+      "keyword": "khamenei",
+      "score": 4100000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-03 03:32:01"
+      "timestamp": "2026-03-03 07:39:03"
     },
     {
-      "keyword": "connor hellebuyck",
-      "score": 4500000,
-      "traffic_numeric": 1000000,
+      "keyword": "iran war",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-26 03:31:59"
+      "timestamp": "2026-03-03 07:39:03"
     },
     {
       "keyword": "iran news",
@@ -119,6 +119,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-01 19:07:38"
+    },
+    {
+      "keyword": "connor hellebuyck",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-26 03:31:59"
     },
     {
       "keyword": "pokemon winds and waves",
@@ -135,25 +142,25 @@
       "timestamp": "2026-03-03 03:32:01"
     },
     {
-      "keyword": "john davidson",
-      "score": 3700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-25 19:41:56"
-    },
-    {
       "keyword": "resident evil requiem",
-      "score": 3300000,
+      "score": 3800000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-03 03:32:01"
+      "timestamp": "2026-03-03 07:39:03"
     },
     {
       "keyword": "scary movie 6",
-      "score": 3080000,
+      "score": 3580000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
-      "timestamp": "2026-03-03 03:32:01"
+      "timestamp": "2026-03-03 07:39:03"
+    },
+    {
+      "keyword": "john davidson",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-02-25 19:41:56"
     },
     {
       "keyword": "punch the monkey",
@@ -163,25 +170,18 @@
       "timestamp": "2026-02-26 14:08:09"
     },
     {
-      "keyword": "khamenei",
-      "score": 2100000,
-      "traffic_numeric": 2000000,
+      "keyword": "kelly osbourne",
+      "score": 2220000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-02 07:43:45"
+      "timestamp": "2026-03-03 07:39:03"
     },
     {
-      "keyword": "iran war",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
+      "keyword": "burger king whopper changes",
+      "score": 2190000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-03-02 19:37:15"
-    },
-    {
-      "keyword": "blizzard",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-02-24 03:33:49"
+      "timestamp": "2026-03-03 07:39:03"
     },
     {
       "keyword": "israel",
@@ -191,11 +191,11 @@
       "timestamp": "2026-03-03 03:32:01"
     },
     {
-      "keyword": "burger king whopper changes",
-      "score": 1990000,
-      "traffic_numeric": 200000,
+      "keyword": "johnny gaudreau",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-03 03:32:01"
+      "timestamp": "2026-02-24 14:08:06"
     },
     {
       "keyword": "smiling friends",
@@ -205,19 +205,25 @@
       "timestamp": "2026-03-01 07:31:03"
     },
     {
-      "keyword": "supreme",
-      "score": 1800000,
-      "traffic_numeric": 500000,
+      "keyword": "bobby j brown",
+      "score": 1770000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-02-27 19:37:06"
+      "timestamp": "2026-03-01 19:07:38"
     }
   ],
   "category_stats": {
-    "其他": 127,
-    "体育": 46,
+    "其他": 122,
+    "体育": 45,
     "科技/AI": 14,
-    "娱乐/生活": 5,
+    "娱乐/生活": 4,
     "金融/商业": 2
   },
-  "insights": []
+  "insights": [
+    {
+      "title": "季节性效率/计划应用",
+      "context": "新年计划相关关键词搜索量激增。",
+      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
+    }
+  ]
 }

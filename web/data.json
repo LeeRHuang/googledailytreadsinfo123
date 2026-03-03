@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-03-03 13:58:41",
+  "last_updated": "2026-03-03 19:33:52",
   "trends": [
     {
       "keyword": "el mencho",
-      "score": 70000000,
+      "score": 65000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-01 07:31:03"
     },
     {
       "keyword": "iran",
-      "score": 58800000,
+      "score": 63600000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-03 13:58:41"
+      "timestamp": "2026-03-03 19:33:52"
     },
     {
       "keyword": "eric dane",
-      "score": 50000000,
+      "score": 45000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-26 19:35:48"
     },
     {
       "keyword": "robert carradine",
-      "score": 24500000,
+      "score": 24000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-03 03:32:01"
     },
     {
       "keyword": "jim carrey",
-      "score": 16120000,
+      "score": 18120000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-03 13:58:41"
+      "timestamp": "2026-03-03 19:33:52"
     },
     {
       "keyword": "scream 7",
@@ -59,17 +59,17 @@
     },
     {
       "keyword": "dubai",
-      "score": 8000000,
+      "score": 8500000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
-      "timestamp": "2026-03-03 13:58:41"
+      "timestamp": "2026-03-03 19:33:52"
     },
     {
       "keyword": "austin shooting",
-      "score": 6700000,
+      "score": 7700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-03 13:58:41"
+      "timestamp": "2026-03-03 19:33:52"
     },
     {
       "keyword": "anthropic",
@@ -100,11 +100,11 @@
       "timestamp": "2026-03-01 07:31:03"
     },
     {
-      "keyword": "rondale moore",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-25 13:59:53"
+      "keyword": "scary movie 6",
+      "score": 4580000,
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-03-03 19:33:52"
     },
     {
       "keyword": "khamenei",
@@ -114,11 +114,18 @@
       "timestamp": "2026-03-03 07:39:03"
     },
     {
-      "keyword": "scary movie 6",
-      "score": 4080000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-03-03 13:58:41"
+      "keyword": "rondale moore",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-25 13:59:53"
+    },
+    {
+      "keyword": "israel",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-03 19:33:52"
     },
     {
       "keyword": "iran war",
@@ -126,13 +133,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-03 07:39:03"
-    },
-    {
-      "keyword": "connor hellebuyck",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-26 03:31:59"
     },
     {
       "keyword": "pokemon winds and waves",
@@ -156,64 +156,64 @@
       "timestamp": "2026-03-03 03:32:01"
     },
     {
-      "keyword": "john davidson",
-      "score": 3000000,
+      "keyword": "lunar eclipse 2026",
+      "score": 3700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-03 19:33:52"
+    },
+    {
+      "keyword": "connor hellebuyck",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-02-26 03:31:59"
+    },
+    {
+      "keyword": "kelly osbourne",
+      "score": 3220000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-02-25 19:41:56"
+      "timestamp": "2026-03-03 19:33:52"
     },
     {
       "keyword": "punch the monkey",
-      "score": 2900000,
+      "score": 2700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-26 14:08:09"
     },
     {
-      "keyword": "kelly osbourne",
-      "score": 2720000,
+      "keyword": "burger king whopper changes",
+      "score": 2590000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-03-03 19:33:52"
+    },
+    {
+      "keyword": "john davidson",
+      "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-03 13:58:41"
+      "timestamp": "2026-02-25 19:41:56"
     },
     {
-      "keyword": "lunar eclipse 2026",
-      "score": 2700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-03 13:58:41"
-    },
-    {
-      "keyword": "burger king whopper changes",
-      "score": 2390000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-03-03 13:58:41"
-    },
-    {
-      "keyword": "johnny gaudreau",
+      "keyword": "ayatollah",
       "score": 2000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-02-24 14:08:06"
+      "timestamp": "2026-03-03 19:33:52"
     },
     {
-      "keyword": "israel",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-03 03:32:01"
-    },
-    {
-      "keyword": "smiling friends",
-      "score": 1850000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-03-01 07:31:03"
+      "keyword": "oil prices",
+      "score": 1900000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-03 19:33:52"
     }
   ],
   "category_stats": {
-    "其他": 127,
+    "其他": 125,
     "体育": 45,
     "科技/AI": 14,
     "娱乐/生活": 4,

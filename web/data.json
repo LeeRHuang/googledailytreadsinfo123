@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-03-03 19:33:52",
+  "last_updated": "2026-03-04 03:17:31",
   "trends": [
     {
+      "keyword": "iran",
+      "score": 68600000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-03-04 03:17:31"
+    },
+    {
       "keyword": "el mencho",
-      "score": 65000000,
+      "score": 60000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-01 07:31:03"
     },
     {
-      "keyword": "iran",
-      "score": 63600000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-03-03 19:33:52"
-    },
-    {
       "keyword": "eric dane",
-      "score": 45000000,
+      "score": 40000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-02-26 19:35:48"
     },
     {
       "keyword": "robert carradine",
-      "score": 24000000,
+      "score": 23000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-03 03:32:01"
     },
     {
       "keyword": "jim carrey",
-      "score": 18120000,
+      "score": 20120000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-03 19:33:52"
+      "timestamp": "2026-03-04 03:17:31"
     },
     {
       "keyword": "scream 7",
@@ -44,6 +44,13 @@
       "timestamp": "2026-03-02 19:37:15"
     },
     {
+      "keyword": "ayatollah khomeini",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-04 03:17:31"
+    },
+    {
       "keyword": "state of the union",
       "score": 12000000,
       "traffic_numeric": 2000000,
@@ -51,25 +58,25 @@
       "timestamp": "2026-02-26 07:43:02"
     },
     {
-      "keyword": "ayatollah khomeini",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-03 13:58:41"
-    },
-    {
       "keyword": "dubai",
-      "score": 8500000,
+      "score": 9000000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
-      "timestamp": "2026-03-03 19:33:52"
+      "timestamp": "2026-03-04 03:17:31"
     },
     {
       "keyword": "austin shooting",
-      "score": 7700000,
+      "score": 8700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-03 19:33:52"
+      "timestamp": "2026-03-04 03:17:31"
+    },
+    {
+      "keyword": "iran news",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-04 03:17:31"
     },
     {
       "keyword": "anthropic",
@@ -79,18 +86,18 @@
       "timestamp": "2026-03-02 19:37:15"
     },
     {
-      "keyword": "iran news",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-03 13:58:41"
-    },
-    {
       "keyword": "martin short",
       "score": 5100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-28 03:13:16"
+    },
+    {
+      "keyword": "scary movie 6",
+      "score": 5080000,
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-03-04 03:17:31"
     },
     {
       "keyword": "mexico",
@@ -100,11 +107,11 @@
       "timestamp": "2026-03-01 07:31:03"
     },
     {
-      "keyword": "scary movie 6",
-      "score": 4580000,
+      "keyword": "resident evil requiem",
+      "score": 4300000,
       "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-03-03 19:33:52"
+      "category": "其他",
+      "timestamp": "2026-03-04 03:17:31"
     },
     {
       "keyword": "khamenei",
@@ -112,13 +119,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-03 07:39:03"
-    },
-    {
-      "keyword": "rondale moore",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-02-25 13:59:53"
     },
     {
       "keyword": "israel",
@@ -142,18 +142,18 @@
       "timestamp": "2026-03-01 19:07:38"
     },
     {
-      "keyword": "resident evil requiem",
-      "score": 3800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-03 07:39:03"
-    },
-    {
       "keyword": "neil sedaka",
       "score": 3800000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-03 03:32:01"
+    },
+    {
+      "keyword": "kelly osbourne",
+      "score": 3720000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-04 03:17:31"
     },
     {
       "keyword": "lunar eclipse 2026",
@@ -170,54 +170,54 @@
       "timestamp": "2026-02-26 03:31:59"
     },
     {
-      "keyword": "kelly osbourne",
-      "score": 3220000,
-      "traffic_numeric": 500000,
+      "keyword": "rondale moore",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-03 19:33:52"
+      "timestamp": "2026-02-25 13:59:53"
+    },
+    {
+      "keyword": "burger king whopper changes",
+      "score": 2790000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-03-04 03:17:31"
+    },
+    {
+      "keyword": "ayatollah",
+      "score": 2500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-04 03:17:31"
     },
     {
       "keyword": "punch the monkey",
-      "score": 2700000,
+      "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-02-26 14:08:09"
     },
     {
-      "keyword": "burger king whopper changes",
-      "score": 2590000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-03-03 19:33:52"
-    },
-    {
-      "keyword": "john davidson",
-      "score": 2500000,
+      "keyword": "oil prices",
+      "score": 2400000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-25 19:41:56"
+      "category": "科技/AI",
+      "timestamp": "2026-03-04 03:17:31"
     },
     {
-      "keyword": "ayatollah",
+      "keyword": "blood moon 2026",
       "score": 2000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-03 19:33:52"
-    },
-    {
-      "keyword": "oil prices",
-      "score": 1900000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-03 19:33:52"
+      "timestamp": "2026-03-04 03:17:31"
     }
   ],
   "category_stats": {
-    "其他": 125,
-    "体育": 45,
+    "其他": 120,
+    "体育": 44,
     "科技/AI": 14,
     "娱乐/生活": 4,
-    "金融/商业": 2
+    "金融/商业": 1
   },
   "insights": [
     {

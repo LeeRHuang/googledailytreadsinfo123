@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05 13:51:18",
+  "last_updated": "2026-03-05 19:54:43",
   "trends": [
     {
       "keyword": "iran",
@@ -10,21 +10,21 @@
     },
     {
       "keyword": "jim carrey",
-      "score": 32120000,
+      "score": 34120000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-05 13:51:18"
+      "timestamp": "2026-03-05 19:54:43"
     },
     {
       "keyword": "el mencho",
-      "score": 30000000,
+      "score": 23000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-01 07:31:03"
     },
     {
       "keyword": "robert carradine",
-      "score": 17000000,
+      "score": 15000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-03 03:32:01"
@@ -37,18 +37,25 @@
       "timestamp": "2026-03-05 07:40:03"
     },
     {
+      "keyword": "iran war",
+      "score": 13000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-03-05 19:54:43"
+    },
+    {
       "keyword": "scream 7",
-      "score": 12900000,
+      "score": 12600000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-02 19:37:15"
     },
     {
       "keyword": "dubai",
-      "score": 12000000,
+      "score": 12500000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
-      "timestamp": "2026-03-05 13:51:18"
+      "timestamp": "2026-03-05 19:54:43"
     },
     {
       "keyword": "ayatollah khomeini",
@@ -56,13 +63,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-04 03:17:31"
-    },
-    {
-      "keyword": "eric dane",
-      "score": 10000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-02-26 19:35:48"
     },
     {
       "keyword": "austin shooting",
@@ -73,17 +73,10 @@
     },
     {
       "keyword": "scary movie 6",
-      "score": 8080000,
+      "score": 8580000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
-      "timestamp": "2026-03-05 13:51:18"
-    },
-    {
-      "keyword": "iran war",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-04 19:35:09"
+      "timestamp": "2026-03-05 19:54:43"
     },
     {
       "keyword": "blood moon 2026",
@@ -94,14 +87,14 @@
     },
     {
       "keyword": "kelly osbourne",
-      "score": 6720000,
+      "score": 7220000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-05 13:51:18"
+      "timestamp": "2026-03-05 19:54:43"
     },
     {
       "keyword": "anthropic",
-      "score": 6500000,
+      "score": 6400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-02 19:37:15"
@@ -114,6 +107,20 @@
       "timestamp": "2026-03-04 07:28:38"
     },
     {
+      "keyword": "oil prices",
+      "score": 5400000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-05 19:54:43"
+    },
+    {
+      "keyword": "jasmine crockett",
+      "score": 5100000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-05 19:54:43"
+    },
+    {
       "keyword": "mexico",
       "score": 5000000,
       "traffic_numeric": 1000000,
@@ -121,32 +128,25 @@
       "timestamp": "2026-03-01 07:31:03"
     },
     {
-      "keyword": "oil prices",
-      "score": 4900000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-05 13:51:18"
-    },
-    {
       "keyword": "zendaya",
-      "score": 4650000,
+      "score": 4850000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-05 13:51:18"
+      "timestamp": "2026-03-05 19:54:43"
     },
     {
       "keyword": "resident evil requiem",
-      "score": 4300000,
+      "score": 4200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-04 03:17:31"
     },
     {
-      "keyword": "jasmine crockett",
-      "score": 4100000,
+      "keyword": "al jazeera",
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-05 13:51:18"
+      "timestamp": "2026-03-05 19:54:43"
     },
     {
       "keyword": "israel",
@@ -184,18 +184,18 @@
       "timestamp": "2026-03-04 13:49:52"
     },
     {
-      "keyword": "martin short",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-02-28 03:13:16"
-    },
-    {
-      "keyword": "al jazeera",
-      "score": 3000000,
+      "keyword": "macbook neo",
+      "score": 2700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-05 13:51:18"
+      "timestamp": "2026-03-05 19:54:43"
+    },
+    {
+      "keyword": "texas primary",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-04 13:49:52"
     },
     {
       "keyword": "ayatollah",
@@ -205,16 +205,16 @@
       "timestamp": "2026-03-04 03:17:31"
     },
     {
-      "keyword": "texas primary",
-      "score": 2500000,
+      "keyword": "war with iran",
+      "score": 2400000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-04 13:49:52"
+      "timestamp": "2026-03-05 03:29:25"
     }
   ],
   "category_stats": {
-    "其他": 118,
-    "体育": 37,
+    "其他": 112,
+    "体育": 33,
     "科技/AI": 9,
     "娱乐/生活": 5,
     "金融/商业": 1

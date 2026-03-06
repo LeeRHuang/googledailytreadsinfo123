@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06 07:41:34",
+  "last_updated": "2026-03-06 13:51:58",
   "trends": [
     {
       "keyword": "iran",
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "iran war",
-      "score": 23000000,
+      "score": 28000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-06 07:41:34"
+      "timestamp": "2026-03-06 13:51:58"
     },
     {
       "keyword": "el mencho",
@@ -38,10 +38,10 @@
     },
     {
       "keyword": "dubai",
-      "score": 13500000,
+      "score": 14000000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
-      "timestamp": "2026-03-06 07:41:34"
+      "timestamp": "2026-03-06 13:51:58"
     },
     {
       "keyword": "robert carradine",
@@ -65,6 +65,13 @@
       "timestamp": "2026-03-04 03:17:31"
     },
     {
+      "keyword": "kelly osbourne",
+      "score": 8720000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-06 13:51:58"
+    },
+    {
       "keyword": "austin shooting",
       "score": 8700000,
       "traffic_numeric": 1000000,
@@ -79,13 +86,6 @@
       "timestamp": "2026-03-05 19:54:43"
     },
     {
-      "keyword": "kelly osbourne",
-      "score": 8220000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-06 07:41:34"
-    },
-    {
       "keyword": "blood moon 2026",
       "score": 8000000,
       "traffic_numeric": 2000000,
@@ -93,11 +93,32 @@
       "timestamp": "2026-03-05 03:29:25"
     },
     {
+      "keyword": "kristi noem",
+      "score": 7100000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-06 13:51:58"
+    },
+    {
+      "keyword": "al jazeera",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-06 13:51:58"
+    },
+    {
       "keyword": "oil prices",
-      "score": 6400000,
+      "score": 6900000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
-      "timestamp": "2026-03-06 07:41:34"
+      "timestamp": "2026-03-06 13:51:58"
+    },
+    {
+      "keyword": "zendaya",
+      "score": 6350000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-06 13:51:58"
     },
     {
       "keyword": "khamenei",
@@ -114,18 +135,11 @@
       "timestamp": "2026-03-02 19:37:15"
     },
     {
-      "keyword": "al jazeera",
-      "score": 6000000,
+      "keyword": "macbook neo",
+      "score": 5700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-06 07:41:34"
-    },
-    {
-      "keyword": "zendaya",
-      "score": 5850000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-06 07:41:34"
+      "timestamp": "2026-03-06 13:51:58"
     },
     {
       "keyword": "jasmine crockett",
@@ -135,25 +149,11 @@
       "timestamp": "2026-03-05 19:54:43"
     },
     {
-      "keyword": "kristi noem",
-      "score": 5100000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-06 07:41:34"
-    },
-    {
       "keyword": "mexico",
       "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-01 07:31:03"
-    },
-    {
-      "keyword": "macbook neo",
-      "score": 4700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-06 07:41:34"
     },
     {
       "keyword": "israel",
@@ -191,6 +191,13 @@
       "timestamp": "2026-03-03 19:33:52"
     },
     {
+      "keyword": "world baseball classic",
+      "score": 3400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-06 13:51:58"
+    },
+    {
       "keyword": "burger king whopper changes",
       "score": 3150000,
       "traffic_numeric": 200000,
@@ -198,24 +205,17 @@
       "timestamp": "2026-03-04 13:49:52"
     },
     {
-      "keyword": "world baseball classic",
-      "score": 2900000,
+      "keyword": "strait of hormuz",
+      "score": 2700000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-06 07:41:34"
-    },
-    {
-      "keyword": "harrison ford",
-      "score": 2550000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-03-06 07:41:34"
+      "category": "科技/AI",
+      "timestamp": "2026-03-06 13:51:58"
     }
   ],
   "category_stats": {
-    "其他": 112,
+    "其他": 113,
     "体育": 31,
-    "科技/AI": 8,
+    "科技/AI": 9,
     "娱乐/生活": 5,
     "金融/商业": 1
   },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06 13:51:58",
+  "last_updated": "2026-03-06 19:37:49",
   "trends": [
     {
       "keyword": "iran",
@@ -10,24 +10,24 @@
     },
     {
       "keyword": "jim carrey",
-      "score": 36120000,
+      "score": 36100000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-06 03:20:56"
     },
     {
       "keyword": "iran war",
-      "score": 28000000,
+      "score": 30000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-06 13:51:58"
+      "timestamp": "2026-03-06 19:37:49"
     },
     {
-      "keyword": "el mencho",
-      "score": 19000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-03-01 07:31:03"
+      "keyword": "dubai",
+      "score": 14500000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-06 19:37:49"
     },
     {
       "keyword": "iran news",
@@ -37,25 +37,11 @@
       "timestamp": "2026-03-05 07:40:03"
     },
     {
-      "keyword": "dubai",
-      "score": 14000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-06 13:51:58"
-    },
-    {
-      "keyword": "robert carradine",
-      "score": 13000000,
-      "traffic_numeric": 1000000,
+      "keyword": "el mencho",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-03 03:32:01"
-    },
-    {
-      "keyword": "scream 7",
-      "score": 12200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-02 19:37:15"
+      "timestamp": "2026-03-01 07:31:03"
     },
     {
       "keyword": "ayatollah khomeini",
@@ -65,11 +51,32 @@
       "timestamp": "2026-03-04 03:17:31"
     },
     {
+      "keyword": "scream 7",
+      "score": 11500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-02 19:37:15"
+    },
+    {
+      "keyword": "robert carradine",
+      "score": 11000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-03 03:32:01"
+    },
+    {
       "keyword": "kelly osbourne",
-      "score": 8720000,
+      "score": 9220000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-06 13:51:58"
+      "timestamp": "2026-03-06 19:37:49"
+    },
+    {
+      "keyword": "kristi noem",
+      "score": 9100000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-06 19:37:49"
     },
     {
       "keyword": "austin shooting",
@@ -80,7 +87,7 @@
     },
     {
       "keyword": "scary movie 6",
-      "score": 8570000,
+      "score": 8500000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-03-05 19:54:43"
@@ -93,11 +100,11 @@
       "timestamp": "2026-03-05 03:29:25"
     },
     {
-      "keyword": "kristi noem",
-      "score": 7100000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-06 13:51:58"
+      "keyword": "oil prices",
+      "score": 7400000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-06 19:37:49"
     },
     {
       "keyword": "al jazeera",
@@ -107,18 +114,18 @@
       "timestamp": "2026-03-06 13:51:58"
     },
     {
-      "keyword": "oil prices",
-      "score": 6900000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-06 13:51:58"
-    },
-    {
       "keyword": "zendaya",
-      "score": 6350000,
+      "score": 6850000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-06 13:51:58"
+      "timestamp": "2026-03-06 19:37:49"
+    },
+    {
+      "keyword": "macbook neo",
+      "score": 6700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-06 19:37:49"
     },
     {
       "keyword": "khamenei",
@@ -129,17 +136,10 @@
     },
     {
       "keyword": "anthropic",
-      "score": 6100000,
+      "score": 5700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-02 19:37:15"
-    },
-    {
-      "keyword": "macbook neo",
-      "score": 5700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-06 13:51:58"
     },
     {
       "keyword": "jasmine crockett",
@@ -163,18 +163,11 @@
       "timestamp": "2026-03-03 19:33:52"
     },
     {
-      "keyword": "resident evil requiem",
-      "score": 4000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-04 03:17:31"
-    },
-    {
-      "keyword": "pokemon winds and waves",
+      "keyword": "world baseball classic",
       "score": 3900000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-01 19:07:38"
+      "timestamp": "2026-03-06 19:37:49"
     },
     {
       "keyword": "neil sedaka",
@@ -191,15 +184,22 @@
       "timestamp": "2026-03-03 19:33:52"
     },
     {
-      "keyword": "world baseball classic",
-      "score": 3400000,
+      "keyword": "resident evil requiem",
+      "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-06 13:51:58"
+      "timestamp": "2026-03-04 03:17:31"
+    },
+    {
+      "keyword": "pokemon winds and waves",
+      "score": 3700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-01 19:07:38"
     },
     {
       "keyword": "burger king whopper changes",
-      "score": 3150000,
+      "score": 3050000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-03-04 13:49:52"
@@ -213,11 +213,10 @@
     }
   ],
   "category_stats": {
-    "其他": 113,
-    "体育": 31,
-    "科技/AI": 9,
-    "娱乐/生活": 5,
-    "金融/商业": 1
+    "其他": 108,
+    "体育": 28,
+    "科技/AI": 8,
+    "娱乐/生活": 5
   },
   "insights": [
     {

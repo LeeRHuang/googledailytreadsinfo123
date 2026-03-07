@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07 07:22:50",
+  "last_updated": "2026-03-07 13:26:36",
   "trends": [
     {
       "keyword": "iran",
@@ -23,6 +23,13 @@
       "timestamp": "2026-03-06 19:37:49"
     },
     {
+      "keyword": "2026 winter paralympics",
+      "score": 17700000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-03-07 13:26:36"
+    },
+    {
       "keyword": "dubai",
       "score": 15500000,
       "traffic_numeric": 1000000,
@@ -30,25 +37,18 @@
       "timestamp": "2026-03-07 07:22:50"
     },
     {
+      "keyword": "kristi noem",
+      "score": 15100000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-07 13:26:36"
+    },
+    {
       "keyword": "iran news",
       "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-05 07:40:03"
-    },
-    {
-      "keyword": "kristi noem",
-      "score": 13100000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-07 07:22:50"
-    },
-    {
-      "keyword": "2026 winter paralympics",
-      "score": 12700000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-03-07 07:22:50"
     },
     {
       "keyword": "ayatollah khomeini",
@@ -59,10 +59,10 @@
     },
     {
       "keyword": "kelly osbourne",
-      "score": 10220000,
+      "score": 10720000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-07 07:22:50"
+      "timestamp": "2026-03-07 13:26:36"
     },
     {
       "keyword": "scream 7",
@@ -70,6 +70,13 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-02 19:37:15"
+    },
+    {
+      "keyword": "macbook neo",
+      "score": 9700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-07 13:26:36"
     },
     {
       "keyword": "al jazeera",
@@ -93,11 +100,11 @@
       "timestamp": "2026-03-04 03:17:31"
     },
     {
-      "keyword": "macbook neo",
-      "score": 8700000,
-      "traffic_numeric": 1000000,
+      "keyword": "zendaya",
+      "score": 8350000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-07 07:22:50"
+      "timestamp": "2026-03-07 13:26:36"
     },
     {
       "keyword": "scary movie 6",
@@ -107,13 +114,6 @@
       "timestamp": "2026-03-05 19:54:43"
     },
     {
-      "keyword": "el mencho",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-01 07:31:03"
-    },
-    {
       "keyword": "blood moon 2026",
       "score": 8000000,
       "traffic_numeric": 2000000,
@@ -121,11 +121,11 @@
       "timestamp": "2026-03-05 03:29:25"
     },
     {
-      "keyword": "zendaya",
-      "score": 7850000,
-      "traffic_numeric": 500000,
+      "keyword": "el mencho",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-07 07:22:50"
+      "timestamp": "2026-03-01 07:31:03"
     },
     {
       "keyword": "oil prices",
@@ -156,18 +156,18 @@
       "timestamp": "2026-03-02 19:37:15"
     },
     {
-      "keyword": "israel",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-03 19:33:52"
-    },
-    {
       "keyword": "mexico",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-01 07:31:03"
+    },
+    {
+      "keyword": "israel",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-03 19:33:52"
     },
     {
       "keyword": "world baseball classic",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 114,
-    "体育": 29,
+    "其他": 116,
+    "体育": 30,
     "科技/AI": 8,
     "娱乐/生活": 4
   },

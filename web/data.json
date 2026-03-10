@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10 13:58:17",
+  "last_updated": "2026-03-10 19:35:57",
   "trends": [
     {
       "keyword": "2026 winter paralympics",
@@ -10,7 +10,7 @@
     },
     {
       "keyword": "iran",
-      "score": 45000000,
+      "score": 35000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-05 13:51:18"
@@ -30,13 +30,6 @@
       "timestamp": "2026-03-06 19:37:49"
     },
     {
-      "keyword": "jim carrey",
-      "score": 22000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-06 03:20:56"
-    },
-    {
       "keyword": "macbook neo",
       "score": 20200000,
       "traffic_numeric": 1000000,
@@ -44,18 +37,18 @@
       "timestamp": "2026-03-10 13:58:17"
     },
     {
+      "keyword": "jim carrey",
+      "score": 18000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-06 03:20:56"
+    },
+    {
       "keyword": "zendaya",
-      "score": 10100000,
+      "score": 9700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-08 19:17:40"
-    },
-    {
-      "keyword": "iran news",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-05 07:40:03"
     },
     {
       "keyword": "al jazeera",
@@ -63,13 +56,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-07 03:12:16"
-    },
-    {
-      "keyword": "kelly osbourne",
-      "score": 8500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-07 13:26:36"
     },
     {
       "keyword": "daylight saving time",
@@ -86,18 +72,32 @@
       "timestamp": "2026-03-05 03:29:25"
     },
     {
-      "keyword": "dubai",
+      "keyword": "iran news",
       "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-05 07:40:03"
+    },
+    {
+      "keyword": "kelly osbourne",
+      "score": 7500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-07 13:26:36"
+    },
+    {
+      "keyword": "dubai",
+      "score": 7000000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-03-07 07:22:50"
     },
     {
-      "keyword": "oil prices",
-      "score": 7500000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-10 13:58:17"
+      "keyword": "international women's day",
+      "score": 6800000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-10 07:38:06"
     },
     {
       "keyword": "union city michigan",
@@ -107,11 +107,11 @@
       "timestamp": "2026-03-09 14:03:57"
     },
     {
-      "keyword": "international women's day",
-      "score": 6800000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-10 07:38:06"
+      "keyword": "oil prices",
+      "score": 6500000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-10 13:58:17"
     },
     {
       "keyword": "markwayne mullin",
@@ -122,7 +122,7 @@
     },
     {
       "keyword": "daylight savings 2026",
-      "score": 5700000,
+      "score": 5500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-08 13:36:28"
@@ -149,25 +149,18 @@
       "timestamp": "2026-03-05 19:54:43"
     },
     {
+      "keyword": "mexico vs usa baseball",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-03-10 19:35:57"
+    },
+    {
       "keyword": "scary movie 6",
-      "score": 5000000,
+      "score": 4000000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-03-05 19:54:43"
-    },
-    {
-      "keyword": "ayatollah khomeini",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-04 03:17:31"
-    },
-    {
-      "keyword": "world baseball classic",
-      "score": 3900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-06 19:37:49"
     },
     {
       "keyword": "pokopia",
@@ -175,6 +168,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-09 07:49:54"
+    },
+    {
+      "keyword": "world baseball classic",
+      "score": 3700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-06 19:37:49"
     },
     {
       "keyword": "wbc",
@@ -198,22 +198,22 @@
       "timestamp": "2026-03-08 13:36:28"
     },
     {
-      "keyword": "austin shooting",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
+      "keyword": "iran war news",
+      "score": 2500000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-04 03:17:31"
+      "timestamp": "2026-03-06 19:37:49"
     },
     {
-      "keyword": "mexico vs usa baseball",
-      "score": 3000000,
+      "keyword": "texas primary",
+      "score": 2500000,
       "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-03-10 13:58:17"
+      "category": "其他",
+      "timestamp": "2026-03-04 13:49:52"
     }
   ],
   "category_stats": {
-    "其他": 127,
+    "其他": 121,
     "体育": 28,
     "科技/AI": 9,
     "娱乐/生活": 4

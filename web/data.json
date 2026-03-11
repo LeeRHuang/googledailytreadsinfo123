@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10 19:35:57",
+  "last_updated": "2026-03-11 03:17:34",
   "trends": [
     {
       "keyword": "2026 winter paralympics",
@@ -10,7 +10,7 @@
     },
     {
       "keyword": "iran",
-      "score": 35000000,
+      "score": 30000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-05 13:51:18"
@@ -38,14 +38,14 @@
     },
     {
       "keyword": "jim carrey",
-      "score": 18000000,
+      "score": 16000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-06 03:20:56"
     },
     {
       "keyword": "zendaya",
-      "score": 9700000,
+      "score": 9200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-08 19:17:40"
@@ -65,32 +65,11 @@
       "timestamp": "2026-03-09 14:03:57"
     },
     {
-      "keyword": "blood moon 2026",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-05 03:29:25"
-    },
-    {
-      "keyword": "iran news",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-05 07:40:03"
-    },
-    {
       "keyword": "kelly osbourne",
-      "score": 7500000,
+      "score": 7000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-07 13:26:36"
-    },
-    {
-      "keyword": "dubai",
-      "score": 7000000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-07 07:22:50"
     },
     {
       "keyword": "international women's day",
@@ -107,11 +86,25 @@
       "timestamp": "2026-03-09 14:03:57"
     },
     {
-      "keyword": "oil prices",
+      "keyword": "dubai",
       "score": 6500000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
-      "timestamp": "2026-03-10 13:58:17"
+      "timestamp": "2026-03-07 07:22:50"
+    },
+    {
+      "keyword": "maxx crosby",
+      "score": 6350000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-11 03:17:34"
+    },
+    {
+      "keyword": "iran news",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-05 07:40:03"
     },
     {
       "keyword": "markwayne mullin",
@@ -119,6 +112,20 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-10 03:27:21"
+    },
+    {
+      "keyword": "oil prices",
+      "score": 6000000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-10 13:58:17"
+    },
+    {
+      "keyword": "blood moon 2026",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-05 03:29:25"
     },
     {
       "keyword": "daylight savings 2026",
@@ -135,13 +142,6 @@
       "timestamp": "2026-03-09 03:31:20"
     },
     {
-      "keyword": "maxx crosby",
-      "score": 5350000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-09 14:03:57"
-    },
-    {
       "keyword": "jasmine crockett",
       "score": 5100000,
       "traffic_numeric": 1000000,
@@ -156,13 +156,6 @@
       "timestamp": "2026-03-10 19:35:57"
     },
     {
-      "keyword": "scary movie 6",
-      "score": 4000000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-03-05 19:54:43"
-    },
-    {
       "keyword": "pokopia",
       "score": 3900000,
       "traffic_numeric": 500000,
@@ -170,8 +163,15 @@
       "timestamp": "2026-03-09 07:49:54"
     },
     {
+      "keyword": "scary movie 6",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-03-05 19:54:43"
+    },
+    {
       "keyword": "world baseball classic",
-      "score": 3700000,
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-06 19:37:49"
@@ -198,25 +198,25 @@
       "timestamp": "2026-03-08 13:36:28"
     },
     {
+      "keyword": "war machine 2026",
+      "score": 2700000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-03-11 03:17:34"
+    },
+    {
       "keyword": "iran war news",
       "score": 2500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-06 19:37:49"
-    },
-    {
-      "keyword": "texas primary",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-04 13:49:52"
     }
   ],
   "category_stats": {
     "其他": 121,
-    "体育": 28,
+    "体育": 31,
     "科技/AI": 9,
-    "娱乐/生活": 4
+    "娱乐/生活": 3
   },
   "insights": [
     {

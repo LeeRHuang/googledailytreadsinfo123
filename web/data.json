@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11 19:38:30",
+  "last_updated": "2026-03-12 03:24:33",
   "trends": [
     {
       "keyword": "2026 winter paralympics",
@@ -51,6 +51,13 @@
       "timestamp": "2026-03-07 03:12:16"
     },
     {
+      "keyword": "bam adebayo",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-12 03:24:33"
+    },
+    {
       "keyword": "daylight saving time",
       "score": 8200000,
       "traffic_numeric": 2000000,
@@ -72,11 +79,11 @@
       "timestamp": "2026-03-11 14:00:20"
     },
     {
-      "keyword": "bam adebayo",
-      "score": 7000000,
+      "keyword": "wbc scores",
+      "score": 6900000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-11 19:38:30"
+      "category": "体育",
+      "timestamp": "2026-03-12 03:24:33"
     },
     {
       "keyword": "international women's day",
@@ -114,13 +121,6 @@
       "timestamp": "2026-03-09 03:31:20"
     },
     {
-      "keyword": "dubai",
-      "score": 5000000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-07 07:22:50"
-    },
-    {
       "keyword": "daylight savings 2026",
       "score": 5000000,
       "traffic_numeric": 2000000,
@@ -128,11 +128,11 @@
       "timestamp": "2026-03-08 13:36:28"
     },
     {
-      "keyword": "wbc scores",
-      "score": 4900000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-03-11 19:38:30"
+      "keyword": "dubai",
+      "score": 5000000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-07 07:22:50"
     },
     {
       "keyword": "oil prices",
@@ -163,6 +163,13 @@
       "timestamp": "2026-03-05 19:54:43"
     },
     {
+      "keyword": "war machine 2026",
+      "score": 3800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-12 03:24:33"
+    },
+    {
       "keyword": "pokopia",
       "score": 3700000,
       "traffic_numeric": 500000,
@@ -177,23 +184,9 @@
       "timestamp": "2026-03-08 13:36:28"
     },
     {
-      "keyword": "war machine 2026",
-      "score": 3300000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-03-11 19:38:30"
-    },
-    {
       "keyword": "britney spears",
       "score": 3200000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-08 13:36:28"
-    },
-    {
-      "keyword": "ufc 326",
-      "score": 3100000,
-      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-08 13:36:28"
     },
@@ -205,16 +198,23 @@
       "timestamp": "2026-03-06 19:37:49"
     },
     {
-      "keyword": "hoppers",
-      "score": 2300000,
-      "traffic_numeric": 500000,
+      "keyword": "ufc 326",
+      "score": 3100000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-09 03:31:20"
+      "timestamp": "2026-03-08 13:36:28"
+    },
+    {
+      "keyword": "jennifer runyon",
+      "score": 2400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-03-12 03:24:33"
     }
   ],
   "category_stats": {
-    "其他": 122,
-    "体育": 32,
+    "其他": 127,
+    "体育": 36,
     "科技/AI": 8,
     "娱乐/生活": 2
   },

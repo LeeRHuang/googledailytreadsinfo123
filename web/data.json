@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12 13:49:11",
+  "last_updated": "2026-03-12 19:34:00",
   "trends": [
     {
       "keyword": "2026 winter paralympics",
@@ -10,7 +10,7 @@
     },
     {
       "keyword": "kristi noem",
-      "score": 29100000,
+      "score": 29000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-09 07:49:54"
@@ -24,17 +24,17 @@
     },
     {
       "keyword": "macbook neo",
-      "score": 19000000,
+      "score": 18500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-10 13:58:17"
     },
     {
       "keyword": "bam adebayo",
-      "score": 13000000,
+      "score": 15000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-12 13:49:11"
+      "timestamp": "2026-03-12 19:33:59"
     },
     {
       "keyword": "daylight saving time",
@@ -49,13 +49,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-11 14:00:20"
-    },
-    {
-      "keyword": "al jazeera",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-07 03:12:16"
     },
     {
       "keyword": "wbc scores",
@@ -79,18 +72,18 @@
       "timestamp": "2026-03-09 14:03:57"
     },
     {
-      "keyword": "zendaya",
-      "score": 6700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-08 19:17:40"
-    },
-    {
       "keyword": "usa baseball",
       "score": 6400000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-12 13:49:11"
+    },
+    {
+      "keyword": "zendaya",
+      "score": 6200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-08 19:17:40"
     },
     {
       "keyword": "markwayne mullin",
@@ -100,11 +93,11 @@
       "timestamp": "2026-03-10 03:27:21"
     },
     {
-      "keyword": "jim carrey",
+      "keyword": "al jazeera",
       "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-06 03:20:56"
+      "timestamp": "2026-03-07 03:12:16"
     },
     {
       "keyword": "corey lewandowski",
@@ -114,11 +107,11 @@
       "timestamp": "2026-03-09 03:31:20"
     },
     {
-      "keyword": "iran",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
+      "keyword": "war machine 2026",
+      "score": 5300000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-05 13:51:18"
+      "timestamp": "2026-03-12 19:33:59"
     },
     {
       "keyword": "daylight savings 2026",
@@ -128,18 +121,25 @@
       "timestamp": "2026-03-08 13:36:28"
     },
     {
-      "keyword": "war machine 2026",
-      "score": 4800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-12 13:49:11"
+      "keyword": "real madrid vs man city",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-03-12 19:33:59"
     },
     {
       "keyword": "kelly osbourne",
-      "score": 4500000,
+      "score": 4000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-07 13:26:36"
+    },
+    {
+      "keyword": "jim carrey",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-06 03:20:56"
     },
     {
       "keyword": "mexico vs usa baseball",
@@ -150,28 +150,28 @@
     },
     {
       "keyword": "oil prices",
-      "score": 4000000,
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-03-10 13:58:17"
     },
     {
       "keyword": "dubai",
-      "score": 4000000,
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-03-07 07:22:50"
     },
     {
       "keyword": "pokopia",
-      "score": 3500000,
+      "score": 3300000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-09 07:49:54"
     },
     {
       "keyword": "wbc",
-      "score": 3400000,
+      "score": 3300000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-08 13:36:28"
@@ -191,25 +191,25 @@
       "timestamp": "2026-03-08 13:36:28"
     },
     {
-      "keyword": "real madrid vs man city",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-03-12 13:49:11"
-    },
-    {
-      "keyword": "world baseball classic",
-      "score": 2700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-06 19:37:49"
-    },
-    {
       "keyword": "jennifer runyon",
       "score": 2600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-03-12 07:38:22"
+    },
+    {
+      "keyword": "world baseball classic",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-06 19:37:49"
+    },
+    {
+      "keyword": "nfl free agency",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-03-12 19:33:59"
     }
   ],
   "category_stats": {

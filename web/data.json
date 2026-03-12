@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12 03:24:33",
+  "last_updated": "2026-03-12 07:38:22",
   "trends": [
     {
       "keyword": "2026 winter paralympics",
@@ -24,38 +24,24 @@
     },
     {
       "keyword": "macbook neo",
-      "score": 20000000,
+      "score": 19500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-10 13:58:17"
     },
     {
+      "keyword": "bam adebayo",
+      "score": 11000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-12 07:38:22"
+    },
+    {
       "keyword": "iran",
-      "score": 15000000,
+      "score": 10000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-05 13:51:18"
-    },
-    {
-      "keyword": "jim carrey",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-06 03:20:56"
-    },
-    {
-      "keyword": "al jazeera",
-      "score": 9000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-07 03:12:16"
-    },
-    {
-      "keyword": "bam adebayo",
-      "score": 9000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-12 03:24:33"
     },
     {
       "keyword": "daylight saving time",
@@ -65,11 +51,18 @@
       "timestamp": "2026-03-09 14:03:57"
     },
     {
-      "keyword": "zendaya",
-      "score": 7700000,
-      "traffic_numeric": 500000,
+      "keyword": "al jazeera",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-08 19:17:40"
+      "timestamp": "2026-03-07 03:12:16"
+    },
+    {
+      "keyword": "jim carrey",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-06 03:20:56"
     },
     {
       "keyword": "maxx crosby",
@@ -77,6 +70,13 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-11 14:00:20"
+    },
+    {
+      "keyword": "zendaya",
+      "score": 7200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-08 19:17:40"
     },
     {
       "keyword": "wbc scores",
@@ -107,18 +107,18 @@
       "timestamp": "2026-03-10 03:27:21"
     },
     {
-      "keyword": "kelly osbourne",
-      "score": 5500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-07 13:26:36"
-    },
-    {
       "keyword": "corey lewandowski",
       "score": 5400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-09 03:31:20"
+    },
+    {
+      "keyword": "kelly osbourne",
+      "score": 5000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-07 13:26:36"
     },
     {
       "keyword": "daylight savings 2026",
@@ -129,17 +129,10 @@
     },
     {
       "keyword": "dubai",
-      "score": 5000000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-07 07:22:50"
-    },
-    {
-      "keyword": "oil prices",
       "score": 4500000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
-      "timestamp": "2026-03-10 13:58:17"
+      "timestamp": "2026-03-07 07:22:50"
     },
     {
       "keyword": "usa baseball",
@@ -149,6 +142,13 @@
       "timestamp": "2026-03-11 14:00:20"
     },
     {
+      "keyword": "war machine 2026",
+      "score": 4300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-12 07:38:22"
+    },
+    {
       "keyword": "mexico vs usa baseball",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -156,22 +156,15 @@
       "timestamp": "2026-03-10 19:35:57"
     },
     {
-      "keyword": "jasmine crockett",
+      "keyword": "oil prices",
       "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-05 19:54:43"
-    },
-    {
-      "keyword": "war machine 2026",
-      "score": 3800000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-12 03:24:33"
+      "category": "科技/AI",
+      "timestamp": "2026-03-10 13:58:17"
     },
     {
       "keyword": "pokopia",
-      "score": 3700000,
+      "score": 3600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-09 07:49:54"
@@ -191,13 +184,6 @@
       "timestamp": "2026-03-08 13:36:28"
     },
     {
-      "keyword": "world baseball classic",
-      "score": 3100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-06 19:37:49"
-    },
-    {
       "keyword": "ufc 326",
       "score": 3100000,
       "traffic_numeric": 1000000,
@@ -205,17 +191,31 @@
       "timestamp": "2026-03-08 13:36:28"
     },
     {
+      "keyword": "jasmine crockett",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-05 19:54:43"
+    },
+    {
+      "keyword": "world baseball classic",
+      "score": 2900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-06 19:37:49"
+    },
+    {
       "keyword": "jennifer runyon",
-      "score": 2400000,
+      "score": 2600000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-03-12 03:24:33"
+      "timestamp": "2026-03-12 07:38:22"
     }
   ],
   "category_stats": {
     "其他": 127,
-    "体育": 36,
-    "科技/AI": 8,
+    "体育": 37,
+    "科技/AI": 9,
     "娱乐/生活": 2
   },
   "insights": [

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13 03:20:57",
+  "last_updated": "2026-03-13 07:36:28",
   "trends": [
     {
       "keyword": "2026 winter paralympics",
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "bam adebayo",
-      "score": 17000000,
+      "score": 19000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-13 03:20:57"
+      "timestamp": "2026-03-13 07:36:28"
     },
     {
       "keyword": "macbook neo",
@@ -79,18 +79,18 @@
       "timestamp": "2026-03-12 13:49:11"
     },
     {
+      "keyword": "war machine 2026",
+      "score": 6300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-13 07:36:28"
+    },
+    {
       "keyword": "markwayne mullin",
       "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-10 03:27:21"
-    },
-    {
-      "keyword": "war machine 2026",
-      "score": 5800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-13 03:20:57"
     },
     {
       "keyword": "zendaya",
@@ -107,13 +107,6 @@
       "timestamp": "2026-03-09 03:31:20"
     },
     {
-      "keyword": "real madrid vs man city",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-03-13 03:20:57"
-    },
-    {
       "keyword": "daylight savings 2026",
       "score": 5000000,
       "traffic_numeric": 2000000,
@@ -121,11 +114,11 @@
       "timestamp": "2026-03-08 13:36:28"
     },
     {
-      "keyword": "mexico vs usa baseball",
-      "score": 4000000,
+      "keyword": "real madrid vs man city",
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-03-10 19:35:57"
+      "timestamp": "2026-03-13 03:20:57"
     },
     {
       "keyword": "al jazeera",
@@ -133,6 +126,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-07 03:12:16"
+    },
+    {
+      "keyword": "mexico vs usa baseball",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-03-10 19:35:57"
     },
     {
       "keyword": "wbc",
@@ -170,32 +170,18 @@
       "timestamp": "2026-03-09 07:49:54"
     },
     {
+      "keyword": "mike evans",
+      "score": 2800000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-03-13 07:36:28"
+    },
+    {
       "keyword": "jennifer runyon",
       "score": 2600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-03-12 07:38:22"
-    },
-    {
-      "keyword": "mike evans",
-      "score": 2600000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-03-13 03:20:57"
-    },
-    {
-      "keyword": "oil prices",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-10 13:58:17"
-    },
-    {
-      "keyword": "dubai",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-07 07:22:50"
     },
     {
       "keyword": "dak prescott",
@@ -210,10 +196,24 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-03-12 19:33:59"
+    },
+    {
+      "keyword": "oil prices",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-10 13:58:17"
+    },
+    {
+      "keyword": "dubai",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-07 07:22:50"
     }
   ],
   "category_stats": {
-    "其他": 123,
+    "其他": 125,
     "体育": 40,
     "科技/AI": 9,
     "金融/商业": 1,

@@ -1,37 +1,37 @@
 {
-  "last_updated": "2026-03-14 13:43:49",
+  "last_updated": "2026-03-14 19:28:11",
   "trends": [
     {
       "keyword": "2026 winter paralympics",
-      "score": 50000000,
+      "score": 45000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-10 13:58:17"
     },
     {
       "keyword": "bam adebayo",
-      "score": 29000000,
+      "score": 31000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-14 13:43:49"
+      "timestamp": "2026-03-14 19:28:11"
     },
     {
       "keyword": "kristi noem",
-      "score": 14000000,
+      "score": 12000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-09 07:49:54"
     },
     {
       "keyword": "macbook neo",
-      "score": 10500000,
+      "score": 9500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-10 13:58:17"
     },
     {
       "keyword": "daylight saving time",
-      "score": 8200000,
+      "score": 8000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-09 14:03:57"
@@ -51,25 +51,18 @@
       "timestamp": "2026-03-12 03:24:33"
     },
     {
-      "keyword": "usa baseball",
-      "score": 6200000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-12 13:49:11"
-    },
-    {
       "keyword": "war machine 2026",
-      "score": 6200000,
+      "score": 6100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-13 07:36:28"
     },
     {
-      "keyword": "maxx crosby",
+      "keyword": "usa baseball",
       "score": 6000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-11 14:00:20"
+      "timestamp": "2026-03-12 13:49:11"
     },
     {
       "keyword": "markwayne mullin",
@@ -79,18 +72,11 @@
       "timestamp": "2026-03-10 03:27:21"
     },
     {
-      "keyword": "union city michigan",
-      "score": 6000000,
+      "keyword": "maxx crosby",
+      "score": 5500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-09 14:03:57"
-    },
-    {
-      "keyword": "real madrid vs man city",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-03-13 03:20:57"
+      "timestamp": "2026-03-11 14:00:20"
     },
     {
       "keyword": "daylight savings 2026",
@@ -100,6 +86,20 @@
       "timestamp": "2026-03-08 13:36:28"
     },
     {
+      "keyword": "real madrid vs man city",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-03-13 03:20:57"
+    },
+    {
+      "keyword": "union city michigan",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-09 14:03:57"
+    },
+    {
       "keyword": "mexico vs usa baseball",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -107,8 +107,15 @@
       "timestamp": "2026-03-10 19:35:57"
     },
     {
+      "keyword": "high wind warning",
+      "score": 3270000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-14 19:28:11"
+    },
+    {
       "keyword": "ufc 326",
-      "score": 3100000,
+      "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-08 13:36:28"
@@ -119,20 +126,6 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-03-13 13:51:11"
-    },
-    {
-      "keyword": "high wind warning",
-      "score": 2770000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-14 13:43:49"
-    },
-    {
-      "keyword": "corey lewandowski",
-      "score": 2700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-09 03:31:20"
     },
     {
       "keyword": "jennifer runyon",
@@ -156,13 +149,6 @@
       "timestamp": "2026-03-12 19:33:59"
     },
     {
-      "keyword": "zendaya",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-08 19:17:40"
-    },
-    {
       "keyword": "old dominion university",
       "score": 2500000,
       "traffic_numeric": 500000,
@@ -171,17 +157,17 @@
     },
     {
       "keyword": "big ten tournament bracket",
-      "score": 2100000,
+      "score": 2300000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-03-14 13:43:49"
+      "timestamp": "2026-03-14 19:28:11"
     },
     {
-      "keyword": "stephanie buttermore",
-      "score": 2100000,
-      "traffic_numeric": 200000,
+      "keyword": "corey lewandowski",
+      "score": 2200000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-11 07:36:47"
+      "timestamp": "2026-03-09 03:31:20"
     },
     {
       "keyword": "michigan synagogue shooting",
@@ -191,6 +177,13 @@
       "timestamp": "2026-03-13 19:21:59"
     },
     {
+      "keyword": "stephanie buttermore",
+      "score": 2000000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-03-11 07:36:47"
+    },
+    {
       "keyword": "mexico vs italy wbc",
       "score": 2000000,
       "traffic_numeric": 2000000,
@@ -198,11 +191,11 @@
       "timestamp": "2026-03-12 07:38:22"
     },
     {
-      "keyword": "hoppers",
-      "score": 1900000,
+      "keyword": "zendaya",
+      "score": 2000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-09 03:31:20"
+      "timestamp": "2026-03-08 19:17:40"
     },
     {
       "keyword": "rihanna",
@@ -210,11 +203,18 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-03-12 07:38:22"
+    },
+    {
+      "keyword": "scarpetta",
+      "score": 1850000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-03-14 19:28:11"
     }
   ],
   "category_stats": {
-    "其他": 121,
-    "体育": 42,
+    "其他": 124,
+    "体育": 46,
     "科技/AI": 7,
     "金融/商业": 1,
     "娱乐/生活": 1

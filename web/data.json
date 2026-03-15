@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-03-15 07:34:12",
+  "last_updated": "2026-03-15 13:44:50",
   "trends": [
     {
+      "keyword": "bam adebayo",
+      "score": 37000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-15 13:44:50"
+    },
+    {
       "keyword": "2026 winter paralympics",
-      "score": 35000000,
+      "score": 30000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-10 13:58:17"
-    },
-    {
-      "keyword": "bam adebayo",
-      "score": 35000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-15 07:34:12"
     },
     {
       "keyword": "daylight saving time",
@@ -21,20 +21,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-09 14:03:57"
-    },
-    {
-      "keyword": "kristi noem",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-09 07:49:54"
-    },
-    {
-      "keyword": "macbook neo",
-      "score": 7500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-10 13:58:17"
     },
     {
       "keyword": "wbc scores",
@@ -45,10 +31,24 @@
     },
     {
       "keyword": "international women's day",
-      "score": 6700000,
+      "score": 6500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-10 07:38:06"
+    },
+    {
+      "keyword": "macbook neo",
+      "score": 6500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-10 13:58:17"
+    },
+    {
+      "keyword": "kristi noem",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-09 07:49:54"
     },
     {
       "keyword": "markwayne mullin",
@@ -59,14 +59,14 @@
     },
     {
       "keyword": "war machine 2026",
-      "score": 5800000,
+      "score": 5600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-13 07:36:28"
     },
     {
       "keyword": "usa baseball",
-      "score": 5500000,
+      "score": 5000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-12 13:49:11"
@@ -79,18 +79,11 @@
       "timestamp": "2026-03-13 03:20:57"
     },
     {
-      "keyword": "maxx crosby",
-      "score": 4500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-11 14:00:20"
-    },
-    {
       "keyword": "high wind warning",
-      "score": 4470000,
+      "score": 4670000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-15 07:34:12"
+      "timestamp": "2026-03-15 13:44:50"
     },
     {
       "keyword": "mexico vs usa baseball",
@@ -100,6 +93,13 @@
       "timestamp": "2026-03-10 19:35:57"
     },
     {
+      "keyword": "maxx crosby",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-11 14:00:20"
+    },
+    {
       "keyword": "mike evans",
       "score": 3000000,
       "traffic_numeric": 200000,
@@ -107,11 +107,11 @@
       "timestamp": "2026-03-13 13:51:11"
     },
     {
-      "keyword": "union city michigan",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
+      "keyword": "wbc bracket",
+      "score": 2900000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-09 14:03:57"
+      "timestamp": "2026-03-15 13:44:50"
     },
     {
       "keyword": "jennifer runyon",
@@ -119,6 +119,13 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-03-12 07:38:22"
+    },
+    {
+      "keyword": "one piece",
+      "score": 2600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-15 13:44:50"
     },
     {
       "keyword": "nfl free agency",
@@ -142,11 +149,11 @@
       "timestamp": "2026-03-12 19:33:59"
     },
     {
-      "keyword": "wbc bracket",
-      "score": 2400000,
-      "traffic_numeric": 500000,
+      "keyword": "scarpetta",
+      "score": 2450000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-03-15 07:34:12"
+      "timestamp": "2026-03-15 13:44:50"
     },
     {
       "keyword": "big ten tournament bracket",
@@ -156,25 +163,11 @@
       "timestamp": "2026-03-14 19:28:11"
     },
     {
-      "keyword": "scarpetta",
-      "score": 2250000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-03-15 07:34:12"
-    },
-    {
-      "keyword": "one piece",
-      "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-15 07:34:12"
-    },
-    {
-      "keyword": "mexico vs italy wbc",
+      "keyword": "union city michigan",
       "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-03-12 07:38:22"
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-09 14:03:57"
     },
     {
       "keyword": "michigan synagogue shooting",
@@ -184,11 +177,18 @@
       "timestamp": "2026-03-13 19:21:59"
     },
     {
-      "keyword": "daylight savings 2026",
+      "keyword": "mexico vs italy wbc",
       "score": 2000000,
       "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-03-12 07:38:22"
+    },
+    {
+      "keyword": "wind advisory",
+      "score": 1900000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-08 13:36:28"
+      "timestamp": "2026-03-15 13:44:50"
     },
     {
       "keyword": "rihanna",
@@ -205,16 +205,16 @@
       "timestamp": "2026-03-13 07:36:28"
     },
     {
-      "keyword": "winter storm warning",
-      "score": 1600000,
+      "keyword": "pi day",
+      "score": 1700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-15 07:34:12"
+      "timestamp": "2026-03-15 13:44:50"
     }
   ],
   "category_stats": {
-    "其他": 128,
-    "体育": 50,
+    "其他": 127,
+    "体育": 48,
     "科技/AI": 7,
     "金融/商业": 1,
     "娱乐/生活": 1

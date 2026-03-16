@@ -1,47 +1,40 @@
 {
-  "last_updated": "2026-03-16 03:50:42",
+  "last_updated": "2026-03-16 08:08:33",
   "trends": [
     {
       "keyword": "bam adebayo",
-      "score": 40000000,
+      "score": 42000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-16 03:50:42"
+      "timestamp": "2026-03-16 08:08:33"
     },
     {
       "keyword": "2026 winter paralympics",
-      "score": 20000000,
+      "score": 15000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-10 13:58:17"
     },
     {
       "keyword": "wbc scores",
-      "score": 6600000,
+      "score": 6100000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-03-12 03:24:33"
     },
     {
-      "keyword": "war machine 2026",
-      "score": 5200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-13 07:36:28"
-    },
-    {
       "keyword": "high wind warning",
-      "score": 5070000,
+      "score": 5270000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-16 03:50:42"
+      "timestamp": "2026-03-16 08:08:33"
     },
     {
-      "keyword": "international women's day",
+      "keyword": "oscar winners 2026",
       "score": 5000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-10 07:38:06"
+      "timestamp": "2026-03-16 08:08:33"
     },
     {
       "keyword": "real madrid vs man city",
@@ -58,11 +51,25 @@
       "timestamp": "2026-03-12 13:49:11"
     },
     {
-      "keyword": "macbook neo",
-      "score": 4500000,
-      "traffic_numeric": 1000000,
+      "keyword": "war machine 2026",
+      "score": 5000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-10 13:58:17"
+      "timestamp": "2026-03-13 07:36:28"
+    },
+    {
+      "keyword": "usa vs dominican republic",
+      "score": 4500000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-03-16 08:08:33"
+    },
+    {
+      "keyword": "one piece",
+      "score": 4100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-16 08:08:33"
     },
     {
       "keyword": "markwayne mullin",
@@ -72,11 +79,11 @@
       "timestamp": "2026-03-10 03:27:21"
     },
     {
-      "keyword": "daylight saving time",
+      "keyword": "international women's day",
       "score": 4000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-09 14:03:57"
+      "timestamp": "2026-03-10 07:38:06"
     },
     {
       "keyword": "mexico vs usa baseball",
@@ -86,11 +93,39 @@
       "timestamp": "2026-03-10 19:35:57"
     },
     {
-      "keyword": "one piece",
-      "score": 3600000,
+      "keyword": "ncaa bracket",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-16 08:08:33"
+    },
+    {
+      "keyword": "macbook neo",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-10 13:58:17"
+    },
+    {
+      "keyword": "wind advisory",
+      "score": 3400000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-16 03:50:42"
+      "timestamp": "2026-03-16 08:08:33"
+    },
+    {
+      "keyword": "wbc bracket",
+      "score": 3400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-16 08:08:33"
+    },
+    {
+      "keyword": "scarpetta",
+      "score": 3050000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-03-16 08:08:33"
     },
     {
       "keyword": "mike evans",
@@ -101,38 +136,10 @@
     },
     {
       "keyword": "maxx crosby",
-      "score": 3000000,
+      "score": 2500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-11 14:00:20"
-    },
-    {
-      "keyword": "wind advisory",
-      "score": 2900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-16 03:50:42"
-    },
-    {
-      "keyword": "wbc bracket",
-      "score": 2900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-15 13:44:50"
-    },
-    {
-      "keyword": "scarpetta",
-      "score": 2850000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-03-16 03:50:42"
-    },
-    {
-      "keyword": "jennifer runyon",
-      "score": 2500000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-03-12 07:38:22"
     },
     {
       "keyword": "nfl free agency",
@@ -142,20 +149,6 @@
       "timestamp": "2026-03-12 19:33:59"
     },
     {
-      "keyword": "players championship",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-16 03:50:42"
-    },
-    {
-      "keyword": "usa vs dominican republic",
-      "score": 2500000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-03-16 03:50:42"
-    },
-    {
       "keyword": "old dominion university",
       "score": 2500000,
       "traffic_numeric": 500000,
@@ -163,8 +156,22 @@
       "timestamp": "2026-03-14 13:43:49"
     },
     {
-      "keyword": "dak prescott",
+      "keyword": "players championship",
       "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-16 03:50:42"
+    },
+    {
+      "keyword": "jennifer runyon",
+      "score": 2400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-03-12 07:38:22"
+    },
+    {
+      "keyword": "dak prescott",
+      "score": 2400000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-03-12 19:33:59"
@@ -184,18 +191,11 @@
       "timestamp": "2026-03-15 19:30:12"
     },
     {
-      "keyword": "ncaa bracket",
+      "keyword": "michigan synagogue shooting",
       "score": 2000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-16 03:50:42"
-    },
-    {
-      "keyword": "oscars 2026",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-16 03:50:42"
+      "timestamp": "2026-03-13 19:21:59"
     },
     {
       "keyword": "mexico vs italy wbc",
@@ -205,16 +205,16 @@
       "timestamp": "2026-03-12 07:38:22"
     },
     {
-      "keyword": "kristi noem",
+      "keyword": "oscars 2026",
       "score": 2000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-09 07:49:54"
+      "timestamp": "2026-03-16 03:50:42"
     }
   ],
   "category_stats": {
-    "其他": 137,
-    "体育": 52,
+    "其他": 134,
+    "体育": 51,
     "科技/AI": 7,
     "金融/商业": 1,
     "娱乐/生活": 1

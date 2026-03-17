@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-03-17 03:31:54",
+  "last_updated": "2026-03-17 07:51:56",
   "trends": [
     {
       "keyword": "bam adebayo",
-      "score": 48000000,
+      "score": 50000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-17 03:31:54"
+      "timestamp": "2026-03-17 07:51:56"
     },
     {
       "keyword": "oscar winners 2026",
-      "score": 20000000,
+      "score": 22000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-17 03:31:54"
+      "timestamp": "2026-03-17 07:51:56"
     },
     {
       "keyword": "usa vs dominican republic",
-      "score": 9500000,
+      "score": 10500000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-03-17 03:31:54"
-    },
-    {
-      "keyword": "wind advisory",
-      "score": 6400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-17 03:31:54"
+      "timestamp": "2026-03-17 07:51:56"
     },
     {
       "keyword": "march madness bracket",
-      "score": 6000000,
+      "score": 8000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-17 03:31:54"
+      "timestamp": "2026-03-17 07:51:56"
+    },
+    {
+      "keyword": "wind advisory",
+      "score": 7400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-17 07:51:56"
     },
     {
       "keyword": "high wind warning",
@@ -58,18 +58,18 @@
       "timestamp": "2026-03-17 03:31:54"
     },
     {
-      "keyword": "usa baseball",
-      "score": 5000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-12 13:49:11"
-    },
-    {
       "keyword": "real madrid vs man city",
       "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-03-13 03:20:57"
+    },
+    {
+      "keyword": "usa baseball",
+      "score": 5000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-12 13:49:11"
     },
     {
       "keyword": "2026 winter paralympics",
@@ -79,8 +79,15 @@
       "timestamp": "2026-03-10 13:58:17"
     },
     {
+      "keyword": "scarpetta",
+      "score": 4450000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-17 07:51:56"
+    },
+    {
       "keyword": "war machine 2026",
-      "score": 4400000,
+      "score": 4200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-13 07:36:28"
@@ -93,11 +100,11 @@
       "timestamp": "2026-03-16 08:08:33"
     },
     {
-      "keyword": "scarpetta",
-      "score": 3950000,
+      "keyword": "st patricks day 2026",
+      "score": 3600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-17 03:31:54"
+      "timestamp": "2026-03-17 07:51:56"
     },
     {
       "keyword": "wbc bracket",
@@ -107,20 +114,6 @@
       "timestamp": "2026-03-16 08:08:33"
     },
     {
-      "keyword": "st patricks day 2026",
-      "score": 3100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-17 03:31:54"
-    },
-    {
-      "keyword": "mexico vs usa baseball",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-03-10 19:35:57"
-    },
-    {
       "keyword": "players championship",
       "score": 3000000,
       "traffic_numeric": 500000,
@@ -128,18 +121,25 @@
       "timestamp": "2026-03-16 14:14:15"
     },
     {
-      "keyword": "mike evans",
-      "score": 2600000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-03-13 13:51:11"
-    },
-    {
       "keyword": "amy madigan",
-      "score": 2500000,
+      "score": 3000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-17 03:31:54"
+      "timestamp": "2026-03-17 07:51:56"
+    },
+    {
+      "keyword": "is netanyahu alive latest update",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-17 07:51:56"
+    },
+    {
+      "keyword": "the madison",
+      "score": 2600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-17 07:51:56"
     },
     {
       "keyword": "old dominion university",
@@ -149,15 +149,22 @@
       "timestamp": "2026-03-14 13:43:49"
     },
     {
-      "keyword": "the madison",
+      "keyword": "mike evans",
       "score": 2400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-03-13 13:51:11"
+    },
+    {
+      "keyword": "pi day",
+      "score": 2200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-17 03:31:54"
+      "timestamp": "2026-03-15 19:30:12"
     },
     {
       "keyword": "nfl free agency",
-      "score": 2300000,
+      "score": 2200000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-03-12 19:33:59"
@@ -170,11 +177,11 @@
       "timestamp": "2026-03-14 19:28:11"
     },
     {
-      "keyword": "pi day",
-      "score": 2200000,
+      "keyword": "michigan synagogue shooting",
+      "score": 2000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-15 19:30:12"
+      "timestamp": "2026-03-13 19:21:59"
     },
     {
       "keyword": "maxx crosby",
@@ -198,22 +205,15 @@
       "timestamp": "2026-03-12 07:38:22"
     },
     {
-      "keyword": "is netanyahu alive latest update",
+      "keyword": "mexico vs usa baseball",
       "score": 2000000,
       "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-17 03:31:54"
-    },
-    {
-      "keyword": "dak prescott",
-      "score": 2000000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-03-12 19:33:59"
+      "category": "体育",
+      "timestamp": "2026-03-10 19:35:57"
     }
   ],
   "category_stats": {
-    "其他": 132,
+    "其他": 129,
     "体育": 52,
     "科技/AI": 6,
     "金融/商业": 1,

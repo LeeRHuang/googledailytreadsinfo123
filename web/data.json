@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19 13:59:42",
+  "last_updated": "2026-03-19 19:46:40",
   "trends": [
     {
       "keyword": "oscar winners 2026",
@@ -10,7 +10,7 @@
     },
     {
       "keyword": "bam adebayo",
-      "score": 40000000,
+      "score": 38000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-17 19:50:17"
@@ -45,14 +45,14 @@
     },
     {
       "keyword": "high wind warning",
-      "score": 5800000,
+      "score": 5300000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-17 03:31:54"
     },
     {
       "keyword": "scarpetta",
-      "score": 5300000,
+      "score": 5200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-17 19:50:17"
@@ -72,17 +72,17 @@
       "timestamp": "2026-03-17 03:31:54"
     },
     {
-      "keyword": "amy madigan",
-      "score": 5000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-18 07:53:36"
-    },
-    {
       "keyword": "is netanyahu alive latest update",
       "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
+      "timestamp": "2026-03-18 07:53:36"
+    },
+    {
+      "keyword": "amy madigan",
+      "score": 5000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
       "timestamp": "2026-03-18 07:53:36"
     },
     {
@@ -93,11 +93,25 @@
       "timestamp": "2026-03-18 07:53:36"
     },
     {
+      "keyword": "march madness",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-19 19:46:40"
+    },
+    {
       "keyword": "ncaa bracket",
       "score": 4000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-16 08:08:33"
+    },
+    {
+      "keyword": "men’s march madness",
+      "score": 3500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-19 19:46:40"
     },
     {
       "keyword": "wbc bracket",
@@ -135,6 +149,13 @@
       "timestamp": "2026-03-16 14:14:15"
     },
     {
+      "keyword": "joe kent",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-19 19:46:40"
+    },
+    {
       "keyword": "st. patrick's day",
       "score": 3000000,
       "traffic_numeric": 1000000,
@@ -149,13 +170,6 @@
       "timestamp": "2026-03-17 14:20:11"
     },
     {
-      "keyword": "joe kent",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-19 13:59:42"
-    },
-    {
       "keyword": "one battle after another",
       "score": 2500000,
       "traffic_numeric": 2000000,
@@ -164,10 +178,31 @@
     },
     {
       "keyword": "old dominion university",
-      "score": 2500000,
+      "score": 2400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-14 13:43:49"
+    },
+    {
+      "keyword": "spiderman brand new day",
+      "score": 2300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-19 19:46:40"
+    },
+    {
+      "keyword": "cesar chavez",
+      "score": 2250000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-19 19:46:40"
+    },
+    {
+      "keyword": "banksy",
+      "score": 2250000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-03-19 19:46:40"
     },
     {
       "keyword": "pi day",
@@ -175,46 +210,11 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-15 19:30:12"
-    },
-    {
-      "keyword": "banksy",
-      "score": 2050000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-03-19 13:59:42"
-    },
-    {
-      "keyword": "oscars 2026",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-16 03:50:42"
-    },
-    {
-      "keyword": "real madrid vs man city",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-03-13 03:20:57"
-    },
-    {
-      "keyword": "michigan synagogue shooting",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-13 19:21:59"
-    },
-    {
-      "keyword": "march madness",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-19 13:59:42"
     }
   ],
   "category_stats": {
-    "其他": 130,
-    "体育": 40,
+    "其他": 133,
+    "体育": 41,
     "科技/AI": 5
   },
   "insights": [

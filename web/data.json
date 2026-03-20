@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20 07:47:03",
+  "last_updated": "2026-03-20 13:50:08",
   "trends": [
     {
       "keyword": "oscar winners 2026",
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "march madness bracket",
-      "score": 28000000,
+      "score": 30000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-20 07:47:02"
+      "timestamp": "2026-03-20 13:50:08"
     },
     {
       "keyword": "usa vs dominican republic",
@@ -37,11 +37,32 @@
       "timestamp": "2026-03-19 03:38:11"
     },
     {
+      "keyword": "men’s march madness",
+      "score": 8500002,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-03-20 13:50:08"
+    },
+    {
       "keyword": "wind advisory",
       "score": 7200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-17 07:51:56"
+    },
+    {
+      "keyword": "march madness",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-20 13:50:08"
+    },
+    {
+      "keyword": "spiderman brand new day",
+      "score": 5300000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-20 13:50:08"
     },
     {
       "keyword": "st patricks day 2026",
@@ -51,10 +72,10 @@
       "timestamp": "2026-03-17 19:50:17"
     },
     {
-      "keyword": "is netanyahu alive latest update",
+      "keyword": "amy madigan",
       "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
+      "traffic_numeric": 500000,
+      "category": "其他",
       "timestamp": "2026-03-18 07:53:36"
     },
     {
@@ -65,10 +86,10 @@
       "timestamp": "2026-03-17 03:31:54"
     },
     {
-      "keyword": "amy madigan",
+      "keyword": "is netanyahu alive latest update",
       "score": 5000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
       "timestamp": "2026-03-18 07:53:36"
     },
     {
@@ -86,11 +107,18 @@
       "timestamp": "2026-03-17 19:50:17"
     },
     {
-      "keyword": "spiderman brand new day",
-      "score": 4300000,
+      "keyword": "cesar chavez",
+      "score": 4750000,
       "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-20 13:50:08"
+    },
+    {
+      "keyword": "joe kent",
+      "score": 4500000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-20 07:47:02"
+      "timestamp": "2026-03-20 13:50:08"
     },
     {
       "keyword": "michael b jordan",
@@ -100,39 +128,11 @@
       "timestamp": "2026-03-18 07:53:36"
     },
     {
-      "keyword": "march madness",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-19 19:46:40"
-    },
-    {
       "keyword": "ncaa bracket",
       "score": 4000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-16 08:08:33"
-    },
-    {
-      "keyword": "joe kent",
-      "score": 4000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-20 07:47:02"
-    },
-    {
-      "keyword": "cesar chavez",
-      "score": 3750000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-20 07:47:02"
-    },
-    {
-      "keyword": "men’s march madness",
-      "score": 3500002,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-20 07:47:02"
     },
     {
       "keyword": "wbc bracket",
@@ -163,6 +163,20 @@
       "timestamp": "2026-03-18 07:53:36"
     },
     {
+      "keyword": "bachelorette cancelled",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-20 13:50:08"
+    },
+    {
+      "keyword": "st. patrick's day",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-18 14:17:11"
+    },
+    {
       "keyword": "one battle after another",
       "score": 3000000,
       "traffic_numeric": 2000000,
@@ -177,18 +191,11 @@
       "timestamp": "2026-03-16 14:14:15"
     },
     {
-      "keyword": "st. patrick's day",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-18 14:17:11"
-    },
-    {
       "keyword": "banksy",
-      "score": 2650000,
+      "score": 2850000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-03-20 07:47:02"
+      "timestamp": "2026-03-20 13:50:08"
     },
     {
       "keyword": "lakers vs rockets",
@@ -203,17 +210,10 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-17 14:20:11"
-    },
-    {
-      "keyword": "pi day",
-      "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-15 19:30:12"
     }
   ],
   "category_stats": {
-    "其他": 138,
+    "其他": 140,
     "体育": 40,
     "科技/AI": 5
   },

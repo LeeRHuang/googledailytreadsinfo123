@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 03:15:48",
+  "last_updated": "2026-03-21 07:30:51",
   "trends": [
     {
       "keyword": "oscar winners 2026",
@@ -10,24 +10,45 @@
     },
     {
       "keyword": "march madness bracket",
-      "score": 32000000,
+      "score": 34000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-21 03:15:48"
+      "timestamp": "2026-03-21 07:30:51"
     },
     {
       "keyword": "bam adebayo",
-      "score": 30000000,
+      "score": 28000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-17 19:50:17"
     },
     {
       "keyword": "men’s march madness",
-      "score": 13500003,
+      "score": 18500003,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-21 03:15:48"
+      "timestamp": "2026-03-21 07:30:51"
+    },
+    {
+      "keyword": "chuck norris",
+      "score": 15200000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-03-21 07:30:51"
+    },
+    {
+      "keyword": "women’s march madness",
+      "score": 13500000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-03-21 07:30:51"
+    },
+    {
+      "keyword": "march madness",
+      "score": 13000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-03-21 07:30:51"
     },
     {
       "keyword": "usa vs dominican republic",
@@ -37,20 +58,6 @@
       "timestamp": "2026-03-18 03:35:57"
     },
     {
-      "keyword": "march madness",
-      "score": 11000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-03-20 19:29:46"
-    },
-    {
-      "keyword": "chuck norris",
-      "score": 10200000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-03-21 03:15:48"
-    },
-    {
       "keyword": "usa vs venezuela baseball",
       "score": 10000000,
       "traffic_numeric": 2000000,
@@ -58,25 +65,25 @@
       "timestamp": "2026-03-19 03:38:11"
     },
     {
-      "keyword": "women’s march madness",
-      "score": 8500000,
-      "traffic_numeric": 5000000,
+      "keyword": "bachelorette cancelled",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-21 03:15:48"
+      "timestamp": "2026-03-21 07:30:51"
     },
     {
       "keyword": "spiderman brand new day",
-      "score": 7300000,
+      "score": 8300000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-21 03:15:48"
+      "timestamp": "2026-03-21 07:30:51"
     },
     {
-      "keyword": "bachelorette cancelled",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-21 03:15:48"
+      "keyword": "cesar chavez",
+      "score": 7750000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-21 07:30:51"
     },
     {
       "keyword": "wind advisory",
@@ -86,18 +93,11 @@
       "timestamp": "2026-03-17 07:51:56"
     },
     {
-      "keyword": "cesar chavez",
-      "score": 6750000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-21 03:15:48"
-    },
-    {
       "keyword": "joe kent",
-      "score": 5500000,
+      "score": 6000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-21 03:15:48"
+      "timestamp": "2026-03-21 07:30:51"
     },
     {
       "keyword": "st patricks day 2026",
@@ -129,22 +129,8 @@
     },
     {
       "keyword": "one piece",
-      "score": 4500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-17 03:31:54"
-    },
-    {
-      "keyword": "scarpetta",
-      "score": 4400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-17 19:50:17"
-    },
-    {
-      "keyword": "high wind warning",
       "score": 4300000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-17 03:31:54"
     },
@@ -156,18 +142,46 @@
       "timestamp": "2026-03-18 07:53:36"
     },
     {
+      "keyword": "scarpetta",
+      "score": 4200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-17 19:50:17"
+    },
+    {
+      "keyword": "high wind warning",
+      "score": 3800000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-17 03:31:54"
+    },
+    {
+      "keyword": "joseph duggar",
+      "score": 3800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-21 07:30:51"
+    },
+    {
       "keyword": "wbc bracket",
-      "score": 3400000,
+      "score": 3200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-16 08:08:33"
     },
     {
-      "keyword": "joseph duggar",
-      "score": 3300000,
+      "keyword": "afroman",
+      "score": 3150000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-21 03:15:48"
+      "timestamp": "2026-03-21 07:30:51"
+    },
+    {
+      "keyword": "espn bracket",
+      "score": 3100000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-21 07:30:51"
     },
     {
       "keyword": "meteor hit cleveland ohio",
@@ -196,26 +210,12 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-18 14:17:11"
-    },
-    {
-      "keyword": "players championship",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-16 14:14:15"
-    },
-    {
-      "keyword": "one battle after another",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-20 03:22:32"
     }
   ],
   "category_stats": {
-    "其他": 134,
+    "其他": 136,
     "体育": 41,
-    "科技/AI": 6
+    "科技/AI": 5
   },
   "insights": [
     {

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-03-23 03:49:14",
+  "last_updated": "2026-03-23 07:48:14",
   "trends": [
+    {
+      "keyword": "women’s march madness",
+      "score": 53500000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-03-23 07:48:14"
+    },
     {
       "keyword": "oscar winners 2026",
       "score": 53500000,
@@ -9,18 +16,11 @@
       "timestamp": "2026-03-20 03:22:32"
     },
     {
-      "keyword": "women’s march madness",
-      "score": 48500000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-03-23 03:49:14"
-    },
-    {
       "keyword": "men’s march madness",
-      "score": 38500006,
+      "score": 43500006,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-23 03:49:14"
+      "timestamp": "2026-03-23 07:48:14"
     },
     {
       "keyword": "march madness bracket",
@@ -38,10 +38,10 @@
     },
     {
       "keyword": "chuck norris",
-      "score": 20200006,
+      "score": 20200007,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-23 03:49:14"
+      "timestamp": "2026-03-23 07:48:14"
     },
     {
       "keyword": "march madness",
@@ -52,28 +52,35 @@
     },
     {
       "keyword": "spiderman brand new day",
-      "score": 14800000,
+      "score": 15800000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-23 03:49:14"
+      "timestamp": "2026-03-23 07:48:14"
     },
     {
       "keyword": "cesar chavez",
-      "score": 14750000,
+      "score": 15750000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
-      "timestamp": "2026-03-23 03:49:14"
+      "timestamp": "2026-03-23 07:48:14"
     },
     {
       "keyword": "bam adebayo",
-      "score": 14000000,
+      "score": 13000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-17 19:50:17"
     },
     {
+      "keyword": "joseph duggar",
+      "score": 10800000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-23 07:48:14"
+    },
+    {
       "keyword": "usa vs dominican republic",
-      "score": 12000000,
+      "score": 10000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-03-18 03:35:57"
@@ -86,25 +93,25 @@
       "timestamp": "2026-03-19 03:38:11"
     },
     {
-      "keyword": "joseph duggar",
-      "score": 9800000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-23 03:49:14"
-    },
-    {
       "keyword": "joe kent",
-      "score": 9500000,
+      "score": 10000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-23 03:49:14"
+      "timestamp": "2026-03-23 07:48:14"
     },
     {
       "keyword": "project hail mary",
-      "score": 7000000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
-      "timestamp": "2026-03-23 03:49:14"
+      "timestamp": "2026-03-23 07:48:14"
+    },
+    {
+      "keyword": "afroman",
+      "score": 7150000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-23 07:48:14"
     },
     {
       "keyword": "high point university",
@@ -114,39 +121,11 @@
       "timestamp": "2026-03-23 03:49:14"
     },
     {
-      "keyword": "afroman",
-      "score": 6650000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-23 03:49:14"
-    },
-    {
-      "keyword": "ncaa bracket",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-22 07:41:16"
-    },
-    {
       "keyword": "robert mueller",
-      "score": 5200000,
+      "score": 6200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-23 03:49:14"
-    },
-    {
-      "keyword": "is netanyahu alive latest update",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-18 07:53:36"
-    },
-    {
-      "keyword": "amy madigan",
-      "score": 5000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-18 07:53:36"
+      "timestamp": "2026-03-23 07:48:14"
     },
     {
       "keyword": "espn bracket",
@@ -156,11 +135,18 @@
       "timestamp": "2026-03-22 19:11:03"
     },
     {
-      "keyword": "wind advisory",
+      "keyword": "is netanyahu alive latest update",
       "score": 5000000,
       "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-18 07:53:36"
+    },
+    {
+      "keyword": "nicholas brendon",
+      "score": 4900000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-17 07:51:56"
+      "timestamp": "2026-03-23 07:48:14"
     },
     {
       "keyword": "eid mubarak",
@@ -170,9 +156,16 @@
       "timestamp": "2026-03-22 19:11:03"
     },
     {
-      "keyword": "michael b jordan",
-      "score": 4300000,
+      "keyword": "wind advisory",
+      "score": 4500000,
       "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-17 07:51:56"
+    },
+    {
+      "keyword": "amy madigan",
+      "score": 4500000,
+      "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-18 07:53:36"
     },
@@ -184,6 +177,13 @@
       "timestamp": "2026-03-22 19:11:03"
     },
     {
+      "keyword": "michael b jordan",
+      "score": 4100000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-18 07:53:36"
+    },
+    {
       "keyword": "banksy",
       "score": 4050000,
       "traffic_numeric": 200000,
@@ -191,18 +191,18 @@
       "timestamp": "2026-03-22 19:11:03"
     },
     {
-      "keyword": "st patricks day 2026",
-      "score": 3900000,
-      "traffic_numeric": 1000000,
+      "keyword": "ncaa bracket",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-17 19:50:17"
+      "timestamp": "2026-03-22 07:41:16"
     },
     {
-      "keyword": "nicholas brendon",
-      "score": 3900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-23 03:49:14"
+      "keyword": "march madness scores",
+      "score": 3800000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-03-23 07:48:14"
     },
     {
       "keyword": "ncaa tournament bracket",
@@ -213,9 +213,9 @@
     }
   ],
   "category_stats": {
-    "其他": 110,
-    "体育": 29,
-    "科技/AI": 5
+    "其他": 109,
+    "体育": 28,
+    "科技/AI": 6
   },
   "insights": [
     {

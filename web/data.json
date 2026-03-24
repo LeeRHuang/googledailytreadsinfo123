@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-03-24 07:52:53",
+  "last_updated": "2026-03-24 14:10:00",
   "trends": [
     {
       "keyword": "women’s march madness",
-      "score": 73500000,
+      "score": 78500000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-24 07:52:53"
+      "timestamp": "2026-03-24 14:10:00"
     },
     {
       "keyword": "men’s march madness",
-      "score": 63500006,
+      "score": 68500006,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-24 07:52:53"
+      "timestamp": "2026-03-24 14:10:00"
     },
     {
       "keyword": "oscar winners 2026",
@@ -24,10 +24,10 @@
     },
     {
       "keyword": "bachelorette cancelled",
-      "score": 29000000,
+      "score": 31000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-24 03:30:20"
+      "timestamp": "2026-03-24 14:10:00"
     },
     {
       "keyword": "march madness bracket",
@@ -37,11 +37,18 @@
       "timestamp": "2026-03-21 13:36:25"
     },
     {
+      "keyword": "cesar chavez",
+      "score": 20750000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-24 14:10:00"
+    },
+    {
       "keyword": "chuck norris",
-      "score": 20200011,
+      "score": 20200012,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-24 07:52:53"
+      "timestamp": "2026-03-24 14:10:00"
     },
     {
       "keyword": "march madness",
@@ -49,13 +56,6 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-22 07:41:16"
-    },
-    {
-      "keyword": "cesar chavez",
-      "score": 19750000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-24 07:52:53"
     },
     {
       "keyword": "spiderman brand new day",
@@ -66,10 +66,10 @@
     },
     {
       "keyword": "joseph duggar",
-      "score": 14800000,
+      "score": 15800000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-24 07:52:53"
+      "timestamp": "2026-03-24 14:10:00"
     },
     {
       "keyword": "joe kent",
@@ -79,18 +79,18 @@
       "timestamp": "2026-03-24 07:52:53"
     },
     {
+      "keyword": "robert mueller",
+      "score": 11200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-24 14:10:00"
+    },
+    {
       "keyword": "project hail mary",
       "score": 11000000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-03-24 03:30:20"
-    },
-    {
-      "keyword": "robert mueller",
-      "score": 10200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-24 07:52:53"
     },
     {
       "keyword": "usa vs venezuela baseball",
@@ -100,18 +100,18 @@
       "timestamp": "2026-03-19 03:38:11"
     },
     {
-      "keyword": "afroman",
-      "score": 9150000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-24 07:52:53"
-    },
-    {
       "keyword": "nicholas brendon",
-      "score": 8900000,
+      "score": 9900000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-24 07:52:53"
+      "timestamp": "2026-03-24 14:10:00"
+    },
+    {
+      "keyword": "afroman",
+      "score": 9650000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-24 14:10:00"
     },
     {
       "keyword": "high point university",
@@ -149,6 +149,13 @@
       "timestamp": "2026-03-22 19:11:03"
     },
     {
+      "keyword": "laguardia plane crash",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-24 14:10:00"
+    },
+    {
       "keyword": "banksy",
       "score": 3800000,
       "traffic_numeric": 200000,
@@ -177,13 +184,6 @@
       "timestamp": "2026-03-19 13:59:42"
     },
     {
-      "keyword": "bam adebayo",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-17 19:50:17"
-    },
-    {
       "keyword": "st. patrick's day",
       "score": 3000000,
       "traffic_numeric": 1000000,
@@ -191,11 +191,11 @@
       "timestamp": "2026-03-18 14:17:11"
     },
     {
-      "keyword": "laguardia plane crash",
+      "keyword": "bam adebayo",
       "score": 3000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-24 07:52:53"
+      "timestamp": "2026-03-17 19:50:17"
     },
     {
       "keyword": "manchester city - real madrid",
@@ -213,9 +213,9 @@
     }
   ],
   "category_stats": {
-    "其他": 95,
+    "其他": 98,
     "体育": 29,
-    "科技/AI": 7
+    "科技/AI": 8
   },
   "insights": [
     {

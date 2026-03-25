@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24 19:50:28",
+  "last_updated": "2026-03-25 03:33:55",
   "trends": [
     {
       "keyword": "women’s march madness",
@@ -45,10 +45,10 @@
     },
     {
       "keyword": "chuck norris",
-      "score": 20200013,
+      "score": 20200014,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-24 19:50:28"
+      "timestamp": "2026-03-25 03:33:55"
     },
     {
       "keyword": "march madness",
@@ -66,17 +66,24 @@
     },
     {
       "keyword": "joseph duggar",
-      "score": 16800000,
+      "score": 17800000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-24 19:50:28"
+      "timestamp": "2026-03-25 03:33:55"
     },
     {
       "keyword": "robert mueller",
-      "score": 12200000,
+      "score": 13200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-24 19:50:28"
+      "timestamp": "2026-03-25 03:33:55"
+    },
+    {
+      "keyword": "nicholas brendon",
+      "score": 11900000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-25 03:33:55"
     },
     {
       "keyword": "joe kent",
@@ -91,13 +98,6 @@
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-03-24 03:30:20"
-    },
-    {
-      "keyword": "nicholas brendon",
-      "score": 10900000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-24 19:50:28"
     },
     {
       "keyword": "usa vs venezuela baseball",
@@ -121,18 +121,18 @@
       "timestamp": "2026-03-23 03:49:14"
     },
     {
+      "keyword": "laguardia plane crash",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-25 03:33:55"
+    },
+    {
       "keyword": "eid mubarak",
       "score": 5200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-23 14:12:12"
-    },
-    {
-      "keyword": "laguardia plane crash",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-24 19:50:28"
     },
     {
       "keyword": "espn bracket",
@@ -213,9 +213,9 @@
     }
   ],
   "category_stats": {
-    "其他": 95,
-    "体育": 28,
-    "科技/AI": 7
+    "其他": 97,
+    "体育": 30,
+    "科技/AI": 9
   },
   "insights": [
     {

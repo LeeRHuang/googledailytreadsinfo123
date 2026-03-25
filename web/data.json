@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25 07:48:37",
+  "last_updated": "2026-03-25 14:13:42",
   "trends": [
     {
       "keyword": "women’s march madness",
@@ -10,10 +10,10 @@
     },
     {
       "keyword": "men’s march madness",
-      "score": 73500006,
+      "score": 78500006,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-24 19:50:28"
+      "timestamp": "2026-03-25 14:13:42"
     },
     {
       "keyword": "bachelorette cancelled",
@@ -21,13 +21,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-24 14:10:00"
-    },
-    {
-      "keyword": "march madness bracket",
-      "score": 21000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-21 13:36:25"
     },
     {
       "keyword": "cesar chavez",
@@ -38,10 +31,10 @@
     },
     {
       "keyword": "chuck norris",
-      "score": 20200015,
+      "score": 20200016,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-25 07:48:37"
+      "timestamp": "2026-03-25 14:13:42"
     },
     {
       "keyword": "march madness",
@@ -49,6 +42,13 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-22 07:41:16"
+    },
+    {
+      "keyword": "march madness bracket",
+      "score": 19000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-21 13:36:25"
     },
     {
       "keyword": "spiderman brand new day",
@@ -65,29 +65,29 @@
       "timestamp": "2026-03-25 03:33:55"
     },
     {
+      "keyword": "robert mueller",
+      "score": 15200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-25 14:13:42"
+    },
+    {
       "keyword": "oscar winners 2026",
-      "score": 16500000,
+      "score": 14500000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-20 03:22:32"
     },
     {
-      "keyword": "robert mueller",
-      "score": 14200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-25 07:48:37"
-    },
-    {
       "keyword": "nicholas brendon",
-      "score": 12900000,
+      "score": 13900000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-25 07:48:37"
+      "timestamp": "2026-03-25 14:13:42"
     },
     {
       "keyword": "joe kent",
-      "score": 11600000,
+      "score": 11400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-24 07:52:53"
@@ -107,18 +107,11 @@
       "timestamp": "2026-03-24 14:10:00"
     },
     {
-      "keyword": "usa vs venezuela baseball",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-03-19 03:38:11"
-    },
-    {
       "keyword": "laguardia plane crash",
-      "score": 7000000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-25 07:48:37"
+      "timestamp": "2026-03-25 14:13:42"
     },
     {
       "keyword": "high point university",
@@ -126,6 +119,13 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-23 03:49:14"
+    },
+    {
+      "keyword": "usa vs venezuela baseball",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-03-19 03:38:11"
     },
     {
       "keyword": "eid mubarak",
@@ -171,17 +171,10 @@
     },
     {
       "keyword": "banksy",
-      "score": 3200000,
+      "score": 3000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-03-22 19:11:03"
-    },
-    {
-      "keyword": "meteor hit cleveland ohio",
-      "score": 2700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-19 13:59:42"
     },
     {
       "keyword": "miami open",
@@ -191,29 +184,36 @@
       "timestamp": "2026-03-22 07:41:16"
     },
     {
+      "keyword": "meteor hit cleveland ohio",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-19 13:59:42"
+    },
+    {
+      "keyword": "alan ritchson",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-25 14:13:42"
+    },
+    {
+      "keyword": "chappell roan",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-25 14:13:42"
+    },
+    {
       "keyword": "one battle after another",
       "score": 2500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-20 03:22:32"
-    },
-    {
-      "keyword": "lollapalooza 2026",
-      "score": 2300000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-03-21 03:15:48"
-    },
-    {
-      "keyword": "jude law",
-      "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-24 07:52:53"
     }
   ],
   "category_stats": {
-    "其他": 96,
+    "其他": 93,
     "体育": 29,
     "科技/AI": 9
   },

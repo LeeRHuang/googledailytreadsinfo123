@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25 03:33:55",
+  "last_updated": "2026-03-25 07:48:37",
   "trends": [
     {
       "keyword": "women’s march madness",
@@ -24,17 +24,10 @@
     },
     {
       "keyword": "march madness bracket",
-      "score": 23000000,
+      "score": 21000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-21 13:36:25"
-    },
-    {
-      "keyword": "oscar winners 2026",
-      "score": 21500000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-03-20 03:22:32"
     },
     {
       "keyword": "cesar chavez",
@@ -45,10 +38,10 @@
     },
     {
       "keyword": "chuck norris",
-      "score": 20200014,
+      "score": 20200015,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-25 03:33:55"
+      "timestamp": "2026-03-25 07:48:37"
     },
     {
       "keyword": "march madness",
@@ -72,22 +65,29 @@
       "timestamp": "2026-03-25 03:33:55"
     },
     {
+      "keyword": "oscar winners 2026",
+      "score": 16500000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-03-20 03:22:32"
+    },
+    {
       "keyword": "robert mueller",
-      "score": 13200000,
+      "score": 14200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-25 03:33:55"
+      "timestamp": "2026-03-25 07:48:37"
     },
     {
       "keyword": "nicholas brendon",
-      "score": 11900000,
+      "score": 12900000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-25 03:33:55"
+      "timestamp": "2026-03-25 07:48:37"
     },
     {
       "keyword": "joe kent",
-      "score": 11800000,
+      "score": 11600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-24 07:52:53"
@@ -100,13 +100,6 @@
       "timestamp": "2026-03-24 03:30:20"
     },
     {
-      "keyword": "usa vs venezuela baseball",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-03-19 03:38:11"
-    },
-    {
       "keyword": "afroman",
       "score": 9650000,
       "traffic_numeric": 500000,
@@ -114,18 +107,25 @@
       "timestamp": "2026-03-24 14:10:00"
     },
     {
+      "keyword": "usa vs venezuela baseball",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-03-19 03:38:11"
+    },
+    {
+      "keyword": "laguardia plane crash",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-25 07:48:37"
+    },
+    {
       "keyword": "high point university",
       "score": 6700000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-23 03:49:14"
-    },
-    {
-      "keyword": "laguardia plane crash",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-25 03:33:55"
     },
     {
       "keyword": "eid mubarak",
@@ -163,13 +163,6 @@
       "timestamp": "2026-03-22 13:33:42"
     },
     {
-      "keyword": "banksy",
-      "score": 3400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-03-22 19:11:03"
-    },
-    {
       "keyword": "crimson desert",
       "score": 3200000,
       "traffic_numeric": 500000,
@@ -177,15 +170,22 @@
       "timestamp": "2026-03-21 19:05:33"
     },
     {
+      "keyword": "banksy",
+      "score": 3200000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-03-22 19:11:03"
+    },
+    {
       "keyword": "meteor hit cleveland ohio",
-      "score": 2900000,
+      "score": 2700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-19 13:59:42"
     },
     {
       "keyword": "miami open",
-      "score": 2700000,
+      "score": 2650000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-03-22 07:41:16"
@@ -198,23 +198,23 @@
       "timestamp": "2026-03-20 03:22:32"
     },
     {
-      "keyword": "st. patrick's day",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-18 14:17:11"
-    },
-    {
       "keyword": "lollapalooza 2026",
-      "score": 2400000,
+      "score": 2300000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-03-21 03:15:48"
+    },
+    {
+      "keyword": "jude law",
+      "score": 2200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-24 07:52:53"
     }
   ],
   "category_stats": {
-    "其他": 97,
-    "体育": 30,
+    "其他": 96,
+    "体育": 29,
     "科技/AI": 9
   },
   "insights": [

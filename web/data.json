@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26 14:16:48",
+  "last_updated": "2026-03-26 19:54:11",
   "trends": [
     {
       "keyword": "women’s march madness",
@@ -10,7 +10,7 @@
     },
     {
       "keyword": "men’s march madness",
-      "score": 82000006,
+      "score": 80000006,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-25 19:42:30"
@@ -31,52 +31,52 @@
     },
     {
       "keyword": "robert mueller",
-      "score": 19200000,
+      "score": 20200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-26 14:16:48"
+      "timestamp": "2026-03-26 19:54:11"
+    },
+    {
+      "keyword": "nicholas brendon",
+      "score": 18900000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-26 19:54:11"
     },
     {
       "keyword": "cesar chavez",
-      "score": 19000000,
+      "score": 18500000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-03-24 14:10:00"
     },
     {
       "keyword": "joseph duggar",
-      "score": 18200000,
+      "score": 18000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-25 19:42:30"
     },
     {
-      "keyword": "march madness",
-      "score": 18000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-03-22 07:41:16"
-    },
-    {
-      "keyword": "nicholas brendon",
-      "score": 17900000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-26 14:16:48"
-    },
-    {
       "keyword": "spiderman brand new day",
-      "score": 17000000,
+      "score": 16500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-24 03:30:20"
     },
     {
+      "keyword": "march madness",
+      "score": 16000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-03-22 07:41:16"
+    },
+    {
       "keyword": "laguardia plane crash",
-      "score": 12000000,
+      "score": 13000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-26 14:16:48"
+      "timestamp": "2026-03-26 19:54:11"
     },
     {
       "keyword": "project hail mary",
@@ -86,20 +86,6 @@
       "timestamp": "2026-03-24 03:30:20"
     },
     {
-      "keyword": "joe kent",
-      "score": 9500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-24 07:52:53"
-    },
-    {
-      "keyword": "afroman",
-      "score": 9100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-24 14:10:00"
-    },
-    {
       "keyword": "march madness bracket",
       "score": 9000000,
       "traffic_numeric": 2000000,
@@ -107,8 +93,22 @@
       "timestamp": "2026-03-21 13:36:25"
     },
     {
+      "keyword": "joe kent",
+      "score": 9000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-24 07:52:53"
+    },
+    {
+      "keyword": "afroman",
+      "score": 8900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-24 14:10:00"
+    },
+    {
       "keyword": "high point university",
-      "score": 6700000,
+      "score": 6600000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-23 03:49:14"
@@ -128,18 +128,18 @@
       "timestamp": "2026-03-23 14:12:12"
     },
     {
-      "keyword": "espn bracket",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-22 19:11:03"
-    },
-    {
       "keyword": "chappell roan",
-      "score": 4500000,
+      "score": 5000000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
-      "timestamp": "2026-03-26 14:16:48"
+      "timestamp": "2026-03-26 19:54:11"
+    },
+    {
+      "keyword": "miley cyrus",
+      "score": 4500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-26 19:54:11"
     },
     {
       "keyword": "alan ritchson",
@@ -163,11 +163,11 @@
       "timestamp": "2026-03-22 19:11:03"
     },
     {
-      "keyword": "miley cyrus",
+      "keyword": "espn bracket",
       "score": 4000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-26 14:16:48"
+      "timestamp": "2026-03-22 19:11:03"
     },
     {
       "keyword": "ncaa tournament bracket",
@@ -178,7 +178,7 @@
     },
     {
       "keyword": "crimson desert",
-      "score": 3000000,
+      "score": 2800000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-21 19:05:33"
@@ -205,16 +205,16 @@
       "timestamp": "2026-03-26 07:58:43"
     },
     {
-      "keyword": "jude law",
+      "keyword": "hawaii flooding",
       "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-24 07:52:53"
+      "traffic_numeric": 200000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-26 03:45:21"
     }
   ],
   "category_stats": {
-    "其他": 87,
-    "体育": 35,
+    "其他": 88,
+    "体育": 41,
     "科技/AI": 9
   },
   "insights": [

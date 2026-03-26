@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25 19:42:30",
+  "last_updated": "2026-03-26 03:45:21",
   "trends": [
     {
       "keyword": "men’s march madness",
@@ -23,74 +23,60 @@
       "timestamp": "2026-03-24 14:10:00"
     },
     {
+      "keyword": "chuck norris",
+      "score": 20200018,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-03-26 03:45:21"
+    },
+    {
       "keyword": "cesar chavez",
-      "score": 20700000,
+      "score": 20000000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-03-24 14:10:00"
     },
     {
-      "keyword": "chuck norris",
-      "score": 20200017,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-03-25 19:42:30"
-    },
-    {
       "keyword": "march madness",
-      "score": 20000000,
+      "score": 19500000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-22 07:41:16"
     },
     {
       "keyword": "joseph duggar",
-      "score": 18800000,
+      "score": 18600000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-25 19:42:30"
     },
     {
       "keyword": "spiderman brand new day",
-      "score": 18700000,
+      "score": 18000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-24 03:30:20"
     },
     {
-      "keyword": "march madness bracket",
-      "score": 17000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-21 13:36:25"
-    },
-    {
       "keyword": "robert mueller",
-      "score": 16200000,
+      "score": 17200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-25 19:42:30"
+      "timestamp": "2026-03-26 03:45:21"
     },
     {
       "keyword": "nicholas brendon",
-      "score": 14900000,
+      "score": 15900000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-25 19:42:30"
+      "timestamp": "2026-03-26 03:45:21"
     },
     {
-      "keyword": "oscar winners 2026",
-      "score": 12500000,
-      "traffic_numeric": 5000000,
+      "keyword": "march madness bracket",
+      "score": 13000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-20 03:22:32"
-    },
-    {
-      "keyword": "joe kent",
-      "score": 11200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-24 07:52:53"
+      "timestamp": "2026-03-21 13:36:25"
     },
     {
       "keyword": "project hail mary",
@@ -100,18 +86,32 @@
       "timestamp": "2026-03-24 03:30:20"
     },
     {
+      "keyword": "joe kent",
+      "score": 10500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-24 07:52:53"
+    },
+    {
+      "keyword": "laguardia plane crash",
+      "score": 10000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-26 03:45:21"
+    },
+    {
       "keyword": "afroman",
-      "score": 9650000,
+      "score": 9500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-24 14:10:00"
     },
     {
-      "keyword": "laguardia plane crash",
-      "score": 9000000,
-      "traffic_numeric": 1000000,
+      "keyword": "oscar winners 2026",
+      "score": 7000000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-25 19:42:30"
+      "timestamp": "2026-03-20 03:22:32"
     },
     {
       "keyword": "high point university",
@@ -119,6 +119,13 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-23 03:49:14"
+    },
+    {
+      "keyword": "sweet 16 bracket",
+      "score": 5500000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-03-26 03:45:21"
     },
     {
       "keyword": "eid mubarak",
@@ -149,18 +156,25 @@
       "timestamp": "2026-03-22 19:11:03"
     },
     {
-      "keyword": "usa vs venezuela baseball",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-03-19 03:38:11"
-    },
-    {
       "keyword": "ncaa tournament bracket",
       "score": 3600000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-22 13:33:42"
+    },
+    {
+      "keyword": "alan ritchson",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-26 03:45:21"
+    },
+    {
+      "keyword": "chappell roan",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-26 03:45:21"
     },
     {
       "keyword": "crimson desert",
@@ -170,34 +184,6 @@
       "timestamp": "2026-03-21 19:05:33"
     },
     {
-      "keyword": "chappell roan",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-25 19:42:30"
-    },
-    {
-      "keyword": "alan ritchson",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-25 19:42:30"
-    },
-    {
-      "keyword": "banksy",
-      "score": 2800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-03-22 19:11:03"
-    },
-    {
-      "keyword": "miami open",
-      "score": 2600000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-03-22 07:41:16"
-    },
-    {
       "keyword": "hubert davis",
       "score": 2500000,
       "traffic_numeric": 500000,
@@ -205,16 +191,30 @@
       "timestamp": "2026-03-25 19:42:30"
     },
     {
-      "keyword": "one battle after another",
-      "score": 2500000,
-      "traffic_numeric": 2000000,
+      "keyword": "jessi pierce",
+      "score": 2400000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-03-20 03:22:32"
+      "timestamp": "2026-03-26 03:45:21"
+    },
+    {
+      "keyword": "miami open",
+      "score": 2400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-03-22 07:41:16"
+    },
+    {
+      "keyword": "banksy",
+      "score": 2400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-03-22 19:11:03"
     }
   ],
   "category_stats": {
     "其他": 90,
-    "体育": 30,
+    "体育": 33,
     "科技/AI": 9
   },
   "insights": [

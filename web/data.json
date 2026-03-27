@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26 19:54:11",
+  "last_updated": "2026-03-27 03:44:26",
   "trends": [
     {
       "keyword": "women’s march madness",
@@ -10,17 +10,24 @@
     },
     {
       "keyword": "men’s march madness",
-      "score": 80000006,
+      "score": 80000005,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-25 19:42:30"
     },
     {
       "keyword": "bachelorette cancelled",
-      "score": 31000000,
+      "score": 30000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-24 14:10:00"
+    },
+    {
+      "keyword": "robert mueller",
+      "score": 21200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-27 03:44:26"
     },
     {
       "keyword": "chuck norris",
@@ -30,39 +37,25 @@
       "timestamp": "2026-03-26 14:16:48"
     },
     {
-      "keyword": "robert mueller",
-      "score": 20200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-26 19:54:11"
-    },
-    {
       "keyword": "nicholas brendon",
-      "score": 18900000,
+      "score": 19900000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-26 19:54:11"
+      "timestamp": "2026-03-27 03:44:26"
     },
     {
       "keyword": "cesar chavez",
-      "score": 18500000,
+      "score": 18000000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-03-24 14:10:00"
     },
     {
       "keyword": "joseph duggar",
-      "score": 18000000,
+      "score": 17500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-25 19:42:30"
-    },
-    {
-      "keyword": "spiderman brand new day",
-      "score": 16500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-24 03:30:20"
     },
     {
       "keyword": "march madness",
@@ -72,11 +65,18 @@
       "timestamp": "2026-03-22 07:41:16"
     },
     {
-      "keyword": "laguardia plane crash",
-      "score": 13000000,
+      "keyword": "spiderman brand new day",
+      "score": 15500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-26 19:54:11"
+      "timestamp": "2026-03-24 03:30:20"
+    },
+    {
+      "keyword": "laguardia plane crash",
+      "score": 14000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-27 03:44:26"
     },
     {
       "keyword": "project hail mary",
@@ -93,22 +93,22 @@
       "timestamp": "2026-03-21 13:36:25"
     },
     {
-      "keyword": "joe kent",
-      "score": 9000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-24 07:52:53"
-    },
-    {
       "keyword": "afroman",
-      "score": 8900000,
+      "score": 8700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-24 14:10:00"
     },
     {
+      "keyword": "joe kent",
+      "score": 8500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-24 07:52:53"
+    },
+    {
       "keyword": "high point university",
-      "score": 6600000,
+      "score": 6100000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-23 03:49:14"
@@ -121,25 +121,25 @@
       "timestamp": "2026-03-26 03:45:21"
     },
     {
+      "keyword": "chappell roan",
+      "score": 5500000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-27 03:44:26"
+    },
+    {
       "keyword": "eid mubarak",
-      "score": 5200000,
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-23 14:12:12"
     },
     {
-      "keyword": "chappell roan",
-      "score": 5000000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-26 19:54:11"
-    },
-    {
       "keyword": "miley cyrus",
-      "score": 4500000,
+      "score": 4700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-26 19:54:11"
+      "timestamp": "2026-03-27 03:44:26"
     },
     {
       "keyword": "alan ritchson",
@@ -163,25 +163,18 @@
       "timestamp": "2026-03-22 19:11:03"
     },
     {
-      "keyword": "espn bracket",
+      "keyword": "chuck norris cause of death",
       "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-27 03:44:26"
+    },
+    {
+      "keyword": "espn bracket",
+      "score": 3900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-22 19:11:03"
-    },
-    {
-      "keyword": "ncaa tournament bracket",
-      "score": 3600000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-22 13:33:42"
-    },
-    {
-      "keyword": "crimson desert",
-      "score": 2800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-21 19:05:33"
     },
     {
       "keyword": "jessi pierce",
@@ -189,6 +182,20 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-03-26 07:58:43"
+    },
+    {
+      "keyword": "ncaa tournament bracket",
+      "score": 2600000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-22 13:33:42"
+    },
+    {
+      "keyword": "crimson desert",
+      "score": 2600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-21 19:05:33"
     },
     {
       "keyword": "hubert davis",
@@ -203,25 +210,12 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-03-26 07:58:43"
-    },
-    {
-      "keyword": "hawaii flooding",
-      "score": 2200000,
-      "traffic_numeric": 200000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-26 03:45:21"
     }
   ],
   "category_stats": {
-    "其他": 88,
-    "体育": 41,
-    "科技/AI": 9
+    "其他": 85,
+    "体育": 46,
+    "科技/AI": 10
   },
-  "insights": [
-    {
-      "title": "季节性效率/计划应用",
-      "context": "新年计划相关关键词搜索量激增。",
-      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
-    }
-  ]
+  "insights": []
 }

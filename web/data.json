@@ -1,44 +1,44 @@
 {
-  "last_updated": "2026-03-28 03:36:01",
+  "last_updated": "2026-03-28 07:37:00",
   "trends": [
     {
       "keyword": "women’s march madness",
-      "score": 75000000,
+      "score": 70000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-24 19:50:28"
     },
     {
       "keyword": "men’s march madness",
-      "score": 70000003,
+      "score": 65000003,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-25 19:42:30"
     },
     {
-      "keyword": "bachelorette cancelled",
-      "score": 24000000,
-      "traffic_numeric": 2000000,
+      "keyword": "robert mueller",
+      "score": 23200000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-24 14:10:00"
+      "timestamp": "2026-03-28 07:37:00"
     },
     {
       "keyword": "nicholas brendon",
-      "score": 22700000,
+      "score": 22500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-27 19:32:18"
     },
     {
-      "keyword": "robert mueller",
-      "score": 22200000,
-      "traffic_numeric": 1000000,
+      "keyword": "bachelorette cancelled",
+      "score": 22000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-28 03:36:01"
+      "timestamp": "2026-03-24 14:10:00"
     },
     {
       "keyword": "joseph duggar",
-      "score": 15500000,
+      "score": 15000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-25 19:42:30"
@@ -52,66 +52,59 @@
     },
     {
       "keyword": "cesar chavez",
-      "score": 14000000,
+      "score": 13000000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-03-24 14:10:00"
     },
     {
       "keyword": "spiderman brand new day",
-      "score": 11500000,
+      "score": 10500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-24 03:30:20"
     },
     {
       "keyword": "project hail mary",
-      "score": 10500000,
+      "score": 10000000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-03-24 03:30:20"
     },
     {
-      "keyword": "chuck norris",
-      "score": 10000020,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-03-26 14:16:48"
+      "keyword": "chappell roan",
+      "score": 7400000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-28 07:37:00"
     },
     {
       "keyword": "march madness",
-      "score": 9000000,
+      "score": 7000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-22 07:41:16"
     },
     {
-      "keyword": "chappell roan",
-      "score": 7200000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-28 03:36:01"
+      "keyword": "miley cyrus",
+      "score": 6700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-28 07:37:00"
     },
     {
       "keyword": "afroman",
-      "score": 7000000,
+      "score": 6500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-24 14:10:00"
     },
     {
       "keyword": "joe kent",
-      "score": 6500000,
+      "score": 6000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-24 07:52:53"
-    },
-    {
-      "keyword": "miley cyrus",
-      "score": 6200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-28 03:36:01"
     },
     {
       "keyword": "chuck norris cause of death",
@@ -128,6 +121,13 @@
       "timestamp": "2026-03-26 03:45:21"
     },
     {
+      "keyword": "chuck norris",
+      "score": 5000020,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-03-26 14:16:48"
+    },
+    {
       "keyword": "high point university",
       "score": 4600000,
       "traffic_numeric": 1000000,
@@ -142,32 +142,39 @@
       "timestamp": "2026-03-26 14:16:48"
     },
     {
-      "keyword": "march madness scores",
+      "keyword": "yankees vs giants",
       "score": 4300000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-03-28 07:37:00"
+    },
+    {
+      "keyword": "march madness scores",
+      "score": 4100000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-03-23 14:12:12"
     },
     {
-      "keyword": "yankees vs giants",
-      "score": 3300000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-03-28 03:36:01"
-    },
-    {
-      "keyword": "march madness bracket",
-      "score": 3000000,
+      "keyword": "tiger woods",
+      "score": 4000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-21 13:36:25"
+      "timestamp": "2026-03-28 07:37:00"
     },
     {
       "keyword": "mlb",
-      "score": 3000000,
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-03-28 03:36:01"
+      "timestamp": "2026-03-28 07:37:00"
+    },
+    {
+      "keyword": "brazil vs france",
+      "score": 3150000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-03-28 07:37:00"
     },
     {
       "keyword": "ncaa",
@@ -177,18 +184,11 @@
       "timestamp": "2026-03-22 19:11:03"
     },
     {
-      "keyword": "eid mubarak",
-      "score": 2800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-23 14:12:12"
-    },
-    {
-      "keyword": "brazil vs france",
-      "score": 2650000,
+      "keyword": "diamondbacks vs dodgers",
+      "score": 3000000,
       "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-03-28 03:36:01"
+      "timestamp": "2026-03-28 07:37:00"
     },
     {
       "keyword": "jessi pierce",
@@ -198,11 +198,11 @@
       "timestamp": "2026-03-26 07:58:43"
     },
     {
-      "keyword": "diamondbacks vs dodgers",
-      "score": 2500000,
+      "keyword": "eid mubarak",
+      "score": 2600000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-03-28 03:36:01"
+      "category": "其他",
+      "timestamp": "2026-03-23 14:12:12"
     },
     {
       "keyword": "hubert davis",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 85,
-    "体育": 51,
+    "其他": 83,
+    "体育": 52,
     "科技/AI": 10
   },
   "insights": []

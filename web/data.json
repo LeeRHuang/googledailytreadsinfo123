@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-03-29 13:52:06",
+  "last_updated": "2026-03-29 19:23:57",
   "trends": [
     {
       "keyword": "men’s march madness",
-      "score": 55000000,
+      "score": 50000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-25 19:42:30"
     },
     {
       "keyword": "women’s march madness",
-      "score": 45000000,
+      "score": 40000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-24 19:50:28"
     },
     {
       "keyword": "robert mueller",
-      "score": 21000000,
+      "score": 20000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-28 13:48:10"
     },
     {
       "keyword": "nicholas brendon",
-      "score": 20000000,
+      "score": 19500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-27 19:32:18"
     },
     {
       "keyword": "tiger woods",
-      "score": 14000000,
+      "score": 16000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-29 13:52:06"
+      "timestamp": "2026-03-29 19:23:57"
     },
     {
       "keyword": "laguardia plane crash",
@@ -44,18 +44,18 @@
       "timestamp": "2026-03-27 03:44:26"
     },
     {
-      "keyword": "bachelorette cancelled",
-      "score": 12000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-24 14:10:00"
-    },
-    {
       "keyword": "joseph duggar",
-      "score": 11000000,
+      "score": 10000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-25 19:42:30"
+    },
+    {
+      "keyword": "bachelorette cancelled",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-24 14:10:00"
     },
     {
       "keyword": "miley cyrus",
@@ -65,6 +65,13 @@
       "timestamp": "2026-03-29 07:39:11"
     },
     {
+      "keyword": "yankees vs giants",
+      "score": 8300000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-03-29 19:23:57"
+    },
+    {
       "keyword": "chappell roan",
       "score": 8100000,
       "traffic_numeric": 500000,
@@ -72,32 +79,18 @@
       "timestamp": "2026-03-28 19:27:37"
     },
     {
+      "keyword": "mlb",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-03-29 19:23:57"
+    },
+    {
       "keyword": "cesar chavez",
-      "score": 8000000,
+      "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-03-24 14:10:00"
-    },
-    {
-      "keyword": "yankees vs giants",
-      "score": 7800000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-03-29 13:52:06"
-    },
-    {
-      "keyword": "project hail mary",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-24 03:30:20"
-    },
-    {
-      "keyword": "mlb",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-03-29 13:52:06"
     },
     {
       "keyword": "chuck norris cause of death",
@@ -114,18 +107,32 @@
       "timestamp": "2026-03-28 13:48:10"
     },
     {
-      "keyword": "spiderman brand new day",
-      "score": 5500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-24 03:30:20"
-    },
-    {
       "keyword": "diamondbacks vs dodgers",
       "score": 5400000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-03-29 13:52:06"
+    },
+    {
+      "keyword": "project hail mary",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-24 03:30:20"
+    },
+    {
+      "keyword": "mlb scores",
+      "score": 4600000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-03-29 19:23:57"
+    },
+    {
+      "keyword": "spiderman brand new day",
+      "score": 4500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-24 03:30:20"
     },
     {
       "keyword": "alan ritchson",
@@ -135,18 +142,11 @@
       "timestamp": "2026-03-26 14:16:48"
     },
     {
-      "keyword": "afroman",
-      "score": 4000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-24 14:10:00"
-    },
-    {
       "keyword": "yankees",
-      "score": 3700000,
+      "score": 4200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-29 07:39:11"
+      "timestamp": "2026-03-29 19:23:57"
     },
     {
       "keyword": "brazil vs france",
@@ -156,25 +156,32 @@
       "timestamp": "2026-03-28 19:27:37"
     },
     {
-      "keyword": "mlb scores",
-      "score": 3600000,
+      "keyword": "druski",
+      "score": 3570000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-03-29 13:52:06"
+      "category": "其他",
+      "timestamp": "2026-03-29 19:23:57"
+    },
+    {
+      "keyword": "afroman",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-24 14:10:00"
     },
     {
       "keyword": "joe kent",
-      "score": 3500000,
+      "score": 3000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-24 07:52:53"
     },
     {
-      "keyword": "druski",
-      "score": 3070000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-29 13:52:06"
+      "keyword": "mexico vs portugal",
+      "score": 2600000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-03-29 19:23:57"
     },
     {
       "keyword": "jessi pierce",
@@ -184,11 +191,11 @@
       "timestamp": "2026-03-26 07:58:43"
     },
     {
-      "keyword": "march madness scores",
+      "keyword": "rangers vs phillies",
       "score": 2500000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-03-23 14:12:12"
+      "timestamp": "2026-03-29 13:52:06"
     },
     {
       "keyword": "hubert davis",
@@ -198,24 +205,17 @@
       "timestamp": "2026-03-25 19:42:30"
     },
     {
-      "keyword": "rangers vs phillies",
+      "keyword": "no kings protest",
       "score": 2500000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-03-29 13:52:06"
-    },
-    {
-      "keyword": "justin timberlake",
-      "score": 2300000,
-      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-03-26 07:58:43"
+      "timestamp": "2026-03-29 19:23:57"
     }
   ],
   "category_stats": {
-    "其他": 80,
-    "体育": 53,
-    "科技/AI": 10
+    "其他": 75,
+    "体育": 52,
+    "科技/AI": 9
   },
   "insights": []
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29 03:48:00",
+  "last_updated": "2026-03-29 07:39:11",
   "trends": [
     {
       "keyword": "men’s march madness",
@@ -52,10 +52,10 @@
     },
     {
       "keyword": "tiger woods",
-      "score": 10000000,
+      "score": 12000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-03-29 03:47:59"
+      "timestamp": "2026-03-29 07:39:11"
     },
     {
       "keyword": "cesar chavez",
@@ -66,10 +66,10 @@
     },
     {
       "keyword": "miley cyrus",
-      "score": 8200000,
+      "score": 8700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-29 03:47:59"
+      "timestamp": "2026-03-29 07:39:11"
     },
     {
       "keyword": "chappell roan",
@@ -94,10 +94,10 @@
     },
     {
       "keyword": "yankees vs giants",
-      "score": 6300000,
+      "score": 6800000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-03-29 03:47:59"
+      "timestamp": "2026-03-29 07:39:11"
     },
     {
       "keyword": "chuck norris cause of death",
@@ -129,17 +129,10 @@
     },
     {
       "keyword": "diamondbacks vs dodgers",
-      "score": 4700000,
+      "score": 4900000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-03-29 03:47:59"
-    },
-    {
-      "keyword": "joe kent",
-      "score": 4500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-24 07:52:53"
+      "timestamp": "2026-03-29 07:39:11"
     },
     {
       "keyword": "alan ritchson",
@@ -149,11 +142,25 @@
       "timestamp": "2026-03-26 14:16:48"
     },
     {
+      "keyword": "joe kent",
+      "score": 4500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-24 07:52:53"
+    },
+    {
       "keyword": "high point university",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-23 03:49:14"
+    },
+    {
+      "keyword": "yankees",
+      "score": 3700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-29 07:39:11"
     },
     {
       "keyword": "brazil vs france",
@@ -163,18 +170,11 @@
       "timestamp": "2026-03-28 19:27:37"
     },
     {
-      "keyword": "yankees",
-      "score": 3200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-29 03:47:59"
-    },
-    {
       "keyword": "mlb scores",
-      "score": 2900000,
+      "score": 3400000,
       "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-03-29 03:47:59"
+      "timestamp": "2026-03-29 07:39:11"
     },
     {
       "keyword": "jessi pierce",
@@ -184,11 +184,11 @@
       "timestamp": "2026-03-26 07:58:43"
     },
     {
-      "keyword": "march madness scores",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-03-23 14:12:12"
+      "keyword": "druski",
+      "score": 2570000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-29 07:39:11"
     },
     {
       "keyword": "hubert davis",
@@ -198,22 +198,22 @@
       "timestamp": "2026-03-25 19:42:30"
     },
     {
+      "keyword": "march madness scores",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-03-23 14:12:12"
+    },
+    {
       "keyword": "justin timberlake",
       "score": 2300000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-03-26 07:58:43"
-    },
-    {
-      "keyword": "jude law",
-      "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-24 07:52:53"
     }
   ],
   "category_stats": {
-    "其他": 86,
+    "其他": 87,
     "体育": 54,
     "科技/AI": 10
   },

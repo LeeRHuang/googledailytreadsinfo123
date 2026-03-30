@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-03-30 03:54:23",
+  "last_updated": "2026-03-30 08:24:00",
   "trends": [
     {
       "keyword": "men’s march madness",
-      "score": 45000000,
+      "score": 40000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-25 19:42:30"
     },
     {
       "keyword": "women’s march madness",
-      "score": 35000000,
+      "score": 30000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-24 19:50:28"
     },
     {
+      "keyword": "tiger woods",
+      "score": 20000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-30 08:24:00"
+    },
+    {
       "keyword": "nicholas brendon",
-      "score": 19000000,
+      "score": 18000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-27 19:32:18"
     },
     {
       "keyword": "robert mueller",
-      "score": 19000000,
+      "score": 18000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-28 13:48:10"
-    },
-    {
-      "keyword": "tiger woods",
-      "score": 18000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-30 03:54:23"
     },
     {
       "keyword": "laguardia plane crash",
@@ -42,13 +42,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-27 03:44:26"
-    },
-    {
-      "keyword": "joseph duggar",
-      "score": 9000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-25 19:42:30"
     },
     {
       "keyword": "miley cyrus",
@@ -72,6 +65,13 @@
       "timestamp": "2026-03-28 19:27:37"
     },
     {
+      "keyword": "joseph duggar",
+      "score": 8000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-25 19:42:30"
+    },
+    {
       "keyword": "bachelorette cancelled",
       "score": 8000000,
       "traffic_numeric": 2000000,
@@ -93,13 +93,6 @@
       "timestamp": "2026-03-27 07:52:38"
     },
     {
-      "keyword": "cesar chavez",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-24 14:10:00"
-    },
-    {
       "keyword": "diamondbacks vs dodgers",
       "score": 5900000,
       "traffic_numeric": 1000000,
@@ -115,10 +108,24 @@
     },
     {
       "keyword": "mlb scores",
-      "score": 5100000,
+      "score": 5600000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-03-30 03:54:23"
+      "timestamp": "2026-03-30 08:24:00"
+    },
+    {
+      "keyword": "cesar chavez",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-24 14:10:00"
+    },
+    {
+      "keyword": "druski",
+      "score": 4570000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-30 08:24:00"
     },
     {
       "keyword": "alan ritchson",
@@ -135,27 +142,6 @@
       "timestamp": "2026-03-29 19:23:57"
     },
     {
-      "keyword": "druski",
-      "score": 4070000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-30 03:54:23"
-    },
-    {
-      "keyword": "spiderman brand new day",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-24 03:30:20"
-    },
-    {
-      "keyword": "project hail mary",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-24 03:30:20"
-    },
-    {
       "keyword": "brazil vs france",
       "score": 3650000,
       "traffic_numeric": 500000,
@@ -164,24 +150,24 @@
     },
     {
       "keyword": "mexico vs portugal",
-      "score": 3100000,
+      "score": 3600000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-03-30 03:54:23"
-    },
-    {
-      "keyword": "afroman",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-24 14:10:00"
+      "timestamp": "2026-03-30 08:24:00"
     },
     {
       "keyword": "no kings protest",
-      "score": 3000000,
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-30 03:54:23"
+      "timestamp": "2026-03-30 08:24:00"
+    },
+    {
+      "keyword": "guardians vs mariners",
+      "score": 3150000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-03-30 08:24:00"
     },
     {
       "keyword": "rangers vs phillies",
@@ -191,30 +177,44 @@
       "timestamp": "2026-03-30 03:54:23"
     },
     {
-      "keyword": "guardians vs mariners",
-      "score": 2650000,
-      "traffic_numeric": 500000,
+      "keyword": "spiderman brand new day",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-24 03:30:20"
+    },
+    {
+      "keyword": "project hail mary",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-24 03:30:20"
+    },
+    {
+      "keyword": "duke vs uconn",
+      "score": 3000000,
+      "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-03-30 03:54:23"
+      "timestamp": "2026-03-30 08:24:00"
     },
     {
       "keyword": "angels vs astros",
-      "score": 2600000,
+      "score": 2800000,
       "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-03-30 03:54:23"
+      "timestamp": "2026-03-30 08:24:00"
     },
     {
-      "keyword": "hubert davis",
-      "score": 2500000,
+      "keyword": "pirates vs mets",
+      "score": 2700000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-25 19:42:30"
+      "category": "体育",
+      "timestamp": "2026-03-30 08:24:00"
     }
   ],
   "category_stats": {
-    "其他": 75,
-    "体育": 55,
+    "其他": 76,
+    "体育": 54,
     "科技/AI": 9
   },
   "insights": []

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31 14:16:44",
+  "last_updated": "2026-03-31 19:52:26",
   "trends": [
     {
       "keyword": "tiger woods",
@@ -9,39 +9,39 @@
       "timestamp": "2026-03-30 19:50:09"
     },
     {
-      "keyword": "men’s march madness",
-      "score": 15000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-03-25 19:42:30"
-    },
-    {
       "keyword": "nicholas brendon",
-      "score": 13000000,
+      "score": 12000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-27 19:32:18"
     },
     {
       "keyword": "robert mueller",
-      "score": 13000000,
+      "score": 12000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-28 13:48:10"
     },
     {
-      "keyword": "laguardia plane crash",
+      "keyword": "men’s march madness",
       "score": 10000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-27 03:44:26"
+      "timestamp": "2026-03-25 19:42:30"
     },
     {
       "keyword": "mlb scores",
-      "score": 9100000,
+      "score": 9600000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-03-31 14:16:44"
+      "timestamp": "2026-03-31 19:52:26"
+    },
+    {
+      "keyword": "laguardia plane crash",
+      "score": 9000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-27 03:44:26"
     },
     {
       "keyword": "miley cyrus",
@@ -58,18 +58,18 @@
       "timestamp": "2026-03-29 19:23:57"
     },
     {
+      "keyword": "druski",
+      "score": 7570000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-31 19:52:26"
+    },
+    {
       "keyword": "chappell roan",
-      "score": 7600000,
+      "score": 7100000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-03-28 19:27:37"
-    },
-    {
-      "keyword": "druski",
-      "score": 7070000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-31 14:16:44"
     },
     {
       "keyword": "duke vs uconn",
@@ -114,18 +114,18 @@
       "timestamp": "2026-03-31 07:57:27"
     },
     {
-      "keyword": "women’s march madness",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-03-24 19:50:28"
-    },
-    {
       "keyword": "something bad is going to happen",
-      "score": 4700000,
+      "score": 5200000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
-      "timestamp": "2026-03-31 14:16:44"
+      "timestamp": "2026-03-31 19:52:26"
+    },
+    {
+      "keyword": "tiger woods crash",
+      "score": 5000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-31 19:52:26"
     },
     {
       "keyword": "no kings protest",
@@ -142,11 +142,11 @@
       "timestamp": "2026-03-30 14:21:06"
     },
     {
-      "keyword": "alan ritchson",
-      "score": 3700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-26 14:16:48"
+      "keyword": "uconn vs duke",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-03-31 19:52:26"
     },
     {
       "keyword": "brazil vs france",
@@ -163,11 +163,18 @@
       "timestamp": "2026-03-30 14:21:06"
     },
     {
-      "keyword": "joseph duggar",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
+      "keyword": "alan ritchson",
+      "score": 3500000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-25 19:42:30"
+      "timestamp": "2026-03-26 14:16:48"
+    },
+    {
+      "keyword": "mets",
+      "score": 3200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-31 19:52:26"
     },
     {
       "keyword": "rangers vs phillies",
@@ -175,27 +182,6 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-03-30 03:54:23"
-    },
-    {
-      "keyword": "uconn vs duke",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-03-31 14:16:44"
-    },
-    {
-      "keyword": "tiger woods crash",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-31 14:16:44"
-    },
-    {
-      "keyword": "mets",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-31 14:16:44"
     },
     {
       "keyword": "red sox vs reds",
@@ -210,11 +196,25 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-03-30 08:24:00"
+    },
+    {
+      "keyword": "pirates vs mets",
+      "score": 2700000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-03-30 08:24:00"
+    },
+    {
+      "keyword": "israel adesanya",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-30 08:24:00"
     }
   ],
   "category_stats": {
-    "其他": 83,
-    "体育": 59,
+    "其他": 88,
+    "体育": 58,
     "科技/AI": 8,
     "娱乐/生活": 5
   },

@@ -1,13 +1,6 @@
 {
-  "last_updated": "2026-03-31 03:43:57",
+  "last_updated": "2026-03-31 07:57:27",
   "trends": [
-    {
-      "keyword": "men’s march madness",
-      "score": 25000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-03-25 19:42:30"
-    },
     {
       "keyword": "tiger woods",
       "score": 24000000,
@@ -16,32 +9,39 @@
       "timestamp": "2026-03-30 19:50:09"
     },
     {
-      "keyword": "women’s march madness",
-      "score": 15000000,
+      "keyword": "men’s march madness",
+      "score": 20000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-24 19:50:28"
+      "timestamp": "2026-03-25 19:42:30"
     },
     {
       "keyword": "nicholas brendon",
-      "score": 15000000,
+      "score": 14000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-27 19:32:18"
     },
     {
       "keyword": "robert mueller",
-      "score": 15000000,
+      "score": 14000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-28 13:48:10"
     },
     {
       "keyword": "laguardia plane crash",
-      "score": 12000000,
+      "score": 11000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-27 03:44:26"
+    },
+    {
+      "keyword": "women’s march madness",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-03-24 19:50:28"
     },
     {
       "keyword": "miley cyrus",
@@ -66,10 +66,10 @@
     },
     {
       "keyword": "mlb scores",
-      "score": 7600000,
+      "score": 8100000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-03-31 03:43:57"
+      "timestamp": "2026-03-31 07:57:27"
     },
     {
       "keyword": "duke vs uconn",
@@ -87,10 +87,10 @@
     },
     {
       "keyword": "druski",
-      "score": 6070000,
+      "score": 6570000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-31 03:43:57"
+      "timestamp": "2026-03-31 07:57:27"
     },
     {
       "keyword": "chuck norris cause of death",
@@ -114,25 +114,18 @@
       "timestamp": "2026-03-28 13:48:10"
     },
     {
-      "keyword": "joseph duggar",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-25 19:42:30"
-    },
-    {
       "keyword": "yankees",
-      "score": 4900000,
+      "score": 5400000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-31 03:43:57"
+      "timestamp": "2026-03-31 07:57:27"
     },
     {
-      "keyword": "alan ritchson",
-      "score": 4100000,
+      "keyword": "something bad is going to happen",
+      "score": 4200000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-26 14:16:48"
+      "category": "科技/AI",
+      "timestamp": "2026-03-31 07:57:27"
     },
     {
       "keyword": "mexico vs portugal",
@@ -142,6 +135,13 @@
       "timestamp": "2026-03-30 14:21:06"
     },
     {
+      "keyword": "joseph duggar",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-25 19:42:30"
+    },
+    {
       "keyword": "no kings protest",
       "score": 4000000,
       "traffic_numeric": 500000,
@@ -149,11 +149,11 @@
       "timestamp": "2026-03-30 14:21:06"
     },
     {
-      "keyword": "something bad is going to happen",
-      "score": 3700000,
+      "keyword": "alan ritchson",
+      "score": 3900000,
       "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-31 03:43:57"
+      "category": "其他",
+      "timestamp": "2026-03-26 14:16:48"
     },
     {
       "keyword": "brazil vs france",
@@ -198,11 +198,11 @@
       "timestamp": "2026-03-30 08:24:00"
     },
     {
-      "keyword": "israel adesanya",
+      "keyword": "mets",
       "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-30 08:24:00"
+      "timestamp": "2026-03-31 07:57:27"
     },
     {
       "keyword": "hubert davis",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 85,
-    "体育": 52,
+    "其他": 83,
+    "体育": 59,
     "科技/AI": 9,
     "娱乐/生活": 4
   },

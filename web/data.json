@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-30 19:50:09",
+  "last_updated": "2026-03-31 03:43:57",
   "trends": [
     {
       "keyword": "men’s march madness",
-      "score": 30000000,
+      "score": 25000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-25 19:42:30"
@@ -17,28 +17,28 @@
     },
     {
       "keyword": "women’s march madness",
-      "score": 20000000,
+      "score": 15000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-03-24 19:50:28"
     },
     {
       "keyword": "nicholas brendon",
-      "score": 16000000,
+      "score": 15000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-27 19:32:18"
     },
     {
       "keyword": "robert mueller",
-      "score": 16000000,
+      "score": 15000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-28 13:48:10"
     },
     {
       "keyword": "laguardia plane crash",
-      "score": 13000000,
+      "score": 12000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-27 03:44:26"
@@ -66,10 +66,10 @@
     },
     {
       "keyword": "mlb scores",
-      "score": 7100000,
+      "score": 7600000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-03-30 19:50:09"
+      "timestamp": "2026-03-31 03:43:57"
     },
     {
       "keyword": "duke vs uconn",
@@ -86,11 +86,11 @@
       "timestamp": "2026-03-29 19:23:57"
     },
     {
-      "keyword": "joseph duggar",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
+      "keyword": "druski",
+      "score": 6070000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-25 19:42:30"
+      "timestamp": "2026-03-31 03:43:57"
     },
     {
       "keyword": "chuck norris cause of death",
@@ -114,22 +114,22 @@
       "timestamp": "2026-03-28 13:48:10"
     },
     {
-      "keyword": "druski",
-      "score": 5570000,
-      "traffic_numeric": 500000,
+      "keyword": "joseph duggar",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-30 19:50:09"
+      "timestamp": "2026-03-25 19:42:30"
     },
     {
       "keyword": "yankees",
-      "score": 4400000,
+      "score": 4900000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-30 14:21:06"
+      "timestamp": "2026-03-31 03:43:57"
     },
     {
       "keyword": "alan ritchson",
-      "score": 4300000,
+      "score": 4100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-26 14:16:48"
@@ -142,18 +142,18 @@
       "timestamp": "2026-03-30 14:21:06"
     },
     {
-      "keyword": "bachelorette cancelled",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-24 14:10:00"
-    },
-    {
       "keyword": "no kings protest",
       "score": 4000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-30 14:21:06"
+    },
+    {
+      "keyword": "something bad is going to happen",
+      "score": 3700000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-31 03:43:57"
     },
     {
       "keyword": "brazil vs france",
@@ -170,25 +170,11 @@
       "timestamp": "2026-03-30 14:21:06"
     },
     {
-      "keyword": "something bad is going to happen",
-      "score": 3200000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-30 19:50:09"
-    },
-    {
       "keyword": "rangers vs phillies",
       "score": 3000000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-03-30 03:54:23"
-    },
-    {
-      "keyword": "cesar chavez",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-24 14:10:00"
     },
     {
       "keyword": "red sox vs reds",
@@ -210,12 +196,26 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-03-30 08:24:00"
+    },
+    {
+      "keyword": "israel adesanya",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-30 08:24:00"
+    },
+    {
+      "keyword": "hubert davis",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-25 19:42:30"
     }
   ],
   "category_stats": {
     "其他": 85,
     "体育": 52,
-    "科技/AI": 10,
+    "科技/AI": 9,
     "娱乐/生活": 4
   },
   "insights": []

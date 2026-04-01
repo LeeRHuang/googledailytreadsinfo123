@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01 14:19:27",
+  "last_updated": "2026-04-01 19:53:48",
   "trends": [
     {
       "keyword": "tiger woods",
@@ -24,24 +24,10 @@
     },
     {
       "keyword": "druski",
-      "score": 9070000,
+      "score": 9570000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-01 14:19:27"
-    },
-    {
-      "keyword": "nicholas brendon",
-      "score": 9000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-27 19:32:18"
-    },
-    {
-      "keyword": "robert mueller",
-      "score": 9000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-28 13:48:10"
+      "timestamp": "2026-04-01 19:53:48"
     },
     {
       "keyword": "yankees vs giants",
@@ -51,11 +37,32 @@
       "timestamp": "2026-03-29 19:23:57"
     },
     {
+      "keyword": "nicholas brendon",
+      "score": 8000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-27 19:32:18"
+    },
+    {
+      "keyword": "robert mueller",
+      "score": 8000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-28 13:48:10"
+    },
+    {
       "keyword": "miley cyrus",
       "score": 7700000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-29 07:39:11"
+    },
+    {
+      "keyword": "something bad is going to happen",
+      "score": 7200000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-01 19:53:48"
     },
     {
       "keyword": "duke vs uconn",
@@ -72,25 +79,11 @@
       "timestamp": "2026-03-29 19:23:57"
     },
     {
-      "keyword": "something bad is going to happen",
-      "score": 6700000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-04-01 14:19:27"
-    },
-    {
       "keyword": "chuck norris cause of death",
       "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-27 07:52:38"
-    },
-    {
-      "keyword": "laguardia plane crash",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-27 03:44:26"
     },
     {
       "keyword": "diamondbacks vs dodgers",
@@ -100,20 +93,6 @@
       "timestamp": "2026-03-30 03:54:23"
     },
     {
-      "keyword": "sweet 16 bracket",
-      "score": 5700000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-03-28 13:48:10"
-    },
-    {
-      "keyword": "chappell roan",
-      "score": 5600000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-28 19:27:37"
-    },
-    {
       "keyword": "yankees",
       "score": 5400000,
       "traffic_numeric": 500000,
@@ -121,11 +100,32 @@
       "timestamp": "2026-03-31 07:57:27"
     },
     {
-      "keyword": "men’s march madness",
-      "score": 5000000,
+      "keyword": "sweet 16 bracket",
+      "score": 5200000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-03-25 19:42:30"
+      "timestamp": "2026-03-28 13:48:10"
+    },
+    {
+      "keyword": "chappell roan",
+      "score": 5100000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-28 19:27:37"
+    },
+    {
+      "keyword": "artemis ii",
+      "score": 5000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-01 19:53:48"
+    },
+    {
+      "keyword": "laguardia plane crash",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-27 03:44:26"
     },
     {
       "keyword": "no kings protest",
@@ -170,18 +170,18 @@
       "timestamp": "2026-03-28 19:27:37"
     },
     {
-      "keyword": "artemis ii",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-01 14:19:27"
-    },
-    {
       "keyword": "rangers vs phillies",
       "score": 3000000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-03-30 03:54:23"
+    },
+    {
+      "keyword": "final four",
+      "score": 2900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-01 19:53:48"
     },
     {
       "keyword": "red sox vs reds",
@@ -213,9 +213,9 @@
     }
   ],
   "category_stats": {
-    "其他": 92,
-    "体育": 62,
-    "科技/AI": 6,
+    "其他": 88,
+    "体育": 63,
+    "科技/AI": 5,
     "娱乐/生活": 5
   },
   "insights": []

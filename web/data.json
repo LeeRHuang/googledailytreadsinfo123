@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02 14:16:00",
+  "last_updated": "2026-04-02 19:37:07",
   "trends": [
     {
       "keyword": "tiger woods",
@@ -10,17 +10,17 @@
     },
     {
       "keyword": "artemis ii",
-      "score": 15000001,
+      "score": 15000002,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-04-02 14:16:00"
+      "timestamp": "2026-04-02 19:37:07"
     },
     {
       "keyword": "tiger woods crash",
-      "score": 11000000,
+      "score": 13000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-04-01 14:19:27"
+      "timestamp": "2026-04-02 19:37:07"
     },
     {
       "keyword": "mlb scores",
@@ -31,14 +31,14 @@
     },
     {
       "keyword": "druski",
-      "score": 9570000,
+      "score": 9550000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-01 19:53:48"
     },
     {
       "keyword": "yankees vs giants",
-      "score": 7900000,
+      "score": 7400000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-03-29 19:23:57"
@@ -51,18 +51,18 @@
       "timestamp": "2026-04-01 19:53:48"
     },
     {
-      "keyword": "duke vs uconn",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-03-30 19:50:09"
-    },
-    {
       "keyword": "mlb",
       "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-03-29 19:23:57"
+    },
+    {
+      "keyword": "duke vs uconn",
+      "score": 7000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-03-30 19:50:09"
     },
     {
       "keyword": "chuck norris cause of death",
@@ -72,20 +72,6 @@
       "timestamp": "2026-03-27 07:52:38"
     },
     {
-      "keyword": "robert mueller",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-28 13:48:10"
-    },
-    {
-      "keyword": "nicholas brendon",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-27 19:32:18"
-    },
-    {
       "keyword": "diamondbacks vs dodgers",
       "score": 5900000,
       "traffic_numeric": 1000000,
@@ -93,11 +79,32 @@
       "timestamp": "2026-03-30 03:54:23"
     },
     {
+      "keyword": "robert mueller",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-28 13:48:10"
+    },
+    {
+      "keyword": "nicholas brendon",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-27 19:32:18"
+    },
+    {
       "keyword": "miley cyrus",
-      "score": 5700000,
+      "score": 4700000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-29 07:39:11"
+    },
+    {
+      "keyword": "final four",
+      "score": 4600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-02 19:37:07"
     },
     {
       "keyword": "no kings protest",
@@ -107,18 +114,18 @@
       "timestamp": "2026-03-31 14:16:44"
     },
     {
-      "keyword": "yankees",
-      "score": 4400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-31 07:57:27"
-    },
-    {
       "keyword": "super mario galaxy movie",
       "score": 4300000,
       "traffic_numeric": 1000000,
       "category": "娱乐/生活",
       "timestamp": "2026-04-02 08:04:27"
+    },
+    {
+      "keyword": "jaden ivey",
+      "score": 4200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-02 19:37:07"
     },
     {
       "keyword": "mets",
@@ -128,25 +135,11 @@
       "timestamp": "2026-04-01 08:13:27"
     },
     {
-      "keyword": "final four",
-      "score": 4100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-02 14:16:00"
-    },
-    {
       "keyword": "mexico vs portugal",
       "score": 4100000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-03-30 14:21:06"
-    },
-    {
-      "keyword": "chappell roan",
-      "score": 4100000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-28 19:27:37"
     },
     {
       "keyword": "uconn vs duke",
@@ -156,18 +149,11 @@
       "timestamp": "2026-03-31 19:52:26"
     },
     {
-      "keyword": "jaden ivey",
-      "score": 3700000,
+      "keyword": "yankees",
+      "score": 3900000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-02 14:16:00"
-    },
-    {
-      "keyword": "brazil vs france",
-      "score": 3650000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-03-28 19:27:37"
+      "timestamp": "2026-03-31 07:57:27"
     },
     {
       "keyword": "guardians vs mariners",
@@ -175,6 +161,20 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-03-30 14:21:06"
+    },
+    {
+      "keyword": "brazil vs france",
+      "score": 3600000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-03-28 19:27:37"
+    },
+    {
+      "keyword": "chappell roan",
+      "score": 3600000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-28 19:27:37"
     },
     {
       "keyword": "bryon noem",
@@ -191,11 +191,11 @@
       "timestamp": "2026-03-30 03:54:23"
     },
     {
-      "keyword": "laguardia plane crash",
+      "keyword": "oracle layoffs",
       "score": 3000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-27 03:44:26"
+      "timestamp": "2026-04-02 19:37:07"
     },
     {
       "keyword": "red sox vs reds",
@@ -213,9 +213,9 @@
     }
   ],
   "category_stats": {
-    "其他": 99,
-    "体育": 61,
-    "娱乐/生活": 6,
+    "其他": 97,
+    "体育": 59,
+    "娱乐/生活": 7,
     "科技/AI": 4
   },
   "insights": []

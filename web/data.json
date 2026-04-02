@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01 19:53:48",
+  "last_updated": "2026-04-02 03:38:05",
   "trends": [
     {
       "keyword": "tiger woods",
@@ -21,6 +21,13 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-04-01 08:13:27"
+    },
+    {
+      "keyword": "artemis ii",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-04-02 03:38:05"
     },
     {
       "keyword": "druski",
@@ -114,13 +121,6 @@
       "timestamp": "2026-03-28 19:27:37"
     },
     {
-      "keyword": "artemis ii",
-      "score": 5000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-01 19:53:48"
-    },
-    {
       "keyword": "laguardia plane crash",
       "score": 5000000,
       "traffic_numeric": 1000000,
@@ -170,18 +170,25 @@
       "timestamp": "2026-03-28 19:27:37"
     },
     {
+      "keyword": "super mario galaxy movie",
+      "score": 3300000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-04-02 03:38:05"
+    },
+    {
+      "keyword": "final four",
+      "score": 3100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-02 03:38:05"
+    },
+    {
       "keyword": "rangers vs phillies",
       "score": 3000000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-03-30 03:54:23"
-    },
-    {
-      "keyword": "final four",
-      "score": 2900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-01 19:53:48"
     },
     {
       "keyword": "red sox vs reds",
@@ -198,23 +205,16 @@
       "timestamp": "2026-03-30 08:24:00"
     },
     {
-      "keyword": "pirates vs mets",
+      "keyword": "jaden ivey",
       "score": 2700000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-03-30 08:24:00"
-    },
-    {
-      "keyword": "phillies",
-      "score": 2600000,
-      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-01 08:13:27"
+      "timestamp": "2026-04-02 03:38:05"
     }
   ],
   "category_stats": {
-    "其他": 88,
-    "体育": 63,
+    "其他": 93,
+    "体育": 64,
     "科技/AI": 5,
     "娱乐/生活": 5
   },

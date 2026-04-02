@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02 03:38:05",
+  "last_updated": "2026-04-02 08:04:27",
   "trends": [
     {
       "keyword": "tiger woods",
@@ -7,6 +7,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-30 19:50:09"
+    },
+    {
+      "keyword": "artemis ii",
+      "score": 15000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-04-02 08:04:27"
     },
     {
       "keyword": "tiger woods crash",
@@ -23,13 +30,6 @@
       "timestamp": "2026-04-01 08:13:27"
     },
     {
-      "keyword": "artemis ii",
-      "score": 10000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-04-02 03:38:05"
-    },
-    {
       "keyword": "druski",
       "score": 9570000,
       "traffic_numeric": 500000,
@@ -38,31 +38,10 @@
     },
     {
       "keyword": "yankees vs giants",
-      "score": 8300000,
+      "score": 7900000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-03-29 19:23:57"
-    },
-    {
-      "keyword": "nicholas brendon",
-      "score": 8000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-27 19:32:18"
-    },
-    {
-      "keyword": "robert mueller",
-      "score": 8000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-28 13:48:10"
-    },
-    {
-      "keyword": "miley cyrus",
-      "score": 7700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-29 07:39:11"
     },
     {
       "keyword": "something bad is going to happen",
@@ -72,6 +51,13 @@
       "timestamp": "2026-04-01 19:53:48"
     },
     {
+      "keyword": "mlb",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-03-29 19:23:57"
+    },
+    {
       "keyword": "duke vs uconn",
       "score": 7000000,
       "traffic_numeric": 2000000,
@@ -79,11 +65,18 @@
       "timestamp": "2026-03-30 19:50:09"
     },
     {
-      "keyword": "mlb",
-      "score": 7000000,
+      "keyword": "nicholas brendon",
+      "score": 6000000,
       "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-03-29 19:23:57"
+      "category": "其他",
+      "timestamp": "2026-03-27 19:32:18"
+    },
+    {
+      "keyword": "robert mueller",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-28 13:48:10"
     },
     {
       "keyword": "chuck norris cause of death",
@@ -100,32 +93,11 @@
       "timestamp": "2026-03-30 03:54:23"
     },
     {
-      "keyword": "yankees",
-      "score": 5400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-31 07:57:27"
-    },
-    {
-      "keyword": "sweet 16 bracket",
-      "score": 5200000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-03-28 13:48:10"
-    },
-    {
-      "keyword": "chappell roan",
-      "score": 5100000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-03-28 19:27:37"
-    },
-    {
-      "keyword": "laguardia plane crash",
-      "score": 5000000,
+      "keyword": "miley cyrus",
+      "score": 5700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-03-27 03:44:26"
+      "timestamp": "2026-03-29 07:39:11"
     },
     {
       "keyword": "no kings protest",
@@ -135,11 +107,32 @@
       "timestamp": "2026-03-31 14:16:44"
     },
     {
+      "keyword": "yankees",
+      "score": 4400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-31 07:57:27"
+    },
+    {
+      "keyword": "super mario galaxy movie",
+      "score": 4300000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-04-02 08:04:27"
+    },
+    {
       "keyword": "mets",
       "score": 4200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-01 08:13:27"
+    },
+    {
+      "keyword": "chappell roan",
+      "score": 4100000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-03-28 19:27:37"
     },
     {
       "keyword": "mexico vs portugal",
@@ -156,13 +149,6 @@
       "timestamp": "2026-03-31 19:52:26"
     },
     {
-      "keyword": "guardians vs mariners",
-      "score": 3650000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-03-30 14:21:06"
-    },
-    {
       "keyword": "brazil vs france",
       "score": 3650000,
       "traffic_numeric": 500000,
@@ -170,18 +156,25 @@
       "timestamp": "2026-03-28 19:27:37"
     },
     {
-      "keyword": "super mario galaxy movie",
-      "score": 3300000,
-      "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-04-02 03:38:05"
+      "keyword": "guardians vs mariners",
+      "score": 3650000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-03-30 14:21:06"
     },
     {
       "keyword": "final four",
-      "score": 3100000,
+      "score": 3600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-02 03:38:05"
+      "timestamp": "2026-04-02 08:04:27"
+    },
+    {
+      "keyword": "jaden ivey",
+      "score": 3200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-02 08:04:27"
     },
     {
       "keyword": "rangers vs phillies",
@@ -189,6 +182,13 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-03-30 03:54:23"
+    },
+    {
+      "keyword": "laguardia plane crash",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-27 03:44:26"
     },
     {
       "keyword": "red sox vs reds",
@@ -205,18 +205,18 @@
       "timestamp": "2026-03-30 08:24:00"
     },
     {
-      "keyword": "jaden ivey",
+      "keyword": "pirates vs mets",
       "score": 2700000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-02 03:38:05"
+      "category": "体育",
+      "timestamp": "2026-03-30 08:24:00"
     }
   ],
   "category_stats": {
-    "其他": 93,
-    "体育": 64,
-    "科技/AI": 5,
-    "娱乐/生活": 5
+    "其他": 91,
+    "体育": 61,
+    "娱乐/生活": 6,
+    "科技/AI": 4
   },
   "insights": []
 }

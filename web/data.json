@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03 07:59:34",
+  "last_updated": "2026-04-03 14:01:08",
   "trends": [
     {
       "keyword": "tiger woods",
@@ -10,17 +10,17 @@
     },
     {
       "keyword": "tiger woods crash",
-      "score": 17000000,
+      "score": 19000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-04-03 07:59:34"
+      "timestamp": "2026-04-03 14:01:07"
     },
     {
       "keyword": "artemis ii",
-      "score": 15000004,
+      "score": 15000005,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-04-03 07:59:34"
+      "timestamp": "2026-04-03 14:01:07"
     },
     {
       "keyword": "mlb scores",
@@ -51,11 +51,25 @@
       "timestamp": "2026-03-30 19:50:09"
     },
     {
+      "keyword": "pam bondi",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-03 14:01:07"
+    },
+    {
       "keyword": "yankees vs giants",
       "score": 5900000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-03-29 19:23:57"
+    },
+    {
+      "keyword": "jaden ivey",
+      "score": 5700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-03 14:01:07"
     },
     {
       "keyword": "mlb",
@@ -65,18 +79,11 @@
       "timestamp": "2026-03-29 19:23:57"
     },
     {
-      "keyword": "jaden ivey",
+      "keyword": "final four",
       "score": 5200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-03 07:59:34"
-    },
-    {
-      "keyword": "final four",
-      "score": 5000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-03 07:59:34"
+      "timestamp": "2026-04-03 14:01:07"
     },
     {
       "keyword": "diamondbacks vs dodgers",
@@ -121,11 +128,11 @@
       "timestamp": "2026-03-31 19:52:26"
     },
     {
-      "keyword": "pam bondi",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
+      "keyword": "oracle layoffs",
+      "score": 3900000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-03 07:59:34"
+      "timestamp": "2026-04-03 14:01:07"
     },
     {
       "keyword": "yankees",
@@ -133,13 +140,6 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-31 07:57:27"
-    },
-    {
-      "keyword": "oracle layoffs",
-      "score": 3700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-03 07:59:34"
     },
     {
       "keyword": "bryon noem",
@@ -163,18 +163,25 @@
       "timestamp": "2026-03-30 14:21:06"
     },
     {
+      "keyword": "full moon april 2026",
+      "score": 3200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-03 14:01:07"
+    },
+    {
+      "keyword": "kristi noem husband",
+      "score": 3050000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-03 14:01:07"
+    },
+    {
       "keyword": "robert mueller",
       "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-03-28 13:48:10"
-    },
-    {
-      "keyword": "full moon april 2026",
-      "score": 2700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-03 07:59:34"
     },
     {
       "keyword": "angels vs astros",
@@ -184,6 +191,13 @@
       "timestamp": "2026-03-30 08:24:00"
     },
     {
+      "keyword": "yankees vs mariners",
+      "score": 2600000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-04-03 14:01:07"
+    },
+    {
       "keyword": "rangers vs phillies",
       "score": 2600000,
       "traffic_numeric": 500000,
@@ -191,32 +205,19 @@
       "timestamp": "2026-03-30 03:54:23"
     },
     {
-      "keyword": "israel adesanya",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-30 08:24:00"
-    },
-    {
       "keyword": "phillies",
       "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-01 08:13:27"
-    },
-    {
-      "keyword": "brazil vs france",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-03-28 19:27:37"
     }
   ],
   "category_stats": {
-    "其他": 97,
+    "其他": 98,
     "体育": 57,
     "娱乐/生活": 8,
-    "科技/AI": 5
+    "科技/AI": 5,
+    "金融/商业": 1
   },
   "insights": []
 }

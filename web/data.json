@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03 14:01:08",
+  "last_updated": "2026-04-03 19:37:25",
   "trends": [
     {
       "keyword": "tiger woods",
@@ -17,31 +17,31 @@
     },
     {
       "keyword": "artemis ii",
-      "score": 15000005,
+      "score": 15000006,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-04-03 14:01:07"
+      "timestamp": "2026-04-03 19:37:25"
     },
     {
       "keyword": "mlb scores",
-      "score": 9500000,
+      "score": 9300000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-04-01 08:13:27"
     },
     {
       "keyword": "druski",
-      "score": 9200000,
+      "score": 8800000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-01 19:53:48"
     },
     {
-      "keyword": "something bad is going to happen",
-      "score": 7000000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-04-01 19:53:48"
+      "keyword": "pam bondi",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-03 19:37:25"
     },
     {
       "keyword": "duke vs uconn",
@@ -51,28 +51,21 @@
       "timestamp": "2026-03-30 19:50:09"
     },
     {
-      "keyword": "pam bondi",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-03 14:01:07"
-    },
-    {
-      "keyword": "yankees vs giants",
-      "score": 5900000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-03-29 19:23:57"
+      "keyword": "something bad is going to happen",
+      "score": 6900000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-01 19:53:48"
     },
     {
       "keyword": "jaden ivey",
-      "score": 5700000,
+      "score": 6200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-03 14:01:07"
+      "timestamp": "2026-04-03 19:37:25"
     },
     {
-      "keyword": "mlb",
+      "keyword": "yankees vs giants",
       "score": 5500000,
       "traffic_numeric": 1000000,
       "category": "体育",
@@ -80,17 +73,17 @@
     },
     {
       "keyword": "final four",
-      "score": 5200000,
+      "score": 5400000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-03 14:01:07"
+      "timestamp": "2026-04-03 19:37:25"
     },
     {
-      "keyword": "diamondbacks vs dodgers",
-      "score": 4900000,
+      "keyword": "mlb",
+      "score": 4500000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-03-30 03:54:23"
+      "timestamp": "2026-03-29 19:23:57"
     },
     {
       "keyword": "no kings protest",
@@ -114,11 +107,25 @@
       "timestamp": "2026-04-01 08:13:27"
     },
     {
+      "keyword": "oracle layoffs",
+      "score": 4100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-03 19:37:25"
+    },
+    {
       "keyword": "mexico vs portugal",
       "score": 4100000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-03-30 14:21:06"
+    },
+    {
+      "keyword": "kristi noem husband",
+      "score": 4050000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-03 19:37:25"
     },
     {
       "keyword": "uconn vs duke",
@@ -128,18 +135,18 @@
       "timestamp": "2026-03-31 19:52:26"
     },
     {
-      "keyword": "oracle layoffs",
+      "keyword": "diamondbacks vs dodgers",
       "score": 3900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-03 14:01:07"
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-03-30 03:54:23"
     },
     {
-      "keyword": "yankees",
-      "score": 3900000,
+      "keyword": "full moon april 2026",
+      "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-31 07:57:27"
+      "timestamp": "2026-04-03 19:37:25"
     },
     {
       "keyword": "bryon noem",
@@ -149,32 +156,18 @@
       "timestamp": "2026-04-02 14:16:00"
     },
     {
-      "keyword": "miley cyrus",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-03-29 07:39:11"
-    },
-    {
       "keyword": "guardians vs mariners",
-      "score": 3500000,
+      "score": 3400000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-03-30 14:21:06"
     },
     {
-      "keyword": "full moon april 2026",
+      "keyword": "yankees",
       "score": 3200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-03 14:01:07"
-    },
-    {
-      "keyword": "kristi noem husband",
-      "score": 3050000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-03 14:01:07"
+      "timestamp": "2026-03-31 07:57:27"
     },
     {
       "keyword": "robert mueller",
@@ -184,11 +177,11 @@
       "timestamp": "2026-03-28 13:48:10"
     },
     {
-      "keyword": "angels vs astros",
-      "score": 2600000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-03-30 08:24:00"
+      "keyword": "miley cyrus",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-29 07:39:11"
     },
     {
       "keyword": "yankees vs mariners",
@@ -198,26 +191,39 @@
       "timestamp": "2026-04-03 14:01:07"
     },
     {
-      "keyword": "rangers vs phillies",
-      "score": 2600000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-03-30 03:54:23"
-    },
-    {
       "keyword": "phillies",
       "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-01 08:13:27"
+    },
+    {
+      "keyword": "israel adesanya",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-30 08:24:00"
+    },
+    {
+      "keyword": "guardians vs dodgers",
+      "score": 2400000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-04-03 14:01:07"
     }
   ],
   "category_stats": {
-    "其他": 98,
-    "体育": 57,
+    "其他": 94,
+    "体育": 58,
     "娱乐/生活": 8,
     "科技/AI": 5,
     "金融/商业": 1
   },
-  "insights": []
+  "insights": [
+    {
+      "title": "季节性效率/计划应用",
+      "context": "新年计划相关关键词搜索量激增。",
+      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
+    }
+  ]
 }

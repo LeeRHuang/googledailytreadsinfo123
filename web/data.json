@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04 07:47:52",
+  "last_updated": "2026-04-04 13:40:39",
   "trends": [
     {
       "keyword": "tiger woods",
@@ -17,17 +17,17 @@
     },
     {
       "keyword": "artemis ii",
-      "score": 15000008,
+      "score": 15000009,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-04-04 07:47:52"
+      "timestamp": "2026-04-04 13:40:39"
     },
     {
       "keyword": "pam bondi",
-      "score": 12000000,
+      "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-04-04 07:47:52"
+      "timestamp": "2026-04-04 13:40:39"
     },
     {
       "keyword": "mlb scores",
@@ -45,10 +45,17 @@
     },
     {
       "keyword": "jaden ivey",
-      "score": 7200000,
+      "score": 7700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-04 07:47:52"
+      "timestamp": "2026-04-04 13:40:39"
+    },
+    {
+      "keyword": "kristi noem husband",
+      "score": 7050000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-04 13:40:39"
     },
     {
       "keyword": "duke vs uconn",
@@ -65,13 +72,6 @@
       "timestamp": "2026-04-01 19:53:48"
     },
     {
-      "keyword": "kristi noem husband",
-      "score": 6050000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-04 07:47:52"
-    },
-    {
       "keyword": "final four",
       "score": 5400000,
       "traffic_numeric": 500000,
@@ -80,10 +80,10 @@
     },
     {
       "keyword": "oracle layoffs",
-      "score": 4500000,
+      "score": 4700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-04 07:47:52"
+      "timestamp": "2026-04-04 13:40:39"
     },
     {
       "keyword": "no kings protest",
@@ -177,18 +177,18 @@
       "timestamp": "2026-03-30 03:54:23"
     },
     {
+      "keyword": "pooh shiesty",
+      "score": 2700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-04 13:40:39"
+    },
+    {
       "keyword": "yankees vs mariners",
       "score": 2600000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-04-03 14:01:07"
-    },
-    {
-      "keyword": "phillies",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-01 08:13:27"
     },
     {
       "keyword": "israel adesanya",
@@ -198,23 +198,23 @@
       "timestamp": "2026-03-30 08:24:00"
     },
     {
+      "keyword": "phillies",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-01 08:13:27"
+    },
+    {
       "keyword": "guardians vs dodgers",
       "score": 2400000,
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-04-03 14:01:07"
-    },
-    {
-      "keyword": "pooh shiesty",
-      "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-04 07:47:52"
     }
   ],
   "category_stats": {
-    "其他": 97,
-    "体育": 60,
+    "其他": 99,
+    "体育": 62,
     "娱乐/生活": 8,
     "科技/AI": 5,
     "金融/商业": 1

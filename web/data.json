@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03 19:37:25",
+  "last_updated": "2026-04-04 03:30:17",
   "trends": [
     {
       "keyword": "tiger woods",
@@ -17,10 +17,17 @@
     },
     {
       "keyword": "artemis ii",
-      "score": 15000006,
+      "score": 15000007,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-04-03 19:37:25"
+      "timestamp": "2026-04-04 03:30:17"
+    },
+    {
+      "keyword": "pam bondi",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-04 03:30:17"
     },
     {
       "keyword": "mlb scores",
@@ -35,13 +42,6 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-01 19:53:48"
-    },
-    {
-      "keyword": "pam bondi",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-03 19:37:25"
     },
     {
       "keyword": "duke vs uconn",
@@ -59,10 +59,10 @@
     },
     {
       "keyword": "jaden ivey",
-      "score": 6200000,
+      "score": 6700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-03 19:37:25"
+      "timestamp": "2026-04-04 03:30:17"
     },
     {
       "keyword": "yankees vs giants",
@@ -77,6 +77,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-03 19:37:25"
+    },
+    {
+      "keyword": "kristi noem husband",
+      "score": 5050000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-04 03:30:17"
     },
     {
       "keyword": "mlb",
@@ -100,6 +107,13 @@
       "timestamp": "2026-04-02 08:04:27"
     },
     {
+      "keyword": "oracle layoffs",
+      "score": 4300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-04 03:30:17"
+    },
+    {
       "keyword": "mets",
       "score": 4200000,
       "traffic_numeric": 500000,
@@ -107,25 +121,11 @@
       "timestamp": "2026-04-01 08:13:27"
     },
     {
-      "keyword": "oracle layoffs",
-      "score": 4100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-03 19:37:25"
-    },
-    {
       "keyword": "mexico vs portugal",
       "score": 4100000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-03-30 14:21:06"
-    },
-    {
-      "keyword": "kristi noem husband",
-      "score": 4050000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-03 19:37:25"
     },
     {
       "keyword": "uconn vs duke",
@@ -170,6 +170,13 @@
       "timestamp": "2026-03-31 07:57:27"
     },
     {
+      "keyword": "miley cyrus",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-03-29 07:39:11"
+    },
+    {
       "keyword": "robert mueller",
       "score": 3000000,
       "traffic_numeric": 1000000,
@@ -177,11 +184,11 @@
       "timestamp": "2026-03-28 13:48:10"
     },
     {
-      "keyword": "miley cyrus",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
+      "keyword": "lamar odom",
+      "score": 2700000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-03-29 07:39:11"
+      "timestamp": "2026-04-04 03:30:17"
     },
     {
       "keyword": "yankees vs mariners",
@@ -203,18 +210,11 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-03-30 08:24:00"
-    },
-    {
-      "keyword": "guardians vs dodgers",
-      "score": 2400000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-04-03 14:01:07"
     }
   ],
   "category_stats": {
-    "其他": 94,
-    "体育": 58,
+    "其他": 97,
+    "体育": 61,
     "娱乐/生活": 8,
     "科技/AI": 5,
     "金融/商业": 1

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-05 07:51:58",
+  "last_updated": "2026-04-05 13:55:21",
   "trends": [
     {
       "keyword": "pam bondi",
-      "score": 20000000,
+      "score": 21000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-04-05 07:51:58"
+      "timestamp": "2026-04-05 13:55:21"
     },
     {
       "keyword": "tiger woods crash",
@@ -17,24 +17,24 @@
     },
     {
       "keyword": "artemis ii",
-      "score": 15000012,
+      "score": 15000013,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-04-05 07:51:58"
-    },
-    {
-      "keyword": "tiger woods",
-      "score": 12000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-30 19:50:09"
+      "timestamp": "2026-04-05 13:55:21"
     },
     {
       "keyword": "kristi noem husband",
-      "score": 10050000,
+      "score": 11050000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-05 07:51:58"
+      "timestamp": "2026-04-05 13:55:21"
+    },
+    {
+      "keyword": "tiger woods",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-03-30 19:50:09"
     },
     {
       "keyword": "jaden ivey",
@@ -44,20 +44,6 @@
       "timestamp": "2026-04-04 19:26:02"
     },
     {
-      "keyword": "mlb scores",
-      "score": 7200000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-04-01 08:13:27"
-    },
-    {
-      "keyword": "druski",
-      "score": 7000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-01 19:53:48"
-    },
-    {
       "keyword": "duke vs uconn",
       "score": 7000000,
       "traffic_numeric": 2000000,
@@ -65,8 +51,22 @@
       "timestamp": "2026-03-30 19:50:09"
     },
     {
+      "keyword": "mlb scores",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-04-01 08:13:27"
+    },
+    {
+      "keyword": "druski",
+      "score": 6500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-01 19:53:48"
+    },
+    {
       "keyword": "something bad is going to happen",
-      "score": 5800000,
+      "score": 5600000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-04-01 19:53:48"
@@ -86,6 +86,13 @@
       "timestamp": "2026-04-05 07:51:58"
     },
     {
+      "keyword": "michigan vs arizona",
+      "score": 5000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-04-05 13:55:21"
+    },
+    {
       "keyword": "oracle layoffs",
       "score": 4900000,
       "traffic_numeric": 500000,
@@ -93,18 +100,18 @@
       "timestamp": "2026-04-04 19:26:02"
     },
     {
+      "keyword": "pooh shiesty",
+      "score": 4700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-05 13:55:21"
+    },
+    {
       "keyword": "super mario galaxy movie",
       "score": 4300000,
       "traffic_numeric": 1000000,
       "category": "娱乐/生活",
       "timestamp": "2026-04-02 08:04:27"
-    },
-    {
-      "keyword": "pooh shiesty",
-      "score": 4200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-05 07:51:58"
     },
     {
       "keyword": "uconn vs duke",
@@ -121,6 +128,13 @@
       "timestamp": "2026-04-03 19:37:25"
     },
     {
+      "keyword": "illinois vs uconn",
+      "score": 3500000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-04-05 13:55:21"
+    },
+    {
       "keyword": "bryon noem",
       "score": 3500000,
       "traffic_numeric": 1000000,
@@ -129,45 +143,10 @@
     },
     {
       "keyword": "mets",
-      "score": 3300000,
+      "score": 3100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-01 08:13:27"
-    },
-    {
-      "keyword": "no kings protest",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-31 14:16:44"
-    },
-    {
-      "keyword": "illinois vs uconn",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-04-05 07:51:58"
-    },
-    {
-      "keyword": "michigan vs arizona",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-04-05 07:51:58"
-    },
-    {
-      "keyword": "mexico vs portugal",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-03-30 14:21:06"
-    },
-    {
-      "keyword": "yankees vs mariners",
-      "score": 2600000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-04-03 14:01:07"
     },
     {
       "keyword": "backrooms movie",
@@ -177,11 +156,11 @@
       "timestamp": "2026-04-05 07:51:58"
     },
     {
-      "keyword": "phillies",
-      "score": 2500000,
+      "keyword": "yankees vs mariners",
+      "score": 2600000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-01 08:13:27"
+      "category": "体育",
+      "timestamp": "2026-04-03 14:01:07"
     },
     {
       "keyword": "uconn vs south carolina",
@@ -191,6 +170,20 @@
       "timestamp": "2026-04-05 03:57:53"
     },
     {
+      "keyword": "phillies",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-01 08:13:27"
+    },
+    {
+      "keyword": "no kings protest",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-31 14:16:44"
+    },
+    {
       "keyword": "guardians vs dodgers",
       "score": 2400000,
       "traffic_numeric": 200000,
@@ -198,23 +191,30 @@
       "timestamp": "2026-04-03 14:01:07"
     },
     {
+      "keyword": "geno auriemma",
+      "score": 2300000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-05 13:55:21"
+    },
+    {
+      "keyword": "the drama",
+      "score": 2100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-05 13:55:21"
+    },
+    {
       "keyword": "lakers vs thunder",
       "score": 2100000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-04-04 07:47:52"
-    },
-    {
-      "keyword": "good friday",
-      "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-04 13:40:39"
     }
   ],
   "category_stats": {
-    "其他": 104,
-    "体育": 64,
+    "其他": 107,
+    "体育": 62,
     "娱乐/生活": 8,
     "科技/AI": 5,
     "金融/商业": 1

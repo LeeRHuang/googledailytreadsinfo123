@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-04-05 03:57:53",
+  "last_updated": "2026-04-05 07:51:58",
   "trends": [
+    {
+      "keyword": "pam bondi",
+      "score": 20000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-05 07:51:58"
+    },
     {
       "keyword": "tiger woods crash",
       "score": 19000000,
@@ -9,32 +16,25 @@
       "timestamp": "2026-04-03 14:01:07"
     },
     {
-      "keyword": "pam bondi",
-      "score": 18000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-05 03:57:53"
-    },
-    {
       "keyword": "artemis ii",
-      "score": 15000011,
+      "score": 15000012,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-04-05 03:57:53"
+      "timestamp": "2026-04-05 07:51:58"
     },
     {
       "keyword": "tiger woods",
-      "score": 14000000,
+      "score": 12000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-03-30 19:50:09"
     },
     {
       "keyword": "kristi noem husband",
-      "score": 9050000,
+      "score": 10050000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-05 03:57:53"
+      "timestamp": "2026-04-05 07:51:58"
     },
     {
       "keyword": "jaden ivey",
@@ -45,14 +45,14 @@
     },
     {
       "keyword": "mlb scores",
-      "score": 7700000,
+      "score": 7200000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-04-01 08:13:27"
     },
     {
       "keyword": "druski",
-      "score": 7500000,
+      "score": 7000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-01 19:53:48"
@@ -66,7 +66,7 @@
     },
     {
       "keyword": "something bad is going to happen",
-      "score": 6000000,
+      "score": 5800000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-04-01 19:53:48"
@@ -77,6 +77,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-03 19:37:25"
+    },
+    {
+      "keyword": "lamar odom",
+      "score": 5200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-05 07:51:58"
     },
     {
       "keyword": "oracle layoffs",
@@ -93,11 +100,11 @@
       "timestamp": "2026-04-02 08:04:27"
     },
     {
-      "keyword": "lamar odom",
+      "keyword": "pooh shiesty",
       "score": 4200000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-05 03:57:53"
+      "timestamp": "2026-04-05 07:51:58"
     },
     {
       "keyword": "uconn vs duke",
@@ -107,32 +114,11 @@
       "timestamp": "2026-03-31 19:52:26"
     },
     {
-      "keyword": "pooh shiesty",
-      "score": 3700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-05 03:57:53"
-    },
-    {
       "keyword": "full moon april 2026",
       "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-03 19:37:25"
-    },
-    {
-      "keyword": "mexico vs portugal",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-03-30 14:21:06"
-    },
-    {
-      "keyword": "no kings protest",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-31 14:16:44"
     },
     {
       "keyword": "bryon noem",
@@ -149,11 +135,46 @@
       "timestamp": "2026-04-01 08:13:27"
     },
     {
+      "keyword": "no kings protest",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-03-31 14:16:44"
+    },
+    {
+      "keyword": "illinois vs uconn",
+      "score": 3000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-04-05 07:51:58"
+    },
+    {
+      "keyword": "michigan vs arizona",
+      "score": 3000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-04-05 07:51:58"
+    },
+    {
+      "keyword": "mexico vs portugal",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-03-30 14:21:06"
+    },
+    {
       "keyword": "yankees vs mariners",
       "score": 2600000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-04-03 14:01:07"
+    },
+    {
+      "keyword": "backrooms movie",
+      "score": 2600000,
+      "traffic_numeric": 200000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-04-05 07:51:58"
     },
     {
       "keyword": "phillies",
@@ -170,13 +191,6 @@
       "timestamp": "2026-04-05 03:57:53"
     },
     {
-      "keyword": "backrooms movie",
-      "score": 2400000,
-      "traffic_numeric": 200000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-04-05 03:57:53"
-    },
-    {
       "keyword": "guardians vs dodgers",
       "score": 2400000,
       "traffic_numeric": 200000,
@@ -184,18 +198,11 @@
       "timestamp": "2026-04-03 14:01:07"
     },
     {
-      "keyword": "guardians vs mariners",
-      "score": 2200000,
+      "keyword": "lakers vs thunder",
+      "score": 2100000,
       "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-03-30 14:21:06"
-    },
-    {
-      "keyword": "yankees",
-      "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-03-31 07:57:27"
+      "timestamp": "2026-04-04 07:47:52"
     },
     {
       "keyword": "good friday",
@@ -203,20 +210,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-04 13:40:39"
-    },
-    {
-      "keyword": "lakers vs thunder",
-      "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-04-04 07:47:52"
     }
   ],
   "category_stats": {
     "其他": 104,
     "体育": 64,
     "娱乐/生活": 8,
-    "科技/AI": 4,
+    "科技/AI": 5,
     "金融/商业": 1
   },
   "insights": [

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-05 19:37:47",
+  "last_updated": "2026-04-06 03:53:47",
   "trends": [
     {
       "keyword": "pam bondi",
-      "score": 22000000,
+      "score": 23000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-04-05 19:37:47"
+      "timestamp": "2026-04-06 03:53:47"
     },
     {
       "keyword": "tiger woods crash",
@@ -24,10 +24,17 @@
     },
     {
       "keyword": "kristi noem husband",
-      "score": 12050000,
+      "score": 13050000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-05 19:37:47"
+      "timestamp": "2026-04-06 03:53:47"
+    },
+    {
+      "keyword": "michigan vs arizona",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-04-06 03:53:47"
     },
     {
       "keyword": "jaden ivey",
@@ -51,11 +58,11 @@
       "timestamp": "2026-03-30 19:50:09"
     },
     {
-      "keyword": "michigan vs arizona",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-04-05 19:37:47"
+      "keyword": "nasa",
+      "score": 6100000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-04-06 03:53:47"
     },
     {
       "keyword": "mlb scores",
@@ -72,11 +79,18 @@
       "timestamp": "2026-04-01 19:53:48"
     },
     {
-      "keyword": "nasa",
-      "score": 5600000,
-      "traffic_numeric": 5000000,
+      "keyword": "is walmart open on easter",
+      "score": 5700000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-04-05 19:37:47"
+      "timestamp": "2026-04-06 03:53:47"
+    },
+    {
+      "keyword": "pooh shiesty",
+      "score": 5700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-06 03:53:47"
     },
     {
       "keyword": "final four",
@@ -93,18 +107,18 @@
       "timestamp": "2026-04-01 19:53:48"
     },
     {
-      "keyword": "pooh shiesty",
-      "score": 5200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-05 19:37:47"
-    },
-    {
       "keyword": "lamar odom",
       "score": 5200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-05 07:51:58"
+    },
+    {
+      "keyword": "artemis 2 tracker",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-04-06 03:53:47"
     },
     {
       "keyword": "oracle layoffs",
@@ -128,18 +142,18 @@
       "timestamp": "2026-03-31 19:52:26"
     },
     {
-      "keyword": "is walmart open on easter",
-      "score": 3700000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-05 19:37:47"
-    },
-    {
       "keyword": "full moon april 2026",
       "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-03 19:37:25"
+    },
+    {
+      "keyword": "the drama",
+      "score": 3600000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-06 03:53:47"
     },
     {
       "keyword": "bryon noem",
@@ -156,18 +170,25 @@
       "timestamp": "2026-04-05 13:55:21"
     },
     {
-      "keyword": "the drama",
-      "score": 3100000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-05 19:37:47"
-    },
-    {
       "keyword": "mets",
       "score": 2900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-01 08:13:27"
+    },
+    {
+      "keyword": "backrooms movie",
+      "score": 2800000,
+      "traffic_numeric": 200000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-04-06 03:53:47"
+    },
+    {
+      "keyword": "donald trump",
+      "score": 2700000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-06 03:53:47"
     },
     {
       "keyword": "yankees vs mariners",
@@ -177,20 +198,6 @@
       "timestamp": "2026-04-03 14:01:07"
     },
     {
-      "keyword": "backrooms movie",
-      "score": 2600000,
-      "traffic_numeric": 200000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-04-05 07:51:58"
-    },
-    {
-      "keyword": "phillies",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-01 08:13:27"
-    },
-    {
       "keyword": "uconn vs south carolina",
       "score": 2500000,
       "traffic_numeric": 500000,
@@ -198,32 +205,19 @@
       "timestamp": "2026-04-05 03:57:53"
     },
     {
-      "keyword": "guardians vs dodgers",
-      "score": 2400000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-04-03 14:01:07"
-    },
-    {
-      "keyword": "geno auriemma",
-      "score": 2300000,
-      "traffic_numeric": 1000000,
+      "keyword": "phillies",
+      "score": 2500000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-05 13:55:21"
+      "timestamp": "2026-04-01 08:13:27"
     }
   ],
   "category_stats": {
-    "其他": 107,
-    "体育": 59,
+    "其他": 112,
+    "体育": 62,
     "娱乐/生活": 8,
     "科技/AI": 6,
     "金融/商业": 1
   },
-  "insights": [
-    {
-      "title": "季节性效率/计划应用",
-      "context": "新年计划相关关键词搜索量激增。",
-      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
-    }
-  ]
+  "insights": []
 }

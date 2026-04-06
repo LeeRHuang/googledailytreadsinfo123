@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-06 14:09:14",
+  "last_updated": "2026-04-06 19:43:59",
   "trends": [
     {
       "keyword": "pam bondi",
-      "score": 25000000,
+      "score": 26000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-04-06 14:09:14"
+      "timestamp": "2026-04-06 19:43:59"
     },
     {
       "keyword": "tiger woods crash",
@@ -14,6 +14,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-04-03 14:01:07"
+    },
+    {
+      "keyword": "nasa",
+      "score": 16600000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-04-06 19:43:59"
     },
     {
       "keyword": "kristi noem husband",
@@ -30,18 +37,11 @@
       "timestamp": "2026-04-05 13:55:21"
     },
     {
-      "keyword": "nasa",
-      "score": 11600000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-04-06 14:09:14"
-    },
-    {
       "keyword": "michigan vs arizona",
-      "score": 11000000,
+      "score": 13000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-04-06 14:09:14"
+      "timestamp": "2026-04-06 19:43:59"
     },
     {
       "keyword": "jaden ivey",
@@ -51,16 +51,16 @@
       "timestamp": "2026-04-04 19:26:02"
     },
     {
+      "keyword": "pooh shiesty",
+      "score": 7200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-06 19:43:59"
+    },
+    {
       "keyword": "artemis 2 tracker",
       "score": 7000000,
       "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-04-06 14:09:14"
-    },
-    {
-      "keyword": "pooh shiesty",
-      "score": 6700000,
-      "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-06 14:09:14"
     },
@@ -72,13 +72,6 @@
       "timestamp": "2026-04-06 03:53:47"
     },
     {
-      "keyword": "final four",
-      "score": 5200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-03 19:37:25"
-    },
-    {
       "keyword": "lamar odom",
       "score": 5200000,
       "traffic_numeric": 1000000,
@@ -86,25 +79,18 @@
       "timestamp": "2026-04-05 07:51:58"
     },
     {
-      "keyword": "something bad is going to happen",
-      "score": 5000000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-04-01 19:53:48"
+      "keyword": "the drama",
+      "score": 5100000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-06 19:43:59"
     },
     {
-      "keyword": "druski",
+      "keyword": "final four",
       "score": 5000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-01 19:53:48"
-    },
-    {
-      "keyword": "mlb scores",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-04-01 08:13:27"
+      "timestamp": "2026-04-03 19:37:25"
     },
     {
       "keyword": "oracle layoffs",
@@ -121,11 +107,25 @@
       "timestamp": "2026-04-06 08:25:51"
     },
     {
-      "keyword": "the drama",
-      "score": 4600000,
+      "keyword": "something bad is going to happen",
+      "score": 4500000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-01 19:53:48"
+    },
+    {
+      "keyword": "bryon noem",
+      "score": 4500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-06 14:09:14"
+      "timestamp": "2026-04-06 19:43:59"
+    },
+    {
+      "keyword": "druski",
+      "score": 4500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-01 19:53:48"
     },
     {
       "keyword": "super mario galaxy movie",
@@ -135,13 +135,6 @@
       "timestamp": "2026-04-02 08:04:27"
     },
     {
-      "keyword": "tiger woods",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-03-30 19:50:09"
-    },
-    {
       "keyword": "uconn vs duke",
       "score": 4000000,
       "traffic_numeric": 2000000,
@@ -149,11 +142,11 @@
       "timestamp": "2026-03-31 19:52:26"
     },
     {
-      "keyword": "duke vs uconn",
+      "keyword": "mlb scores",
       "score": 4000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-03-30 19:50:09"
+      "timestamp": "2026-04-01 08:13:27"
     },
     {
       "keyword": "full moon april 2026",
@@ -163,25 +156,11 @@
       "timestamp": "2026-04-03 19:37:25"
     },
     {
-      "keyword": "bryon noem",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-02 14:16:00"
-    },
-    {
       "keyword": "illinois vs uconn",
       "score": 3500000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-04-05 13:55:21"
-    },
-    {
-      "keyword": "backrooms movie",
-      "score": 3000000,
-      "traffic_numeric": 200000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-04-06 08:25:51"
     },
     {
       "keyword": "ucla vs south carolina",
@@ -191,8 +170,15 @@
       "timestamp": "2026-04-06 14:09:14"
     },
     {
+      "keyword": "backrooms movie",
+      "score": 3000000,
+      "traffic_numeric": 200000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-04-06 08:25:51"
+    },
+    {
       "keyword": "mets",
-      "score": 2900000,
+      "score": 2700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-01 08:13:27"
@@ -205,18 +191,32 @@
       "timestamp": "2026-04-03 14:01:07"
     },
     {
-      "keyword": "phillies",
+      "keyword": "uconn vs south carolina",
       "score": 2500000,
       "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-04-05 03:57:53"
+    },
+    {
+      "keyword": "guardians vs dodgers",
+      "score": 2400000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-04-03 14:01:07"
+    },
+    {
+      "keyword": "geno auriemma",
+      "score": 2300000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-01 08:13:27"
+      "timestamp": "2026-04-05 13:55:21"
     }
   ],
   "category_stats": {
-    "其他": 114,
-    "体育": 56,
+    "其他": 117,
+    "体育": 51,
+    "科技/AI": 8,
     "娱乐/生活": 8,
-    "科技/AI": 7,
     "金融/商业": 1
   },
   "insights": []

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07 08:14:44",
+  "last_updated": "2026-04-07 14:28:04",
   "trends": [
     {
       "keyword": "pam bondi",
@@ -9,24 +9,17 @@
       "timestamp": "2026-04-07 03:47:38"
     },
     {
+      "keyword": "artemis 2 tracker",
+      "score": 19000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-04-07 14:28:04"
+    },
+    {
       "keyword": "michigan vs arizona",
       "score": 17000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-04-07 08:14:44"
-    },
-    {
-      "keyword": "tiger woods crash",
-      "score": 17000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-03 14:01:07"
-    },
-    {
-      "keyword": "artemis 2 tracker",
-      "score": 17000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
       "timestamp": "2026-04-07 08:14:44"
     },
     {
@@ -35,6 +28,13 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-04-06 19:43:59"
+    },
+    {
+      "keyword": "tiger woods crash",
+      "score": 16000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-03 14:01:07"
     },
     {
       "keyword": "kristi noem husband",
@@ -52,17 +52,24 @@
     },
     {
       "keyword": "pooh shiesty",
-      "score": 8200000,
+      "score": 8700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-07 08:14:44"
+      "timestamp": "2026-04-07 14:28:04"
     },
     {
       "keyword": "jaden ivey",
-      "score": 7800000,
+      "score": 7600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-04 19:26:02"
+    },
+    {
+      "keyword": "uconn vs michigan",
+      "score": 6700000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-04-07 14:28:04"
     },
     {
       "keyword": "the drama",
@@ -93,13 +100,6 @@
       "timestamp": "2026-04-04 19:26:02"
     },
     {
-      "keyword": "uconn vs michigan",
-      "score": 4700000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-04-07 08:14:44"
-    },
-    {
       "keyword": "donald trump",
       "score": 4700000,
       "traffic_numeric": 2000000,
@@ -115,21 +115,21 @@
     },
     {
       "keyword": "super mario galaxy movie",
-      "score": 4300000,
+      "score": 4200000,
       "traffic_numeric": 1000000,
       "category": "娱乐/生活",
       "timestamp": "2026-04-02 08:04:27"
     },
     {
-      "keyword": "final four",
-      "score": 4100000,
+      "keyword": "full moon april 2026",
+      "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-03 19:37:25"
     },
     {
-      "keyword": "full moon april 2026",
-      "score": 3700000,
+      "keyword": "final four",
+      "score": 3600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-03 19:37:25"
@@ -149,18 +149,11 @@
       "timestamp": "2026-04-06 08:25:51"
     },
     {
-      "keyword": "druski",
+      "keyword": "trump truth social",
       "score": 3000000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-01 19:53:48"
-    },
-    {
-      "keyword": "uconn vs duke",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-03-31 19:52:26"
+      "timestamp": "2026-04-07 14:28:04"
     },
     {
       "keyword": "ucla vs south carolina",
@@ -170,18 +163,25 @@
       "timestamp": "2026-04-06 14:09:14"
     },
     {
-      "keyword": "something bad is going to happen",
-      "score": 3000000,
+      "keyword": "social security warning retirees scams",
+      "score": 2600000,
       "traffic_numeric": 500000,
-      "category": "科技/AI",
+      "category": "其他",
+      "timestamp": "2026-04-07 14:28:04"
+    },
+    {
+      "keyword": "druski",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
       "timestamp": "2026-04-01 19:53:48"
     },
     {
-      "keyword": "mlb scores",
+      "keyword": "something bad is going to happen",
       "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-04-01 08:13:27"
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-01 19:53:48"
     },
     {
       "keyword": "uconn vs south carolina",
@@ -205,19 +205,25 @@
       "timestamp": "2026-04-05 13:55:21"
     },
     {
-      "keyword": "guardians vs dodgers",
-      "score": 2200000,
-      "traffic_numeric": 200000,
+      "keyword": "lakers vs thunder",
+      "score": 2100000,
+      "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-04-03 14:01:07"
+      "timestamp": "2026-04-04 07:47:52"
     }
   ],
   "category_stats": {
-    "其他": 109,
-    "体育": 56,
+    "其他": 110,
+    "体育": 55,
     "科技/AI": 7,
     "娱乐/生活": 4,
     "金融/商业": 1
   },
-  "insights": []
+  "insights": [
+    {
+      "title": "季节性效率/计划应用",
+      "context": "新年计划相关关键词搜索量激增。",
+      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08 19:59:38",
+  "last_updated": "2026-04-09 03:49:43",
   "trends": [
     {
       "keyword": "artemis 2 tracker",
@@ -51,13 +51,6 @@
       "timestamp": "2026-04-08 08:12:47"
     },
     {
-      "keyword": "artemis ii",
-      "score": 10000013,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-04-05 13:55:21"
-    },
-    {
       "keyword": "iran",
       "score": 10000000,
       "traffic_numeric": 2000000,
@@ -79,18 +72,11 @@
       "timestamp": "2026-04-08 03:48:16"
     },
     {
-      "keyword": "jaden ivey",
-      "score": 6000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-04 19:26:02"
-    },
-    {
       "keyword": "offset",
-      "score": 5700000,
+      "score": 6700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-08 19:59:38"
+      "timestamp": "2026-04-09 03:49:43"
     },
     {
       "keyword": "is walmart open on easter",
@@ -98,6 +84,27 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-04-06 03:53:47"
+    },
+    {
+      "keyword": "jaden ivey",
+      "score": 5500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-04 19:26:02"
+    },
+    {
+      "keyword": "artemis ii",
+      "score": 5000013,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-04-05 13:55:21"
+    },
+    {
+      "keyword": "25th amendment",
+      "score": 4900000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-09 03:49:43"
     },
     {
       "keyword": "donald trump",
@@ -108,7 +115,7 @@
     },
     {
       "keyword": "lamar odom",
-      "score": 4700000,
+      "score": 4500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-05 07:51:58"
@@ -121,27 +128,6 @@
       "timestamp": "2026-04-08 14:29:06"
     },
     {
-      "keyword": "oracle layoffs",
-      "score": 3900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-04 19:26:02"
-    },
-    {
-      "keyword": "25th amendment",
-      "score": 3900000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-08 19:59:38"
-    },
-    {
-      "keyword": "bryon noem",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-06 19:43:59"
-    },
-    {
       "keyword": "illinois vs uconn",
       "score": 3500000,
       "traffic_numeric": 2000000,
@@ -149,18 +135,18 @@
       "timestamp": "2026-04-05 13:55:21"
     },
     {
-      "keyword": "full moon april 2026",
+      "keyword": "oracle layoffs",
       "score": 3400000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-03 19:37:25"
+      "timestamp": "2026-04-04 19:26:02"
     },
     {
-      "keyword": "trump truth social",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
+      "keyword": "full moon april 2026",
+      "score": 3200000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-07 14:28:04"
+      "timestamp": "2026-04-03 19:37:25"
     },
     {
       "keyword": "backrooms movie",
@@ -170,6 +156,13 @@
       "timestamp": "2026-04-06 08:25:51"
     },
     {
+      "keyword": "trump truth social",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-07 14:28:04"
+    },
+    {
       "keyword": "ucla vs south carolina",
       "score": 3000000,
       "traffic_numeric": 1000000,
@@ -177,18 +170,25 @@
       "timestamp": "2026-04-06 14:09:14"
     },
     {
-      "keyword": "final four",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-03 19:37:25"
-    },
-    {
       "keyword": "uconn vs south carolina",
       "score": 2500000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-04-05 03:57:53"
+    },
+    {
+      "keyword": "bryon noem",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-06 19:43:59"
+    },
+    {
+      "keyword": "final four",
+      "score": 2300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-03 19:37:25"
     },
     {
       "keyword": "geno auriemma",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 114,
-    "体育": 52,
+    "其他": 119,
+    "体育": 53,
     "科技/AI": 9,
     "娱乐/生活": 4,
     "金融/商业": 1

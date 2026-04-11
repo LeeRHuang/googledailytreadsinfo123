@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10 19:39:44",
+  "last_updated": "2026-04-11 03:31:59",
   "trends": [
     {
       "keyword": "artemis 2 tracker",
@@ -9,13 +9,6 @@
       "timestamp": "2026-04-08 19:59:38"
     },
     {
-      "keyword": "pam bondi",
-      "score": 19000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-07 03:47:38"
-    },
-    {
       "keyword": "michigan vs arizona",
       "score": 17000000,
       "traffic_numeric": 2000000,
@@ -23,8 +16,15 @@
       "timestamp": "2026-04-07 08:14:44"
     },
     {
+      "keyword": "pam bondi",
+      "score": 17000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-07 03:47:38"
+    },
+    {
       "keyword": "nasa",
-      "score": 16600000,
+      "score": 16400000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-04-06 19:43:59"
@@ -38,17 +38,10 @@
     },
     {
       "keyword": "offset",
-      "score": 12700000,
+      "score": 13700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-10 19:39:44"
-    },
-    {
-      "keyword": "kristi noem husband",
-      "score": 11000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-06 14:09:14"
+      "timestamp": "2026-04-11 03:31:59"
     },
     {
       "keyword": "iran",
@@ -56,6 +49,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-04-08 19:59:38"
+    },
+    {
+      "keyword": "kristi noem husband",
+      "score": 10000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-06 14:09:14"
     },
     {
       "keyword": "25th amendment",
@@ -66,24 +66,31 @@
     },
     {
       "keyword": "pooh shiesty",
-      "score": 9000000,
+      "score": 8500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-08 08:12:47"
     },
     {
       "keyword": "dianna russini",
-      "score": 7100000,
+      "score": 8100000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-10 19:39:44"
+      "timestamp": "2026-04-11 03:31:59"
     },
     {
       "keyword": "the drama",
-      "score": 7000000,
+      "score": 6800000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-08 03:48:16"
+    },
+    {
+      "keyword": "masters leaderboard",
+      "score": 6500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-11 03:31:59"
     },
     {
       "keyword": "masters",
@@ -108,10 +115,10 @@
     },
     {
       "keyword": "aubrey plaza",
-      "score": 4700000,
+      "score": 5200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-10 19:39:44"
+      "timestamp": "2026-04-11 03:31:59"
     },
     {
       "keyword": "donald trump",
@@ -119,13 +126,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-04-06 08:25:51"
-    },
-    {
-      "keyword": "masters leaderboard",
-      "score": 4500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-10 19:39:44"
     },
     {
       "keyword": "social security warning retirees scams",
@@ -142,11 +142,11 @@
       "timestamp": "2026-04-05 13:55:21"
     },
     {
-      "keyword": "lamar odom",
+      "keyword": "trump truth social",
       "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-05 07:51:58"
+      "timestamp": "2026-04-07 14:28:04"
     },
     {
       "keyword": "ucla vs south carolina",
@@ -156,22 +156,29 @@
       "timestamp": "2026-04-06 14:09:14"
     },
     {
-      "keyword": "trump truth social",
-      "score": 3000000,
+      "keyword": "lamar odom",
+      "score": 2500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-07 14:28:04"
+      "timestamp": "2026-04-05 07:51:58"
     },
     {
-      "keyword": "uconn vs south carolina",
+      "keyword": "the boys",
       "score": 2500000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-04-05 03:57:53"
+      "category": "其他",
+      "timestamp": "2026-04-11 03:31:59"
+    },
+    {
+      "keyword": "artemis 2 splashdown time",
+      "score": 2400000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-11 03:31:59"
     },
     {
       "keyword": "geno auriemma",
-      "score": 2300000,
+      "score": 2200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-05 13:55:21"
@@ -198,24 +205,17 @@
       "timestamp": "2026-04-08 03:48:16"
     },
     {
-      "keyword": "the boys",
+      "keyword": "dawn staley",
       "score": 2000000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-10 08:20:28"
-    },
-    {
-      "keyword": "where is artemis 2 now",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-08 08:12:47"
+      "timestamp": "2026-04-06 14:09:14"
     }
   ],
   "category_stats": {
-    "其他": 119,
-    "体育": 48,
-    "科技/AI": 9,
+    "其他": 122,
+    "体育": 52,
+    "科技/AI": 8,
     "娱乐/生活": 2
   },
   "insights": []

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-12 13:50:26",
+  "last_updated": "2026-04-12 19:35:53",
   "trends": [
     {
       "keyword": "masters leaderboard",
-      "score": 27500000,
+      "score": 29500000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-04-12 13:50:26"
+      "timestamp": "2026-04-12 19:35:53"
     },
     {
       "keyword": "artemis 2 tracker",
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "offset",
-      "score": 19700000,
+      "score": 20700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-12 13:50:26"
+      "timestamp": "2026-04-12 19:35:53"
     },
     {
       "keyword": "nasa",
@@ -30,6 +30,13 @@
       "timestamp": "2026-04-06 19:43:59"
     },
     {
+      "keyword": "dianna russini",
+      "score": 15100000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-12 19:35:53"
+    },
+    {
       "keyword": "uconn vs michigan",
       "score": 14700000,
       "traffic_numeric": 2000000,
@@ -37,15 +44,8 @@
       "timestamp": "2026-04-08 14:29:06"
     },
     {
-      "keyword": "dianna russini",
-      "score": 14100000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-12 13:50:26"
-    },
-    {
       "keyword": "michigan vs arizona",
-      "score": 14000000,
+      "score": 12000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-04-07 08:14:44"
@@ -72,6 +72,13 @@
       "timestamp": "2026-04-10 14:17:44"
     },
     {
+      "keyword": "masters",
+      "score": 9400000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-12 19:35:53"
+    },
+    {
       "keyword": "aubrey plaza",
       "score": 8200000,
       "traffic_numeric": 500000,
@@ -79,15 +86,15 @@
       "timestamp": "2026-04-12 13:50:26"
     },
     {
-      "keyword": "masters",
-      "score": 7400000,
-      "traffic_numeric": 2000000,
+      "keyword": "coachella 2026",
+      "score": 6400000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-11 19:36:34"
+      "timestamp": "2026-04-12 19:35:53"
     },
     {
       "keyword": "pam bondi",
-      "score": 7000000,
+      "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-07 03:47:38"
@@ -101,45 +108,17 @@
     },
     {
       "keyword": "pooh shiesty",
-      "score": 6000000,
+      "score": 5500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-08 08:12:47"
     },
     {
       "keyword": "the drama",
-      "score": 5500000,
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-08 03:48:16"
-    },
-    {
-      "keyword": "coachella 2026",
-      "score": 5400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-12 13:50:26"
-    },
-    {
-      "keyword": "is walmart open on easter",
-      "score": 5000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-06 03:53:47"
-    },
-    {
-      "keyword": "kristi noem husband",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-06 14:09:14"
-    },
-    {
-      "keyword": "donald trump",
-      "score": 4700000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-06 08:25:51"
     },
     {
       "keyword": "internal revenue service",
@@ -149,11 +128,32 @@
       "timestamp": "2026-04-12 13:50:26"
     },
     {
+      "keyword": "donald trump",
+      "score": 4500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-06 08:25:51"
+    },
+    {
       "keyword": "social security warning retirees scams",
       "score": 4100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-08 14:29:06"
+    },
+    {
+      "keyword": "kristi noem husband",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-06 14:09:14"
+    },
+    {
+      "keyword": "is walmart open on easter",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-06 03:53:47"
     },
     {
       "keyword": "the boys",
@@ -164,10 +164,10 @@
     },
     {
       "keyword": "athena strand",
-      "score": 3100000,
+      "score": 3300000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-12 13:50:26"
+      "timestamp": "2026-04-12 19:35:53"
     },
     {
       "keyword": "trump truth social",
@@ -184,16 +184,16 @@
       "timestamp": "2026-04-06 14:09:14"
     },
     {
+      "keyword": "eric swalwell",
+      "score": 2700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-12 19:35:53"
+    },
+    {
       "keyword": "michael patrick",
       "score": 2450000,
       "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-12 13:50:26"
-    },
-    {
-      "keyword": "eric swalwell",
-      "score": 2200000,
-      "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-12 13:50:26"
     },
@@ -214,7 +214,7 @@
   ],
   "category_stats": {
     "其他": 126,
-    "体育": 49,
+    "体育": 50,
     "科技/AI": 9,
     "娱乐/生活": 1
   },

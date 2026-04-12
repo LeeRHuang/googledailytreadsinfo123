@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12 04:02:18",
+  "last_updated": "2026-04-12 08:05:07",
   "trends": [
     {
       "keyword": "artemis 2 tracker",
@@ -9,18 +9,18 @@
       "timestamp": "2026-04-08 19:59:38"
     },
     {
-      "keyword": "offset",
-      "score": 17700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-12 04:02:18"
-    },
-    {
       "keyword": "masters leaderboard",
-      "score": 17500000,
+      "score": 22500000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-04-12 04:02:18"
+      "timestamp": "2026-04-12 08:05:07"
+    },
+    {
+      "keyword": "offset",
+      "score": 18700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-12 08:05:07"
     },
     {
       "keyword": "nasa",
@@ -30,13 +30,6 @@
       "timestamp": "2026-04-06 19:43:59"
     },
     {
-      "keyword": "michigan vs arizona",
-      "score": 16000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-04-07 08:14:44"
-    },
-    {
       "keyword": "uconn vs michigan",
       "score": 14700000,
       "traffic_numeric": 2000000,
@@ -44,11 +37,18 @@
       "timestamp": "2026-04-08 14:29:06"
     },
     {
+      "keyword": "michigan vs arizona",
+      "score": 14000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-04-07 08:14:44"
+    },
+    {
       "keyword": "dianna russini",
-      "score": 12100000,
+      "score": 13100000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-12 04:02:18"
+      "timestamp": "2026-04-12 08:05:07"
     },
     {
       "keyword": "artemis 2 splashdown time",
@@ -72,11 +72,11 @@
       "timestamp": "2026-04-10 14:17:44"
     },
     {
-      "keyword": "pam bondi",
-      "score": 9000000,
-      "traffic_numeric": 2000000,
+      "keyword": "aubrey plaza",
+      "score": 7700000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-07 03:47:38"
+      "timestamp": "2026-04-12 08:05:07"
     },
     {
       "keyword": "masters",
@@ -86,25 +86,11 @@
       "timestamp": "2026-04-11 19:36:34"
     },
     {
-      "keyword": "aubrey plaza",
-      "score": 7200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-12 04:02:18"
-    },
-    {
-      "keyword": "pooh shiesty",
-      "score": 6500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-08 08:12:47"
-    },
-    {
-      "keyword": "the drama",
-      "score": 6000000,
+      "keyword": "pam bondi",
+      "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-08 03:48:16"
+      "timestamp": "2026-04-07 03:47:38"
     },
     {
       "keyword": "ceasefire",
@@ -114,18 +100,32 @@
       "timestamp": "2026-04-09 14:33:39"
     },
     {
-      "keyword": "kristi noem husband",
+      "keyword": "pooh shiesty",
       "score": 6000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-08 08:12:47"
+    },
+    {
+      "keyword": "the drama",
+      "score": 5500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-06 14:09:14"
+      "timestamp": "2026-04-08 03:48:16"
     },
     {
       "keyword": "is walmart open on easter",
-      "score": 5500000,
+      "score": 5000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-04-06 03:53:47"
+    },
+    {
+      "keyword": "kristi noem husband",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-06 14:09:14"
     },
     {
       "keyword": "donald trump",
@@ -135,6 +135,20 @@
       "timestamp": "2026-04-06 08:25:51"
     },
     {
+      "keyword": "coachella 2026",
+      "score": 4400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-12 08:05:07"
+    },
+    {
+      "keyword": "internal revenue service",
+      "score": 4150000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-12 08:05:07"
+    },
+    {
       "keyword": "social security warning retirees scams",
       "score": 4100000,
       "traffic_numeric": 500000,
@@ -142,25 +156,11 @@
       "timestamp": "2026-04-08 14:29:06"
     },
     {
-      "keyword": "internal revenue service",
-      "score": 3650000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-12 04:02:18"
-    },
-    {
-      "keyword": "coachella 2026",
-      "score": 3400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-12 04:02:18"
-    },
-    {
       "keyword": "the boys",
-      "score": 3000000,
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-11 07:42:04"
+      "timestamp": "2026-04-12 08:05:07"
     },
     {
       "keyword": "trump truth social",
@@ -178,10 +178,17 @@
     },
     {
       "keyword": "athena strand",
-      "score": 2700000,
+      "score": 2900000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-12 04:02:18"
+      "timestamp": "2026-04-12 08:05:07"
+    },
+    {
+      "keyword": "michael patrick",
+      "score": 2250000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-12 08:05:07"
     },
     {
       "keyword": "real madrid vs bayern",
@@ -198,13 +205,6 @@
       "timestamp": "2026-04-10 08:20:28"
     },
     {
-      "keyword": "michael patrick",
-      "score": 2050000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-12 04:02:18"
-    },
-    {
       "keyword": "trump tweet",
       "score": 2050000,
       "traffic_numeric": 1000000,
@@ -214,8 +214,8 @@
   ],
   "category_stats": {
     "其他": 121,
-    "体育": 50,
-    "科技/AI": 8,
+    "体育": 49,
+    "科技/AI": 9,
     "娱乐/生活": 1
   },
   "insights": [

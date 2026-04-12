@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-04-12 08:05:07",
+  "last_updated": "2026-04-12 13:50:26",
   "trends": [
+    {
+      "keyword": "masters leaderboard",
+      "score": 27500000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-04-12 13:50:26"
+    },
     {
       "keyword": "artemis 2 tracker",
       "score": 27000000,
@@ -9,18 +16,11 @@
       "timestamp": "2026-04-08 19:59:38"
     },
     {
-      "keyword": "masters leaderboard",
-      "score": 22500000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-04-12 08:05:07"
-    },
-    {
       "keyword": "offset",
-      "score": 18700000,
+      "score": 19700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-12 08:05:07"
+      "timestamp": "2026-04-12 13:50:26"
     },
     {
       "keyword": "nasa",
@@ -37,18 +37,18 @@
       "timestamp": "2026-04-08 14:29:06"
     },
     {
+      "keyword": "dianna russini",
+      "score": 14100000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-12 13:50:26"
+    },
+    {
       "keyword": "michigan vs arizona",
       "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-04-07 08:14:44"
-    },
-    {
-      "keyword": "dianna russini",
-      "score": 13100000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-12 08:05:07"
     },
     {
       "keyword": "artemis 2 splashdown time",
@@ -73,10 +73,10 @@
     },
     {
       "keyword": "aubrey plaza",
-      "score": 7700000,
+      "score": 8200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-12 08:05:07"
+      "timestamp": "2026-04-12 13:50:26"
     },
     {
       "keyword": "masters",
@@ -114,6 +114,13 @@
       "timestamp": "2026-04-08 03:48:16"
     },
     {
+      "keyword": "coachella 2026",
+      "score": 5400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-12 13:50:26"
+    },
+    {
       "keyword": "is walmart open on easter",
       "score": 5000000,
       "traffic_numeric": 2000000,
@@ -135,18 +142,11 @@
       "timestamp": "2026-04-06 08:25:51"
     },
     {
-      "keyword": "coachella 2026",
-      "score": 4400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-12 08:05:07"
-    },
-    {
       "keyword": "internal revenue service",
-      "score": 4150000,
+      "score": 4650000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-12 08:05:07"
+      "timestamp": "2026-04-12 13:50:26"
     },
     {
       "keyword": "social security warning retirees scams",
@@ -163,6 +163,13 @@
       "timestamp": "2026-04-12 08:05:07"
     },
     {
+      "keyword": "athena strand",
+      "score": 3100000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-12 13:50:26"
+    },
+    {
       "keyword": "trump truth social",
       "score": 3000000,
       "traffic_numeric": 1000000,
@@ -177,18 +184,18 @@
       "timestamp": "2026-04-06 14:09:14"
     },
     {
-      "keyword": "athena strand",
-      "score": 2900000,
+      "keyword": "michael patrick",
+      "score": 2450000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-12 08:05:07"
+      "timestamp": "2026-04-12 13:50:26"
     },
     {
-      "keyword": "michael patrick",
-      "score": 2250000,
-      "traffic_numeric": 200000,
+      "keyword": "eric swalwell",
+      "score": 2200000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-12 08:05:07"
+      "timestamp": "2026-04-12 13:50:26"
     },
     {
       "keyword": "real madrid vs bayern",
@@ -203,17 +210,10 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-04-10 08:20:28"
-    },
-    {
-      "keyword": "trump tweet",
-      "score": 2050000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-08 03:48:16"
     }
   ],
   "category_stats": {
-    "其他": 121,
+    "其他": 126,
     "体育": 49,
     "科技/AI": 9,
     "娱乐/生活": 1

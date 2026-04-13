@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-13 14:19:08",
+  "last_updated": "2026-04-13 19:54:35",
   "trends": [
     {
       "keyword": "masters leaderboard",
-      "score": 44500000,
+      "score": 49500000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-04-13 14:19:08"
+      "timestamp": "2026-04-13 19:54:35"
     },
     {
       "keyword": "offset",
@@ -24,14 +24,14 @@
     },
     {
       "keyword": "dianna russini",
-      "score": 18100000,
+      "score": 19100000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-13 14:19:08"
+      "timestamp": "2026-04-13 19:54:35"
     },
     {
       "keyword": "uconn vs michigan",
-      "score": 14500000,
+      "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-04-08 14:29:06"
@@ -52,7 +52,7 @@
     },
     {
       "keyword": "25th amendment",
-      "score": 9800000,
+      "score": 9600000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-10 14:17:44"
@@ -73,10 +73,10 @@
     },
     {
       "keyword": "aubrey plaza",
-      "score": 8700000,
+      "score": 9200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-13 08:45:55"
+      "timestamp": "2026-04-13 19:54:35"
     },
     {
       "keyword": "ceasefire",
@@ -86,18 +86,11 @@
       "timestamp": "2026-04-09 14:33:39"
     },
     {
-      "keyword": "michigan vs arizona",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-04-07 08:14:44"
-    },
-    {
-      "keyword": "nasa",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
+      "keyword": "eric swalwell",
+      "score": 5200000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-06 19:43:59"
+      "timestamp": "2026-04-13 19:54:35"
     },
     {
       "keyword": "internal revenue service",
@@ -107,11 +100,25 @@
       "timestamp": "2026-04-12 13:50:26"
     },
     {
-      "keyword": "eric swalwell",
+      "keyword": "euphoria season 3",
       "score": 4200000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-13 14:19:08"
+      "timestamp": "2026-04-13 19:54:35"
+    },
+    {
+      "keyword": "coachella",
+      "score": 4200000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-13 19:54:35"
+    },
+    {
+      "keyword": "michigan vs arizona",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-04-07 08:14:44"
     },
     {
       "keyword": "the boys",
@@ -122,38 +129,24 @@
     },
     {
       "keyword": "athena strand",
-      "score": 3500000,
+      "score": 3700000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-13 08:45:55"
-    },
-    {
-      "keyword": "pooh shiesty",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-08 08:12:47"
+      "timestamp": "2026-04-13 19:54:35"
     },
     {
       "keyword": "social security warning retirees scams",
-      "score": 3500000,
+      "score": 3000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-08 14:29:06"
     },
     {
-      "keyword": "euphoria season 3",
-      "score": 3200000,
-      "traffic_numeric": 1000000,
+      "keyword": "pooh shiesty",
+      "score": 3000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-13 14:19:08"
-    },
-    {
-      "keyword": "coachella",
-      "score": 3200000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-13 14:19:08"
+      "timestamp": "2026-04-08 08:12:47"
     },
     {
       "keyword": "coachella 2026 lineup",
@@ -170,18 +163,18 @@
       "timestamp": "2026-04-13 04:15:00"
     },
     {
-      "keyword": "the drama",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-08 03:48:16"
-    },
-    {
       "keyword": "malcolm in the middle",
       "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-13 04:15:00"
+    },
+    {
+      "keyword": "chris brown and usher tour",
+      "score": 2300000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-13 19:54:35"
     },
     {
       "keyword": "real madrid vs bayern",
@@ -191,13 +184,6 @@
       "timestamp": "2026-04-08 19:59:38"
     },
     {
-      "keyword": "chris brown and usher tour",
-      "score": 2100000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-13 14:19:08"
-    },
-    {
       "keyword": "athletics vs yankees",
       "score": 2100000,
       "traffic_numeric": 500000,
@@ -205,16 +191,30 @@
       "timestamp": "2026-04-10 08:20:28"
     },
     {
-      "keyword": "trump tweet",
-      "score": 2050000,
+      "keyword": "the masters",
+      "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "其他",
+      "timestamp": "2026-04-10 14:17:44"
+    },
+    {
+      "keyword": "the drama",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
       "timestamp": "2026-04-08 03:48:16"
+    },
+    {
+      "keyword": "where is artemis 2 now",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-08 08:12:47"
     }
   ],
   "category_stats": {
-    "其他": 129,
-    "体育": 45,
+    "其他": 124,
+    "体育": 44,
     "科技/AI": 6
   },
   "insights": [

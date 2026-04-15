@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-15 08:24:41",
+  "last_updated": "2026-04-15 14:16:39",
   "trends": [
     {
       "keyword": "masters leaderboard",
-      "score": 74500000,
+      "score": 76500000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-04-15 04:03:12"
+      "timestamp": "2026-04-15 14:16:39"
     },
     {
       "keyword": "dianna russini",
@@ -24,24 +24,17 @@
     },
     {
       "keyword": "world quantum day",
-      "score": 13200000,
+      "score": 18200000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-04-15 08:24:41"
+      "timestamp": "2026-04-15 14:16:39"
     },
     {
       "keyword": "eric swalwell",
-      "score": 11200000,
+      "score": 12200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-15 08:24:41"
-    },
-    {
-      "keyword": "artemis 2 splashdown time",
-      "score": 10400000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-12 04:02:18"
+      "timestamp": "2026-04-15 14:16:39"
     },
     {
       "keyword": "coachella 2026",
@@ -49,6 +42,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-04-14 03:57:12"
+    },
+    {
+      "keyword": "artemis 2 splashdown time",
+      "score": 10400000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-12 04:02:18"
     },
     {
       "keyword": "aubrey plaza",
@@ -80,10 +80,10 @@
     },
     {
       "keyword": "chris brown and usher tour",
-      "score": 5300000,
+      "score": 5800000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-15 08:24:41"
+      "timestamp": "2026-04-15 14:16:39"
     },
     {
       "keyword": "euphoria season 3",
@@ -136,17 +136,17 @@
     },
     {
       "keyword": "trump jesus image",
-      "score": 3000000,
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-15 08:24:41"
+      "timestamp": "2026-04-15 14:16:39"
     },
     {
-      "keyword": "what is coachella",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-14 20:02:15"
+      "keyword": "nba playoffs",
+      "score": 3400000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-04-15 14:16:39"
     },
     {
       "keyword": "coachella 2026 lineup",
@@ -156,11 +156,18 @@
       "timestamp": "2026-04-13 14:19:08"
     },
     {
-      "keyword": "nba playoffs",
-      "score": 2900000,
+      "keyword": "what is coachella",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-14 20:02:15"
+    },
+    {
+      "keyword": "justin bieber coachella",
+      "score": 2800000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-04-15 08:24:41"
+      "category": "其他",
+      "timestamp": "2026-04-15 14:16:39"
     },
     {
       "keyword": "michael patrick",
@@ -168,13 +175,6 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-13 04:15:00"
-    },
-    {
-      "keyword": "justin bieber coachella",
-      "score": 2600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-15 08:24:41"
     },
     {
       "keyword": "samuel bateman",
@@ -198,22 +198,22 @@
       "timestamp": "2026-04-14 20:02:15"
     },
     {
-      "keyword": "the masters",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-10 14:17:44"
-    },
-    {
       "keyword": "peter magyar",
       "score": 2000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-14 08:22:33"
+    },
+    {
+      "keyword": "the masters",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-10 14:17:44"
     }
   ],
   "category_stats": {
-    "其他": 120,
+    "其他": 123,
     "体育": 47,
     "科技/AI": 6,
     "金融/商业": 1

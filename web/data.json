@@ -1,33 +1,26 @@
 {
-  "last_updated": "2026-04-14 20:02:15",
+  "last_updated": "2026-04-15 04:03:12",
   "trends": [
     {
       "keyword": "masters leaderboard",
-      "score": 69500000,
+      "score": 74500000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-04-14 20:02:15"
+      "timestamp": "2026-04-15 04:03:12"
     },
     {
       "keyword": "dianna russini",
-      "score": 23100000,
+      "score": 22900000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-14 20:02:15"
     },
     {
       "keyword": "offset",
-      "score": 22000000,
+      "score": 21000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-13 14:19:08"
-    },
-    {
-      "keyword": "artemis 2 splashdown time",
-      "score": 10400000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-12 04:02:18"
     },
     {
       "keyword": "coachella 2026",
@@ -37,18 +30,25 @@
       "timestamp": "2026-04-14 03:57:12"
     },
     {
-      "keyword": "aubrey plaza",
-      "score": 10200000,
-      "traffic_numeric": 500000,
+      "keyword": "artemis 2 splashdown time",
+      "score": 10400000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-04-14 08:22:33"
+      "timestamp": "2026-04-12 04:02:18"
     },
     {
       "keyword": "eric swalwell",
-      "score": 9200000,
+      "score": 10200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-14 20:02:15"
+      "timestamp": "2026-04-15 04:03:12"
+    },
+    {
+      "keyword": "aubrey plaza",
+      "score": 10100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-14 08:22:33"
     },
     {
       "keyword": "masters",
@@ -58,21 +58,21 @@
       "timestamp": "2026-04-12 19:35:53"
     },
     {
+      "keyword": "world quantum day",
+      "score": 8200000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-04-15 04:03:12"
+    },
+    {
       "keyword": "25th amendment",
-      "score": 8500000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-10 14:17:44"
     },
     {
       "keyword": "iran",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-08 19:59:38"
-    },
-    {
-      "keyword": "artemis 2 tracker",
       "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "其他",
@@ -86,18 +86,18 @@
       "timestamp": "2026-04-09 14:33:39"
     },
     {
-      "keyword": "uconn vs michigan",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-04-08 14:29:06"
-    },
-    {
       "keyword": "euphoria season 3",
       "score": 5200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-14 03:57:12"
+    },
+    {
+      "keyword": "chris brown and usher tour",
+      "score": 4800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-15 04:03:12"
     },
     {
       "keyword": "internal revenue service",
@@ -107,18 +107,25 @@
       "timestamp": "2026-04-12 13:50:26"
     },
     {
-      "keyword": "chris brown and usher tour",
-      "score": 4300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-14 20:02:15"
-    },
-    {
       "keyword": "coachella",
       "score": 4200000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-04-13 19:54:35"
+    },
+    {
+      "keyword": "artemis 2 tracker",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-08 19:59:38"
+    },
+    {
+      "keyword": "uconn vs michigan",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-04-08 14:29:06"
     },
     {
       "keyword": "athena strand",
@@ -135,9 +142,9 @@
       "timestamp": "2026-04-13 08:45:55"
     },
     {
-      "keyword": "world quantum day",
-      "score": 3200000,
-      "traffic_numeric": 2000000,
+      "keyword": "what is coachella",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-14 20:02:15"
     },
@@ -149,11 +156,11 @@
       "timestamp": "2026-04-13 14:19:08"
     },
     {
-      "keyword": "what is coachella",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-14 20:02:15"
+      "keyword": "nba playoffs",
+      "score": 2700000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-04-15 04:03:12"
     },
     {
       "keyword": "michael patrick",
@@ -170,18 +177,25 @@
       "timestamp": "2026-04-13 04:15:00"
     },
     {
-      "keyword": "nba playoffs",
-      "score": 2200000,
+      "keyword": "trump jesus image",
+      "score": 2500000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-04-14 20:02:15"
+      "category": "其他",
+      "timestamp": "2026-04-15 04:03:12"
     },
     {
       "keyword": "samuel bateman",
-      "score": 2200000,
+      "score": 2400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-14 20:02:15"
+      "timestamp": "2026-04-15 04:03:12"
+    },
+    {
+      "keyword": "justin bieber coachella",
+      "score": 2100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-15 04:03:12"
     },
     {
       "keyword": "wnba draft 2026",
@@ -191,31 +205,18 @@
       "timestamp": "2026-04-14 20:02:15"
     },
     {
-      "keyword": "athletics vs yankees",
-      "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-04-10 08:20:28"
-    },
-    {
-      "keyword": "where is artemis 2 now",
+      "keyword": "the masters",
       "score": 2000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-08 08:12:47"
-    },
-    {
-      "keyword": "trump jesus image",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-14 20:02:15"
+      "timestamp": "2026-04-10 14:17:44"
     }
   ],
   "category_stats": {
-    "其他": 123,
-    "体育": 45,
-    "科技/AI": 4
+    "其他": 121,
+    "体育": 47,
+    "科技/AI": 6,
+    "金融/商业": 1
   },
   "insights": [
     {

@@ -1,40 +1,47 @@
 {
-  "last_updated": "2026-04-16 19:53:28",
+  "last_updated": "2026-04-17 04:11:09",
   "trends": [
     {
       "keyword": "masters leaderboard",
-      "score": 78500000,
+      "score": 77500000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-04-15 19:53:48"
     },
     {
       "keyword": "world quantum day",
-      "score": 43200000,
+      "score": 48200000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-04-16 19:53:28"
+      "timestamp": "2026-04-17 04:11:09"
     },
     {
       "keyword": "dianna russini",
-      "score": 20000000,
+      "score": 19000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-14 20:02:15"
     },
     {
       "keyword": "eric swalwell",
-      "score": 17200000,
+      "score": 18200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-16 19:53:28"
+      "timestamp": "2026-04-17 04:11:09"
     },
     {
       "keyword": "offset",
-      "score": 14000000,
+      "score": 13000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-13 14:19:08"
+    },
+    {
+      "keyword": "chris brown and usher tour",
+      "score": 11300000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-17 04:11:09"
     },
     {
       "keyword": "artemis 2 splashdown time",
@@ -44,39 +51,32 @@
       "timestamp": "2026-04-12 04:02:18"
     },
     {
-      "keyword": "chris brown and usher tour",
-      "score": 10300000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-16 19:53:28"
-    },
-    {
       "keyword": "coachella 2026",
-      "score": 10200000,
+      "score": 10000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-04-14 03:57:12"
     },
     {
       "keyword": "aubrey plaza",
-      "score": 7500000,
+      "score": 7000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-14 08:22:33"
     },
     {
       "keyword": "trump jesus image",
-      "score": 6000000,
+      "score": 6500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-16 19:53:28"
+      "timestamp": "2026-04-17 04:11:09"
     },
     {
       "keyword": "nba playoffs",
-      "score": 5900000,
+      "score": 6400000,
       "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-04-16 19:53:28"
+      "timestamp": "2026-04-17 04:11:09"
     },
     {
       "keyword": "masters",
@@ -94,17 +94,10 @@
     },
     {
       "keyword": "justin bieber",
-      "score": 4500000,
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-16 19:53:28"
-    },
-    {
-      "keyword": "internal revenue service",
-      "score": 4300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-12 13:50:26"
+      "timestamp": "2026-04-17 04:11:09"
     },
     {
       "keyword": "coachella",
@@ -114,11 +107,18 @@
       "timestamp": "2026-04-13 19:54:35"
     },
     {
-      "keyword": "ruby rose",
-      "score": 3350000,
+      "keyword": "internal revenue service",
+      "score": 4100000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-16 19:53:28"
+      "timestamp": "2026-04-12 13:50:26"
+    },
+    {
+      "keyword": "ruby rose",
+      "score": 3850000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-17 04:11:09"
     },
     {
       "keyword": "justin bieber coachella",
@@ -150,17 +150,17 @@
     },
     {
       "keyword": "athena strand",
-      "score": 3000000,
+      "score": 2800000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-14 03:57:12"
     },
     {
-      "keyword": "the boys",
-      "score": 2900000,
+      "keyword": "nhl playoff schedule",
+      "score": 2700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-13 08:45:55"
+      "timestamp": "2026-04-17 04:11:09"
     },
     {
       "keyword": "samuel bateman",
@@ -170,6 +170,13 @@
       "timestamp": "2026-04-15 08:24:41"
     },
     {
+      "keyword": "nba play in",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-04-17 04:11:09"
+    },
+    {
       "keyword": "malcolm in the middle",
       "score": 2500000,
       "traffic_numeric": 500000,
@@ -177,18 +184,25 @@
       "timestamp": "2026-04-13 04:15:00"
     },
     {
-      "keyword": "michael patrick",
+      "keyword": "the boys",
       "score": 2400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-13 08:45:55"
+    },
+    {
+      "keyword": "avatar the last airbender movie",
+      "score": 2400000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-17 04:11:09"
+    },
+    {
+      "keyword": "michael patrick",
+      "score": 2200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-13 04:15:00"
-    },
-    {
-      "keyword": "nhl playoff schedule",
-      "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-16 19:53:28"
     },
     {
       "keyword": "bayern - real madrid",
@@ -196,27 +210,13 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-16 08:25:12"
-    },
-    {
-      "keyword": "irs",
-      "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "金融/商业",
-      "timestamp": "2026-04-16 04:03:54"
-    },
-    {
-      "keyword": "wnba draft 2026",
-      "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-04-14 20:02:15"
     }
   ],
   "category_stats": {
-    "其他": 116,
-    "体育": 41,
-    "金融/商业": 4,
-    "科技/AI": 4
+    "其他": 117,
+    "体育": 43,
+    "科技/AI": 5,
+    "金融/商业": 4
   },
   "insights": [
     {

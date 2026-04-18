@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-18 03:40:33",
+  "last_updated": "2026-04-18 07:55:44",
   "trends": [
     {
       "keyword": "masters leaderboard",
-      "score": 72000000,
+      "score": 70000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-04-15 19:53:48"
@@ -17,35 +17,35 @@
     },
     {
       "keyword": "eric swalwell",
-      "score": 20100000,
+      "score": 19900000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-17 14:16:16"
     },
     {
       "keyword": "dianna russini",
-      "score": 15000000,
+      "score": 14000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-14 20:02:15"
     },
     {
       "keyword": "chris brown and usher tour",
-      "score": 12000000,
+      "score": 11800000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-17 08:19:21"
     },
     {
       "keyword": "offset",
-      "score": 10000000,
+      "score": 9000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-13 14:19:08"
     },
     {
       "keyword": "coachella 2026",
-      "score": 9500000,
+      "score": 9000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-04-14 03:57:12"
@@ -58,18 +58,25 @@
       "timestamp": "2026-04-18 03:40:33"
     },
     {
+      "keyword": "nba playoffs",
+      "score": 8400000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-04-18 07:55:44"
+    },
+    {
+      "keyword": "ruby rose",
+      "score": 6350000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-18 07:55:44"
+    },
+    {
       "keyword": "artemis 2 splashdown time",
-      "score": 8000000,
+      "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-04-12 04:02:18"
-    },
-    {
-      "keyword": "nba playoffs",
-      "score": 7900000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-04-18 03:40:33"
     },
     {
       "keyword": "justin bieber",
@@ -79,13 +86,6 @@
       "timestamp": "2026-04-17 19:49:22"
     },
     {
-      "keyword": "ruby rose",
-      "score": 5850000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-18 03:40:33"
-    },
-    {
       "keyword": "euphoria season 3",
       "score": 5200000,
       "traffic_numeric": 1000000,
@@ -93,25 +93,25 @@
       "timestamp": "2026-04-14 03:57:12"
     },
     {
-      "keyword": "aubrey plaza",
-      "score": 5000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-14 08:22:33"
-    },
-    {
       "keyword": "nhl playoff schedule",
-      "score": 4700000,
+      "score": 5200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-18 03:40:33"
+      "timestamp": "2026-04-18 07:55:44"
     },
     {
       "keyword": "avatar the last airbender movie",
-      "score": 4400000,
+      "score": 4900000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
-      "timestamp": "2026-04-18 03:40:33"
+      "timestamp": "2026-04-18 07:55:44"
+    },
+    {
+      "keyword": "aubrey plaza",
+      "score": 4500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-14 08:22:33"
     },
     {
       "keyword": "coachella",
@@ -121,6 +121,13 @@
       "timestamp": "2026-04-13 19:54:35"
     },
     {
+      "keyword": "justin fairfax",
+      "score": 3300000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-18 07:55:44"
+    },
+    {
       "keyword": "justin bieber coachella",
       "score": 3300000,
       "traffic_numeric": 500000,
@@ -128,11 +135,11 @@
       "timestamp": "2026-04-15 19:53:48"
     },
     {
-      "keyword": "masters",
+      "keyword": "coachella 2026 lineup",
       "score": 3000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-12 19:35:53"
+      "timestamp": "2026-04-13 14:19:08"
     },
     {
       "keyword": "what is coachella",
@@ -140,6 +147,13 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-14 20:02:15"
+    },
+    {
+      "keyword": "masters",
+      "score": 3000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-12 19:35:53"
     },
     {
       "keyword": "turbotax",
@@ -150,31 +164,10 @@
     },
     {
       "keyword": "internal revenue service",
-      "score": 3000000,
+      "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-12 13:50:26"
-    },
-    {
-      "keyword": "coachella 2026 lineup",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-13 14:19:08"
-    },
-    {
-      "keyword": "justin fairfax",
-      "score": 2800000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-04-18 03:40:33"
-    },
-    {
-      "keyword": "samuel bateman",
-      "score": 2500000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-15 08:24:41"
     },
     {
       "keyword": "nba play in",
@@ -184,11 +177,18 @@
       "timestamp": "2026-04-17 04:11:09"
     },
     {
-      "keyword": "malcolm in the middle",
-      "score": 2300000,
-      "traffic_numeric": 500000,
+      "keyword": "samuel bateman",
+      "score": 2400000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-13 04:15:00"
+      "timestamp": "2026-04-15 08:24:41"
+    },
+    {
+      "keyword": "lena dunham",
+      "score": 2350000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-18 07:55:44"
     },
     {
       "keyword": "bayern - real madrid",
@@ -205,17 +205,17 @@
       "timestamp": "2026-04-16 04:03:54"
     },
     {
-      "keyword": "lena dunham",
-      "score": 2150000,
-      "traffic_numeric": 200000,
+      "keyword": "malcolm in the middle",
+      "score": 2100000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-18 03:40:33"
+      "timestamp": "2026-04-13 04:15:00"
     }
   ],
   "category_stats": {
-    "其他": 114,
-    "体育": 45,
-    "科技/AI": 6,
+    "其他": 115,
+    "体育": 44,
+    "科技/AI": 7,
     "金融/商业": 4
   },
   "insights": [

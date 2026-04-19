@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19 13:57:15",
+  "last_updated": "2026-04-19 19:37:22",
   "trends": [
     {
       "keyword": "world quantum day",
@@ -10,28 +10,28 @@
     },
     {
       "keyword": "masters leaderboard",
-      "score": 51000000,
+      "score": 49000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-04-15 19:53:48"
     },
     {
       "keyword": "nba playoffs",
-      "score": 26400000,
+      "score": 31400000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-04-19 13:57:15"
+      "timestamp": "2026-04-19 19:37:21"
     },
     {
       "keyword": "eric swalwell",
-      "score": 18000000,
+      "score": 17500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-17 14:16:16"
     },
     {
       "keyword": "chris brown and usher tour",
-      "score": 10800000,
+      "score": 10600000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-17 08:19:21"
@@ -44,25 +44,32 @@
       "timestamp": "2026-04-19 13:57:15"
     },
     {
+      "keyword": "ruby rose",
+      "score": 8450000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-19 19:37:21"
+    },
+    {
       "keyword": "dianna russini",
-      "score": 9000000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-14 20:02:15"
     },
     {
-      "keyword": "ruby rose",
-      "score": 8250000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-19 13:57:15"
-    },
-    {
       "keyword": "avatar the last airbender movie",
-      "score": 7400000,
+      "score": 7900000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
-      "timestamp": "2026-04-19 13:57:15"
+      "timestamp": "2026-04-19 19:37:21"
+    },
+    {
+      "keyword": "justin fairfax",
+      "score": 6300000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-19 19:37:21"
     },
     {
       "keyword": "nhl playoff schedule",
@@ -79,36 +86,36 @@
       "timestamp": "2026-04-17 19:49:22"
     },
     {
-      "keyword": "justin fairfax",
-      "score": 5800000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-04-19 13:57:15"
-    },
-    {
       "keyword": "euphoria season 3",
-      "score": 5200000,
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-14 03:57:12"
     },
     {
+      "keyword": "d4vd",
+      "score": 4800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-19 19:37:21"
+    },
+    {
       "keyword": "coachella 2026",
-      "score": 5000000,
+      "score": 4000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-04-14 03:57:12"
     },
     {
-      "keyword": "d4vd",
-      "score": 4300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-19 13:57:15"
+      "keyword": "rockets vs lakers",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-04-19 19:37:21"
     },
     {
       "keyword": "offset",
-      "score": 4000000,
+      "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-13 14:19:08"
@@ -121,11 +128,11 @@
       "timestamp": "2026-04-13 19:54:35"
     },
     {
-      "keyword": "rockets vs lakers",
+      "keyword": "what is coachella",
       "score": 3000000,
       "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-04-19 13:57:15"
+      "category": "其他",
+      "timestamp": "2026-04-14 20:02:15"
     },
     {
       "keyword": "turbotax",
@@ -133,13 +140,6 @@
       "traffic_numeric": 2000000,
       "category": "金融/商业",
       "timestamp": "2026-04-16 04:03:54"
-    },
-    {
-      "keyword": "what is coachella",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-14 20:02:15"
     },
     {
       "keyword": "justin bieber coachella",
@@ -171,10 +171,10 @@
     },
     {
       "keyword": "liv golf",
-      "score": 2250000,
+      "score": 2350000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-19 13:57:15"
+      "timestamp": "2026-04-19 19:37:21"
     },
     {
       "keyword": "irs",
@@ -205,16 +205,16 @@
       "timestamp": "2026-04-14 08:22:33"
     },
     {
-      "keyword": "masters",
+      "keyword": "aubrey plaza",
       "score": 2000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-12 19:35:53"
+      "timestamp": "2026-04-14 08:22:33"
     }
   ],
   "category_stats": {
-    "其他": 107,
-    "体育": 47,
+    "其他": 104,
+    "体育": 49,
     "科技/AI": 9,
     "金融/商业": 4
   },

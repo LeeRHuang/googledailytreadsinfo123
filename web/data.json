@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20 09:06:48",
+  "last_updated": "2026-04-20 14:28:13",
   "trends": [
     {
       "keyword": "world quantum day",
@@ -10,21 +10,21 @@
     },
     {
       "keyword": "masters leaderboard",
-      "score": 39000000,
+      "score": 34000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-04-15 19:53:48"
     },
     {
       "keyword": "nba playoffs",
-      "score": 31200000,
+      "score": 30700000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-04-19 19:37:21"
     },
     {
       "keyword": "eric swalwell",
-      "score": 16500000,
+      "score": 16000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-17 14:16:16"
@@ -38,17 +38,17 @@
     },
     {
       "keyword": "chris brown and usher tour",
-      "score": 10400000,
+      "score": 10200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-17 08:19:21"
     },
     {
       "keyword": "avatar the last airbender movie",
-      "score": 8900000,
+      "score": 9400000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
-      "timestamp": "2026-04-20 09:06:48"
+      "timestamp": "2026-04-20 14:28:13"
     },
     {
       "keyword": "ruby rose",
@@ -59,10 +59,24 @@
     },
     {
       "keyword": "justin fairfax",
-      "score": 7300000,
+      "score": 7800000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
-      "timestamp": "2026-04-20 09:06:48"
+      "timestamp": "2026-04-20 14:28:13"
+    },
+    {
+      "keyword": "rockets vs lakers",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-04-20 14:28:13"
+    },
+    {
+      "keyword": "d4vd",
+      "score": 6300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-20 14:28:13"
     },
     {
       "keyword": "nhl playoff schedule",
@@ -80,24 +94,10 @@
     },
     {
       "keyword": "dianna russini",
-      "score": 6000000,
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-14 20:02:15"
-    },
-    {
-      "keyword": "rockets vs lakers",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-04-20 09:06:48"
-    },
-    {
-      "keyword": "d4vd",
-      "score": 5800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-20 09:06:48"
     },
     {
       "keyword": "wrestlemania 42",
@@ -105,20 +105,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-20 09:06:48"
-    },
-    {
-      "keyword": "coachella",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-13 19:54:35"
-    },
-    {
-      "keyword": "euphoria season 3",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-14 03:57:12"
     },
     {
       "keyword": "turbotax",
@@ -142,6 +128,13 @@
       "timestamp": "2026-04-15 19:53:48"
     },
     {
+      "keyword": "liv golf",
+      "score": 2550000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-20 14:28:13"
+    },
+    {
       "keyword": "nba play in",
       "score": 2500000,
       "traffic_numeric": 1000000,
@@ -156,25 +149,18 @@
       "timestamp": "2026-04-19 08:10:06"
     },
     {
+      "keyword": "rbc heritage",
+      "score": 2400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-20 14:28:13"
+    },
+    {
       "keyword": "lena dunham",
       "score": 2350000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-18 07:55:44"
-    },
-    {
-      "keyword": "liv golf",
-      "score": 2350000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-19 19:37:21"
-    },
-    {
-      "keyword": "irs",
-      "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "金融/商业",
-      "timestamp": "2026-04-16 04:03:54"
     },
     {
       "keyword": "bayern - real madrid",
@@ -184,6 +170,13 @@
       "timestamp": "2026-04-16 08:25:12"
     },
     {
+      "keyword": "irs",
+      "score": 2200000,
+      "traffic_numeric": 500000,
+      "category": "金融/商业",
+      "timestamp": "2026-04-16 04:03:54"
+    },
+    {
       "keyword": "wnba draft 2026",
       "score": 2100000,
       "traffic_numeric": 500000,
@@ -191,11 +184,11 @@
       "timestamp": "2026-04-14 20:02:15"
     },
     {
-      "keyword": "peter magyar",
+      "keyword": "euphoria season 3",
       "score": 2000000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-14 08:22:33"
+      "timestamp": "2026-04-14 03:57:12"
     },
     {
       "keyword": "angels vs yankees",
@@ -205,16 +198,23 @@
       "timestamp": "2026-04-17 08:19:21"
     },
     {
-      "keyword": "rbc heritage",
-      "score": 1900000,
-      "traffic_numeric": 500000,
+      "keyword": "beef season 2",
+      "score": 1800000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-20 09:06:48"
+      "timestamp": "2026-04-20 14:28:13"
+    },
+    {
+      "keyword": "pragmata",
+      "score": 1700000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-20 14:28:13"
     }
   ],
   "category_stats": {
-    "其他": 104,
-    "体育": 49,
+    "其他": 101,
+    "体育": 48,
     "科技/AI": 10,
     "金融/商业": 4
   },

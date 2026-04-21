@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20 19:59:04",
+  "last_updated": "2026-04-21 03:59:33",
   "trends": [
     {
       "keyword": "world quantum day",
@@ -17,31 +17,24 @@
     },
     {
       "keyword": "masters leaderboard",
-      "score": 29000000,
+      "score": 24000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-04-15 19:53:48"
     },
     {
       "keyword": "eric swalwell",
-      "score": 15000000,
+      "score": 14000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-17 14:16:16"
     },
     {
       "keyword": "trump jesus image",
-      "score": 10500000,
+      "score": 10000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-19 13:57:15"
-    },
-    {
-      "keyword": "chris brown and usher tour",
-      "score": 10000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-17 08:19:21"
     },
     {
       "keyword": "avatar the last airbender movie",
@@ -51,32 +44,39 @@
       "timestamp": "2026-04-20 19:59:04"
     },
     {
+      "keyword": "chris brown and usher tour",
+      "score": 9500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-17 08:19:21"
+    },
+    {
+      "keyword": "justin fairfax",
+      "score": 8800000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-21 03:59:33"
+    },
+    {
       "keyword": "ruby rose",
-      "score": 8600000,
+      "score": 8400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-20 04:03:13"
     },
     {
-      "keyword": "justin fairfax",
-      "score": 8300000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-04-20 19:59:04"
-    },
-    {
       "keyword": "rockets vs lakers",
-      "score": 7000000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-04-20 14:28:13"
+      "timestamp": "2026-04-21 03:59:33"
     },
     {
       "keyword": "d4vd",
-      "score": 6800000,
+      "score": 7300000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-20 19:59:04"
+      "timestamp": "2026-04-21 03:59:33"
     },
     {
       "keyword": "nhl playoff schedule",
@@ -93,25 +93,11 @@
       "timestamp": "2026-04-17 19:49:22"
     },
     {
-      "keyword": "dianna russini",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-14 20:02:15"
-    },
-    {
       "keyword": "wrestlemania 42",
       "score": 3900000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-20 09:06:48"
-    },
-    {
-      "keyword": "turbotax",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "金融/商业",
-      "timestamp": "2026-04-16 04:03:54"
     },
     {
       "keyword": "what is coachella",
@@ -121,11 +107,18 @@
       "timestamp": "2026-04-14 20:02:15"
     },
     {
-      "keyword": "justin bieber coachella",
-      "score": 2900000,
-      "traffic_numeric": 500000,
+      "keyword": "dianna russini",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-15 19:53:48"
+      "timestamp": "2026-04-14 20:02:15"
+    },
+    {
+      "keyword": "turbotax",
+      "score": 3000000,
+      "traffic_numeric": 2000000,
+      "category": "金融/商业",
+      "timestamp": "2026-04-16 04:03:54"
     },
     {
       "keyword": "liv golf",
@@ -142,11 +135,25 @@
       "timestamp": "2026-04-17 04:11:09"
     },
     {
-      "keyword": "warriors vs suns",
+      "keyword": "shamar elkins",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-21 03:59:33"
+    },
+    {
+      "keyword": "beef season 2",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-21 03:59:33"
+    },
+    {
+      "keyword": "justin bieber coachella",
       "score": 2400000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-04-19 08:10:06"
+      "category": "其他",
+      "timestamp": "2026-04-15 19:53:48"
     },
     {
       "keyword": "rbc heritage",
@@ -156,18 +163,18 @@
       "timestamp": "2026-04-20 14:28:13"
     },
     {
+      "keyword": "warriors vs suns",
+      "score": 2400000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-04-19 08:10:06"
+    },
+    {
       "keyword": "lena dunham",
       "score": 2350000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-18 07:55:44"
-    },
-    {
-      "keyword": "irs",
-      "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "金融/商业",
-      "timestamp": "2026-04-16 04:03:54"
     },
     {
       "keyword": "bayern - real madrid",
@@ -177,18 +184,18 @@
       "timestamp": "2026-04-16 08:25:12"
     },
     {
-      "keyword": "beef season 2",
-      "score": 2000000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-20 19:59:04"
+      "keyword": "irs",
+      "score": 2200000,
+      "traffic_numeric": 500000,
+      "category": "金融/商业",
+      "timestamp": "2026-04-16 04:03:54"
     },
     {
-      "keyword": "wnba draft 2026",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-04-14 20:02:15"
+      "keyword": "martin lawrence",
+      "score": 2050000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-21 03:59:33"
     },
     {
       "keyword": "wrestlemania 42 results",
@@ -198,31 +205,18 @@
       "timestamp": "2026-04-20 19:59:04"
     },
     {
-      "keyword": "shamar elkins",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-20 19:59:04"
-    },
-    {
       "keyword": "angels vs yankees",
-      "score": 1900000,
+      "score": 1800000,
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-04-17 08:19:21"
     }
   ],
   "category_stats": {
-    "其他": 101,
-    "体育": 46,
+    "其他": 99,
+    "体育": 48,
     "科技/AI": 11,
     "金融/商业": 4
   },
-  "insights": [
-    {
-      "title": "季节性效率/计划应用",
-      "context": "新年计划相关关键词搜索量激增。",
-      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
-    }
-  ]
+  "insights": []
 }

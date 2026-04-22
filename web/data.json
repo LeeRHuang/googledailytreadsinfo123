@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22 14:28:50",
+  "last_updated": "2026-04-22 19:52:55",
   "trends": [
     {
       "keyword": "world quantum day",
@@ -17,17 +17,17 @@
     },
     {
       "keyword": "rockets vs lakers",
-      "score": 13000000,
+      "score": 15000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-04-22 14:28:50"
+      "timestamp": "2026-04-22 19:52:55"
     },
     {
       "keyword": "d4vd",
-      "score": 10300000,
-      "traffic_numeric": 500000,
+      "score": 11300000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-22 14:28:50"
+      "timestamp": "2026-04-22 19:52:55"
     },
     {
       "keyword": "justin fairfax",
@@ -79,6 +79,13 @@
       "timestamp": "2026-04-17 08:19:21"
     },
     {
+      "keyword": "beef season 2",
+      "score": 5700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-22 19:52:55"
+    },
+    {
       "keyword": "nhl playoff schedule",
       "score": 5600000,
       "traffic_numeric": 500000,
@@ -86,11 +93,11 @@
       "timestamp": "2026-04-18 19:31:46"
     },
     {
-      "keyword": "beef season 2",
-      "score": 5200000,
+      "keyword": "patrick muldoon",
+      "score": 4400000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-22 14:28:50"
+      "timestamp": "2026-04-22 19:52:55"
     },
     {
       "keyword": "justin bieber",
@@ -98,13 +105,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-17 19:49:22"
-    },
-    {
-      "keyword": "patrick muldoon",
-      "score": 3900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-22 14:28:50"
     },
     {
       "keyword": "wrestlemania 42",
@@ -128,6 +128,20 @@
       "timestamp": "2026-04-21 19:55:27"
     },
     {
+      "keyword": "earth day",
+      "score": 3200000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-22 19:52:55"
+    },
+    {
+      "keyword": "john ternus",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-22 19:52:55"
+    },
+    {
       "keyword": "turbotax",
       "score": 3000000,
       "traffic_numeric": 2000000,
@@ -149,25 +163,11 @@
       "timestamp": "2026-04-20 14:28:13"
     },
     {
-      "keyword": "john ternus",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-22 14:28:50"
-    },
-    {
       "keyword": "nba play in",
       "score": 2500000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-04-17 04:11:09"
-    },
-    {
-      "keyword": "rbc heritage",
-      "score": 2400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-20 14:28:13"
     },
     {
       "keyword": "warriors vs suns",
@@ -177,11 +177,25 @@
       "timestamp": "2026-04-19 08:10:06"
     },
     {
+      "keyword": "rbc heritage",
+      "score": 2400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-20 14:28:13"
+    },
+    {
       "keyword": "bayern - real madrid",
       "score": 2200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-16 08:25:12"
+    },
+    {
+      "keyword": "wrestlemania 42 results",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-20 19:59:04"
     },
     {
       "keyword": "masters leaderboard",
@@ -196,25 +210,11 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-18 07:55:44"
-    },
-    {
-      "keyword": "wrestlemania 42 results",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-20 19:59:04"
-    },
-    {
-      "keyword": "dodgers vs rockies",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-04-22 04:18:34"
     }
   ],
   "category_stats": {
-    "其他": 107,
-    "体育": 48,
+    "其他": 111,
+    "体育": 50,
     "科技/AI": 13,
     "金融/商业": 4,
     "娱乐/生活": 2

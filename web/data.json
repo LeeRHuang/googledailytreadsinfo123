@@ -1,47 +1,33 @@
 {
-  "last_updated": "2026-04-22 08:20:38",
+  "last_updated": "2026-04-22 14:28:50",
   "trends": [
     {
       "keyword": "world quantum day",
-      "score": 65000000,
+      "score": 55000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-04-18 14:03:17"
     },
     {
       "keyword": "nba playoffs",
-      "score": 28700000,
+      "score": 28000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-04-19 19:37:21"
     },
     {
       "keyword": "rockets vs lakers",
-      "score": 11000000,
-      "traffic_numeric": 1000000,
+      "score": 13000000,
+      "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-04-22 08:20:38"
-    },
-    {
-      "keyword": "eric swalwell",
-      "score": 10000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-17 14:16:16"
+      "timestamp": "2026-04-22 14:28:50"
     },
     {
       "keyword": "d4vd",
-      "score": 9800000,
+      "score": 10300000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-22 08:20:38"
-    },
-    {
-      "keyword": "avatar the last airbender movie",
-      "score": 9700000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-04-20 19:59:04"
+      "timestamp": "2026-04-22 14:28:50"
     },
     {
       "keyword": "justin fairfax",
@@ -51,60 +37,74 @@
       "timestamp": "2026-04-21 14:29:14"
     },
     {
-      "keyword": "trump jesus image",
-      "score": 8000000,
+      "keyword": "avatar the last airbender movie",
+      "score": 9300000,
       "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-20 19:59:04"
+    },
+    {
+      "keyword": "eric swalwell",
+      "score": 8000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-19 13:57:15"
+      "timestamp": "2026-04-17 14:16:16"
     },
     {
       "keyword": "ruby rose",
-      "score": 7600000,
+      "score": 7200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-20 04:03:13"
     },
     {
+      "keyword": "trump jesus image",
+      "score": 7000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-19 13:57:15"
+    },
+    {
+      "keyword": "shamar elkins",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-22 14:28:50"
+    },
+    {
       "keyword": "chris brown and usher tour",
-      "score": 7500000,
+      "score": 6500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-17 08:19:21"
     },
     {
-      "keyword": "shamar elkins",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-22 08:20:38"
-    },
-    {
       "keyword": "nhl playoff schedule",
-      "score": 6000000,
+      "score": 5600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-18 19:31:46"
     },
     {
       "keyword": "beef season 2",
-      "score": 5000000,
+      "score": 5200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-22 08:20:38"
+      "timestamp": "2026-04-22 14:28:50"
     },
     {
       "keyword": "justin bieber",
-      "score": 4800000,
+      "score": 4100000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-17 19:49:22"
     },
     {
-      "keyword": "masters leaderboard",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
+      "keyword": "patrick muldoon",
+      "score": 3900000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-15 19:53:48"
+      "timestamp": "2026-04-22 14:28:50"
     },
     {
       "keyword": "wrestlemania 42",
@@ -128,13 +128,6 @@
       "timestamp": "2026-04-21 19:55:27"
     },
     {
-      "keyword": "patrick muldoon",
-      "score": 3400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-22 08:20:38"
-    },
-    {
       "keyword": "turbotax",
       "score": 3000000,
       "traffic_numeric": 2000000,
@@ -156,18 +149,18 @@
       "timestamp": "2026-04-20 14:28:13"
     },
     {
+      "keyword": "john ternus",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-22 14:28:50"
+    },
+    {
       "keyword": "nba play in",
       "score": 2500000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-04-17 04:11:09"
-    },
-    {
-      "keyword": "warriors vs suns",
-      "score": 2400000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-04-19 08:10:06"
     },
     {
       "keyword": "rbc heritage",
@@ -177,11 +170,11 @@
       "timestamp": "2026-04-20 14:28:13"
     },
     {
-      "keyword": "lena dunham",
-      "score": 2200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-18 07:55:44"
+      "keyword": "warriors vs suns",
+      "score": 2400000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-04-19 08:10:06"
     },
     {
       "keyword": "bayern - real madrid",
@@ -191,18 +184,25 @@
       "timestamp": "2026-04-16 08:25:12"
     },
     {
+      "keyword": "masters leaderboard",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-15 19:53:48"
+    },
+    {
+      "keyword": "lena dunham",
+      "score": 2000000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-18 07:55:44"
+    },
+    {
       "keyword": "wrestlemania 42 results",
       "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-20 19:59:04"
-    },
-    {
-      "keyword": "john ternus",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-22 08:20:38"
     },
     {
       "keyword": "dodgers vs rockies",
@@ -213,11 +213,11 @@
     }
   ],
   "category_stats": {
-    "其他": 106,
-    "体育": 47,
-    "科技/AI": 14,
+    "其他": 107,
+    "体育": 48,
+    "科技/AI": 13,
     "金融/商业": 4,
-    "娱乐/生活": 1
+    "娱乐/生活": 2
   },
   "insights": []
 }

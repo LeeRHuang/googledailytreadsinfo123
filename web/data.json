@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22 04:18:34",
+  "last_updated": "2026-04-22 08:20:38",
   "trends": [
     {
       "keyword": "world quantum day",
@@ -16,6 +16,13 @@
       "timestamp": "2026-04-19 19:37:21"
     },
     {
+      "keyword": "rockets vs lakers",
+      "score": 11000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-04-22 08:20:38"
+    },
+    {
       "keyword": "eric swalwell",
       "score": 10000000,
       "traffic_numeric": 1000000,
@@ -23,11 +30,11 @@
       "timestamp": "2026-04-17 14:16:16"
     },
     {
-      "keyword": "rockets vs lakers",
-      "score": 10000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-04-22 04:18:34"
+      "keyword": "d4vd",
+      "score": 9800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-22 08:20:38"
     },
     {
       "keyword": "avatar the last airbender movie",
@@ -35,13 +42,6 @@
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-04-20 19:59:04"
-    },
-    {
-      "keyword": "d4vd",
-      "score": 9300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-22 04:18:34"
     },
     {
       "keyword": "justin fairfax",
@@ -72,6 +72,13 @@
       "timestamp": "2026-04-17 08:19:21"
     },
     {
+      "keyword": "shamar elkins",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-22 08:20:38"
+    },
+    {
       "keyword": "nhl playoff schedule",
       "score": 6000000,
       "traffic_numeric": 500000,
@@ -79,11 +86,11 @@
       "timestamp": "2026-04-18 19:31:46"
     },
     {
-      "keyword": "shamar elkins",
+      "keyword": "beef season 2",
       "score": 5000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-22 04:18:34"
+      "timestamp": "2026-04-22 08:20:38"
     },
     {
       "keyword": "justin bieber",
@@ -91,13 +98,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-17 19:49:22"
-    },
-    {
-      "keyword": "beef season 2",
-      "score": 4500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-22 04:18:34"
     },
     {
       "keyword": "masters leaderboard",
@@ -128,6 +128,13 @@
       "timestamp": "2026-04-21 19:55:27"
     },
     {
+      "keyword": "patrick muldoon",
+      "score": 3400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-22 08:20:38"
+    },
+    {
       "keyword": "turbotax",
       "score": 3000000,
       "traffic_numeric": 2000000,
@@ -135,18 +142,11 @@
       "timestamp": "2026-04-16 04:03:54"
     },
     {
-      "keyword": "patrick muldoon",
-      "score": 2900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-22 04:18:34"
-    },
-    {
       "keyword": "martin lawrence",
-      "score": 2650000,
+      "score": 2850000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-22 04:18:34"
+      "timestamp": "2026-04-22 08:20:38"
     },
     {
       "keyword": "liv golf",
@@ -163,13 +163,6 @@
       "timestamp": "2026-04-17 04:11:09"
     },
     {
-      "keyword": "rbc heritage",
-      "score": 2400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-20 14:28:13"
-    },
-    {
       "keyword": "warriors vs suns",
       "score": 2400000,
       "traffic_numeric": 500000,
@@ -177,11 +170,11 @@
       "timestamp": "2026-04-19 08:10:06"
     },
     {
-      "keyword": "bayern - real madrid",
-      "score": 2200000,
-      "traffic_numeric": 1000000,
+      "keyword": "rbc heritage",
+      "score": 2400000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-16 08:25:12"
+      "timestamp": "2026-04-20 14:28:13"
     },
     {
       "keyword": "lena dunham",
@@ -191,6 +184,13 @@
       "timestamp": "2026-04-18 07:55:44"
     },
     {
+      "keyword": "bayern - real madrid",
+      "score": 2200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-16 08:25:12"
+    },
+    {
       "keyword": "wrestlemania 42 results",
       "score": 2000000,
       "traffic_numeric": 1000000,
@@ -198,22 +198,22 @@
       "timestamp": "2026-04-20 19:59:04"
     },
     {
+      "keyword": "john ternus",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-22 08:20:38"
+    },
+    {
       "keyword": "dodgers vs rockies",
       "score": 1800000,
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-04-22 04:18:34"
-    },
-    {
-      "keyword": "irs",
-      "score": 1700000,
-      "traffic_numeric": 500000,
-      "category": "金融/商业",
-      "timestamp": "2026-04-16 04:03:54"
     }
   ],
   "category_stats": {
-    "其他": 103,
+    "其他": 106,
     "体育": 47,
     "科技/AI": 14,
     "金融/商业": 4,

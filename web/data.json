@@ -1,13 +1,6 @@
 {
-  "last_updated": "2026-04-24 04:16:36",
+  "last_updated": "2026-04-24 08:38:24",
   "trends": [
-    {
-      "keyword": "world quantum day",
-      "score": 25000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-04-18 14:03:17"
-    },
     {
       "keyword": "nba playoffs",
       "score": 25000000,
@@ -23,8 +16,15 @@
       "timestamp": "2026-04-24 04:16:36"
     },
     {
+      "keyword": "world quantum day",
+      "score": 20000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-04-18 14:03:17"
+    },
+    {
       "keyword": "d4vd",
-      "score": 15100000,
+      "score": 14900000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-23 19:56:51"
@@ -37,25 +37,32 @@
       "timestamp": "2026-04-24 04:16:36"
     },
     {
+      "keyword": "nfl draft",
+      "score": 12000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-04-24 08:38:24"
+    },
+    {
       "keyword": "justin fairfax",
-      "score": 8500000,
+      "score": 8000000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-04-21 14:29:14"
     },
     {
+      "keyword": "patrick muldoon",
+      "score": 7400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-24 08:38:24"
+    },
+    {
       "keyword": "avatar the last airbender movie",
-      "score": 7500000,
+      "score": 7000000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-04-20 19:59:04"
-    },
-    {
-      "keyword": "nfl draft",
-      "score": 7000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-04-24 04:16:36"
     },
     {
       "keyword": "shamar elkins",
@@ -65,11 +72,11 @@
       "timestamp": "2026-04-22 14:28:50"
     },
     {
-      "keyword": "patrick muldoon",
-      "score": 6900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-24 04:16:36"
+      "keyword": "lakers vs rockets",
+      "score": 6500000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-04-24 08:38:24"
     },
     {
       "keyword": "beef season 2",
@@ -87,24 +94,10 @@
     },
     {
       "keyword": "ruby rose",
-      "score": 4800000,
+      "score": 4300000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-20 04:03:13"
-    },
-    {
-      "keyword": "lakers vs rockets",
-      "score": 4500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-04-24 04:16:36"
-    },
-    {
-      "keyword": "trump jesus image",
-      "score": 4000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-19 13:57:15"
     },
     {
       "keyword": "wrestlemania 42",
@@ -121,25 +114,46 @@
       "timestamp": "2026-04-21 19:55:27"
     },
     {
-      "keyword": "nhl playoff schedule",
+      "keyword": "virginia redistricting",
+      "score": 3700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-24 08:38:24"
+    },
+    {
+      "keyword": "trump jesus image",
       "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-19 13:57:15"
+    },
+    {
+      "keyword": "michael jackson movie",
+      "score": 3100000,
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-04-24 08:38:24"
+    },
+    {
+      "keyword": "nhl playoff schedule",
+      "score": 3000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-18 19:31:46"
     },
     {
-      "keyword": "virginia redistricting",
-      "score": 3200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-23 19:56:51"
-    },
-    {
       "keyword": "martin lawrence",
-      "score": 2800000,
+      "score": 2750000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-22 08:20:38"
+    },
+    {
+      "keyword": "darrell sheets",
+      "score": 2700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-24 08:38:24"
     },
     {
       "keyword": "nhl",
@@ -149,11 +163,11 @@
       "timestamp": "2026-04-23 04:02:47"
     },
     {
-      "keyword": "michael jackson movie",
-      "score": 2600000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-04-24 04:16:36"
+      "keyword": "nuggets vs timberwolves",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-04-24 08:38:24"
     },
     {
       "keyword": "warriors vs suns",
@@ -170,18 +184,11 @@
       "timestamp": "2026-04-20 14:28:13"
     },
     {
-      "keyword": "darrell sheets",
-      "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-24 04:16:36"
-    },
-    {
       "keyword": "claude design",
-      "score": 2200000,
+      "score": 2300000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-24 04:16:36"
+      "timestamp": "2026-04-24 08:38:24"
     },
     {
       "keyword": "wrestlemania 42 results",
@@ -191,31 +198,24 @@
       "timestamp": "2026-04-20 19:59:04"
     },
     {
-      "keyword": "eric swalwell",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-17 14:16:16"
-    },
-    {
-      "keyword": "liv golf",
-      "score": 1900000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-20 14:28:13"
-    },
-    {
       "keyword": "dodgers vs rockies",
       "score": 1800000,
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-04-22 04:18:34"
+    },
+    {
+      "keyword": "liv golf",
+      "score": 1700000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-20 14:28:13"
     }
   ],
   "category_stats": {
-    "其他": 110,
+    "其他": 108,
     "体育": 46,
-    "科技/AI": 14,
+    "科技/AI": 13,
     "娱乐/生活": 2,
     "金融/商业": 1
   },

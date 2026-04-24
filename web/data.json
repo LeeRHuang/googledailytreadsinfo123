@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24 14:25:40",
+  "last_updated": "2026-04-24 19:41:52",
   "trends": [
     {
       "keyword": "nba playoffs",
@@ -17,17 +17,17 @@
     },
     {
       "keyword": "earth day",
-      "score": 18200000,
+      "score": 23200000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-04-24 14:25:40"
+      "timestamp": "2026-04-24 19:41:52"
     },
     {
       "keyword": "nfl draft",
-      "score": 17000000,
+      "score": 22000000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-04-24 14:25:40"
+      "timestamp": "2026-04-24 19:41:52"
     },
     {
       "keyword": "world quantum day",
@@ -45,17 +45,17 @@
     },
     {
       "keyword": "lakers vs rockets",
-      "score": 8500000,
+      "score": 10500000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-04-24 14:25:40"
+      "timestamp": "2026-04-24 19:41:52"
     },
     {
       "keyword": "patrick muldoon",
-      "score": 8400000,
+      "score": 9400000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-24 14:25:40"
+      "timestamp": "2026-04-24 19:41:52"
     },
     {
       "keyword": "justin fairfax",
@@ -93,18 +93,18 @@
       "timestamp": "2026-04-22 19:52:55"
     },
     {
-      "keyword": "virginia redistricting",
-      "score": 4200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-24 14:25:40"
-    },
-    {
       "keyword": "michael jackson movie",
-      "score": 4100000,
+      "score": 5100000,
       "traffic_numeric": 1000000,
       "category": "娱乐/生活",
-      "timestamp": "2026-04-24 14:25:40"
+      "timestamp": "2026-04-24 19:41:52"
+    },
+    {
+      "keyword": "virginia redistricting",
+      "score": 4700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-24 19:41:52"
     },
     {
       "keyword": "wrestlemania 42",
@@ -121,6 +121,13 @@
       "timestamp": "2026-04-20 04:03:13"
     },
     {
+      "keyword": "nuggets vs timberwolves",
+      "score": 3700000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-04-24 19:41:52"
+    },
+    {
       "keyword": "hawks vs knicks",
       "score": 3700000,
       "traffic_numeric": 1000000,
@@ -128,18 +135,11 @@
       "timestamp": "2026-04-21 19:55:27"
     },
     {
-      "keyword": "nuggets vs timberwolves",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-04-24 14:25:40"
-    },
-    {
       "keyword": "darrell sheets",
-      "score": 3200000,
+      "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-24 14:25:40"
+      "timestamp": "2026-04-24 19:41:52"
     },
     {
       "keyword": "trump jesus image",
@@ -149,18 +149,18 @@
       "timestamp": "2026-04-19 13:57:15"
     },
     {
-      "keyword": "martin lawrence",
-      "score": 2700000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-22 08:20:38"
-    },
-    {
       "keyword": "nhl",
       "score": 2700000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-23 04:02:47"
+    },
+    {
+      "keyword": "martin lawrence",
+      "score": 2700000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-22 08:20:38"
     },
     {
       "keyword": "nhl playoff schedule",
@@ -177,18 +177,18 @@
       "timestamp": "2026-04-24 14:25:40"
     },
     {
-      "keyword": "warriors vs suns",
-      "score": 2400000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-04-19 08:10:06"
-    },
-    {
       "keyword": "rbc heritage",
       "score": 2400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-20 14:28:13"
+    },
+    {
+      "keyword": "warriors vs suns",
+      "score": 2400000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-04-19 08:10:06"
     },
     {
       "keyword": "wrestlemania 42 results",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 106,
-    "体育": 46,
+    "其他": 109,
+    "体育": 47,
     "科技/AI": 13,
     "金融/商业": 2,
     "娱乐/生活": 2

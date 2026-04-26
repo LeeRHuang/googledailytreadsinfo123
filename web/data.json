@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-25 19:36:29",
+  "last_updated": "2026-04-26 04:10:28",
   "trends": [
     {
       "keyword": "rockets vs lakers",
-      "score": 29500000,
+      "score": 28500000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-04-25 13:53:51"
@@ -24,21 +24,28 @@
     },
     {
       "keyword": "nba playoffs",
-      "score": 20000000,
+      "score": 15000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-04-19 19:37:21"
     },
     {
       "keyword": "patrick muldoon",
-      "score": 13400000,
+      "score": 14400000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-25 19:36:29"
+      "timestamp": "2026-04-26 04:10:28"
+    },
+    {
+      "keyword": "michael jackson movie",
+      "score": 12100000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-04-26 04:10:28"
     },
     {
       "keyword": "d4vd",
-      "score": 12500000,
+      "score": 12000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-23 19:56:51"
@@ -51,18 +58,25 @@
       "timestamp": "2026-04-24 19:41:52"
     },
     {
-      "keyword": "michael jackson movie",
-      "score": 10100000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-04-25 19:36:29"
-    },
-    {
       "keyword": "shamar elkins",
       "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-22 14:28:50"
+    },
+    {
+      "keyword": "darrell sheets",
+      "score": 6700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-26 04:10:28"
+    },
+    {
+      "keyword": "nuggets vs timberwolves",
+      "score": 6100000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-04-26 04:10:28"
     },
     {
       "keyword": "john ternus",
@@ -72,32 +86,11 @@
       "timestamp": "2026-04-24 14:25:40"
     },
     {
-      "keyword": "darrell sheets",
-      "score": 5700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-25 19:36:29"
-    },
-    {
       "keyword": "beef season 2",
-      "score": 5300000,
+      "score": 5100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-22 19:52:55"
-    },
-    {
-      "keyword": "nuggets vs timberwolves",
-      "score": 5100000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-04-25 13:53:51"
-    },
-    {
-      "keyword": "justin fairfax",
-      "score": 5000000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-04-21 14:29:14"
     },
     {
       "keyword": "virginia redistricting",
@@ -107,25 +100,11 @@
       "timestamp": "2026-04-24 19:41:52"
     },
     {
-      "keyword": "avatar the last airbender movie",
-      "score": 4000000,
+      "keyword": "justin fairfax",
+      "score": 4500000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
-      "timestamp": "2026-04-20 19:59:04"
-    },
-    {
-      "keyword": "hawks vs knicks",
-      "score": 3700000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-04-21 19:55:27"
-    },
-    {
-      "keyword": "wrestlemania 42",
-      "score": 3700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-20 09:06:48"
+      "timestamp": "2026-04-21 14:29:14"
     },
     {
       "keyword": "nhl",
@@ -135,6 +114,27 @@
       "timestamp": "2026-04-25 03:48:00"
     },
     {
+      "keyword": "avatar the last airbender movie",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-20 19:59:04"
+    },
+    {
+      "keyword": "wrestlemania 42",
+      "score": 3200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-20 09:06:48"
+    },
+    {
+      "keyword": "hawks vs knicks",
+      "score": 3200000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-04-21 19:55:27"
+    },
+    {
       "keyword": "claude design",
       "score": 2500000,
       "traffic_numeric": 200000,
@@ -142,32 +142,32 @@
       "timestamp": "2026-04-24 14:25:40"
     },
     {
+      "keyword": "david wilcock",
+      "score": 2320000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-26 04:10:28"
+    },
+    {
+      "keyword": "splc",
+      "score": 2300000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-26 04:10:28"
+    },
+    {
       "keyword": "martin lawrence",
-      "score": 2200000,
+      "score": 2100000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-22 08:20:38"
     },
     {
-      "keyword": "david wilcock",
-      "score": 2120000,
-      "traffic_numeric": 200000,
+      "keyword": "trump",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-04-25 19:36:29"
-    },
-    {
-      "keyword": "rbc heritage",
-      "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-20 14:28:13"
-    },
-    {
-      "keyword": "splc",
-      "score": 2100000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-25 19:36:29"
+      "timestamp": "2026-04-26 04:10:28"
     },
     {
       "keyword": "wrestlemania 42 results",
@@ -177,44 +177,44 @@
       "timestamp": "2026-04-20 19:59:04"
     },
     {
+      "keyword": "rbc heritage",
+      "score": 1900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-20 14:28:13"
+    },
+    {
+      "keyword": "clayface",
+      "score": 1850000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-26 04:10:28"
+    },
+    {
+      "keyword": "caleb downs",
+      "score": 1800000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-26 04:10:28"
+    },
+    {
+      "keyword": "makai lemon",
+      "score": 1800000,
+      "traffic_numeric": 200000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-26 04:10:28"
+    },
+    {
       "keyword": "mike tomlin",
       "score": 1750000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-25 19:36:29"
-    },
-    {
-      "keyword": "mike vrabel",
-      "score": 1700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-24 14:25:40"
-    },
-    {
-      "keyword": "dodgers vs rockies",
-      "score": 1700000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-04-22 04:18:34"
-    },
-    {
-      "keyword": "clayface",
-      "score": 1650000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-25 19:36:29"
-    },
-    {
-      "keyword": "phillies vs cubs",
-      "score": 1650000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-04-24 08:38:24"
     }
   ],
   "category_stats": {
-    "其他": 107,
-    "体育": 53,
+    "其他": 113,
+    "体育": 54,
     "科技/AI": 12,
     "娱乐/生活": 3,
     "金融/商业": 1

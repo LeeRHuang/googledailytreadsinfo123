@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-26 04:10:28",
+  "last_updated": "2026-04-26 08:16:27",
   "trends": [
     {
       "keyword": "rockets vs lakers",
-      "score": 28500000,
+      "score": 27500000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-04-25 13:53:51"
@@ -23,29 +23,22 @@
       "timestamp": "2026-04-25 19:36:29"
     },
     {
-      "keyword": "nba playoffs",
-      "score": 15000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-04-19 19:37:21"
-    },
-    {
       "keyword": "patrick muldoon",
-      "score": 14400000,
+      "score": 15400000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-26 04:10:28"
+      "timestamp": "2026-04-26 08:16:27"
     },
     {
       "keyword": "michael jackson movie",
-      "score": 12100000,
+      "score": 14100000,
       "traffic_numeric": 2000000,
       "category": "娱乐/生活",
-      "timestamp": "2026-04-26 04:10:28"
+      "timestamp": "2026-04-26 08:16:27"
     },
     {
       "keyword": "d4vd",
-      "score": 12000000,
+      "score": 11500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-23 19:56:51"
@@ -58,18 +51,25 @@
       "timestamp": "2026-04-24 19:41:52"
     },
     {
+      "keyword": "nba playoffs",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-04-19 19:37:21"
+    },
+    {
+      "keyword": "darrell sheets",
+      "score": 7700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-26 08:16:27"
+    },
+    {
       "keyword": "shamar elkins",
       "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-22 14:28:50"
-    },
-    {
-      "keyword": "darrell sheets",
-      "score": 6700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-26 04:10:28"
     },
     {
       "keyword": "nuggets vs timberwolves",
@@ -87,7 +87,7 @@
     },
     {
       "keyword": "beef season 2",
-      "score": 5100000,
+      "score": 4900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-22 19:52:55"
@@ -100,8 +100,15 @@
       "timestamp": "2026-04-24 19:41:52"
     },
     {
+      "keyword": "trump",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-26 08:16:27"
+    },
+    {
       "keyword": "justin fairfax",
-      "score": 4500000,
+      "score": 4000000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-04-21 14:29:14"
@@ -114,25 +121,32 @@
       "timestamp": "2026-04-25 03:48:00"
     },
     {
+      "keyword": "hawks vs knicks",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-04-21 19:55:27"
+    },
+    {
       "keyword": "avatar the last airbender movie",
-      "score": 3500000,
+      "score": 3000000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-04-20 19:59:04"
     },
     {
       "keyword": "wrestlemania 42",
-      "score": 3200000,
+      "score": 2700000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-20 09:06:48"
     },
     {
-      "keyword": "hawks vs knicks",
-      "score": 3200000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-04-21 19:55:27"
+      "keyword": "david wilcock",
+      "score": 2520000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-26 08:16:27"
     },
     {
       "keyword": "claude design",
@@ -142,32 +156,32 @@
       "timestamp": "2026-04-24 14:25:40"
     },
     {
-      "keyword": "david wilcock",
-      "score": 2320000,
+      "keyword": "splc",
+      "score": 2500000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-26 04:10:28"
+      "timestamp": "2026-04-26 08:16:27"
     },
     {
-      "keyword": "splc",
-      "score": 2300000,
+      "keyword": "clayface",
+      "score": 2050000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-26 04:10:28"
+      "timestamp": "2026-04-26 08:16:27"
+    },
+    {
+      "keyword": "makai lemon",
+      "score": 2000000,
+      "traffic_numeric": 200000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-26 08:16:27"
     },
     {
       "keyword": "martin lawrence",
-      "score": 2100000,
+      "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-22 08:20:38"
-    },
-    {
-      "keyword": "trump",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-26 04:10:28"
     },
     {
       "keyword": "wrestlemania 42 results",
@@ -177,32 +191,18 @@
       "timestamp": "2026-04-20 19:59:04"
     },
     {
+      "keyword": "caleb downs",
+      "score": 2000000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-26 08:16:27"
+    },
+    {
       "keyword": "rbc heritage",
       "score": 1900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-20 14:28:13"
-    },
-    {
-      "keyword": "clayface",
-      "score": 1850000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-26 04:10:28"
-    },
-    {
-      "keyword": "caleb downs",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-26 04:10:28"
-    },
-    {
-      "keyword": "makai lemon",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "科技/AI",
-      "timestamp": "2026-04-26 04:10:28"
     },
     {
       "keyword": "mike tomlin",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 113,
-    "体育": 54,
+    "其他": 111,
+    "体育": 53,
     "科技/AI": 12,
     "娱乐/生活": 3,
     "金融/商业": 1

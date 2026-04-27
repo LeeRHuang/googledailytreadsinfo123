@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-27 04:27:26",
+  "last_updated": "2026-04-27 09:18:01",
   "trends": [
     {
       "keyword": "rockets vs lakers",
-      "score": 24500000,
+      "score": 23500000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-04-25 13:53:51"
@@ -16,18 +16,18 @@
       "timestamp": "2026-04-24 19:41:52"
     },
     {
+      "keyword": "michael jackson movie",
+      "score": 22100000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-04-27 09:18:01"
+    },
+    {
       "keyword": "nfl draft",
       "score": 22000004,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-04-25 19:36:29"
-    },
-    {
-      "keyword": "michael jackson movie",
-      "score": 20100000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-04-27 04:27:26"
     },
     {
       "keyword": "patrick muldoon",
@@ -37,6 +37,13 @@
       "timestamp": "2026-04-26 19:41:33"
     },
     {
+      "keyword": "darrell sheets",
+      "score": 11700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-27 09:18:01"
+    },
+    {
       "keyword": "lakers vs rockets",
       "score": 11000000,
       "traffic_numeric": 2000000,
@@ -44,25 +51,18 @@
       "timestamp": "2026-04-27 04:27:26"
     },
     {
-      "keyword": "darrell sheets",
-      "score": 10700000,
-      "traffic_numeric": 1000000,
+      "keyword": "cole allen",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-04-27 04:27:26"
+      "timestamp": "2026-04-27 09:18:01"
     },
     {
       "keyword": "d4vd",
-      "score": 10000000,
+      "score": 9500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-23 19:56:51"
-    },
-    {
-      "keyword": "shamar elkins",
-      "score": 6500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-22 14:28:50"
     },
     {
       "keyword": "nuggets vs timberwolves",
@@ -79,18 +79,18 @@
       "timestamp": "2026-04-24 14:25:40"
     },
     {
+      "keyword": "shamar elkins",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-22 14:28:50"
+    },
+    {
       "keyword": "trump",
       "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-04-26 14:02:26"
-    },
-    {
-      "keyword": "cole allen",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-04-27 04:27:26"
     },
     {
       "keyword": "trump assassination attempt",
@@ -108,7 +108,7 @@
     },
     {
       "keyword": "beef season 2",
-      "score": 4300000,
+      "score": 4100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-22 19:52:55"
@@ -122,31 +122,45 @@
     },
     {
       "keyword": "david wilcock",
-      "score": 3120000,
+      "score": 3320000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-27 04:27:26"
+      "timestamp": "2026-04-27 09:18:01"
     },
     {
       "keyword": "splc",
-      "score": 2700000,
+      "score": 2900000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-26 14:02:26"
+      "timestamp": "2026-04-27 09:18:01"
     },
     {
       "keyword": "clayface",
-      "score": 2650000,
+      "score": 2850000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-27 04:27:26"
+      "timestamp": "2026-04-27 09:18:01"
     },
     {
       "keyword": "makai lemon",
-      "score": 2600000,
+      "score": 2800000,
       "traffic_numeric": 200000,
       "category": "科技/AI",
-      "timestamp": "2026-04-27 04:27:26"
+      "timestamp": "2026-04-27 09:18:01"
+    },
+    {
+      "keyword": "caleb downs",
+      "score": 2600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-27 09:18:01"
+    },
+    {
+      "keyword": "mike tomlin",
+      "score": 2550000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-27 09:18:01"
     },
     {
       "keyword": "hawks vs knicks",
@@ -156,32 +170,32 @@
       "timestamp": "2026-04-21 19:55:27"
     },
     {
-      "keyword": "justin fairfax",
-      "score": 2500000,
+      "keyword": "diego pavia",
+      "score": 2450000,
       "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-04-21 14:29:14"
+      "category": "其他",
+      "timestamp": "2026-04-27 09:18:01"
     },
     {
-      "keyword": "caleb downs",
+      "keyword": "klay thompson",
       "score": 2400000,
-      "traffic_numeric": 200000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-27 04:27:26"
+      "timestamp": "2026-04-27 09:18:01"
     },
     {
       "keyword": "claude design",
-      "score": 2400000,
+      "score": 2300000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-24 14:25:40"
     },
     {
-      "keyword": "mike tomlin",
-      "score": 2350000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-27 04:27:26"
+      "keyword": "justin fairfax",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-21 14:29:14"
     },
     {
       "keyword": "wrestlemania 42 results",
@@ -191,30 +205,16 @@
       "timestamp": "2026-04-20 19:59:04"
     },
     {
-      "keyword": "diego pavia",
-      "score": 1950000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-27 04:27:26"
-    },
-    {
-      "keyword": "klay thompson",
-      "score": 1900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-27 04:27:26"
-    },
-    {
-      "keyword": "mike vrabel",
+      "keyword": "cubs vs dodgers",
       "score": 1700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-24 14:25:40"
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-04-27 09:18:01"
     }
   ],
   "category_stats": {
-    "其他": 114,
-    "体育": 45,
+    "其他": 115,
+    "体育": 42,
     "科技/AI": 11,
     "娱乐/生活": 3,
     "金融/商业": 1

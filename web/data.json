@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27 14:51:20",
+  "last_updated": "2026-04-27 20:05:47",
   "trends": [
     {
       "keyword": "michael jackson movie",
@@ -30,36 +30,36 @@
       "timestamp": "2026-04-25 19:36:29"
     },
     {
+      "keyword": "cole allen",
+      "score": 20000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-04-27 20:05:47"
+    },
+    {
       "keyword": "patrick muldoon",
-      "score": 17200000,
+      "score": 17000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-26 19:41:33"
     },
     {
-      "keyword": "cole allen",
-      "score": 15000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-04-27 14:51:20"
-    },
-    {
       "keyword": "darrell sheets",
-      "score": 12700000,
+      "score": 13700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-27 14:51:20"
+      "timestamp": "2026-04-27 20:05:47"
     },
     {
       "keyword": "lakers vs rockets",
-      "score": 11000000,
+      "score": 10000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-04-27 04:27:26"
     },
     {
       "keyword": "d4vd",
-      "score": 9000000,
+      "score": 8500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-23 19:56:51"
@@ -72,13 +72,6 @@
       "timestamp": "2026-04-26 04:10:28"
     },
     {
-      "keyword": "john ternus",
-      "score": 6000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-24 14:25:40"
-    },
-    {
       "keyword": "trump",
       "score": 6000000,
       "traffic_numeric": 2000000,
@@ -86,11 +79,11 @@
       "timestamp": "2026-04-26 14:02:26"
     },
     {
-      "keyword": "shamar elkins",
-      "score": 5500000,
-      "traffic_numeric": 1000000,
+      "keyword": "john ternus",
+      "score": 6000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-22 14:28:50"
+      "timestamp": "2026-04-24 14:25:40"
     },
     {
       "keyword": "trump assassination attempt",
@@ -100,6 +93,13 @@
       "timestamp": "2026-04-26 19:41:33"
     },
     {
+      "keyword": "shamar elkins",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-22 14:28:50"
+    },
+    {
       "keyword": "virginia redistricting",
       "score": 4700000,
       "traffic_numeric": 500000,
@@ -107,18 +107,25 @@
       "timestamp": "2026-04-24 19:41:52"
     },
     {
-      "keyword": "beef season 2",
+      "keyword": "klay thompson",
       "score": 3900000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-22 19:52:55"
+      "timestamp": "2026-04-27 20:05:47"
     },
     {
       "keyword": "david wilcock",
-      "score": 3520000,
+      "score": 3720000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-27 14:51:20"
+      "timestamp": "2026-04-27 20:05:47"
+    },
+    {
+      "keyword": "beef season 2",
+      "score": 3700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-22 19:52:55"
     },
     {
       "keyword": "nhl",
@@ -128,6 +135,27 @@
       "timestamp": "2026-04-25 03:48:00"
     },
     {
+      "keyword": "diego pavia",
+      "score": 3450000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-27 20:05:47"
+    },
+    {
+      "keyword": "clayface",
+      "score": 3250000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-27 20:05:47"
+    },
+    {
+      "keyword": "makai lemon",
+      "score": 3200000,
+      "traffic_numeric": 200000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-27 20:05:47"
+    },
+    {
       "keyword": "splc",
       "score": 3100000,
       "traffic_numeric": 200000,
@@ -135,46 +163,25 @@
       "timestamp": "2026-04-27 14:51:20"
     },
     {
-      "keyword": "clayface",
-      "score": 3050000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-27 14:51:20"
-    },
-    {
-      "keyword": "makai lemon",
+      "keyword": "caleb downs",
       "score": 3000000,
       "traffic_numeric": 200000,
-      "category": "科技/AI",
-      "timestamp": "2026-04-27 14:51:20"
-    },
-    {
-      "keyword": "diego pavia",
-      "score": 2950000,
-      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-27 14:51:20"
-    },
-    {
-      "keyword": "klay thompson",
-      "score": 2900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-27 14:51:20"
-    },
-    {
-      "keyword": "caleb downs",
-      "score": 2800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-27 14:51:20"
+      "timestamp": "2026-04-27 20:05:47"
     },
     {
       "keyword": "mike tomlin",
-      "score": 2750000,
+      "score": 2950000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-27 14:51:20"
+      "timestamp": "2026-04-27 20:05:47"
+    },
+    {
+      "keyword": "apex movie",
+      "score": 2600000,
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-04-27 20:05:47"
     },
     {
       "keyword": "hawks vs knicks",
@@ -184,23 +191,16 @@
       "timestamp": "2026-04-21 19:55:27"
     },
     {
-      "keyword": "claude design",
-      "score": 2200000,
-      "traffic_numeric": 200000,
+      "keyword": "michael jackson",
+      "score": 2400000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-04-24 14:25:40"
+      "timestamp": "2026-04-27 20:05:47"
     },
     {
-      "keyword": "apex movie",
+      "keyword": "claude design",
       "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-04-27 14:51:20"
-    },
-    {
-      "keyword": "mike vrabel",
-      "score": 1700000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-24 14:25:40"
     },
@@ -213,17 +213,11 @@
     }
   ],
   "category_stats": {
-    "其他": 113,
-    "体育": 41,
-    "科技/AI": 11,
+    "其他": 112,
+    "体育": 40,
+    "科技/AI": 9,
     "娱乐/生活": 3,
     "金融/商业": 1
   },
-  "insights": [
-    {
-      "title": "季节性效率/计划应用",
-      "context": "新年计划相关关键词搜索量激增。",
-      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
-    }
-  ]
+  "insights": []
 }

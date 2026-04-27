@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-26 19:41:33",
+  "last_updated": "2026-04-27 04:27:26",
   "trends": [
     {
       "keyword": "rockets vs lakers",
-      "score": 25500000,
+      "score": 24500000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-04-25 13:53:51"
@@ -24,10 +24,10 @@
     },
     {
       "keyword": "michael jackson movie",
-      "score": 18100000,
+      "score": 20100000,
       "traffic_numeric": 2000000,
       "category": "娱乐/生活",
-      "timestamp": "2026-04-26 19:41:33"
+      "timestamp": "2026-04-27 04:27:26"
     },
     {
       "keyword": "patrick muldoon",
@@ -38,28 +38,28 @@
     },
     {
       "keyword": "lakers vs rockets",
-      "score": 10500000,
+      "score": 11000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-04-24 19:41:52"
+      "timestamp": "2026-04-27 04:27:26"
+    },
+    {
+      "keyword": "darrell sheets",
+      "score": 10700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-27 04:27:26"
     },
     {
       "keyword": "d4vd",
-      "score": 10500000,
+      "score": 10000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-23 19:56:51"
     },
     {
-      "keyword": "darrell sheets",
-      "score": 9700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-26 19:41:33"
-    },
-    {
       "keyword": "shamar elkins",
-      "score": 7000000,
+      "score": 6500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-22 14:28:50"
@@ -72,6 +72,13 @@
       "timestamp": "2026-04-26 04:10:28"
     },
     {
+      "keyword": "john ternus",
+      "score": 6000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-24 14:25:40"
+    },
+    {
       "keyword": "trump",
       "score": 6000000,
       "traffic_numeric": 2000000,
@@ -79,11 +86,11 @@
       "timestamp": "2026-04-26 14:02:26"
     },
     {
-      "keyword": "john ternus",
-      "score": 6000000,
-      "traffic_numeric": 500000,
+      "keyword": "cole allen",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-04-24 14:25:40"
+      "timestamp": "2026-04-27 04:27:26"
     },
     {
       "keyword": "trump assassination attempt",
@@ -101,31 +108,24 @@
     },
     {
       "keyword": "beef season 2",
-      "score": 4500000,
+      "score": 4300000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-22 19:52:55"
     },
     {
       "keyword": "nhl",
-      "score": 3700000,
+      "score": 3500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-25 03:48:00"
     },
     {
-      "keyword": "justin fairfax",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-04-21 14:29:14"
-    },
-    {
       "keyword": "david wilcock",
-      "score": 2920000,
+      "score": 3120000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-26 19:41:33"
+      "timestamp": "2026-04-27 04:27:26"
     },
     {
       "keyword": "splc",
@@ -135,11 +135,18 @@
       "timestamp": "2026-04-26 14:02:26"
     },
     {
-      "keyword": "claude design",
-      "score": 2500000,
+      "keyword": "clayface",
+      "score": 2650000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-24 14:25:40"
+      "timestamp": "2026-04-27 04:27:26"
+    },
+    {
+      "keyword": "makai lemon",
+      "score": 2600000,
+      "traffic_numeric": 200000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-27 04:27:26"
     },
     {
       "keyword": "hawks vs knicks",
@@ -149,32 +156,32 @@
       "timestamp": "2026-04-21 19:55:27"
     },
     {
-      "keyword": "clayface",
-      "score": 2450000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-26 19:41:33"
-    },
-    {
-      "keyword": "makai lemon",
-      "score": 2400000,
-      "traffic_numeric": 200000,
+      "keyword": "justin fairfax",
+      "score": 2500000,
+      "traffic_numeric": 500000,
       "category": "科技/AI",
-      "timestamp": "2026-04-26 19:41:33"
+      "timestamp": "2026-04-21 14:29:14"
     },
     {
       "keyword": "caleb downs",
-      "score": 2200000,
+      "score": 2400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-26 14:02:26"
+      "timestamp": "2026-04-27 04:27:26"
+    },
+    {
+      "keyword": "claude design",
+      "score": 2400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-24 14:25:40"
     },
     {
       "keyword": "mike tomlin",
-      "score": 2150000,
+      "score": 2350000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-26 19:41:33"
+      "timestamp": "2026-04-27 04:27:26"
     },
     {
       "keyword": "wrestlemania 42 results",
@@ -184,25 +191,18 @@
       "timestamp": "2026-04-20 19:59:04"
     },
     {
-      "keyword": "wrestlemania 42",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-20 09:06:48"
-    },
-    {
-      "keyword": "avatar the last airbender movie",
-      "score": 2000000,
+      "keyword": "diego pavia",
+      "score": 1950000,
       "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-04-20 19:59:04"
+      "category": "其他",
+      "timestamp": "2026-04-27 04:27:26"
     },
     {
-      "keyword": "martin lawrence",
-      "score": 1800000,
-      "traffic_numeric": 200000,
+      "keyword": "klay thompson",
+      "score": 1900000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-22 08:20:38"
+      "timestamp": "2026-04-27 04:27:26"
     },
     {
       "keyword": "mike vrabel",
@@ -213,9 +213,9 @@
     }
   ],
   "category_stats": {
-    "其他": 107,
-    "体育": 46,
-    "科技/AI": 12,
+    "其他": 114,
+    "体育": 45,
+    "科技/AI": 11,
     "娱乐/生活": 3,
     "金融/商业": 1
   },

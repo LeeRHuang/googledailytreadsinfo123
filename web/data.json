@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-01 04:43:07",
+  "last_updated": "2026-05-01 08:37:27",
   "trends": [
     {
       "keyword": "cole allen",
-      "score": 70000000,
+      "score": 75000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-05-01 04:43:07"
+      "timestamp": "2026-05-01 08:37:27"
     },
     {
       "keyword": "michael jackson movie",
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "klay thompson",
-      "score": 16900000,
+      "score": 17900000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-01 04:43:07"
+      "timestamp": "2026-05-01 08:37:27"
     },
     {
       "keyword": "michael jackson",
@@ -93,18 +93,18 @@
       "timestamp": "2026-04-26 14:02:26"
     },
     {
-      "keyword": "trump assassination attempt",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-04-26 19:41:33"
-    },
-    {
       "keyword": "salad",
       "score": 5000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-04-30 09:08:35"
+    },
+    {
+      "keyword": "trump assassination attempt",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-04-26 19:41:33"
     },
     {
       "keyword": "nuggets vs timberwolves",
@@ -142,6 +142,13 @@
       "timestamp": "2026-04-28 04:30:33"
     },
     {
+      "keyword": "kentucky derby 2026",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-01 08:37:27"
+    },
+    {
       "keyword": "jimmy kimmel",
       "score": 2850000,
       "traffic_numeric": 500000,
@@ -156,18 +163,18 @@
       "timestamp": "2026-04-27 20:05:47"
     },
     {
+      "keyword": "king charles",
+      "score": 2750000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-01 08:37:27"
+    },
+    {
       "keyword": "anthony edwards injury",
       "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-28 15:17:30"
-    },
-    {
-      "keyword": "kentucky derby 2026",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-01 04:43:07"
     },
     {
       "keyword": "mike tomlin",
@@ -184,11 +191,11 @@
       "timestamp": "2026-04-27 14:51:20"
     },
     {
-      "keyword": "king charles",
-      "score": 2250000,
+      "keyword": "david allan coe",
+      "score": 2300000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-01 04:43:07"
+      "timestamp": "2026-05-01 08:37:27"
     },
     {
       "keyword": "hulk hogan",
@@ -203,17 +210,10 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-29 20:16:25"
-    },
-    {
-      "keyword": "david allan coe",
-      "score": 1800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-01 04:43:07"
     }
   ],
   "category_stats": {
-    "其他": 117,
+    "其他": 120,
     "体育": 41,
     "科技/AI": 5,
     "金融/商业": 3,

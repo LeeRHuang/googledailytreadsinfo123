@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-05-01 08:37:27",
+  "last_updated": "2026-05-01 14:07:14",
   "trends": [
     {
       "keyword": "cole allen",
-      "score": 75000000,
+      "score": 80000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-05-01 08:37:27"
+      "timestamp": "2026-05-01 14:07:14"
     },
     {
       "keyword": "michael jackson movie",
-      "score": 21500000,
+      "score": 21000000,
       "traffic_numeric": 2000000,
       "category": "娱乐/生活",
       "timestamp": "2026-04-27 14:51:20"
     },
     {
       "keyword": "klay thompson",
-      "score": 17900000,
+      "score": 18900000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-01 08:37:27"
+      "timestamp": "2026-05-01 14:07:14"
     },
     {
       "keyword": "michael jackson",
@@ -37,25 +37,18 @@
       "timestamp": "2026-04-30 20:02:04"
     },
     {
-      "keyword": "nfl draft",
-      "score": 15000004,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-04-25 19:36:29"
-    },
-    {
       "keyword": "darrell sheets",
-      "score": 13500000,
+      "score": 13000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-28 15:17:30"
     },
     {
-      "keyword": "patrick muldoon",
-      "score": 10500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-26 19:41:33"
+      "keyword": "nfl draft",
+      "score": 10000004,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-04-25 19:36:29"
     },
     {
       "keyword": "earth day",
@@ -65,18 +58,18 @@
       "timestamp": "2026-04-24 19:41:52"
     },
     {
+      "keyword": "patrick muldoon",
+      "score": 10000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-26 19:41:33"
+    },
+    {
       "keyword": "apex movie",
       "score": 7700000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-04-30 20:02:04"
-    },
-    {
-      "keyword": "lakers vs rockets",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-04-27 04:27:26"
     },
     {
       "keyword": "rockets vs lakers",
@@ -107,11 +100,11 @@
       "timestamp": "2026-04-26 19:41:33"
     },
     {
-      "keyword": "nuggets vs timberwolves",
-      "score": 4800000,
-      "traffic_numeric": 1000000,
+      "keyword": "lakers vs rockets",
+      "score": 5000000,
+      "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-05-01 04:43:07"
+      "timestamp": "2026-04-27 04:27:26"
     },
     {
       "keyword": "psg vs bayern",
@@ -121,32 +114,53 @@
       "timestamp": "2026-05-01 04:43:07"
     },
     {
+      "keyword": "nuggets vs timberwolves",
+      "score": 3800000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-01 04:43:07"
+    },
+    {
       "keyword": "makai lemon",
-      "score": 4000000,
+      "score": 3800000,
       "traffic_numeric": 200000,
       "category": "科技/AI",
       "timestamp": "2026-04-29 09:07:09"
     },
     {
+      "keyword": "kentucky derby 2026",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-01 14:07:14"
+    },
+    {
+      "keyword": "david allan coe",
+      "score": 3300000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-01 14:07:14"
+    },
+    {
+      "keyword": "king charles",
+      "score": 3250000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-01 14:07:14"
+    },
+    {
       "keyword": "david wilcock",
-      "score": 3400000,
+      "score": 3200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-28 09:22:11"
     },
     {
       "keyword": "clayface",
-      "score": 3000000,
+      "score": 2900000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-28 04:30:33"
-    },
-    {
-      "keyword": "kentucky derby 2026",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-01 08:37:27"
     },
     {
       "keyword": "jimmy kimmel",
@@ -157,17 +171,10 @@
     },
     {
       "keyword": "caleb downs",
-      "score": 2800000,
+      "score": 2600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-27 20:05:47"
-    },
-    {
-      "keyword": "king charles",
-      "score": 2750000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-01 08:37:27"
     },
     {
       "keyword": "anthony edwards injury",
@@ -185,17 +192,17 @@
     },
     {
       "keyword": "splc",
-      "score": 2400000,
+      "score": 2200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-27 14:51:20"
     },
     {
-      "keyword": "david allan coe",
-      "score": 2300000,
-      "traffic_numeric": 500000,
+      "keyword": "james comey",
+      "score": 2120000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-01 08:37:27"
+      "timestamp": "2026-05-01 14:07:14"
     },
     {
       "keyword": "hulk hogan",
@@ -203,18 +210,11 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-29 09:07:09"
-    },
-    {
-      "keyword": "joe jackson",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-29 20:16:25"
     }
   ],
   "category_stats": {
-    "其他": 120,
-    "体育": 41,
+    "其他": 121,
+    "体育": 37,
     "科技/AI": 5,
     "金融/商业": 3,
     "娱乐/生活": 2

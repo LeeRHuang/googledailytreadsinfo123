@@ -1,26 +1,19 @@
 {
-  "last_updated": "2026-05-02 08:24:14",
+  "last_updated": "2026-05-02 13:59:21",
   "trends": [
     {
       "keyword": "cole allen",
-      "score": 85000000,
+      "score": 90000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-05-02 04:04:35"
+      "timestamp": "2026-05-02 13:59:21"
     },
     {
       "keyword": "klay thompson",
-      "score": 21900000,
+      "score": 22900000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-02 08:24:14"
-    },
-    {
-      "keyword": "michael jackson movie",
-      "score": 17000000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-04-27 14:51:20"
+      "timestamp": "2026-05-02 13:59:21"
     },
     {
       "keyword": "michael jackson",
@@ -28,6 +21,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-04-29 20:16:25"
+    },
+    {
+      "keyword": "michael jackson movie",
+      "score": 16000000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-04-27 14:51:20"
     },
     {
       "keyword": "diego pavia",
@@ -38,7 +38,7 @@
     },
     {
       "keyword": "darrell sheets",
-      "score": 11000000,
+      "score": 10500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-28 15:17:30"
@@ -52,10 +52,10 @@
     },
     {
       "keyword": "david allan coe",
-      "score": 6300000,
+      "score": 7300000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-02 08:24:14"
+      "timestamp": "2026-05-02 13:59:21"
     },
     {
       "keyword": "trump",
@@ -65,13 +65,6 @@
       "timestamp": "2026-04-26 14:02:26"
     },
     {
-      "keyword": "patrick muldoon",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-26 19:41:33"
-    },
-    {
       "keyword": "psg vs bayern",
       "score": 5700000,
       "traffic_numeric": 1000000,
@@ -79,11 +72,11 @@
       "timestamp": "2026-05-01 19:54:42"
     },
     {
-      "keyword": "salad",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
+      "keyword": "lorna hajdini",
+      "score": 5300000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-30 09:08:35"
+      "timestamp": "2026-05-02 13:59:21"
     },
     {
       "keyword": "trump assassination attempt",
@@ -93,11 +86,25 @@
       "timestamp": "2026-04-26 19:41:33"
     },
     {
-      "keyword": "lorna hajdini",
-      "score": 4300000,
+      "keyword": "patrick muldoon",
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-02 08:24:14"
+      "timestamp": "2026-04-26 19:41:33"
+    },
+    {
+      "keyword": "salad",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-04-30 09:08:35"
+    },
+    {
+      "keyword": "kentucky derby 2026",
+      "score": 4500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-02 13:59:21"
     },
     {
       "keyword": "king charles",
@@ -107,25 +114,18 @@
       "timestamp": "2026-05-02 04:04:35"
     },
     {
-      "keyword": "kentucky derby 2026",
-      "score": 4000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-01 19:54:42"
-    },
-    {
-      "keyword": "makai lemon",
-      "score": 3000000,
-      "traffic_numeric": 200000,
-      "category": "科技/AI",
-      "timestamp": "2026-04-29 09:07:09"
-    },
-    {
       "keyword": "jimmy kimmel",
       "score": 2850000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-30 04:26:59"
+    },
+    {
+      "keyword": "makai lemon",
+      "score": 2800000,
+      "traffic_numeric": 200000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-29 09:07:09"
     },
     {
       "keyword": "anthony edwards injury",
@@ -135,13 +135,6 @@
       "timestamp": "2026-04-28 15:17:30"
     },
     {
-      "keyword": "david wilcock",
-      "score": 2400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-28 09:22:11"
-    },
-    {
       "keyword": "james comey",
       "score": 2320000,
       "traffic_numeric": 200000,
@@ -149,32 +142,25 @@
       "timestamp": "2026-05-01 19:54:42"
     },
     {
-      "keyword": "rockets vs lakers",
-      "score": 2200000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-04-30 04:26:59"
-    },
-    {
-      "keyword": "nuggets vs timberwolves",
-      "score": 2200000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-01 04:43:07"
-    },
-    {
-      "keyword": "clayface",
-      "score": 2200000,
-      "traffic_numeric": 200000,
+      "keyword": "devil wears prada 2",
+      "score": 2300000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-28 04:30:33"
+      "timestamp": "2026-05-02 13:59:21"
     },
     {
       "keyword": "voting rights act",
-      "score": 2100000,
+      "score": 2300000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-02 08:24:14"
+      "timestamp": "2026-05-02 13:59:21"
+    },
+    {
+      "keyword": "david wilcock",
+      "score": 2200000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-28 09:22:11"
     },
     {
       "keyword": "hulk hogan",
@@ -184,6 +170,13 @@
       "timestamp": "2026-04-29 09:07:09"
     },
     {
+      "keyword": "clayface",
+      "score": 2000000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-28 04:30:33"
+    },
+    {
       "keyword": "joe jackson",
       "score": 2000000,
       "traffic_numeric": 1000000,
@@ -191,31 +184,38 @@
       "timestamp": "2026-04-29 20:16:25"
     },
     {
-      "keyword": "caleb downs",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-27 20:05:47"
-    },
-    {
-      "keyword": "devil wears prada 2",
-      "score": 1800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-02 08:24:14"
-    },
-    {
       "keyword": "nathan chasing horse",
       "score": 1650000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-30 15:01:30"
+    },
+    {
+      "keyword": "caleb downs",
+      "score": 1600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-27 20:05:47"
+    },
+    {
+      "keyword": "lakers vs rockets",
+      "score": 1500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-02 04:04:35"
+    },
+    {
+      "keyword": "spirit airlines",
+      "score": 1500000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-02 13:59:21"
     }
   ],
   "category_stats": {
-    "其他": 118,
-    "体育": 38,
-    "科技/AI": 6,
+    "其他": 114,
+    "体育": 39,
+    "科技/AI": 5,
     "娱乐/生活": 3,
     "金融/商业": 2
   },

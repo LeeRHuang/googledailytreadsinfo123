@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03 14:04:51",
+  "last_updated": "2026-05-03 19:50:29",
   "trends": [
     {
       "keyword": "cole allen",
@@ -10,7 +10,7 @@
     },
     {
       "keyword": "klay thompson",
-      "score": 22000000,
+      "score": 21500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-02 13:59:21"
@@ -31,49 +31,42 @@
     },
     {
       "keyword": "diego pavia",
-      "score": 14500000,
+      "score": 14000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-30 20:02:04"
     },
     {
       "keyword": "david allan coe",
-      "score": 11300000,
+      "score": 12300000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-03 14:04:51"
+      "timestamp": "2026-05-03 19:50:28"
     },
     {
       "keyword": "spirit airlines",
-      "score": 9500000,
+      "score": 11500000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
-      "timestamp": "2026-05-03 14:04:51"
+      "timestamp": "2026-05-03 19:50:28"
     },
     {
       "keyword": "lorna hajdini",
-      "score": 9300000,
+      "score": 10300000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-03 14:04:51"
+      "timestamp": "2026-05-03 19:50:28"
     },
     {
-      "keyword": "michael jackson movie",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-04-27 14:51:20"
-    },
-    {
-      "keyword": "darrell sheets",
-      "score": 7000000,
-      "traffic_numeric": 1000000,
+      "keyword": "who won the kentucky derby 2026",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-04-28 15:17:30"
+      "timestamp": "2026-05-03 19:50:28"
     },
     {
       "keyword": "apex movie",
-      "score": 7000000,
+      "score": 6800000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-04-30 20:02:04"
@@ -87,10 +80,24 @@
     },
     {
       "keyword": "devil wears prada 2",
-      "score": 5300000,
+      "score": 6300000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-03 14:04:51"
+      "timestamp": "2026-05-03 19:50:28"
+    },
+    {
+      "keyword": "darrell sheets",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-28 15:17:30"
+    },
+    {
+      "keyword": "michael jackson movie",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-04-27 14:51:20"
     },
     {
       "keyword": "salad",
@@ -98,20 +105,6 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-04-30 09:08:35"
-    },
-    {
-      "keyword": "who won the kentucky derby 2026",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-05-03 08:34:19"
-    },
-    {
-      "keyword": "trump assassination attempt",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-04-26 19:41:33"
     },
     {
       "keyword": "king charles",
@@ -156,20 +149,6 @@
       "timestamp": "2026-05-01 19:54:42"
     },
     {
-      "keyword": "76ers vs celtics",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-03 04:33:11"
-    },
-    {
-      "keyword": "makai lemon",
-      "score": 2000000,
-      "traffic_numeric": 200000,
-      "category": "科技/AI",
-      "timestamp": "2026-04-29 09:07:09"
-    },
-    {
       "keyword": "kentucky derby results",
       "score": 2000000,
       "traffic_numeric": 1000000,
@@ -184,25 +163,39 @@
       "timestamp": "2026-04-29 20:16:25"
     },
     {
-      "keyword": "hulk hogan",
-      "score": 1900000,
+      "keyword": "olivia wilde",
+      "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-29 09:07:09"
+      "timestamp": "2026-05-03 19:50:28"
+    },
+    {
+      "keyword": "76ers vs celtics",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-03 04:33:11"
     },
     {
       "keyword": "bruce willis",
-      "score": 1800000,
+      "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-03 14:04:51"
+      "timestamp": "2026-05-03 19:50:28"
     },
     {
-      "keyword": "olivia wilde",
+      "keyword": "makai lemon",
+      "score": 1800000,
+      "traffic_numeric": 200000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-29 09:07:09"
+    },
+    {
+      "keyword": "hulk hogan",
       "score": 1800000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-03 14:04:51"
+      "timestamp": "2026-04-29 09:07:09"
     },
     {
       "keyword": "nathan chasing horse",
@@ -210,10 +203,17 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-30 15:01:30"
+    },
+    {
+      "keyword": "lakers vs rockets",
+      "score": 1500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-02 04:04:35"
     }
   ],
   "category_stats": {
-    "其他": 120,
+    "其他": 117,
     "体育": 41,
     "科技/AI": 5,
     "娱乐/生活": 3,

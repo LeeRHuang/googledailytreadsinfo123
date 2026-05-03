@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03 04:33:11",
+  "last_updated": "2026-05-03 08:34:19",
   "trends": [
     {
       "keyword": "cole allen",
@@ -10,7 +10,7 @@
     },
     {
       "keyword": "klay thompson",
-      "score": 22700000,
+      "score": 22500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-02 13:59:21"
@@ -24,17 +24,10 @@
     },
     {
       "keyword": "diego pavia",
-      "score": 15200000,
+      "score": 15000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-30 20:02:04"
-    },
-    {
-      "keyword": "michael jackson movie",
-      "score": 12000000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-04-27 14:51:20"
     },
     {
       "keyword": "kentucky derby 2026",
@@ -45,31 +38,45 @@
     },
     {
       "keyword": "david allan coe",
-      "score": 9300000,
+      "score": 10300000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-03 04:33:11"
+      "timestamp": "2026-05-03 08:34:19"
+    },
+    {
+      "keyword": "michael jackson movie",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-04-27 14:51:20"
+    },
+    {
+      "keyword": "lorna hajdini",
+      "score": 8300000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-03 08:34:19"
     },
     {
       "keyword": "darrell sheets",
-      "score": 9000000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-28 15:17:30"
     },
     {
+      "keyword": "spirit airlines",
+      "score": 7500000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-03 08:34:19"
+    },
+    {
       "keyword": "apex movie",
-      "score": 7400000,
+      "score": 7200000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-04-30 20:02:04"
-    },
-    {
-      "keyword": "lorna hajdini",
-      "score": 7300000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-03 04:33:11"
     },
     {
       "keyword": "psg vs bayern",
@@ -79,11 +86,18 @@
       "timestamp": "2026-05-02 19:54:35"
     },
     {
-      "keyword": "spirit airlines",
-      "score": 5500000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-05-03 04:33:11"
+      "keyword": "salad",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-04-30 09:08:35"
+    },
+    {
+      "keyword": "who won the kentucky derby 2026",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-05-03 08:34:19"
     },
     {
       "keyword": "trump assassination attempt",
@@ -91,13 +105,6 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-04-26 19:41:33"
-    },
-    {
-      "keyword": "salad",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-04-30 09:08:35"
     },
     {
       "keyword": "devil wears prada 2",
@@ -114,25 +121,18 @@
       "timestamp": "2026-05-02 04:04:35"
     },
     {
-      "keyword": "trump",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-26 14:02:26"
-    },
-    {
-      "keyword": "patrick muldoon",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-26 19:41:33"
-    },
-    {
       "keyword": "jimmy kimmel",
       "score": 2850000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-30 04:26:59"
+    },
+    {
+      "keyword": "full moon may 2026",
+      "score": 2600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-03 08:34:19"
     },
     {
       "keyword": "voting rights act",
@@ -149,20 +149,6 @@
       "timestamp": "2026-04-28 15:17:30"
     },
     {
-      "keyword": "makai lemon",
-      "score": 2400000,
-      "traffic_numeric": 200000,
-      "category": "科技/AI",
-      "timestamp": "2026-04-29 09:07:09"
-    },
-    {
-      "keyword": "full moon may 2026",
-      "score": 2400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-03 04:33:11"
-    },
-    {
       "keyword": "james comey",
       "score": 2320000,
       "traffic_numeric": 200000,
@@ -170,11 +156,11 @@
       "timestamp": "2026-05-01 19:54:42"
     },
     {
-      "keyword": "joe jackson",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-29 20:16:25"
+      "keyword": "makai lemon",
+      "score": 2200000,
+      "traffic_numeric": 200000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-29 09:07:09"
     },
     {
       "keyword": "76ers vs celtics",
@@ -184,18 +170,32 @@
       "timestamp": "2026-05-03 04:33:11"
     },
     {
-      "keyword": "hulk hogan",
+      "keyword": "trump",
       "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-26 14:02:26"
+    },
+    {
+      "keyword": "patrick muldoon",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-26 19:41:33"
+    },
+    {
+      "keyword": "joe jackson",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-29 20:16:25"
+    },
+    {
+      "keyword": "hulk hogan",
+      "score": 1900000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-29 09:07:09"
-    },
-    {
-      "keyword": "david wilcock",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-04-28 09:22:11"
     },
     {
       "keyword": "nathan chasing horse",
@@ -205,15 +205,15 @@
       "timestamp": "2026-04-30 15:01:30"
     },
     {
-      "keyword": "clayface",
+      "keyword": "olivia wilde",
       "score": 1600000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-28 04:30:33"
+      "timestamp": "2026-05-03 08:34:19"
     }
   ],
   "category_stats": {
-    "其他": 120,
+    "其他": 123,
     "体育": 41,
     "科技/AI": 5,
     "娱乐/生活": 3,

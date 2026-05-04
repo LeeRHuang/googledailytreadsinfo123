@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04 04:35:37",
+  "last_updated": "2026-05-04 09:12:26",
   "trends": [
     {
       "keyword": "cole allen",
@@ -30,6 +30,20 @@
       "timestamp": "2026-04-29 20:16:25"
     },
     {
+      "keyword": "spirit airlines",
+      "score": 15500000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-04 09:12:26"
+    },
+    {
+      "keyword": "david allan coe",
+      "score": 14300000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-04 09:12:26"
+    },
+    {
       "keyword": "diego pavia",
       "score": 13500000,
       "traffic_numeric": 1000000,
@@ -37,25 +51,11 @@
       "timestamp": "2026-04-30 20:02:04"
     },
     {
-      "keyword": "spirit airlines",
-      "score": 13500000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-05-04 04:35:37"
-    },
-    {
-      "keyword": "david allan coe",
-      "score": 13300000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-04 04:35:37"
-    },
-    {
       "keyword": "lorna hajdini",
-      "score": 11300000,
+      "score": 12300000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-04 04:35:37"
+      "timestamp": "2026-05-04 09:12:26"
     },
     {
       "keyword": "who won the kentucky derby 2026",
@@ -86,18 +86,18 @@
       "timestamp": "2026-04-30 20:02:04"
     },
     {
-      "keyword": "darrell sheets",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-28 15:17:30"
-    },
-    {
       "keyword": "salad",
       "score": 5000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-04-30 09:08:35"
+    },
+    {
+      "keyword": "darrell sheets",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-28 15:17:30"
     },
     {
       "keyword": "king charles",
@@ -114,18 +114,18 @@
       "timestamp": "2026-04-27 14:51:20"
     },
     {
+      "keyword": "kentucky derby results",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-04 09:12:26"
+    },
+    {
       "keyword": "full moon may 2026",
       "score": 3100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-03 14:04:51"
-    },
-    {
-      "keyword": "kentucky derby results",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-04 04:35:37"
     },
     {
       "keyword": "jimmy kimmel",
@@ -142,6 +142,13 @@
       "timestamp": "2026-05-03 14:04:51"
     },
     {
+      "keyword": "olivia wilde",
+      "score": 2400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-04 09:12:26"
+    },
+    {
       "keyword": "james comey",
       "score": 2320000,
       "traffic_numeric": 200000,
@@ -156,18 +163,11 @@
       "timestamp": "2026-05-04 04:35:37"
     },
     {
-      "keyword": "olivia wilde",
+      "keyword": "f1",
       "score": 2200000,
-      "traffic_numeric": 200000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-04 04:35:37"
-    },
-    {
-      "keyword": "76ers vs celtics",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-03 04:33:11"
+      "timestamp": "2026-05-04 09:12:26"
     },
     {
       "keyword": "anthony edwards injury",
@@ -177,6 +177,13 @@
       "timestamp": "2026-04-28 15:17:30"
     },
     {
+      "keyword": "76ers vs celtics",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-03 04:33:11"
+    },
+    {
       "keyword": "joe jackson",
       "score": 2000000,
       "traffic_numeric": 1000000,
@@ -184,11 +191,11 @@
       "timestamp": "2026-04-29 20:16:25"
     },
     {
-      "keyword": "f1",
-      "score": 1700000,
-      "traffic_numeric": 500000,
+      "keyword": "seth rogen",
+      "score": 1750000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-04 04:35:37"
+      "timestamp": "2026-05-04 09:12:26"
     },
     {
       "keyword": "nathan chasing horse",
@@ -203,17 +210,10 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-04-29 09:07:09"
-    },
-    {
-      "keyword": "makai lemon",
-      "score": 1600000,
-      "traffic_numeric": 200000,
-      "category": "科技/AI",
-      "timestamp": "2026-04-29 09:07:09"
     }
   ],
   "category_stats": {
-    "其他": 122,
+    "其他": 127,
     "体育": 43,
     "科技/AI": 5,
     "娱乐/生活": 3,

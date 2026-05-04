@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-05-03 19:50:29",
+  "last_updated": "2026-05-04 04:35:37",
   "trends": [
     {
       "keyword": "cole allen",
-      "score": 90000000,
+      "score": 85000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-05-02 13:59:21"
     },
     {
       "keyword": "klay thompson",
-      "score": 21500000,
+      "score": 21000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-02 13:59:21"
@@ -31,31 +31,31 @@
     },
     {
       "keyword": "diego pavia",
-      "score": 14000000,
+      "score": 13500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-30 20:02:04"
     },
     {
-      "keyword": "david allan coe",
-      "score": 12300000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-03 19:50:28"
-    },
-    {
       "keyword": "spirit airlines",
-      "score": 11500000,
+      "score": 13500000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
-      "timestamp": "2026-05-03 19:50:28"
+      "timestamp": "2026-05-04 04:35:37"
+    },
+    {
+      "keyword": "david allan coe",
+      "score": 13300000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-04 04:35:37"
     },
     {
       "keyword": "lorna hajdini",
-      "score": 10300000,
+      "score": 11300000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-03 19:50:28"
+      "timestamp": "2026-05-04 04:35:37"
     },
     {
       "keyword": "who won the kentucky derby 2026",
@@ -65,11 +65,11 @@
       "timestamp": "2026-05-03 19:50:28"
     },
     {
-      "keyword": "apex movie",
-      "score": 6800000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-04-30 20:02:04"
+      "keyword": "devil wears prada 2",
+      "score": 7300000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-04 04:35:37"
     },
     {
       "keyword": "psg vs bayern",
@@ -79,25 +79,18 @@
       "timestamp": "2026-05-02 19:54:35"
     },
     {
-      "keyword": "devil wears prada 2",
-      "score": 6300000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-03 19:50:28"
+      "keyword": "apex movie",
+      "score": 6600000,
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-04-30 20:02:04"
     },
     {
       "keyword": "darrell sheets",
-      "score": 6000000,
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-28 15:17:30"
-    },
-    {
-      "keyword": "michael jackson movie",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-04-27 14:51:20"
     },
     {
       "keyword": "salad",
@@ -114,11 +107,25 @@
       "timestamp": "2026-05-02 04:04:35"
     },
     {
+      "keyword": "michael jackson movie",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-04-27 14:51:20"
+    },
+    {
       "keyword": "full moon may 2026",
       "score": 3100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-03 14:04:51"
+    },
+    {
+      "keyword": "kentucky derby results",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-04 04:35:37"
     },
     {
       "keyword": "jimmy kimmel",
@@ -135,13 +142,6 @@
       "timestamp": "2026-05-03 14:04:51"
     },
     {
-      "keyword": "anthony edwards injury",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-28 15:17:30"
-    },
-    {
       "keyword": "james comey",
       "score": 2320000,
       "traffic_numeric": 200000,
@@ -149,25 +149,18 @@
       "timestamp": "2026-05-01 19:54:42"
     },
     {
-      "keyword": "kentucky derby results",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
+      "keyword": "bruce willis",
+      "score": 2200000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-03 14:04:51"
-    },
-    {
-      "keyword": "joe jackson",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-29 20:16:25"
+      "timestamp": "2026-05-04 04:35:37"
     },
     {
       "keyword": "olivia wilde",
-      "score": 2000000,
+      "score": 2200000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-03 19:50:28"
+      "timestamp": "2026-05-04 04:35:37"
     },
     {
       "keyword": "76ers vs celtics",
@@ -177,25 +170,25 @@
       "timestamp": "2026-05-03 04:33:11"
     },
     {
-      "keyword": "bruce willis",
+      "keyword": "anthony edwards injury",
       "score": 2000000,
-      "traffic_numeric": 200000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-03 19:50:28"
+      "timestamp": "2026-04-28 15:17:30"
     },
     {
-      "keyword": "makai lemon",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "科技/AI",
-      "timestamp": "2026-04-29 09:07:09"
+      "keyword": "joe jackson",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-29 20:16:25"
     },
     {
-      "keyword": "hulk hogan",
-      "score": 1800000,
-      "traffic_numeric": 200000,
+      "keyword": "f1",
+      "score": 1700000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-04-29 09:07:09"
+      "timestamp": "2026-05-04 04:35:37"
     },
     {
       "keyword": "nathan chasing horse",
@@ -205,16 +198,23 @@
       "timestamp": "2026-04-30 15:01:30"
     },
     {
-      "keyword": "lakers vs rockets",
-      "score": 1500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-02 04:04:35"
+      "keyword": "hulk hogan",
+      "score": 1600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-04-29 09:07:09"
+    },
+    {
+      "keyword": "makai lemon",
+      "score": 1600000,
+      "traffic_numeric": 200000,
+      "category": "科技/AI",
+      "timestamp": "2026-04-29 09:07:09"
     }
   ],
   "category_stats": {
-    "其他": 117,
-    "体育": 41,
+    "其他": 122,
+    "体育": 43,
     "科技/AI": 5,
     "娱乐/生活": 3,
     "金融/商业": 2

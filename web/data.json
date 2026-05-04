@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-05-04 14:57:10",
+  "last_updated": "2026-05-04 20:07:18",
   "trends": [
     {
       "keyword": "cole allen",
-      "score": 75000000,
+      "score": 70000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-05-02 13:59:21"
     },
     {
+      "keyword": "spirit airlines",
+      "score": 19500000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-04 20:07:18"
+    },
+    {
       "keyword": "klay thompson",
-      "score": 20000000,
+      "score": 19000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-02 13:59:21"
-    },
-    {
-      "keyword": "spirit airlines",
-      "score": 17500000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-05-04 14:57:10"
     },
     {
       "keyword": "kentucky derby 2026",
@@ -30,29 +30,29 @@
       "timestamp": "2026-05-03 14:04:51"
     },
     {
+      "keyword": "david allan coe",
+      "score": 16300000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-04 20:07:18"
+    },
+    {
+      "keyword": "lorna hajdini",
+      "score": 14300000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-04 20:07:18"
+    },
+    {
       "keyword": "michael jackson",
-      "score": 16000000,
+      "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-04-29 20:16:25"
     },
     {
-      "keyword": "david allan coe",
-      "score": 15300000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-04 14:57:10"
-    },
-    {
-      "keyword": "lorna hajdini",
-      "score": 13300000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-04 14:57:10"
-    },
-    {
       "keyword": "diego pavia",
-      "score": 12500000,
+      "score": 12000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-30 20:02:04"
@@ -72,6 +72,13 @@
       "timestamp": "2026-05-04 04:35:37"
     },
     {
+      "keyword": "kentucky derby results",
+      "score": 7000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-04 20:07:18"
+    },
+    {
       "keyword": "psg vs bayern",
       "score": 6700000,
       "traffic_numeric": 1000000,
@@ -79,15 +86,8 @@
       "timestamp": "2026-05-02 19:54:35"
     },
     {
-      "keyword": "kentucky derby results",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-04 14:57:10"
-    },
-    {
       "keyword": "apex movie",
-      "score": 5600000,
+      "score": 5100000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-04-30 20:02:04"
@@ -107,6 +107,13 @@
       "timestamp": "2026-05-02 04:04:35"
     },
     {
+      "keyword": "voting rights act",
+      "score": 3100000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-04 20:07:18"
+    },
+    {
       "keyword": "full moon may 2026",
       "score": 3100000,
       "traffic_numeric": 500000,
@@ -114,37 +121,23 @@
       "timestamp": "2026-05-03 14:04:51"
     },
     {
-      "keyword": "darrell sheets",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-28 15:17:30"
-    },
-    {
-      "keyword": "voting rights act",
-      "score": 2900000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-04 14:57:10"
-    },
-    {
       "keyword": "jimmy kimmel",
-      "score": 2850000,
+      "score": 2800000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-30 04:26:59"
     },
     {
+      "keyword": "olivia wilde",
+      "score": 2800000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-04 20:07:18"
+    },
+    {
       "keyword": "f1",
       "score": 2700000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-04 14:57:10"
-    },
-    {
-      "keyword": "olivia wilde",
-      "score": 2600000,
-      "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-04 14:57:10"
     },
@@ -163,11 +156,11 @@
       "timestamp": "2026-05-04 04:35:37"
     },
     {
-      "keyword": "joe jackson",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
+      "keyword": "seth rogen",
+      "score": 2150000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-04-29 20:16:25"
+      "timestamp": "2026-05-04 20:07:18"
     },
     {
       "keyword": "76ers vs celtics",
@@ -177,11 +170,25 @@
       "timestamp": "2026-05-03 04:33:11"
     },
     {
-      "keyword": "seth rogen",
-      "score": 1950000,
+      "keyword": "darrell sheets",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-28 15:17:30"
+    },
+    {
+      "keyword": "joe jackson",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-29 20:16:25"
+    },
+    {
+      "keyword": "gauche",
+      "score": 1850000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-04 14:57:10"
+      "timestamp": "2026-05-04 20:07:18"
     },
     {
       "keyword": "nathan chasing horse",
@@ -191,11 +198,11 @@
       "timestamp": "2026-04-30 15:01:30"
     },
     {
-      "keyword": "gauche",
-      "score": 1650000,
-      "traffic_numeric": 100000,
-      "category": "其他",
-      "timestamp": "2026-05-04 14:57:10"
+      "keyword": "man on fire netflix",
+      "score": 1600000,
+      "traffic_numeric": 200000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-05-04 20:07:18"
     },
     {
       "keyword": "anthony edwards injury",
@@ -203,20 +210,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-04-28 15:17:30"
-    },
-    {
-      "keyword": "dodgers vs cardinals",
-      "score": 1500000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-05-04 09:12:26"
     }
   ],
   "category_stats": {
-    "其他": 125,
-    "体育": 41,
+    "其他": 121,
+    "体育": 42,
     "科技/AI": 5,
-    "娱乐/生活": 2,
+    "娱乐/生活": 3,
     "金融/商业": 2
   },
   "insights": [

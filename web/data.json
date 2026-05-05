@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-05-05 04:01:36",
+  "last_updated": "2026-05-05 09:13:28",
   "trends": [
     {
       "keyword": "cole allen",
-      "score": 70000000,
+      "score": 65000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-05-02 13:59:21"
     },
     {
       "keyword": "spirit airlines",
-      "score": 21500000,
+      "score": 23500000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
-      "timestamp": "2026-05-05 04:01:36"
-    },
-    {
-      "keyword": "klay thompson",
-      "score": 19000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-02 13:59:21"
+      "timestamp": "2026-05-05 09:13:28"
     },
     {
       "keyword": "david allan coe",
-      "score": 17300000,
+      "score": 18300000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-05 04:01:36"
+      "timestamp": "2026-05-05 09:13:28"
+    },
+    {
+      "keyword": "klay thompson",
+      "score": 18000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-02 13:59:21"
     },
     {
       "keyword": "kentucky derby 2026",
@@ -38,17 +38,10 @@
     },
     {
       "keyword": "lorna hajdini",
-      "score": 15300000,
+      "score": 16300000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-05 04:01:36"
-    },
-    {
-      "keyword": "michael jackson",
-      "score": 14000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-29 20:16:25"
+      "timestamp": "2026-05-05 09:13:28"
     },
     {
       "keyword": "who won the kentucky derby 2026",
@@ -58,8 +51,15 @@
       "timestamp": "2026-05-04 14:57:10"
     },
     {
-      "keyword": "diego pavia",
+      "keyword": "michael jackson",
       "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-04-29 20:16:25"
+    },
+    {
+      "keyword": "diego pavia",
+      "score": 11000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-30 20:02:04"
@@ -86,18 +86,18 @@
       "timestamp": "2026-05-02 19:54:35"
     },
     {
-      "keyword": "apex movie",
-      "score": 5100000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-04-30 20:02:04"
-    },
-    {
       "keyword": "salad",
       "score": 5000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-04-30 09:08:35"
+    },
+    {
+      "keyword": "apex movie",
+      "score": 4900000,
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-04-30 20:02:04"
     },
     {
       "keyword": "king charles",
@@ -107,6 +107,13 @@
       "timestamp": "2026-05-02 04:04:35"
     },
     {
+      "keyword": "voting rights act",
+      "score": 3100000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-04 20:07:18"
+    },
+    {
       "keyword": "full moon may 2026",
       "score": 3100000,
       "traffic_numeric": 500000,
@@ -114,11 +121,11 @@
       "timestamp": "2026-05-03 14:04:51"
     },
     {
-      "keyword": "voting rights act",
+      "keyword": "hantavirus",
       "score": 3100000,
-      "traffic_numeric": 200000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-04 20:07:18"
+      "timestamp": "2026-05-05 09:13:28"
     },
     {
       "keyword": "olivia wilde",
@@ -128,13 +135,6 @@
       "timestamp": "2026-05-04 20:07:18"
     },
     {
-      "keyword": "jimmy kimmel",
-      "score": 2800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-04-30 04:26:59"
-    },
-    {
       "keyword": "f1",
       "score": 2700000,
       "traffic_numeric": 500000,
@@ -142,11 +142,18 @@
       "timestamp": "2026-05-04 14:57:10"
     },
     {
+      "keyword": "jimmy kimmel",
+      "score": 2600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-04-30 04:26:59"
+    },
+    {
       "keyword": "seth rogen",
-      "score": 2350000,
+      "score": 2550000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-05 04:01:36"
+      "timestamp": "2026-05-05 09:13:28"
     },
     {
       "keyword": "james comey",
@@ -156,6 +163,13 @@
       "timestamp": "2026-05-01 19:54:42"
     },
     {
+      "keyword": "gauche",
+      "score": 2250000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-05 09:13:28"
+    },
+    {
       "keyword": "bruce willis",
       "score": 2200000,
       "traffic_numeric": 200000,
@@ -163,32 +177,11 @@
       "timestamp": "2026-05-04 04:35:37"
     },
     {
-      "keyword": "hantavirus",
-      "score": 2100000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-05 04:01:36"
-    },
-    {
-      "keyword": "gauche",
-      "score": 2050000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-05 04:01:36"
-    },
-    {
-      "keyword": "joe jackson",
+      "keyword": "met gala theme 2026",
       "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-29 20:16:25"
-    },
-    {
-      "keyword": "darrell sheets",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-28 15:17:30"
+      "timestamp": "2026-05-05 09:13:28"
     },
     {
       "keyword": "76ers vs celtics",
@@ -199,22 +192,29 @@
     },
     {
       "keyword": "man on fire netflix",
-      "score": 1800000,
+      "score": 2000000,
       "traffic_numeric": 200000,
       "category": "娱乐/生活",
-      "timestamp": "2026-05-05 04:01:36"
+      "timestamp": "2026-05-05 09:13:28"
     },
     {
-      "keyword": "nathan chasing horse",
-      "score": 1650000,
-      "traffic_numeric": 200000,
+      "keyword": "joe jackson",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-04-30 15:01:30"
+      "timestamp": "2026-04-29 20:16:25"
+    },
+    {
+      "keyword": "home depot",
+      "score": 1800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-05 09:13:28"
     }
   ],
   "category_stats": {
     "其他": 124,
-    "体育": 46,
+    "体育": 45,
     "科技/AI": 5,
     "娱乐/生活": 3,
     "金融/商业": 2

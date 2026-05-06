@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-06 04:28:51",
+  "last_updated": "2026-05-06 09:23:02",
   "trends": [
     {
       "keyword": "cole allen",
-      "score": 45000000,
+      "score": 40000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-05-02 13:59:21"
@@ -24,10 +24,10 @@
     },
     {
       "keyword": "lorna hajdini",
-      "score": 18300000,
+      "score": 19300000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-06 04:28:51"
+      "timestamp": "2026-05-06 09:23:02"
     },
     {
       "keyword": "kentucky derby 2026",
@@ -38,7 +38,7 @@
     },
     {
       "keyword": "klay thompson",
-      "score": 14000000,
+      "score": 13000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-02 13:59:21"
@@ -58,6 +58,20 @@
       "timestamp": "2026-05-05 04:01:36"
     },
     {
+      "keyword": "hantavirus",
+      "score": 8100000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-06 09:23:02"
+    },
+    {
+      "keyword": "met gala theme 2026",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-06 09:23:02"
+    },
+    {
       "keyword": "devil wears prada 2",
       "score": 7300000,
       "traffic_numeric": 1000000,
@@ -66,31 +80,17 @@
     },
     {
       "keyword": "diego pavia",
-      "score": 7000000,
+      "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-30 20:02:04"
     },
     {
-      "keyword": "hantavirus",
-      "score": 6100000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-06 04:28:51"
-    },
-    {
       "keyword": "psg vs bayern",
-      "score": 6000000,
+      "score": 5500000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-05-02 19:54:35"
-    },
-    {
-      "keyword": "met gala theme 2026",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-06 04:28:51"
     },
     {
       "keyword": "salad",
@@ -100,25 +100,11 @@
       "timestamp": "2026-04-30 09:08:35"
     },
     {
-      "keyword": "michael jackson",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-04-29 20:16:25"
-    },
-    {
       "keyword": "king charles",
       "score": 3900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-02 04:04:35"
-    },
-    {
-      "keyword": "apex movie",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-04-30 20:02:04"
     },
     {
       "keyword": "voting rights act",
@@ -133,6 +119,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-03 14:04:51"
+    },
+    {
+      "keyword": "apex movie",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-04-30 20:02:04"
     },
     {
       "keyword": "seth rogen",
@@ -156,6 +149,13 @@
       "timestamp": "2026-05-04 14:57:10"
     },
     {
+      "keyword": "man on fire netflix",
+      "score": 2600000,
+      "traffic_numeric": 200000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-05-06 09:23:02"
+    },
+    {
       "keyword": "76ers vs knicks",
       "score": 2500000,
       "traffic_numeric": 1000000,
@@ -170,25 +170,11 @@
       "timestamp": "2026-05-06 04:28:51"
     },
     {
-      "keyword": "man on fire netflix",
-      "score": 2400000,
-      "traffic_numeric": 200000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-05-06 04:28:51"
-    },
-    {
       "keyword": "gauche",
       "score": 2250000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-05 09:13:28"
-    },
-    {
-      "keyword": "james comey",
-      "score": 2200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-01 19:54:42"
     },
     {
       "keyword": "bruce willis",
@@ -198,11 +184,25 @@
       "timestamp": "2026-05-04 04:35:37"
     },
     {
+      "keyword": "michael jackson",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-29 20:16:25"
+    },
+    {
       "keyword": "joe jackson",
       "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-04-29 20:16:25"
+    },
+    {
+      "keyword": "james comey",
+      "score": 2000000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-01 19:54:42"
     },
     {
       "keyword": "76ers vs celtics",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 120,
-    "体育": 45,
+    "其他": 119,
+    "体育": 48,
     "娱乐/生活": 4,
     "科技/AI": 4,
     "金融/商业": 2

@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-05-06 20:18:42",
+  "last_updated": "2026-05-07 04:27:13",
   "trends": [
-    {
-      "keyword": "cole allen",
-      "score": 30000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-05-02 13:59:21"
-    },
     {
       "keyword": "spirit airlines",
       "score": 25500000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-05-05 20:03:18"
+    },
+    {
+      "keyword": "cole allen",
+      "score": 25000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-05-02 13:59:21"
     },
     {
       "keyword": "lorna hajdini",
@@ -24,24 +24,24 @@
     },
     {
       "keyword": "david allan coe",
-      "score": 19300000,
+      "score": 19200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-06 04:28:51"
     },
     {
       "keyword": "kentucky derby 2026",
-      "score": 15700000,
+      "score": 15500000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-05-03 14:04:51"
     },
     {
       "keyword": "hantavirus",
-      "score": 12100000,
+      "score": 14100000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-05-06 20:18:42"
+      "timestamp": "2026-05-07 04:27:13"
     },
     {
       "keyword": "who won the kentucky derby 2026",
@@ -52,7 +52,7 @@
     },
     {
       "keyword": "klay thompson",
-      "score": 11000000,
+      "score": 10000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-02 13:59:21"
@@ -79,6 +79,20 @@
       "timestamp": "2026-05-04 04:35:37"
     },
     {
+      "keyword": "met gala",
+      "score": 6400000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-07 04:27:13"
+    },
+    {
+      "keyword": "timberwolves vs spurs",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-07 04:27:13"
+    },
+    {
       "keyword": "salad",
       "score": 5000000,
       "traffic_numeric": 5000000,
@@ -86,53 +100,32 @@
       "timestamp": "2026-04-30 09:08:35"
     },
     {
+      "keyword": "76ers vs knicks",
+      "score": 4700000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-07 04:27:13"
+    },
+    {
       "keyword": "psg vs bayern",
-      "score": 4500000,
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-05-02 19:54:35"
     },
     {
-      "keyword": "timberwolves vs spurs",
-      "score": 4500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-06 20:18:42"
-    },
-    {
-      "keyword": "met gala",
-      "score": 4400000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-06 20:18:42"
-    },
-    {
-      "keyword": "diego pavia",
+      "keyword": "lakers vs thunder",
       "score": 4000000,
       "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-04-30 20:02:04"
+      "category": "体育",
+      "timestamp": "2026-05-07 04:27:13"
     },
     {
       "keyword": "king charles",
-      "score": 3900000,
+      "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-02 04:04:35"
-    },
-    {
-      "keyword": "76ers vs knicks",
-      "score": 3700000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-06 20:18:42"
-    },
-    {
-      "keyword": "voting rights act",
-      "score": 3200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-05 20:03:18"
     },
     {
       "keyword": "full moon may 2026",
@@ -142,6 +135,13 @@
       "timestamp": "2026-05-03 14:04:51"
     },
     {
+      "keyword": "diego pavia",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-04-30 20:02:04"
+    },
+    {
       "keyword": "man on fire netflix",
       "score": 3000000,
       "traffic_numeric": 200000,
@@ -149,11 +149,11 @@
       "timestamp": "2026-05-06 20:18:42"
     },
     {
-      "keyword": "lakers vs thunder",
+      "keyword": "voting rights act",
       "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-06 20:18:42"
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-05 20:03:18"
     },
     {
       "keyword": "seth rogen",
@@ -163,18 +163,32 @@
       "timestamp": "2026-05-06 04:28:51"
     },
     {
-      "keyword": "olivia wilde",
-      "score": 2700000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-04 20:07:18"
-    },
-    {
       "keyword": "f1",
       "score": 2700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-04 14:57:10"
+    },
+    {
+      "keyword": "olivia wilde",
+      "score": 2600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-04 20:07:18"
+    },
+    {
+      "keyword": "cavaliers vs pistons",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-05-07 04:27:13"
+    },
+    {
+      "keyword": "rudy giuliani",
+      "score": 2400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-07 04:27:13"
     },
     {
       "keyword": "gauche",
@@ -191,20 +205,6 @@
       "timestamp": "2026-05-04 04:35:37"
     },
     {
-      "keyword": "rudy giuliani",
-      "score": 2200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-06 20:18:42"
-    },
-    {
-      "keyword": "apex movie",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-04-30 20:02:04"
-    },
-    {
       "keyword": "76ers vs celtics",
       "score": 2000000,
       "traffic_numeric": 2000000,
@@ -213,9 +213,9 @@
     }
   ],
   "category_stats": {
-    "其他": 117,
-    "体育": 47,
-    "娱乐/生活": 4,
+    "其他": 116,
+    "体育": 46,
+    "娱乐/生活": 5,
     "科技/AI": 4,
     "金融/商业": 2
   },

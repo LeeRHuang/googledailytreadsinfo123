@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-08 08:15:13",
+  "last_updated": "2026-05-08 14:29:47",
   "trends": [
     {
       "keyword": "hantavirus",
-      "score": 36100000,
+      "score": 41100000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-05-08 08:15:13"
+      "timestamp": "2026-05-08 14:29:47"
     },
     {
       "keyword": "spirit airlines",
@@ -17,28 +17,21 @@
     },
     {
       "keyword": "lorna hajdini",
-      "score": 20500000,
+      "score": 19500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-06 20:18:42"
     },
     {
-      "keyword": "cole allen",
-      "score": 20000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-05-02 13:59:21"
-    },
-    {
       "keyword": "david allan coe",
-      "score": 17500000,
+      "score": 16000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-06 04:28:51"
     },
     {
       "keyword": "kentucky derby 2026",
-      "score": 14000000,
+      "score": 13000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-05-03 14:04:51"
@@ -51,6 +44,20 @@
       "timestamp": "2026-05-04 14:57:10"
     },
     {
+      "keyword": "timberwolves vs spurs",
+      "score": 11000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-08 14:29:47"
+    },
+    {
+      "keyword": "lakers vs thunder",
+      "score": 10500000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-08 14:29:47"
+    },
+    {
       "keyword": "met gala theme 2026",
       "score": 10000000,
       "traffic_numeric": 2000000,
@@ -58,18 +65,18 @@
       "timestamp": "2026-05-08 04:02:33"
     },
     {
-      "keyword": "lakers vs thunder",
+      "keyword": "cole allen",
       "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-08 08:15:13"
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-05-02 13:59:21"
     },
     {
-      "keyword": "timberwolves vs spurs",
-      "score": 10000000,
+      "keyword": "76ers vs knicks",
+      "score": 9700000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-05-08 08:15:13"
+      "timestamp": "2026-05-08 14:29:47"
     },
     {
       "keyword": "kentucky derby results",
@@ -77,13 +84,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-05 04:01:36"
-    },
-    {
-      "keyword": "76ers vs knicks",
-      "score": 8700000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-08 04:02:33"
     },
     {
       "keyword": "met gala",
@@ -94,38 +94,45 @@
     },
     {
       "keyword": "devil wears prada 2",
-      "score": 7100000,
+      "score": 6700000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-04 04:35:37"
     },
     {
+      "keyword": "ted turner",
+      "score": 6400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-08 14:29:47"
+    },
+    {
+      "keyword": "cavaliers vs pistons",
+      "score": 5500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-08 14:29:47"
+    },
+    {
       "keyword": "klay thompson",
-      "score": 6000000,
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-02 13:59:21"
     },
     {
-      "keyword": "ted turner",
-      "score": 5400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-08 08:15:13"
-    },
-    {
-      "keyword": "cavaliers vs pistons",
-      "score": 4500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-08 08:15:13"
-    },
-    {
       "keyword": "rudy giuliani",
-      "score": 3400000,
-      "traffic_numeric": 200000,
+      "score": 3900000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-08 08:15:13"
+      "timestamp": "2026-05-08 14:29:47"
+    },
+    {
+      "keyword": "tanner horner",
+      "score": 3400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-08 14:29:47"
     },
     {
       "keyword": "full moon may 2026",
@@ -142,18 +149,18 @@
       "timestamp": "2026-05-06 20:18:42"
     },
     {
-      "keyword": "tanner horner",
-      "score": 2900000,
+      "keyword": "kyle loftis",
+      "score": 3000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-08 08:15:13"
+      "timestamp": "2026-05-08 14:29:47"
     },
     {
-      "keyword": "seth rogen",
-      "score": 2900000,
-      "traffic_numeric": 200000,
+      "keyword": "canvas hacked",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-06 04:28:51"
+      "timestamp": "2026-05-08 14:29:47"
     },
     {
       "keyword": "f1",
@@ -163,18 +170,11 @@
       "timestamp": "2026-05-04 14:57:10"
     },
     {
-      "keyword": "kyle loftis",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-08 08:15:13"
-    },
-    {
-      "keyword": "olivia wilde",
-      "score": 2200000,
+      "keyword": "seth rogen",
+      "score": 2700000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-04 20:07:18"
+      "timestamp": "2026-05-06 04:28:51"
     },
     {
       "keyword": "knicks vs 76ers",
@@ -184,38 +184,38 @@
       "timestamp": "2026-05-08 08:15:13"
     },
     {
-      "keyword": "voting rights act",
-      "score": 2200000,
+      "keyword": "olivia wilde",
+      "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-05 20:03:18"
+      "timestamp": "2026-05-04 20:07:18"
     },
     {
       "keyword": "bruce willis",
-      "score": 2200000,
+      "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-04 04:35:37"
     },
     {
-      "keyword": "canvas hacked",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-08 08:15:13"
-    },
-    {
-      "keyword": "76ers vs celtics",
+      "keyword": "airline",
       "score": 2000000,
       "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-08 14:29:47"
+    },
+    {
+      "keyword": "psg vs bayern",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-05-03 04:33:11"
+      "timestamp": "2026-05-02 19:54:35"
     }
   ],
   "category_stats": {
-    "其他": 115,
+    "其他": 109,
     "体育": 45,
-    "科技/AI": 5,
+    "科技/AI": 7,
     "娱乐/生活": 5
   },
   "insights": [

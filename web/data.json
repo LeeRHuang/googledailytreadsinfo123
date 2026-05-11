@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-05-11 15:52:17",
+  "last_updated": "2026-05-11 20:38:25",
   "trends": [
     {
       "keyword": "hantavirus",
-      "score": 45500006,
+      "score": 45000006,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-05-10 14:19:53"
     },
     {
       "keyword": "lakers vs thunder",
-      "score": 29000000,
+      "score": 31000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-05-11 15:52:17"
+      "timestamp": "2026-05-11 20:38:24"
     },
     {
       "keyword": "timberwolves vs spurs",
-      "score": 19000000,
+      "score": 19500000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-05-10 19:46:11"
+      "timestamp": "2026-05-11 20:38:24"
     },
     {
       "keyword": "ted turner",
-      "score": 17400000,
+      "score": 18400000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-11 15:52:17"
+      "timestamp": "2026-05-11 20:38:24"
     },
     {
       "keyword": "76ers vs knicks",
@@ -51,6 +51,13 @@
       "timestamp": "2026-05-08 04:02:33"
     },
     {
+      "keyword": "sean strickland",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-11 20:38:24"
+    },
+    {
       "keyword": "spurs vs timberwolves",
       "score": 9000000,
       "traffic_numeric": 2000000,
@@ -65,46 +72,25 @@
       "timestamp": "2026-05-09 19:58:57"
     },
     {
+      "keyword": "kyle loftis",
+      "score": 8500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-11 20:38:24"
+    },
+    {
+      "keyword": "canvas",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-11 20:38:24"
+    },
+    {
       "keyword": "met gala",
-      "score": 8200000,
+      "score": 8000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-08 04:02:33"
-    },
-    {
-      "keyword": "kyle loftis",
-      "score": 8000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-11 10:39:51"
-    },
-    {
-      "keyword": "lorna hajdini",
-      "score": 8000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-06 20:18:42"
-    },
-    {
-      "keyword": "spirit airlines",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-05-05 20:03:18"
-    },
-    {
-      "keyword": "sean strickland",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-11 15:52:17"
-    },
-    {
-      "keyword": "ufc 328",
-      "score": 7500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-10 14:19:53"
     },
     {
       "keyword": "cavaliers vs pistons",
@@ -114,11 +100,25 @@
       "timestamp": "2026-05-09 04:19:12"
     },
     {
-      "keyword": "canvas",
-      "score": 6000000,
+      "keyword": "ufc 328",
+      "score": 7500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-05-11 15:52:17"
+      "timestamp": "2026-05-10 14:19:53"
+    },
+    {
+      "keyword": "lorna hajdini",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-06 20:18:42"
+    },
+    {
+      "keyword": "spirit airlines",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-05 20:03:18"
     },
     {
       "keyword": "hantavirus symptoms",
@@ -128,11 +128,18 @@
       "timestamp": "2026-05-10 19:46:11"
     },
     {
+      "keyword": "pistons vs cavaliers",
+      "score": 4700000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-11 20:38:24"
+    },
+    {
       "keyword": "guthrie",
-      "score": 4400000,
+      "score": 4600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-11 15:52:17"
+      "timestamp": "2026-05-11 20:38:24"
     },
     {
       "keyword": "tanner horner",
@@ -142,18 +149,18 @@
       "timestamp": "2026-05-09 04:19:12"
     },
     {
-      "keyword": "david allan coe",
-      "score": 4000000,
+      "keyword": "nba draft lottery",
+      "score": 4200000,
       "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-06 04:28:51"
+      "category": "体育",
+      "timestamp": "2026-05-11 20:38:24"
     },
     {
-      "keyword": "pistons vs cavaliers",
+      "keyword": "barcelona vs real madrid",
       "score": 3700000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-05-11 15:52:17"
+      "timestamp": "2026-05-11 20:38:24"
     },
     {
       "keyword": "happy mothers day",
@@ -164,17 +171,10 @@
     },
     {
       "keyword": "rudy giuliani",
-      "score": 3300000,
+      "score": 3100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-08 14:29:47"
-    },
-    {
-      "keyword": "nba draft lottery",
-      "score": 3200000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-11 15:52:17"
     },
     {
       "keyword": "hantavirus outbreak",
@@ -184,18 +184,18 @@
       "timestamp": "2026-05-11 15:52:17"
     },
     {
-      "keyword": "kentucky derby results",
+      "keyword": "hantavirus map",
       "score": 3000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-05-05 04:01:36"
+      "timestamp": "2026-05-11 20:38:24"
     },
     {
-      "keyword": "barcelona vs real madrid",
-      "score": 2700000,
+      "keyword": "david allan coe",
+      "score": 3000000,
       "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-11 15:52:17"
+      "category": "其他",
+      "timestamp": "2026-05-06 04:28:51"
     },
     {
       "keyword": "airline",
@@ -205,18 +205,18 @@
       "timestamp": "2026-05-09 08:33:21"
     },
     {
-      "keyword": "lord of the flies",
-      "score": 2050000,
+      "keyword": "david attenborough",
+      "score": 2170000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-10 04:42:22"
+      "timestamp": "2026-05-11 20:38:24"
     }
   ],
   "category_stats": {
-    "其他": 106,
+    "其他": 101,
     "体育": 36,
-    "科技/AI": 8,
-    "娱乐/生活": 5
+    "科技/AI": 9,
+    "娱乐/生活": 4
   },
   "insights": [
     {

@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-05-10 19:46:11",
+  "last_updated": "2026-05-11 04:49:04",
   "trends": [
     {
       "keyword": "hantavirus",
-      "score": 46100006,
+      "score": 45900006,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-05-10 14:19:53"
     },
     {
       "keyword": "lakers vs thunder",
-      "score": 23000000,
+      "score": 25000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-05-10 19:46:11"
+      "timestamp": "2026-05-11 04:49:04"
     },
     {
       "keyword": "timberwolves vs spurs",
@@ -23,39 +23,32 @@
       "timestamp": "2026-05-10 19:46:11"
     },
     {
+      "keyword": "ted turner",
+      "score": 15400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-11 04:49:04"
+    },
+    {
+      "keyword": "76ers vs knicks",
+      "score": 14200000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-11 04:49:04"
+    },
+    {
       "keyword": "spirit airlines",
-      "score": 16000000,
+      "score": 12000000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-05-05 20:03:18"
     },
     {
-      "keyword": "ted turner",
-      "score": 14400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-10 19:46:11"
-    },
-    {
-      "keyword": "76ers vs knicks",
-      "score": 12200000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-10 19:46:11"
-    },
-    {
-      "keyword": "lorna hajdini",
-      "score": 12000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-06 20:18:42"
-    },
-    {
       "keyword": "canvas hacked",
-      "score": 10000000,
+      "score": 11000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-05-10 19:46:11"
+      "timestamp": "2026-05-11 04:49:04"
     },
     {
       "keyword": "met gala theme 2026",
@@ -63,6 +56,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-08 04:02:33"
+    },
+    {
+      "keyword": "lorna hajdini",
+      "score": 10000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-06 20:18:42"
     },
     {
       "keyword": "knicks vs 76ers",
@@ -79,18 +79,11 @@
       "timestamp": "2026-05-08 04:02:33"
     },
     {
-      "keyword": "david allan coe",
-      "score": 8000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-06 04:28:51"
-    },
-    {
-      "keyword": "ufc 328",
+      "keyword": "kyle loftis",
       "score": 7500000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-10 14:19:53"
+      "timestamp": "2026-05-11 04:49:04"
     },
     {
       "keyword": "cavaliers vs pistons",
@@ -100,32 +93,32 @@
       "timestamp": "2026-05-09 04:19:12"
     },
     {
-      "keyword": "who won the kentucky derby 2026",
-      "score": 7000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-05-04 14:57:10"
-    },
-    {
-      "keyword": "kentucky derby results",
-      "score": 7000000,
+      "keyword": "ufc 328",
+      "score": 7500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-05-05 04:01:36"
-    },
-    {
-      "keyword": "kyle loftis",
-      "score": 7000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-10 19:46:11"
+      "timestamp": "2026-05-10 14:19:53"
     },
     {
       "keyword": "spurs vs timberwolves",
-      "score": 6000000,
+      "score": 7000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-05-10 19:46:11"
+      "timestamp": "2026-05-11 04:49:04"
+    },
+    {
+      "keyword": "david allan coe",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-06 04:28:51"
+    },
+    {
+      "keyword": "kentucky derby results",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-05 04:01:36"
     },
     {
       "keyword": "hantavirus symptoms",
@@ -149,18 +142,25 @@
       "timestamp": "2026-05-10 08:36:03"
     },
     {
-      "keyword": "rudy giuliani",
-      "score": 3900000,
-      "traffic_numeric": 500000,
+      "keyword": "sean strickland",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-05-08 14:29:47"
+      "timestamp": "2026-05-11 04:49:04"
     },
     {
       "keyword": "guthrie",
-      "score": 3200000,
+      "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-10 19:46:11"
+      "timestamp": "2026-05-11 04:49:04"
+    },
+    {
+      "keyword": "rudy giuliani",
+      "score": 3700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-08 14:29:47"
     },
     {
       "keyword": "pistons vs cavaliers",
@@ -170,11 +170,11 @@
       "timestamp": "2026-05-10 14:19:53"
     },
     {
-      "keyword": "man on fire netflix",
-      "score": 2300000,
-      "traffic_numeric": 200000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-05-06 20:18:42"
+      "keyword": "happy mothers day",
+      "score": 2420000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-11 04:49:04"
     },
     {
       "keyword": "airline",
@@ -191,30 +191,30 @@
       "timestamp": "2026-05-10 04:42:22"
     },
     {
-      "keyword": "f1",
+      "keyword": "hantavirus map",
       "score": 2000000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-11 04:49:04"
+    },
+    {
+      "keyword": "who won the kentucky derby 2026",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-04 14:57:10"
     },
     {
-      "keyword": "sean strickland",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-10 19:46:11"
-    },
-    {
-      "keyword": "devil wears prada 2",
+      "keyword": "lakers vs okc",
       "score": 2000000,
       "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-04 04:35:37"
+      "category": "体育",
+      "timestamp": "2026-05-11 04:49:04"
     }
   ],
   "category_stats": {
-    "其他": 108,
-    "体育": 46,
+    "其他": 106,
+    "体育": 38,
     "科技/AI": 8,
     "娱乐/生活": 5
   },

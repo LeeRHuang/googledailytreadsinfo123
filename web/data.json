@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-11 20:38:25",
+  "last_updated": "2026-05-12 04:28:32",
   "trends": [
     {
       "keyword": "hantavirus",
-      "score": 45000006,
+      "score": 44000006,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-05-10 14:19:53"
@@ -16,22 +16,22 @@
       "timestamp": "2026-05-11 20:38:24"
     },
     {
+      "keyword": "ted turner",
+      "score": 19400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-12 04:28:32"
+    },
+    {
       "keyword": "timberwolves vs spurs",
-      "score": 19500000,
+      "score": 19000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-11 20:38:24"
     },
     {
-      "keyword": "ted turner",
-      "score": 18400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-11 20:38:24"
-    },
-    {
       "keyword": "76ers vs knicks",
-      "score": 14200000,
+      "score": 13700000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-11 04:49:04"
@@ -42,13 +42,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-11 04:49:04"
-    },
-    {
-      "keyword": "met gala theme 2026",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-08 04:02:33"
     },
     {
       "keyword": "sean strickland",
@@ -65,18 +58,25 @@
       "timestamp": "2026-05-11 15:52:17"
     },
     {
+      "keyword": "met gala theme 2026",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-08 04:02:33"
+    },
+    {
+      "keyword": "kyle loftis",
+      "score": 9000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-12 04:28:32"
+    },
+    {
       "keyword": "knicks vs 76ers",
       "score": 8700000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-09 19:58:57"
-    },
-    {
-      "keyword": "kyle loftis",
-      "score": 8500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-11 20:38:24"
     },
     {
       "keyword": "canvas",
@@ -93,13 +93,6 @@
       "timestamp": "2026-05-08 04:02:33"
     },
     {
-      "keyword": "cavaliers vs pistons",
-      "score": 7500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-09 04:19:12"
-    },
-    {
       "keyword": "ufc 328",
       "score": 7500000,
       "traffic_numeric": 2000000,
@@ -107,18 +100,32 @@
       "timestamp": "2026-05-10 14:19:53"
     },
     {
+      "keyword": "cavaliers vs pistons",
+      "score": 7500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-09 04:19:12"
+    },
+    {
       "keyword": "lorna hajdini",
-      "score": 7000000,
+      "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-06 20:18:42"
     },
     {
-      "keyword": "spirit airlines",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-05-05 20:03:18"
+      "keyword": "pistons vs cavaliers",
+      "score": 5700000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-12 04:28:32"
+    },
+    {
+      "keyword": "nba draft lottery",
+      "score": 5200000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-12 04:28:32"
     },
     {
       "keyword": "hantavirus symptoms",
@@ -126,13 +133,6 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-05-10 19:46:11"
-    },
-    {
-      "keyword": "pistons vs cavaliers",
-      "score": 4700000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-11 20:38:24"
     },
     {
       "keyword": "guthrie",
@@ -149,18 +149,25 @@
       "timestamp": "2026-05-09 04:19:12"
     },
     {
-      "keyword": "nba draft lottery",
+      "keyword": "barcelona vs real madrid",
       "score": 4200000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-05-11 20:38:24"
+      "timestamp": "2026-05-12 04:28:32"
     },
     {
-      "keyword": "barcelona vs real madrid",
-      "score": 3700000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-11 20:38:24"
+      "keyword": "hantavirus map",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-12 04:28:32"
+    },
+    {
+      "keyword": "spirit airlines",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-05 20:03:18"
     },
     {
       "keyword": "happy mothers day",
@@ -170,11 +177,11 @@
       "timestamp": "2026-05-11 15:52:17"
     },
     {
-      "keyword": "rudy giuliani",
+      "keyword": "swatch",
       "score": 3100000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-08 14:29:47"
+      "timestamp": "2026-05-12 04:28:32"
     },
     {
       "keyword": "hantavirus outbreak",
@@ -184,18 +191,18 @@
       "timestamp": "2026-05-11 15:52:17"
     },
     {
-      "keyword": "hantavirus map",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
+      "keyword": "rudy giuliani",
+      "score": 2900000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-11 20:38:24"
+      "timestamp": "2026-05-08 14:29:47"
     },
     {
-      "keyword": "david allan coe",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
+      "keyword": "david attenborough",
+      "score": 2370000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-06 04:28:51"
+      "timestamp": "2026-05-12 04:28:32"
     },
     {
       "keyword": "airline",
@@ -203,20 +210,13 @@
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-05-09 08:33:21"
-    },
-    {
-      "keyword": "david attenborough",
-      "score": 2170000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-11 20:38:24"
     }
   ],
   "category_stats": {
-    "其他": 101,
-    "体育": 36,
+    "其他": 104,
+    "体育": 38,
     "科技/AI": 9,
-    "娱乐/生活": 4
+    "娱乐/生活": 5
   },
   "insights": [
     {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12 09:33:56",
+  "last_updated": "2026-05-12 15:34:29",
   "trends": [
     {
       "keyword": "hantavirus",
@@ -44,6 +44,13 @@
       "timestamp": "2026-05-11 04:49:04"
     },
     {
+      "keyword": "canvas",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-12 15:34:29"
+    },
+    {
       "keyword": "sean strickland",
       "score": 10000000,
       "traffic_numeric": 2000000,
@@ -72,11 +79,11 @@
       "timestamp": "2026-05-09 19:58:57"
     },
     {
-      "keyword": "canvas",
-      "score": 8000000,
+      "keyword": "pistons vs cavaliers",
+      "score": 8700000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-11 20:38:24"
+      "category": "体育",
+      "timestamp": "2026-05-12 15:34:29"
     },
     {
       "keyword": "met gala",
@@ -91,13 +98,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-08 04:02:33"
-    },
-    {
-      "keyword": "pistons vs cavaliers",
-      "score": 7700000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-12 09:33:56"
     },
     {
       "keyword": "ufc 328",
@@ -121,11 +121,25 @@
       "timestamp": "2026-05-12 09:33:56"
     },
     {
+      "keyword": "thunder vs lakers",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-12 15:34:29"
+    },
+    {
       "keyword": "hantavirus map",
-      "score": 5000000,
+      "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-05-12 09:33:56"
+      "timestamp": "2026-05-12 15:34:29"
+    },
+    {
+      "keyword": "swatch",
+      "score": 5100000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-12 15:34:29"
     },
     {
       "keyword": "lorna hajdini",
@@ -163,25 +177,18 @@
       "timestamp": "2026-05-12 04:28:32"
     },
     {
-      "keyword": "swatch",
-      "score": 4100000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-12 09:33:56"
-    },
-    {
-      "keyword": "thunder vs lakers",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-12 09:33:56"
-    },
-    {
       "keyword": "happy mothers day",
       "score": 3420000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-05-11 15:52:17"
+    },
+    {
+      "keyword": "remarkably bright creatures",
+      "score": 3100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-12 15:34:29"
     },
     {
       "keyword": "hantavirus outbreak",
@@ -198,13 +205,6 @@
       "timestamp": "2026-05-08 14:29:47"
     },
     {
-      "keyword": "remarkably bright creatures",
-      "score": 2600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-12 09:33:56"
-    },
-    {
       "keyword": "david attenborough",
       "score": 2370000,
       "traffic_numeric": 200000,
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 103,
-    "体育": 39,
+    "其他": 106,
+    "体育": 40,
     "科技/AI": 9,
     "娱乐/生活": 5
   },

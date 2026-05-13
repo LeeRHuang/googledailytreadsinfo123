@@ -1,40 +1,47 @@
 {
-  "last_updated": "2026-05-13 15:51:52",
+  "last_updated": "2026-05-13 20:33:39",
   "trends": [
     {
       "keyword": "hantavirus",
-      "score": 36000006,
+      "score": 34000006,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-05-10 14:19:53"
     },
     {
       "keyword": "lakers vs thunder",
-      "score": 29000000,
+      "score": 28000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-11 20:38:24"
     },
     {
       "keyword": "ted turner",
-      "score": 20200000,
+      "score": 20000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-13 04:47:23"
     },
     {
       "keyword": "timberwolves vs spurs",
-      "score": 16000000,
+      "score": 15000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-11 20:38:24"
     },
     {
       "keyword": "pistons vs cavaliers",
-      "score": 12700000,
+      "score": 13200000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-05-13 15:51:52"
+      "timestamp": "2026-05-13 20:33:39"
+    },
+    {
+      "keyword": "swatch",
+      "score": 11100000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-13 20:33:39"
     },
     {
       "keyword": "canvas hacked",
@@ -45,7 +52,7 @@
     },
     {
       "keyword": "76ers vs knicks",
-      "score": 10700000,
+      "score": 10500000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-11 04:49:04"
@@ -58,6 +65,13 @@
       "timestamp": "2026-05-11 20:38:24"
     },
     {
+      "keyword": "hantavirus map",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-13 20:33:39"
+    },
+    {
       "keyword": "canvas",
       "score": 10000000,
       "traffic_numeric": 2000000,
@@ -65,32 +79,18 @@
       "timestamp": "2026-05-12 15:34:29"
     },
     {
-      "keyword": "hantavirus map",
-      "score": 9500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-13 15:51:52"
-    },
-    {
-      "keyword": "swatch",
-      "score": 9100000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-13 15:51:52"
-    },
-    {
-      "keyword": "kyle loftis",
-      "score": 9000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-12 04:28:32"
-    },
-    {
       "keyword": "spurs vs timberwolves",
       "score": 9000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-11 15:52:17"
+    },
+    {
+      "keyword": "kyle loftis",
+      "score": 8900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-12 04:28:32"
     },
     {
       "keyword": "thunder vs lakers",
@@ -122,17 +122,17 @@
     },
     {
       "keyword": "cavaliers vs pistons",
-      "score": 6000000,
+      "score": 5500000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-05-09 04:19:12"
     },
     {
-      "keyword": "met gala",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
+      "keyword": "remarkably bright creatures",
+      "score": 5300000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-08 04:02:33"
+      "timestamp": "2026-05-13 20:33:39"
     },
     {
       "keyword": "hantavirus symptoms",
@@ -142,18 +142,18 @@
       "timestamp": "2026-05-10 19:46:11"
     },
     {
-      "keyword": "remarkably bright creatures",
-      "score": 4800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-13 15:51:52"
-    },
-    {
       "keyword": "guthrie",
       "score": 4600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-11 20:38:24"
+    },
+    {
+      "keyword": "brandon clarke",
+      "score": 4500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-13 20:33:39"
     },
     {
       "keyword": "barcelona vs real madrid",
@@ -163,25 +163,25 @@
       "timestamp": "2026-05-12 04:28:32"
     },
     {
-      "keyword": "tanner horner",
-      "score": 3800000,
-      "traffic_numeric": 500000,
+      "keyword": "met gala",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-05-09 04:19:12"
-    },
-    {
-      "keyword": "brandon clarke",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-13 15:51:52"
+      "timestamp": "2026-05-08 04:02:33"
     },
     {
       "keyword": "chelsea handler",
-      "score": 3450000,
+      "score": 3650000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-13 15:51:52"
+      "timestamp": "2026-05-13 20:33:39"
+    },
+    {
+      "keyword": "tanner horner",
+      "score": 3600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-09 04:19:12"
     },
     {
       "keyword": "happy mothers day",
@@ -214,9 +214,9 @@
   ],
   "category_stats": {
     "其他": 97,
-    "体育": 44,
+    "体育": 43,
     "科技/AI": 8,
-    "娱乐/生活": 6
+    "娱乐/生活": 4
   },
   "insights": [
     {

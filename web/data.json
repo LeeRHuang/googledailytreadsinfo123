@@ -1,40 +1,33 @@
 {
-  "last_updated": "2026-05-14 20:20:54",
+  "last_updated": "2026-05-15 04:48:53",
   "trends": [
     {
       "keyword": "lakers vs thunder",
-      "score": 24000000,
+      "score": 23000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-11 20:38:24"
     },
     {
-      "keyword": "hantavirus",
-      "score": 20000006,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-05-10 14:19:53"
-    },
-    {
       "keyword": "pistons vs cavaliers",
-      "score": 17200000,
+      "score": 18200000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-05-14 20:20:54"
+      "timestamp": "2026-05-15 04:48:53"
     },
     {
       "keyword": "ted turner",
-      "score": 17000000,
+      "score": 16000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-13 04:47:23"
     },
     {
-      "keyword": "timberwolves vs spurs",
-      "score": 11500000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-11 20:38:24"
+      "keyword": "hantavirus",
+      "score": 15000006,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-05-10 14:19:53"
     },
     {
       "keyword": "hantavirus map",
@@ -51,8 +44,15 @@
       "timestamp": "2026-05-13 20:33:39"
     },
     {
+      "keyword": "timberwolves vs spurs",
+      "score": 10500000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-11 20:38:24"
+    },
+    {
       "keyword": "canvas hacked",
-      "score": 11000000,
+      "score": 10000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-11 04:49:04"
@@ -72,18 +72,18 @@
       "timestamp": "2026-05-12 15:34:29"
     },
     {
+      "keyword": "brandon clarke",
+      "score": 9500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-15 04:48:53"
+    },
+    {
       "keyword": "spurs vs timberwolves",
       "score": 9000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-11 15:52:17"
-    },
-    {
-      "keyword": "brandon clarke",
-      "score": 8500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-14 20:20:54"
     },
     {
       "keyword": "thunder vs lakers",
@@ -93,20 +93,6 @@
       "timestamp": "2026-05-12 20:25:54"
     },
     {
-      "keyword": "kyle loftis",
-      "score": 7500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-12 04:28:32"
-    },
-    {
-      "keyword": "ufc 328",
-      "score": 7500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-10 14:19:53"
-    },
-    {
       "keyword": "knicks vs 76ers",
       "score": 7500000,
       "traffic_numeric": 2000000,
@@ -114,11 +100,18 @@
       "timestamp": "2026-05-09 19:58:57"
     },
     {
-      "keyword": "76ers vs knicks",
-      "score": 6500000,
+      "keyword": "ufc 328",
+      "score": 7400000,
       "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-11 04:49:04"
+      "category": "其他",
+      "timestamp": "2026-05-10 14:19:53"
+    },
+    {
+      "keyword": "kyle loftis",
+      "score": 7000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-12 04:28:32"
     },
     {
       "keyword": "nba draft lottery",
@@ -129,10 +122,17 @@
     },
     {
       "keyword": "chelsea handler",
-      "score": 5650000,
+      "score": 6150000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-14 20:20:54"
+      "timestamp": "2026-05-15 04:48:53"
+    },
+    {
+      "keyword": "76ers vs knicks",
+      "score": 5500000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-11 04:49:04"
     },
     {
       "keyword": "remarkably bright creatures",
@@ -142,6 +142,13 @@
       "timestamp": "2026-05-13 20:33:39"
     },
     {
+      "keyword": "ap swatch collab",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-15 04:48:53"
+    },
+    {
       "keyword": "hantavirus symptoms",
       "score": 5000000,
       "traffic_numeric": 5000000,
@@ -149,11 +156,11 @@
       "timestamp": "2026-05-10 19:46:11"
     },
     {
-      "keyword": "cavaliers vs pistons",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-09 04:19:12"
+      "keyword": "sheryl underwood",
+      "score": 4300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-15 04:48:53"
     },
     {
       "keyword": "barcelona vs real madrid",
@@ -163,25 +170,18 @@
       "timestamp": "2026-05-12 04:28:32"
     },
     {
-      "keyword": "ap swatch collab",
+      "keyword": "cavaliers vs pistons",
       "score": 4000000,
       "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-14 20:20:54"
+      "category": "体育",
+      "timestamp": "2026-05-09 04:19:12"
     },
     {
       "keyword": "guthrie",
-      "score": 3900000,
+      "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-11 20:38:24"
-    },
-    {
-      "keyword": "sheryl underwood",
-      "score": 3800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-14 20:20:54"
     },
     {
       "keyword": "happy mothers day",
@@ -189,6 +189,13 @@
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-05-11 15:52:17"
+    },
+    {
+      "keyword": "tony hinchcliffe",
+      "score": 3300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-15 04:48:53"
     },
     {
       "keyword": "nba draft",
@@ -203,26 +210,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-11 15:52:17"
-    },
-    {
-      "keyword": "tony hinchcliffe",
-      "score": 2800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-14 20:20:54"
     }
   ],
   "category_stats": {
-    "其他": 94,
-    "体育": 40,
+    "其他": 95,
+    "体育": 37,
     "科技/AI": 7,
     "娱乐/生活": 3
   },
-  "insights": [
-    {
-      "title": "季节性效率/计划应用",
-      "context": "新年计划相关关键词搜索量激增。",
-      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
-    }
-  ]
+  "insights": []
 }

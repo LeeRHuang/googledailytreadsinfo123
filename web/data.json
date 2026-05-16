@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16 14:19:34",
+  "last_updated": "2026-05-16 19:49:29",
   "trends": [
     {
       "keyword": "pistons vs cavaliers",
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "brandon clarke",
-      "score": 15500000,
+      "score": 16500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-16 14:19:34"
+      "timestamp": "2026-05-16 19:49:29"
     },
     {
       "keyword": "hantavirus map",
@@ -59,10 +59,10 @@
     },
     {
       "keyword": "chelsea handler",
-      "score": 9150000,
+      "score": 9650000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-16 14:19:34"
+      "timestamp": "2026-05-16 19:49:29"
     },
     {
       "keyword": "thunder vs lakers",
@@ -79,6 +79,20 @@
       "timestamp": "2026-05-11 20:38:24"
     },
     {
+      "keyword": "sheryl underwood",
+      "score": 6900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-16 19:49:29"
+    },
+    {
+      "keyword": "tony hinchcliffe",
+      "score": 6800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-16 19:49:29"
+    },
+    {
       "keyword": "ufc 328",
       "score": 6500000,
       "traffic_numeric": 2000000,
@@ -86,18 +100,11 @@
       "timestamp": "2026-05-10 14:19:53"
     },
     {
-      "keyword": "sheryl underwood",
-      "score": 6400000,
-      "traffic_numeric": 500000,
+      "keyword": "pga championship",
+      "score": 6500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-16 14:19:34"
-    },
-    {
-      "keyword": "tony hinchcliffe",
-      "score": 6300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-16 14:19:34"
+      "timestamp": "2026-05-16 19:49:29"
     },
     {
       "keyword": "nba draft lottery",
@@ -107,18 +114,18 @@
       "timestamp": "2026-05-12 09:33:56"
     },
     {
-      "keyword": "pga championship",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-16 14:19:34"
-    },
-    {
       "keyword": "jason collins",
       "score": 5700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-16 14:19:34"
+    },
+    {
+      "keyword": "drake",
+      "score": 5700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-16 19:49:29"
     },
     {
       "keyword": "spurs vs timberwolves",
@@ -135,6 +142,13 @@
       "timestamp": "2026-05-13 20:33:39"
     },
     {
+      "keyword": "hantavirus symptoms",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-05-10 19:46:11"
+    },
+    {
       "keyword": "ap swatch collab",
       "score": 5000000,
       "traffic_numeric": 1000000,
@@ -147,20 +161,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-11 04:49:04"
-    },
-    {
-      "keyword": "hantavirus symptoms",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-05-10 19:46:11"
-    },
-    {
-      "keyword": "drake",
-      "score": 4700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-16 14:19:34"
     },
     {
       "keyword": "76ers vs knicks",
@@ -177,18 +177,18 @@
       "timestamp": "2026-05-12 04:28:32"
     },
     {
+      "keyword": "alex murdaugh",
+      "score": 4450000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-16 19:49:29"
+    },
+    {
       "keyword": "barcelona vs real madrid",
       "score": 4200000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-05-12 04:28:32"
-    },
-    {
-      "keyword": "alex murdaugh",
-      "score": 3950000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-16 14:19:34"
     },
     {
       "keyword": "happy mothers day",
@@ -199,23 +199,23 @@
     },
     {
       "keyword": "regina hall",
-      "score": 3000000,
+      "score": 3200000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-16 14:19:34"
+      "timestamp": "2026-05-16 19:49:29"
     },
     {
-      "keyword": "swatch ap",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
+      "keyword": "off campus",
+      "score": 3150000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-15 20:10:55"
+      "timestamp": "2026-05-16 19:49:29"
     }
   ],
   "category_stats": {
-    "其他": 96,
-    "体育": 38,
-    "科技/AI": 5,
+    "其他": 98,
+    "体育": 39,
+    "科技/AI": 6,
     "娱乐/生活": 2,
     "金融/商业": 1
   },

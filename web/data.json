@@ -1,33 +1,26 @@
 {
-  "last_updated": "2026-05-16 08:28:40",
+  "last_updated": "2026-05-16 14:19:34",
   "trends": [
     {
       "keyword": "pistons vs cavaliers",
-      "score": 25200000,
+      "score": 27200000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-05-16 08:28:40"
+      "timestamp": "2026-05-16 14:19:34"
     },
     {
       "keyword": "lakers vs thunder",
-      "score": 17500000,
+      "score": 17000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-11 20:38:24"
     },
     {
       "keyword": "brandon clarke",
-      "score": 14500000,
+      "score": 15500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-16 08:28:40"
-    },
-    {
-      "keyword": "ted turner",
-      "score": 12000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-13 04:47:23"
+      "timestamp": "2026-05-16 14:19:34"
     },
     {
       "keyword": "hantavirus map",
@@ -42,6 +35,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-13 20:33:39"
+    },
+    {
+      "keyword": "ted turner",
+      "score": 11000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-13 04:47:23"
     },
     {
       "keyword": "canvas",
@@ -59,10 +59,10 @@
     },
     {
       "keyword": "chelsea handler",
-      "score": 8650000,
+      "score": 9150000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-16 08:28:40"
+      "timestamp": "2026-05-16 14:19:34"
     },
     {
       "keyword": "thunder vs lakers",
@@ -70,13 +70,6 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-12 20:25:54"
-    },
-    {
-      "keyword": "spurs vs timberwolves",
-      "score": 7500000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-16 04:33:41"
     },
     {
       "keyword": "timberwolves vs spurs",
@@ -87,10 +80,24 @@
     },
     {
       "keyword": "ufc 328",
-      "score": 6700000,
+      "score": 6500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-10 14:19:53"
+    },
+    {
+      "keyword": "sheryl underwood",
+      "score": 6400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-16 14:19:34"
+    },
+    {
+      "keyword": "tony hinchcliffe",
+      "score": 6300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-16 14:19:34"
     },
     {
       "keyword": "nba draft lottery",
@@ -100,25 +107,25 @@
       "timestamp": "2026-05-12 09:33:56"
     },
     {
-      "keyword": "canvas hacked",
+      "keyword": "pga championship",
       "score": 6000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-11 04:49:04"
+      "timestamp": "2026-05-16 14:19:34"
     },
     {
-      "keyword": "sheryl underwood",
-      "score": 5900000,
+      "keyword": "jason collins",
+      "score": 5700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-16 08:28:40"
+      "timestamp": "2026-05-16 14:19:34"
     },
     {
-      "keyword": "tony hinchcliffe",
-      "score": 5800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-16 08:28:40"
+      "keyword": "spurs vs timberwolves",
+      "score": 5500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-16 04:33:41"
     },
     {
       "keyword": "remarkably bright creatures",
@@ -128,25 +135,18 @@
       "timestamp": "2026-05-13 20:33:39"
     },
     {
-      "keyword": "jason collins",
-      "score": 5200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-16 08:28:40"
-    },
-    {
-      "keyword": "pga championship",
+      "keyword": "ap swatch collab",
       "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-16 08:28:40"
+      "timestamp": "2026-05-15 04:48:53"
     },
     {
-      "keyword": "kyle loftis",
+      "keyword": "canvas hacked",
       "score": 5000000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-05-12 04:28:32"
+      "timestamp": "2026-05-11 04:49:04"
     },
     {
       "keyword": "hantavirus symptoms",
@@ -156,11 +156,11 @@
       "timestamp": "2026-05-10 19:46:11"
     },
     {
-      "keyword": "ap swatch collab",
-      "score": 5000000,
+      "keyword": "drake",
+      "score": 4700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-15 04:48:53"
+      "timestamp": "2026-05-16 14:19:34"
     },
     {
       "keyword": "76ers vs knicks",
@@ -170,6 +170,13 @@
       "timestamp": "2026-05-11 04:49:04"
     },
     {
+      "keyword": "kyle loftis",
+      "score": 4500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-12 04:28:32"
+    },
+    {
       "keyword": "barcelona vs real madrid",
       "score": 4200000,
       "traffic_numeric": 1000000,
@@ -177,25 +184,11 @@
       "timestamp": "2026-05-12 04:28:32"
     },
     {
-      "keyword": "knicks vs 76ers",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-09 19:58:57"
-    },
-    {
-      "keyword": "drake",
-      "score": 3700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-16 08:28:40"
-    },
-    {
       "keyword": "alex murdaugh",
-      "score": 3450000,
+      "score": 3950000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-16 08:28:40"
+      "timestamp": "2026-05-16 14:19:34"
     },
     {
       "keyword": "happy mothers day",
@@ -205,17 +198,24 @@
       "timestamp": "2026-05-11 15:52:17"
     },
     {
-      "keyword": "hantavirus outbreak",
+      "keyword": "regina hall",
       "score": 3000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-11 15:52:17"
+      "timestamp": "2026-05-16 14:19:34"
+    },
+    {
+      "keyword": "swatch ap",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-15 20:10:55"
     }
   ],
   "category_stats": {
     "其他": 96,
     "体育": 38,
-    "科技/AI": 7,
+    "科技/AI": 5,
     "娱乐/生活": 2,
     "金融/商业": 1
   },

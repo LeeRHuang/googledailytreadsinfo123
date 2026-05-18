@@ -1,40 +1,47 @@
 {
-  "last_updated": "2026-05-18 04:58:20",
+  "last_updated": "2026-05-18 10:59:47",
   "trends": [
     {
       "keyword": "pistons vs cavaliers",
-      "score": 24700000,
+      "score": 23700000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-16 14:19:34"
     },
     {
       "keyword": "brandon clarke",
-      "score": 20500000,
+      "score": 21500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-18 04:58:20"
+      "timestamp": "2026-05-18 10:59:47"
     },
     {
       "keyword": "chelsea handler",
-      "score": 10950000,
+      "score": 10900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
     },
     {
+      "keyword": "drake",
+      "score": 10700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-18 10:59:47"
+    },
+    {
+      "keyword": "gina carano",
+      "score": 10700000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-18 10:59:47"
+    },
+    {
       "keyword": "swatch",
-      "score": 10500000,
+      "score": 10000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-13 20:33:39"
-    },
-    {
-      "keyword": "drake",
-      "score": 9700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-18 04:58:20"
     },
     {
       "keyword": "hantavirus map",
@@ -42,13 +49,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-14 15:16:00"
-    },
-    {
-      "keyword": "gina carano",
-      "score": 8700000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-18 04:58:20"
     },
     {
       "keyword": "pga championship",
@@ -86,13 +86,6 @@
       "timestamp": "2026-05-18 04:58:20"
     },
     {
-      "keyword": "lakers vs thunder",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-11 20:38:24"
-    },
-    {
       "keyword": "canvas",
       "score": 6000000,
       "traffic_numeric": 2000000,
@@ -100,22 +93,15 @@
       "timestamp": "2026-05-12 15:34:29"
     },
     {
-      "keyword": "sean strickland",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
+      "keyword": "off campus",
+      "score": 5650000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-11 20:38:24"
+      "timestamp": "2026-05-18 10:59:47"
     },
     {
       "keyword": "alex murdaugh",
       "score": 5450000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-18 04:58:20"
-    },
-    {
-      "keyword": "off campus",
-      "score": 5150000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-18 04:58:20"
@@ -128,25 +114,39 @@
       "timestamp": "2026-05-15 04:48:53"
     },
     {
-      "keyword": "ted turner",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
+      "keyword": "remarkably bright creatures",
+      "score": 4100000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-13 04:47:23"
+      "timestamp": "2026-05-13 20:33:39"
+    },
+    {
+      "keyword": "lakers vs thunder",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-11 20:38:24"
+    },
+    {
+      "keyword": "sean strickland",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-11 20:38:24"
     },
     {
       "keyword": "nba draft lottery",
-      "score": 5000000,
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-05-12 09:33:56"
     },
     {
-      "keyword": "remarkably bright creatures",
-      "score": 4300000,
-      "traffic_numeric": 500000,
+      "keyword": "ted turner",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-13 20:33:39"
+      "timestamp": "2026-05-13 04:47:23"
     },
     {
       "keyword": "regina hall",
@@ -154,13 +154,6 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
-    },
-    {
-      "keyword": "barcelona vs real madrid",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-12 04:28:32"
     },
     {
       "keyword": "nba draft",
@@ -177,11 +170,18 @@
       "timestamp": "2026-05-15 20:10:55"
     },
     {
-      "keyword": "hantavirus outbreak",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-11 15:52:17"
+      "keyword": "air force monica witt",
+      "score": 2700000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-18 10:59:47"
+    },
+    {
+      "keyword": "barcelona vs real madrid",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-12 04:28:32"
     },
     {
       "keyword": "ap watch",
@@ -189,13 +189,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-16 14:19:34"
-    },
-    {
-      "keyword": "spurs vs timberwolves",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-16 04:33:41"
     },
     {
       "keyword": "pga championship 2026",
@@ -210,14 +203,21 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-05-15 20:10:55"
+    },
+    {
+      "keyword": "giants vs dodgers",
+      "score": 2350000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-05-15 20:10:55"
     }
   ],
   "category_stats": {
-    "其他": 89,
-    "体育": 37,
-    "科技/AI": 6,
+    "其他": 91,
+    "体育": 34,
+    "科技/AI": 7,
     "娱乐/生活": 4,
-    "金融/商业": 1
+    "金融/商业": 2
   },
   "insights": []
 }

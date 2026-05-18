@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-05-18 10:59:47",
+  "last_updated": "2026-05-18 16:10:14",
   "trends": [
     {
       "keyword": "pistons vs cavaliers",
-      "score": 23700000,
+      "score": 23500000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-16 14:19:34"
     },
     {
       "keyword": "brandon clarke",
-      "score": 21500000,
+      "score": 22500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-18 10:59:47"
-    },
-    {
-      "keyword": "chelsea handler",
-      "score": 10900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-17 19:53:04"
+      "timestamp": "2026-05-18 16:10:14"
     },
     {
       "keyword": "drake",
-      "score": 10700000,
+      "score": 10900000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-18 10:59:47"
+      "timestamp": "2026-05-18 16:10:14"
+    },
+    {
+      "keyword": "chelsea handler",
+      "score": 10800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-17 19:53:04"
     },
     {
       "keyword": "gina carano",
@@ -38,7 +38,7 @@
     },
     {
       "keyword": "swatch",
-      "score": 10000000,
+      "score": 9500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-13 20:33:39"
@@ -58,14 +58,14 @@
       "timestamp": "2026-05-17 08:54:57"
     },
     {
-      "keyword": "sheryl underwood",
-      "score": 8400000,
+      "keyword": "tony hinchcliffe",
+      "score": 8300000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
     },
     {
-      "keyword": "tony hinchcliffe",
+      "keyword": "sheryl underwood",
       "score": 8300000,
       "traffic_numeric": 500000,
       "category": "其他",
@@ -86,18 +86,11 @@
       "timestamp": "2026-05-18 04:58:20"
     },
     {
-      "keyword": "canvas",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-12 15:34:29"
-    },
-    {
       "keyword": "off campus",
-      "score": 5650000,
+      "score": 6150000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-18 10:59:47"
+      "timestamp": "2026-05-18 16:10:14"
     },
     {
       "keyword": "alex murdaugh",
@@ -114,39 +107,18 @@
       "timestamp": "2026-05-15 04:48:53"
     },
     {
+      "keyword": "canvas",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-12 15:34:29"
+    },
+    {
       "keyword": "remarkably bright creatures",
-      "score": 4100000,
+      "score": 3900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-13 20:33:39"
-    },
-    {
-      "keyword": "lakers vs thunder",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-11 20:38:24"
-    },
-    {
-      "keyword": "sean strickland",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-11 20:38:24"
-    },
-    {
-      "keyword": "nba draft lottery",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-12 09:33:56"
-    },
-    {
-      "keyword": "ted turner",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-13 04:47:23"
     },
     {
       "keyword": "regina hall",
@@ -156,11 +128,11 @@
       "timestamp": "2026-05-17 19:53:04"
     },
     {
-      "keyword": "nba draft",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-13 15:51:52"
+      "keyword": "air force monica witt",
+      "score": 3200000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-18 16:10:14"
     },
     {
       "keyword": "swatch ap",
@@ -170,18 +142,25 @@
       "timestamp": "2026-05-15 20:10:55"
     },
     {
-      "keyword": "air force monica witt",
-      "score": 2700000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-05-18 10:59:47"
-    },
-    {
-      "keyword": "barcelona vs real madrid",
-      "score": 2500000,
+      "keyword": "nba draft lottery",
+      "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-05-12 04:28:32"
+      "timestamp": "2026-05-12 09:33:56"
+    },
+    {
+      "keyword": "ted turner",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-13 04:47:23"
+    },
+    {
+      "keyword": "nba draft",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-13 15:51:52"
     },
     {
       "keyword": "ap watch",
@@ -198,6 +177,13 @@
       "timestamp": "2026-05-16 19:49:29"
     },
     {
+      "keyword": "nate diaz",
+      "score": 2400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-18 16:10:14"
+    },
+    {
       "keyword": "nfl schedule",
       "score": 2400000,
       "traffic_numeric": 500000,
@@ -210,12 +196,26 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-05-15 20:10:55"
+    },
+    {
+      "keyword": "tigers vs mets",
+      "score": 2050000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-14 20:20:54"
+    },
+    {
+      "keyword": "lakers vs thunder",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-11 20:38:24"
     }
   ],
   "category_stats": {
     "其他": 91,
-    "体育": 34,
-    "科技/AI": 7,
+    "体育": 35,
+    "科技/AI": 6,
     "娱乐/生活": 4,
     "金融/商业": 2
   },

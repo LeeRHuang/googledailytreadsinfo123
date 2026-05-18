@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17 19:53:04",
+  "last_updated": "2026-05-18 04:58:20",
   "trends": [
     {
       "keyword": "pistons vs cavaliers",
@@ -10,38 +10,45 @@
     },
     {
       "keyword": "brandon clarke",
-      "score": 19500000,
+      "score": 20500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-17 19:53:04"
-    },
-    {
-      "keyword": "hantavirus map",
-      "score": 11200000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-14 15:16:00"
+      "timestamp": "2026-05-18 04:58:20"
     },
     {
       "keyword": "chelsea handler",
-      "score": 11150000,
+      "score": 10950000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
     },
     {
       "keyword": "swatch",
-      "score": 10700000,
+      "score": 10500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-13 20:33:39"
     },
     {
       "keyword": "drake",
-      "score": 8700000,
+      "score": 9700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-17 19:53:04"
+      "timestamp": "2026-05-18 04:58:20"
+    },
+    {
+      "keyword": "hantavirus map",
+      "score": 9200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-14 15:16:00"
+    },
+    {
+      "keyword": "gina carano",
+      "score": 8700000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-18 04:58:20"
     },
     {
       "keyword": "pga championship",
@@ -65,20 +72,6 @@
       "timestamp": "2026-05-17 19:53:04"
     },
     {
-      "keyword": "lakers vs thunder",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-11 20:38:24"
-    },
-    {
-      "keyword": "sean strickland",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-11 20:38:24"
-    },
-    {
       "keyword": "thunder vs lakers",
       "score": 8000000,
       "traffic_numeric": 2000000,
@@ -86,25 +79,18 @@
       "timestamp": "2026-05-12 20:25:54"
     },
     {
-      "keyword": "gina carano",
-      "score": 6700000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-17 19:53:04"
-    },
-    {
       "keyword": "jason collins",
-      "score": 6200000,
+      "score": 6700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-17 08:54:57"
+      "timestamp": "2026-05-18 04:58:20"
     },
     {
-      "keyword": "ted turner",
+      "keyword": "lakers vs thunder",
       "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-13 04:47:23"
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-11 20:38:24"
     },
     {
       "keyword": "canvas",
@@ -114,11 +100,25 @@
       "timestamp": "2026-05-12 15:34:29"
     },
     {
-      "keyword": "nba draft lottery",
+      "keyword": "sean strickland",
       "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-12 09:33:56"
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-11 20:38:24"
+    },
+    {
+      "keyword": "alex murdaugh",
+      "score": 5450000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-18 04:58:20"
+    },
+    {
+      "keyword": "off campus",
+      "score": 5150000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-18 04:58:20"
     },
     {
       "keyword": "ap swatch collab",
@@ -128,32 +128,25 @@
       "timestamp": "2026-05-15 04:48:53"
     },
     {
-      "keyword": "alex murdaugh",
-      "score": 4950000,
-      "traffic_numeric": 500000,
+      "keyword": "ted turner",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-17 04:54:48"
+      "timestamp": "2026-05-13 04:47:23"
     },
     {
-      "keyword": "off campus",
-      "score": 4650000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-17 19:53:04"
+      "keyword": "nba draft lottery",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-12 09:33:56"
     },
     {
       "keyword": "remarkably bright creatures",
-      "score": 4500000,
+      "score": 4300000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-13 20:33:39"
-    },
-    {
-      "keyword": "barcelona vs real madrid",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-12 04:28:32"
     },
     {
       "keyword": "regina hall",
@@ -163,18 +156,11 @@
       "timestamp": "2026-05-17 19:53:04"
     },
     {
-      "keyword": "spurs vs timberwolves",
+      "keyword": "barcelona vs real madrid",
       "score": 3500000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-05-16 04:33:41"
-    },
-    {
-      "keyword": "swatch ap",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-15 20:10:55"
+      "timestamp": "2026-05-12 04:28:32"
     },
     {
       "keyword": "nba draft",
@@ -182,6 +168,13 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-05-13 15:51:52"
+    },
+    {
+      "keyword": "swatch ap",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-15 20:10:55"
     },
     {
       "keyword": "hantavirus outbreak",
@@ -196,6 +189,13 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-16 14:19:34"
+    },
+    {
+      "keyword": "spurs vs timberwolves",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-16 04:33:41"
     },
     {
       "keyword": "pga championship 2026",
@@ -213,10 +213,10 @@
     }
   ],
   "category_stats": {
-    "其他": 90,
-    "体育": 39,
+    "其他": 89,
+    "体育": 37,
     "科技/AI": 6,
-    "娱乐/生活": 2,
+    "娱乐/生活": 4,
     "金融/商业": 1
   },
   "insights": []

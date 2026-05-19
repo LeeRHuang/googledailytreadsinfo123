@@ -1,33 +1,26 @@
 {
-  "last_updated": "2026-05-18 20:27:57",
+  "last_updated": "2026-05-19 04:54:47",
   "trends": [
     {
+      "keyword": "brandon clarke",
+      "score": 24500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-19 04:54:47"
+    },
+    {
       "keyword": "pistons vs cavaliers",
-      "score": 23500000,
+      "score": 21500000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-16 14:19:34"
     },
     {
-      "keyword": "brandon clarke",
-      "score": 23500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-18 20:27:57"
-    },
-    {
       "keyword": "drake",
-      "score": 11900000,
+      "score": 12900000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-18 20:27:57"
-    },
-    {
-      "keyword": "chelsea handler",
-      "score": 10800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-17 19:53:04"
+      "timestamp": "2026-05-19 04:54:47"
     },
     {
       "keyword": "gina carano",
@@ -37,18 +30,11 @@
       "timestamp": "2026-05-18 10:59:47"
     },
     {
-      "keyword": "swatch",
-      "score": 9500000,
-      "traffic_numeric": 2000000,
+      "keyword": "chelsea handler",
+      "score": 10100000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-13 20:33:39"
-    },
-    {
-      "keyword": "hantavirus map",
-      "score": 9200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-14 15:16:00"
+      "timestamp": "2026-05-17 19:53:04"
     },
     {
       "keyword": "pga championship",
@@ -66,17 +52,24 @@
     },
     {
       "keyword": "sheryl underwood",
-      "score": 8300000,
+      "score": 8000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
     },
     {
-      "keyword": "thunder vs lakers",
+      "keyword": "swatch",
       "score": 8000000,
       "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-12 20:25:54"
+      "category": "其他",
+      "timestamp": "2026-05-13 20:33:39"
+    },
+    {
+      "keyword": "hantavirus map",
+      "score": 7200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-14 15:16:00"
     },
     {
       "keyword": "jason collins",
@@ -94,10 +87,17 @@
     },
     {
       "keyword": "alex murdaugh",
-      "score": 5950000,
+      "score": 6450000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-18 20:27:57"
+      "timestamp": "2026-05-19 04:54:47"
+    },
+    {
+      "keyword": "thunder vs lakers",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-12 20:25:54"
     },
     {
       "keyword": "ap swatch collab",
@@ -107,32 +107,32 @@
       "timestamp": "2026-05-15 04:48:53"
     },
     {
-      "keyword": "canvas",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-12 15:34:29"
-    },
-    {
-      "keyword": "remarkably bright creatures",
-      "score": 3900000,
+      "keyword": "air force monica witt",
+      "score": 4200000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-13 20:33:39"
+      "category": "科技/AI",
+      "timestamp": "2026-05-19 04:54:47"
     },
     {
       "keyword": "regina hall",
-      "score": 3800000,
+      "score": 3700000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
     },
     {
-      "keyword": "air force monica witt",
-      "score": 3700000,
-      "traffic_numeric": 500000,
+      "keyword": "aaron rai",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
       "category": "科技/AI",
-      "timestamp": "2026-05-18 20:27:57"
+      "timestamp": "2026-05-19 04:54:47"
+    },
+    {
+      "keyword": "remarkably bright creatures",
+      "score": 3200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-13 20:33:39"
     },
     {
       "keyword": "nba draft",
@@ -149,20 +149,6 @@
       "timestamp": "2026-05-15 20:10:55"
     },
     {
-      "keyword": "ted turner",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-13 04:47:23"
-    },
-    {
-      "keyword": "nba draft lottery",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-12 09:33:56"
-    },
-    {
       "keyword": "nate diaz",
       "score": 2900000,
       "traffic_numeric": 500000,
@@ -177,11 +163,18 @@
       "timestamp": "2026-05-16 14:19:34"
     },
     {
-      "keyword": "aaron rai",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-05-18 20:27:57"
+      "keyword": "pga championship 2026",
+      "score": 2400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-16 19:49:29"
+    },
+    {
+      "keyword": "mackenzie shirilla",
+      "score": 2400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-19 04:54:47"
     },
     {
       "keyword": "nfl schedule",
@@ -191,15 +184,15 @@
       "timestamp": "2026-05-15 20:10:55"
     },
     {
-      "keyword": "pga championship 2026",
-      "score": 2400000,
+      "keyword": "obsession",
+      "score": 2300000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-16 19:49:29"
+      "timestamp": "2026-05-19 04:54:47"
     },
     {
       "keyword": "giants vs dodgers",
-      "score": 2350000,
+      "score": 2300000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-05-15 20:10:55"
@@ -210,11 +203,18 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-05-14 20:20:54"
+    },
+    {
+      "keyword": "canvas",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-12 15:34:29"
     }
   ],
   "category_stats": {
-    "其他": 94,
-    "体育": 36,
+    "其他": 91,
+    "体育": 34,
     "科技/AI": 6,
     "娱乐/生活": 4,
     "金融/商业": 2

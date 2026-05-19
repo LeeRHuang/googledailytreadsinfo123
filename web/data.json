@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19 10:38:43",
+  "last_updated": "2026-05-19 16:06:32",
   "trends": [
     {
       "keyword": "brandon clarke",
@@ -10,17 +10,17 @@
     },
     {
       "keyword": "pistons vs cavaliers",
-      "score": 19500000,
+      "score": 18500000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-16 14:19:34"
     },
     {
       "keyword": "drake",
-      "score": 13900000,
+      "score": 14900000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-19 10:38:43"
+      "timestamp": "2026-05-19 16:06:32"
     },
     {
       "keyword": "gina carano",
@@ -31,7 +31,7 @@
     },
     {
       "keyword": "chelsea handler",
-      "score": 9600000,
+      "score": 9400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
@@ -45,24 +45,17 @@
     },
     {
       "keyword": "tony hinchcliffe",
-      "score": 8300000,
+      "score": 8100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
     },
     {
       "keyword": "sheryl underwood",
-      "score": 7800000,
+      "score": 7600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
-    },
-    {
-      "keyword": "swatch",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-13 20:33:39"
     },
     {
       "keyword": "alex murdaugh",
@@ -86,11 +79,39 @@
       "timestamp": "2026-05-18 20:27:57"
     },
     {
+      "keyword": "swatch",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-13 20:33:39"
+    },
+    {
+      "keyword": "spurs vs thunder",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-19 16:06:32"
+    },
+    {
+      "keyword": "aaron rai",
+      "score": 5500000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-19 16:06:32"
+    },
+    {
       "keyword": "hantavirus map",
-      "score": 6200000,
+      "score": 5200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-14 15:16:00"
+    },
+    {
+      "keyword": "air force monica witt",
+      "score": 5200000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-19 16:06:32"
     },
     {
       "keyword": "ap swatch collab",
@@ -100,46 +121,25 @@
       "timestamp": "2026-05-15 04:48:53"
     },
     {
-      "keyword": "air force monica witt",
-      "score": 4700000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-05-19 10:38:43"
-    },
-    {
-      "keyword": "aaron rai",
-      "score": 4500000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-05-19 10:38:43"
-    },
-    {
-      "keyword": "spurs vs thunder",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-19 10:38:43"
-    },
-    {
-      "keyword": "thunder vs lakers",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-12 20:25:54"
-    },
-    {
       "keyword": "regina hall",
-      "score": 3600000,
+      "score": 3500000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
     },
     {
-      "keyword": "nba draft",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-13 15:51:52"
+      "keyword": "mackenzie shirilla",
+      "score": 3400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-19 16:06:32"
+    },
+    {
+      "keyword": "obsession",
+      "score": 3300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-19 16:06:32"
     },
     {
       "keyword": "swatch ap",
@@ -156,39 +156,11 @@
       "timestamp": "2026-05-18 20:27:57"
     },
     {
-      "keyword": "mackenzie shirilla",
-      "score": 2900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-19 10:38:43"
-    },
-    {
-      "keyword": "obsession",
-      "score": 2800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-19 10:38:43"
-    },
-    {
-      "keyword": "remarkably bright creatures",
-      "score": 2700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-13 20:33:39"
-    },
-    {
       "keyword": "ap watch",
       "score": 2500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-16 14:19:34"
-    },
-    {
-      "keyword": "pga championship 2026",
-      "score": 2400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-16 19:49:29"
     },
     {
       "keyword": "nfl schedule",
@@ -198,8 +170,22 @@
       "timestamp": "2026-05-15 20:10:55"
     },
     {
-      "keyword": "giants vs dodgers",
+      "keyword": "pga championship 2026",
+      "score": 2300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-16 19:49:29"
+    },
+    {
+      "keyword": "remarkably bright creatures",
       "score": 2200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-13 20:33:39"
+    },
+    {
+      "keyword": "giants vs dodgers",
+      "score": 2100000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-05-15 20:10:55"
@@ -210,14 +196,34 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-05-14 20:20:54"
+    },
+    {
+      "keyword": "nba draft",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-13 15:51:52"
+    },
+    {
+      "keyword": "thunder vs lakers",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-12 20:25:54"
     }
   ],
   "category_stats": {
-    "其他": 91,
+    "其他": 92,
     "体育": 34,
-    "科技/AI": 6,
+    "科技/AI": 5,
     "娱乐/生活": 4,
     "金融/商业": 2
   },
-  "insights": []
+  "insights": [
+    {
+      "title": "季节性效率/计划应用",
+      "context": "新年计划相关关键词搜索量激增。",
+      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
+    }
+  ]
 }

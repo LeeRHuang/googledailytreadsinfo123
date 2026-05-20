@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-05-20 16:17:59",
+  "last_updated": "2026-05-20 21:00:28",
   "trends": [
     {
       "keyword": "brandon clarke",
-      "score": 22000000,
+      "score": 21000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-19 10:38:43"
     },
     {
       "keyword": "drake",
-      "score": 18900000,
+      "score": 19100000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-20 16:17:59"
-    },
-    {
-      "keyword": "pistons vs cavaliers",
-      "score": 14500000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-16 14:19:34"
+      "timestamp": "2026-05-20 21:00:28"
     },
     {
       "keyword": "spurs vs thunder",
+      "score": 16000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-20 21:00:28"
+    },
+    {
+      "keyword": "pistons vs cavaliers",
       "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-05-20 16:17:59"
+      "timestamp": "2026-05-16 14:19:34"
     },
     {
       "keyword": "gina carano",
@@ -51,57 +51,57 @@
       "timestamp": "2026-05-17 08:54:57"
     },
     {
-      "keyword": "chelsea handler",
+      "keyword": "mackenzie shirilla",
+      "score": 7900000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-20 21:00:28"
+    },
+    {
+      "keyword": "air force monica witt",
       "score": 7700000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-20 21:00:28"
+    },
+    {
+      "keyword": "chelsea handler",
+      "score": 7500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
     },
     {
-      "keyword": "air force monica witt",
-      "score": 7200000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-05-20 16:17:59"
-    },
-    {
       "keyword": "alex murdaugh",
-      "score": 6900000,
+      "score": 6700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-19 10:38:43"
     },
     {
-      "keyword": "mackenzie shirilla",
-      "score": 6900000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-20 16:17:59"
-    },
-    {
-      "keyword": "sheryl underwood",
-      "score": 6800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-17 19:53:04"
-    },
-    {
       "keyword": "tony hinchcliffe",
-      "score": 6800000,
+      "score": 6600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
     },
     {
       "keyword": "off campus",
-      "score": 6650000,
+      "score": 6600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-18 20:27:57"
     },
     {
+      "keyword": "sheryl underwood",
+      "score": 6600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-17 19:53:04"
+    },
+    {
       "keyword": "jason collins",
-      "score": 6100000,
+      "score": 5900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-18 04:58:20"
@@ -114,6 +114,13 @@
       "timestamp": "2026-05-15 04:48:53"
     },
     {
+      "keyword": "cavaliers vs knicks",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-20 21:00:28"
+    },
+    {
       "keyword": "obsession",
       "score": 3800000,
       "traffic_numeric": 500000,
@@ -122,24 +129,31 @@
     },
     {
       "keyword": "ebola",
-      "score": 3300000,
+      "score": 3800000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-20 16:17:59"
+      "timestamp": "2026-05-20 21:00:28"
+    },
+    {
+      "keyword": "thomas massie",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-20 21:00:28"
+    },
+    {
+      "keyword": "san diego shooting",
+      "score": 3400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-20 21:00:28"
     },
     {
       "keyword": "regina hall",
-      "score": 3100000,
+      "score": 3000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
-    },
-    {
-      "keyword": "cavaliers vs knicks",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-20 16:17:59"
     },
     {
       "keyword": "swatch ap",
@@ -156,25 +170,18 @@
       "timestamp": "2026-05-18 20:27:57"
     },
     {
-      "keyword": "san diego shooting",
-      "score": 2900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-20 16:17:59"
-    },
-    {
-      "keyword": "thomas massie",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-20 16:17:59"
-    },
-    {
       "keyword": "ap watch",
       "score": 2500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-16 14:19:34"
+    },
+    {
+      "keyword": "new spotify logo",
+      "score": 2500000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-20 21:00:28"
     },
     {
       "keyword": "nfl schedule",
@@ -184,38 +191,31 @@
       "timestamp": "2026-05-15 20:10:55"
     },
     {
-      "keyword": "new spotify logo",
-      "score": 2300000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-20 16:17:59"
-    },
-    {
-      "keyword": "pga championship 2026",
-      "score": 2100000,
+      "keyword": "simi valley fire",
+      "score": 2250000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-16 19:49:29"
+      "timestamp": "2026-05-20 21:00:28"
     },
     {
-      "keyword": "dutton ranch cast",
+      "keyword": "tigers vs mets",
       "score": 2000000,
       "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-20 05:01:52"
+      "category": "体育",
+      "timestamp": "2026-05-14 20:20:54"
     },
     {
-      "keyword": "swatch",
+      "keyword": "chud the builder shooting",
       "score": 2000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-13 20:33:39"
+      "timestamp": "2026-05-17 08:54:57"
     }
   ],
   "category_stats": {
-    "其他": 88,
+    "其他": 86,
     "体育": 37,
-    "科技/AI": 4,
+    "科技/AI": 5,
     "娱乐/生活": 3,
     "金融/商业": 2
   },

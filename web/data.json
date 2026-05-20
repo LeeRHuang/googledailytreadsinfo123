@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-05-19 20:31:39",
+  "last_updated": "2026-05-20 05:01:52",
   "trends": [
     {
       "keyword": "brandon clarke",
-      "score": 25000000,
+      "score": 24000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-19 10:38:43"
     },
     {
+      "keyword": "drake",
+      "score": 16900000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-20 05:01:52"
+    },
+    {
       "keyword": "pistons vs cavaliers",
-      "score": 16500000,
+      "score": 15500000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-16 14:19:34"
-    },
-    {
-      "keyword": "drake",
-      "score": 15900000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-19 20:31:39"
     },
     {
       "keyword": "gina carano",
@@ -30,8 +30,15 @@
       "timestamp": "2026-05-18 10:59:47"
     },
     {
+      "keyword": "spurs vs thunder",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-20 05:01:52"
+    },
+    {
       "keyword": "chelsea handler",
-      "score": 9200000,
+      "score": 8700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
@@ -45,21 +52,21 @@
     },
     {
       "keyword": "tony hinchcliffe",
-      "score": 8000000,
+      "score": 7500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
     },
     {
-      "keyword": "spurs vs thunder",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-19 20:31:39"
+      "keyword": "aaron rai",
+      "score": 7500000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-20 05:01:52"
     },
     {
       "keyword": "sheryl underwood",
-      "score": 7400000,
+      "score": 7200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
@@ -72,13 +79,6 @@
       "timestamp": "2026-05-19 10:38:43"
     },
     {
-      "keyword": "jason collins",
-      "score": 6700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-18 04:58:20"
-    },
-    {
       "keyword": "off campus",
       "score": 6650000,
       "traffic_numeric": 500000,
@@ -86,18 +86,18 @@
       "timestamp": "2026-05-18 20:27:57"
     },
     {
-      "keyword": "aaron rai",
+      "keyword": "jason collins",
       "score": 6500000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-05-19 20:31:39"
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-18 04:58:20"
     },
     {
       "keyword": "air force monica witt",
-      "score": 5700000,
+      "score": 6200000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
-      "timestamp": "2026-05-19 20:31:39"
+      "timestamp": "2026-05-20 05:01:52"
     },
     {
       "keyword": "ap swatch collab",
@@ -107,25 +107,18 @@
       "timestamp": "2026-05-15 04:48:53"
     },
     {
+      "keyword": "mackenzie shirilla",
+      "score": 4900000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-20 05:01:52"
+    },
+    {
       "keyword": "swatch",
-      "score": 5000000,
+      "score": 4000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-13 20:33:39"
-    },
-    {
-      "keyword": "hantavirus map",
-      "score": 4200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-14 15:16:00"
-    },
-    {
-      "keyword": "mackenzie shirilla",
-      "score": 3900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-19 20:31:39"
     },
     {
       "keyword": "obsession",
@@ -136,10 +129,17 @@
     },
     {
       "keyword": "regina hall",
-      "score": 3400000,
+      "score": 3300000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
+    },
+    {
+      "keyword": "hantavirus map",
+      "score": 3200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-14 15:16:00"
     },
     {
       "keyword": "swatch ap",
@@ -170,18 +170,18 @@
       "timestamp": "2026-05-15 20:10:55"
     },
     {
+      "keyword": "ebola",
+      "score": 2300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-20 05:01:52"
+    },
+    {
       "keyword": "pga championship 2026",
       "score": 2300000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-16 19:49:29"
-    },
-    {
-      "keyword": "giants vs dodgers",
-      "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-05-15 20:10:55"
     },
     {
       "keyword": "tigers vs mets",
@@ -198,32 +198,26 @@
       "timestamp": "2026-05-17 08:54:57"
     },
     {
-      "keyword": "remarkably bright creatures",
+      "keyword": "giants vs dodgers",
       "score": 2000000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-13 20:33:39"
+      "category": "体育",
+      "timestamp": "2026-05-15 20:10:55"
     },
     {
-      "keyword": "ebola",
-      "score": 1800000,
-      "traffic_numeric": 500000,
+      "keyword": "dutton ranch cast",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-19 20:31:39"
+      "timestamp": "2026-05-20 05:01:52"
     }
   ],
   "category_stats": {
-    "其他": 92,
-    "体育": 35,
+    "其他": 91,
+    "体育": 38,
     "科技/AI": 4,
     "娱乐/生活": 3,
     "金融/商业": 2
   },
-  "insights": [
-    {
-      "title": "季节性效率/计划应用",
-      "context": "新年计划相关关键词搜索量激增。",
-      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
-    }
-  ]
+  "insights": []
 }

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-21 16:11:12",
+  "last_updated": "2026-05-21 20:40:29",
   "trends": [
     {
       "keyword": "spurs vs thunder",
-      "score": 22000000,
+      "score": 24000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-05-21 16:11:12"
+      "timestamp": "2026-05-21 20:40:29"
     },
     {
       "keyword": "drake",
@@ -17,17 +17,10 @@
     },
     {
       "keyword": "brandon clarke",
-      "score": 18000000,
+      "score": 17000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-19 10:38:43"
-    },
-    {
-      "keyword": "pistons vs cavaliers",
-      "score": 11000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-16 14:19:34"
     },
     {
       "keyword": "gina carano",
@@ -35,6 +28,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-18 10:59:47"
+    },
+    {
+      "keyword": "pistons vs cavaliers",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-16 14:19:34"
     },
     {
       "keyword": "mackenzie shirilla",
@@ -45,17 +45,10 @@
     },
     {
       "keyword": "air force monica witt",
-      "score": 9200000,
+      "score": 9700000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
-      "timestamp": "2026-05-21 16:11:12"
-    },
-    {
-      "keyword": "pga championship",
-      "score": 8500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-17 08:54:57"
+      "timestamp": "2026-05-21 20:40:29"
     },
     {
       "keyword": "aaron rai",
@@ -66,63 +59,70 @@
     },
     {
       "keyword": "cavaliers vs knicks",
-      "score": 7000000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-05-21 16:11:12"
+      "timestamp": "2026-05-21 20:40:29"
+    },
+    {
+      "keyword": "pga championship",
+      "score": 8000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-17 08:54:57"
     },
     {
       "keyword": "thomas massie",
-      "score": 6500000,
+      "score": 7500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-21 16:11:12"
+      "timestamp": "2026-05-21 20:40:29"
     },
     {
       "keyword": "off campus",
-      "score": 6200000,
+      "score": 6000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-18 20:27:57"
     },
     {
       "keyword": "alex murdaugh",
-      "score": 6100000,
+      "score": 5900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-19 10:38:43"
     },
     {
-      "keyword": "tony hinchcliffe",
-      "score": 6000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-17 19:53:04"
-    },
-    {
       "keyword": "chelsea handler",
-      "score": 6000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-17 19:53:04"
-    },
-    {
-      "keyword": "sheryl underwood",
-      "score": 5100000,
+      "score": 5500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
     },
     {
       "keyword": "ebola",
-      "score": 5000000,
+      "score": 5500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-21 16:11:12"
+      "timestamp": "2026-05-21 20:40:29"
+    },
+    {
+      "keyword": "tony hinchcliffe",
+      "score": 5500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-17 19:53:04"
+    },
+    {
+      "keyword": "sheryl underwood",
+      "score": 4600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-17 19:53:04"
     },
     {
       "keyword": "jason collins",
-      "score": 5000000,
+      "score": 4500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-18 04:58:20"
@@ -142,16 +142,16 @@
       "timestamp": "2026-05-19 20:31:39"
     },
     {
+      "keyword": "new spotify logo",
+      "score": 3300000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-21 20:40:29"
+    },
+    {
       "keyword": "simi valley fire",
       "score": 3250000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-21 16:11:12"
-    },
-    {
-      "keyword": "new spotify logo",
-      "score": 3100000,
-      "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-21 16:11:12"
     },
@@ -171,17 +171,10 @@
     },
     {
       "keyword": "heidi broussard",
-      "score": 2600000,
+      "score": 2800000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-21 16:11:12"
-    },
-    {
-      "keyword": "dutton ranch cast",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-21 05:14:36"
+      "timestamp": "2026-05-21 20:40:29"
     },
     {
       "keyword": "ap watch",
@@ -191,29 +184,36 @@
       "timestamp": "2026-05-16 14:19:34"
     },
     {
+      "keyword": "dutton ranch cast",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-21 05:14:36"
+    },
+    {
+      "keyword": "john travolta",
+      "score": 2300000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-21 20:40:29"
+    },
+    {
       "keyword": "regina hall",
-      "score": 2400000,
+      "score": 2200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-17 19:53:04"
     },
     {
-      "keyword": "nfl schedule",
-      "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-05-15 20:10:55"
-    },
-    {
-      "keyword": "john travolta",
-      "score": 2100000,
+      "keyword": "tom kane",
+      "score": 2150000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-21 16:11:12"
+      "timestamp": "2026-05-21 20:40:29"
     }
   ],
   "category_stats": {
-    "其他": 87,
+    "其他": 84,
     "体育": 38,
     "科技/AI": 5,
     "娱乐/生活": 3,

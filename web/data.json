@@ -1,37 +1,37 @@
 {
-  "last_updated": "2026-05-22 15:46:55",
+  "last_updated": "2026-05-22 20:32:56",
   "trends": [
     {
       "keyword": "spurs vs thunder",
-      "score": 29000000,
+      "score": 31000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-05-22 15:46:55"
+      "timestamp": "2026-05-22 20:32:56"
+    },
+    {
+      "keyword": "kyle busch",
+      "score": 20000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-05-22 20:32:56"
     },
     {
       "keyword": "drake",
-      "score": 17900000,
+      "score": 17400000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-20 21:00:28"
     },
     {
-      "keyword": "kyle busch",
-      "score": 15000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-05-22 15:46:55"
-    },
-    {
       "keyword": "cavaliers vs knicks",
-      "score": 14000000,
+      "score": 16000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-05-22 15:46:55"
+      "timestamp": "2026-05-22 20:32:56"
     },
     {
       "keyword": "brandon clarke",
-      "score": 14000000,
+      "score": 13000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-19 10:38:43"
@@ -72,13 +72,6 @@
       "timestamp": "2026-05-20 10:05:30"
     },
     {
-      "keyword": "pistons vs cavaliers",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-16 14:19:34"
-    },
-    {
       "keyword": "ebola",
       "score": 7000000,
       "traffic_numeric": 1000000,
@@ -86,22 +79,29 @@
       "timestamp": "2026-05-22 10:01:33"
     },
     {
-      "keyword": "pga championship",
+      "keyword": "pistons vs cavaliers",
       "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-17 08:54:57"
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-16 14:19:34"
     },
     {
       "keyword": "off campus",
-      "score": 5400000,
+      "score": 5200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-18 20:27:57"
     },
     {
-      "keyword": "alex murdaugh",
+      "keyword": "pga championship",
       "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-17 08:54:57"
+    },
+    {
+      "keyword": "alex murdaugh",
+      "score": 4500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-19 10:38:43"
@@ -112,20 +112,6 @@
       "traffic_numeric": 1000000,
       "category": "娱乐/生活",
       "timestamp": "2026-05-22 10:01:33"
-    },
-    {
-      "keyword": "chelsea handler",
-      "score": 4000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-17 19:53:04"
-    },
-    {
-      "keyword": "tony hinchcliffe",
-      "score": 4000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-17 19:53:04"
     },
     {
       "keyword": "san diego shooting",
@@ -142,18 +128,32 @@
       "timestamp": "2026-05-19 20:31:39"
     },
     {
-      "keyword": "sheryl underwood",
-      "score": 3700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-17 19:53:04"
-    },
-    {
       "keyword": "new spotify logo",
       "score": 3600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-22 10:01:33"
+    },
+    {
+      "keyword": "sheryl underwood",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-17 19:53:04"
+    },
+    {
+      "keyword": "tony hinchcliffe",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-17 19:53:04"
+    },
+    {
+      "keyword": "chelsea handler",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-17 19:53:04"
     },
     {
       "keyword": "simi valley fire",
@@ -163,6 +163,13 @@
       "timestamp": "2026-05-21 16:11:12"
     },
     {
+      "keyword": "spurs vs okc",
+      "score": 3200000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-22 20:32:56"
+    },
+    {
       "keyword": "heidi broussard",
       "score": 3000000,
       "traffic_numeric": 200000,
@@ -170,11 +177,11 @@
       "timestamp": "2026-05-22 05:02:08"
     },
     {
-      "keyword": "jason collins",
-      "score": 3000000,
-      "traffic_numeric": 500000,
+      "keyword": "tom kane",
+      "score": 2950000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-18 04:58:20"
+      "timestamp": "2026-05-22 20:32:56"
     },
     {
       "keyword": "john travolta",
@@ -198,13 +205,6 @@
       "timestamp": "2026-05-22 10:01:33"
     },
     {
-      "keyword": "tom kane",
-      "score": 2750000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-22 15:46:55"
-    },
-    {
       "keyword": "dutton ranch cast",
       "score": 2700000,
       "traffic_numeric": 1000000,
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 91,
-    "体育": 38,
+    "其他": 96,
+    "体育": 34,
     "科技/AI": 6,
     "娱乐/生活": 5,
     "金融/商业": 2

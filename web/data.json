@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22 20:32:56",
+  "last_updated": "2026-05-23 04:29:42",
   "trends": [
     {
       "keyword": "spurs vs thunder",
@@ -10,10 +10,17 @@
     },
     {
       "keyword": "kyle busch",
-      "score": 20000000,
+      "score": 25000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-05-22 20:32:56"
+      "timestamp": "2026-05-23 04:29:42"
+    },
+    {
+      "keyword": "cavaliers vs knicks",
+      "score": 18000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-23 04:29:42"
     },
     {
       "keyword": "drake",
@@ -21,13 +28,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-20 21:00:28"
-    },
-    {
-      "keyword": "cavaliers vs knicks",
-      "score": 16000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-22 20:32:56"
     },
     {
       "keyword": "brandon clarke",
@@ -58,18 +58,18 @@
       "timestamp": "2026-05-21 10:39:41"
     },
     {
-      "keyword": "thomas massie",
-      "score": 8500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-22 05:02:08"
-    },
-    {
       "keyword": "aaron rai",
       "score": 8500000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-05-20 10:05:30"
+    },
+    {
+      "keyword": "thomas massie",
+      "score": 8500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-22 05:02:08"
     },
     {
       "keyword": "ebola",
@@ -135,7 +135,7 @@
       "timestamp": "2026-05-22 10:01:33"
     },
     {
-      "keyword": "sheryl underwood",
+      "keyword": "chelsea handler",
       "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
@@ -149,7 +149,7 @@
       "timestamp": "2026-05-17 19:53:04"
     },
     {
-      "keyword": "chelsea handler",
+      "keyword": "sheryl underwood",
       "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
@@ -170,6 +170,13 @@
       "timestamp": "2026-05-22 20:32:56"
     },
     {
+      "keyword": "tom kane",
+      "score": 3150000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-23 04:29:42"
+    },
+    {
       "keyword": "heidi broussard",
       "score": 3000000,
       "traffic_numeric": 200000,
@@ -177,11 +184,11 @@
       "timestamp": "2026-05-22 05:02:08"
     },
     {
-      "keyword": "tom kane",
-      "score": 2950000,
-      "traffic_numeric": 200000,
+      "keyword": "nate diaz",
+      "score": 2900000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-22 20:32:56"
+      "timestamp": "2026-05-18 20:27:57"
     },
     {
       "keyword": "john travolta",
@@ -189,13 +196,6 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-22 15:46:55"
-    },
-    {
-      "keyword": "nate diaz",
-      "score": 2900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-18 20:27:57"
     },
     {
       "keyword": "blue jays vs yankees",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 96,
-    "体育": 34,
+    "其他": 101,
+    "体育": 38,
     "科技/AI": 6,
     "娱乐/生活": 5,
     "金融/商业": 2

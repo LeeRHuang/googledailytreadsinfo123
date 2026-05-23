@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-05-23 09:05:28",
+  "last_updated": "2026-05-23 14:21:15",
   "trends": [
+    {
+      "keyword": "kyle busch",
+      "score": 35000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-05-23 14:21:15"
+    },
     {
       "keyword": "spurs vs thunder",
       "score": 31000000,
@@ -9,36 +16,22 @@
       "timestamp": "2026-05-22 20:32:56"
     },
     {
-      "keyword": "kyle busch",
-      "score": 30000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-05-23 09:05:28"
-    },
-    {
       "keyword": "cavaliers vs knicks",
-      "score": 20000000,
+      "score": 22000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-05-23 09:05:28"
+      "timestamp": "2026-05-23 14:21:15"
     },
     {
       "keyword": "drake",
-      "score": 15400000,
+      "score": 14400000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-20 21:00:28"
     },
     {
-      "keyword": "brandon clarke",
-      "score": 11000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-19 10:38:43"
-    },
-    {
       "keyword": "gina carano",
-      "score": 10400000,
+      "score": 10200000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-18 10:59:47"
@@ -51,8 +44,15 @@
       "timestamp": "2026-05-22 10:01:33"
     },
     {
+      "keyword": "brandon clarke",
+      "score": 10000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-19 10:38:43"
+    },
+    {
       "keyword": "mackenzie shirilla",
-      "score": 9900000,
+      "score": 9800000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-21 10:39:41"
@@ -79,8 +79,15 @@
       "timestamp": "2026-05-22 10:01:33"
     },
     {
+      "keyword": "thunder vs spurs",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-23 14:21:15"
+    },
+    {
       "keyword": "off campus",
-      "score": 4500000,
+      "score": 4000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-18 20:27:57"
@@ -93,25 +100,11 @@
       "timestamp": "2026-05-22 10:01:33"
     },
     {
-      "keyword": "thunder vs spurs",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-23 09:05:28"
-    },
-    {
       "keyword": "san diego shooting",
       "score": 3900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-21 05:14:36"
-    },
-    {
-      "keyword": "new spotify logo",
-      "score": 3600000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-22 10:01:33"
     },
     {
       "keyword": "obsession",
@@ -121,18 +114,18 @@
       "timestamp": "2026-05-19 20:31:39"
     },
     {
-      "keyword": "alex murdaugh",
-      "score": 3500000,
-      "traffic_numeric": 500000,
+      "keyword": "new spotify logo",
+      "score": 3600000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-19 10:38:43"
+      "timestamp": "2026-05-22 10:01:33"
     },
     {
-      "keyword": "pga championship",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
+      "keyword": "tom kane",
+      "score": 3350000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-17 08:54:57"
+      "timestamp": "2026-05-23 14:21:15"
     },
     {
       "keyword": "simi valley fire",
@@ -149,11 +142,11 @@
       "timestamp": "2026-05-22 20:32:56"
     },
     {
-      "keyword": "tom kane",
-      "score": 3150000,
-      "traffic_numeric": 200000,
+      "keyword": "alex murdaugh",
+      "score": 3000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-23 04:29:42"
+      "timestamp": "2026-05-19 10:38:43"
     },
     {
       "keyword": "heidi broussard",
@@ -171,7 +164,7 @@
     },
     {
       "keyword": "john travolta",
-      "score": 2850000,
+      "score": 2800000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-22 15:46:55"
@@ -191,30 +184,37 @@
       "timestamp": "2026-05-22 05:02:08"
     },
     {
-      "keyword": "chelsea handler",
+      "keyword": "pga championship",
       "score": 2500000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-17 19:53:04"
+      "timestamp": "2026-05-17 08:54:57"
     },
     {
-      "keyword": "tony hinchcliffe",
-      "score": 2500000,
+      "keyword": "the boys finale",
+      "score": 2400000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-17 19:53:04"
+      "timestamp": "2026-05-22 05:02:08"
     },
     {
-      "keyword": "sheryl underwood",
-      "score": 2500000,
+      "keyword": "ebola outbreak",
+      "score": 2100000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-17 19:53:04"
+      "timestamp": "2026-05-23 14:21:15"
+    },
+    {
+      "keyword": "dodgers vs padres",
+      "score": 2100000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-05-22 05:02:08"
     }
   ],
   "category_stats": {
-    "其他": 102,
-    "体育": 39,
+    "其他": 103,
+    "体育": 38,
     "科技/AI": 8,
     "娱乐/生活": 5,
     "金融/商业": 2

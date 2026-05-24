@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-23 19:53:58",
+  "last_updated": "2026-05-24 05:03:19",
   "trends": [
     {
       "keyword": "kyle busch",
-      "score": 40000000,
+      "score": 40000001,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-05-23 19:53:58"
+      "timestamp": "2026-05-24 05:03:19"
     },
     {
       "keyword": "spurs vs thunder",
@@ -24,38 +24,31 @@
     },
     {
       "keyword": "drake",
-      "score": 13400000,
+      "score": 12400000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-20 21:00:28"
     },
     {
-      "keyword": "gina carano",
+      "keyword": "thunder vs spurs",
       "score": 10000000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-18 10:59:47"
-    },
-    {
-      "keyword": "air force monica witt",
-      "score": 9900000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-05-22 10:01:33"
+      "category": "体育",
+      "timestamp": "2026-05-24 05:03:19"
     },
     {
       "keyword": "mackenzie shirilla",
-      "score": 9700000,
+      "score": 9500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-21 10:39:41"
     },
     {
-      "keyword": "brandon clarke",
-      "score": 9000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-19 10:38:43"
+      "keyword": "air force monica witt",
+      "score": 9400000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-22 10:01:33"
     },
     {
       "keyword": "thomas massie",
@@ -72,11 +65,18 @@
       "timestamp": "2026-05-20 10:05:30"
     },
     {
-      "keyword": "thunder vs spurs",
+      "keyword": "brandon clarke",
+      "score": 8000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-19 10:38:43"
+    },
+    {
+      "keyword": "gina carano",
       "score": 8000000,
       "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-23 19:53:58"
+      "category": "其他",
+      "timestamp": "2026-05-18 10:59:47"
     },
     {
       "keyword": "ebola",
@@ -107,25 +107,11 @@
       "timestamp": "2026-05-22 10:01:33"
     },
     {
-      "keyword": "off campus",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-18 20:27:57"
-    },
-    {
-      "keyword": "obsession",
-      "score": 3400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-19 20:31:39"
-    },
-    {
       "keyword": "tom kane",
-      "score": 3350000,
+      "score": 3550000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-23 14:21:15"
+      "timestamp": "2026-05-24 05:03:19"
     },
     {
       "keyword": "simi valley fire",
@@ -142,6 +128,13 @@
       "timestamp": "2026-05-22 20:32:56"
     },
     {
+      "keyword": "obsession",
+      "score": 3200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-19 20:31:39"
+    },
+    {
       "keyword": "heidi broussard",
       "score": 3000000,
       "traffic_numeric": 200000,
@@ -149,8 +142,8 @@
       "timestamp": "2026-05-22 05:02:08"
     },
     {
-      "keyword": "nate diaz",
-      "score": 2900000,
+      "keyword": "off campus",
+      "score": 3000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-18 20:27:57"
@@ -177,11 +170,11 @@
       "timestamp": "2026-05-22 05:02:08"
     },
     {
-      "keyword": "alex murdaugh",
-      "score": 2500000,
+      "keyword": "nate diaz",
+      "score": 2700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-19 10:38:43"
+      "timestamp": "2026-05-18 20:27:57"
     },
     {
       "keyword": "mackenzie shirilla now",
@@ -191,6 +184,13 @@
       "timestamp": "2026-05-23 19:53:58"
     },
     {
+      "keyword": "ebola outbreak",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-24 05:03:19"
+    },
+    {
       "keyword": "the boys finale",
       "score": 2400000,
       "traffic_numeric": 500000,
@@ -198,11 +198,11 @@
       "timestamp": "2026-05-22 05:02:08"
     },
     {
-      "keyword": "ebola outbreak",
-      "score": 2300000,
+      "keyword": "mandalorian and grogu",
+      "score": 2100000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-23 19:53:58"
+      "timestamp": "2026-05-24 05:03:19"
     },
     {
       "keyword": "dodgers vs padres",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 101,
-    "体育": 42,
+    "其他": 102,
+    "体育": 43,
     "科技/AI": 7,
     "娱乐/生活": 5,
     "金融/商业": 2

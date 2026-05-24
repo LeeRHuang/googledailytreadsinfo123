@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-24 14:22:48",
+  "last_updated": "2026-05-24 19:51:56",
   "trends": [
     {
       "keyword": "kyle busch",
-      "score": 40000003,
+      "score": 40000004,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-05-24 14:22:48"
+      "timestamp": "2026-05-24 19:51:56"
     },
     {
       "keyword": "spurs vs thunder",
@@ -24,10 +24,10 @@
     },
     {
       "keyword": "thunder vs spurs",
-      "score": 13000000,
+      "score": 15000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-05-24 14:22:48"
+      "timestamp": "2026-05-24 19:51:56"
     },
     {
       "keyword": "drake",
@@ -51,6 +51,13 @@
       "timestamp": "2026-05-22 10:01:33"
     },
     {
+      "keyword": "thomas massie",
+      "score": 8500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-22 05:02:08"
+    },
+    {
       "keyword": "aaron rai",
       "score": 8500000,
       "traffic_numeric": 1000000,
@@ -58,11 +65,11 @@
       "timestamp": "2026-05-20 10:05:30"
     },
     {
-      "keyword": "thomas massie",
-      "score": 8500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-22 05:02:08"
+      "keyword": "knicks vs cavs",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-24 19:51:56"
     },
     {
       "keyword": "ebola",
@@ -86,11 +93,11 @@
       "timestamp": "2026-05-18 10:59:47"
     },
     {
-      "keyword": "knicks vs cavs",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-24 14:22:48"
+      "keyword": "garden grove chemical leak",
+      "score": 4700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-24 19:51:56"
     },
     {
       "keyword": "the crash netflix",
@@ -110,13 +117,6 @@
       "keyword": "tom kane",
       "score": 3750000,
       "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-24 14:22:48"
-    },
-    {
-      "keyword": "garden grove chemical leak",
-      "score": 3700000,
-      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-24 14:22:48"
     },
@@ -142,11 +142,11 @@
       "timestamp": "2026-05-22 20:32:56"
     },
     {
-      "keyword": "heidi broussard",
-      "score": 3000000,
-      "traffic_numeric": 200000,
+      "keyword": "mandalorian and grogu",
+      "score": 3100000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-22 05:02:08"
+      "timestamp": "2026-05-24 19:51:56"
     },
     {
       "keyword": "obsession",
@@ -156,18 +156,18 @@
       "timestamp": "2026-05-19 20:31:39"
     },
     {
+      "keyword": "heidi broussard",
+      "score": 3000000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-22 05:02:08"
+    },
+    {
       "keyword": "blue jays vs yankees",
       "score": 2750000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-05-22 10:01:33"
-    },
-    {
-      "keyword": "dutton ranch cast",
-      "score": 2700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-22 05:02:08"
     },
     {
       "keyword": "john travolta",
@@ -177,18 +177,11 @@
       "timestamp": "2026-05-22 15:46:55"
     },
     {
-      "keyword": "mandalorian and grogu",
-      "score": 2600000,
-      "traffic_numeric": 500000,
+      "keyword": "dutton ranch cast",
+      "score": 2700000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-24 14:22:48"
-    },
-    {
-      "keyword": "ebola outbreak",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-24 05:03:19"
+      "timestamp": "2026-05-22 05:02:08"
     },
     {
       "keyword": "mackenzie shirilla now",
@@ -198,11 +191,11 @@
       "timestamp": "2026-05-23 19:53:58"
     },
     {
-      "keyword": "off campus",
+      "keyword": "ebola outbreak",
       "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-18 20:27:57"
+      "timestamp": "2026-05-24 05:03:19"
     },
     {
       "keyword": "nate diaz",
@@ -210,11 +203,18 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-18 20:27:57"
+    },
+    {
+      "keyword": "off campus",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-18 20:27:57"
     }
   ],
   "category_stats": {
-    "其他": 102,
-    "体育": 43,
+    "其他": 105,
+    "体育": 45,
     "科技/AI": 7,
     "娱乐/生活": 6,
     "金融/商业": 2

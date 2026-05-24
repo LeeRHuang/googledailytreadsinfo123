@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-24 09:21:32",
+  "last_updated": "2026-05-24 14:22:48",
   "trends": [
     {
       "keyword": "kyle busch",
-      "score": 40000002,
+      "score": 40000003,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-05-24 09:21:32"
+      "timestamp": "2026-05-24 14:22:48"
     },
     {
       "keyword": "spurs vs thunder",
@@ -23,18 +23,18 @@
       "timestamp": "2026-05-24 09:21:32"
     },
     {
+      "keyword": "thunder vs spurs",
+      "score": 13000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-24 14:22:48"
+    },
+    {
       "keyword": "drake",
       "score": 11400000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-20 21:00:28"
-    },
-    {
-      "keyword": "thunder vs spurs",
-      "score": 11000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-24 09:21:32"
     },
     {
       "keyword": "mackenzie shirilla",
@@ -87,10 +87,10 @@
     },
     {
       "keyword": "knicks vs cavs",
-      "score": 4000000,
+      "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-05-24 09:21:32"
+      "timestamp": "2026-05-24 14:22:48"
     },
     {
       "keyword": "the crash netflix",
@@ -108,10 +108,17 @@
     },
     {
       "keyword": "tom kane",
-      "score": 3550000,
+      "score": 3750000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-24 05:03:19"
+      "timestamp": "2026-05-24 14:22:48"
+    },
+    {
+      "keyword": "garden grove chemical leak",
+      "score": 3700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-24 14:22:48"
     },
     {
       "keyword": "new spotify logo",
@@ -156,20 +163,6 @@
       "timestamp": "2026-05-22 10:01:33"
     },
     {
-      "keyword": "john travolta",
-      "score": 2700000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-22 15:46:55"
-    },
-    {
-      "keyword": "garden grove chemical leak",
-      "score": 2700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-24 09:21:32"
-    },
-    {
       "keyword": "dutton ranch cast",
       "score": 2700000,
       "traffic_numeric": 1000000,
@@ -177,11 +170,18 @@
       "timestamp": "2026-05-22 05:02:08"
     },
     {
-      "keyword": "nate diaz",
-      "score": 2500000,
+      "keyword": "john travolta",
+      "score": 2700000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-22 15:46:55"
+    },
+    {
+      "keyword": "mandalorian and grogu",
+      "score": 2600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-18 20:27:57"
+      "timestamp": "2026-05-24 14:22:48"
     },
     {
       "keyword": "ebola outbreak",
@@ -205,11 +205,11 @@
       "timestamp": "2026-05-18 20:27:57"
     },
     {
-      "keyword": "the boys finale",
-      "score": 2400000,
+      "keyword": "nate diaz",
+      "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-22 05:02:08"
+      "timestamp": "2026-05-18 20:27:57"
     }
   ],
   "category_stats": {

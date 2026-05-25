@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-24 19:51:56",
+  "last_updated": "2026-05-25 05:18:39",
   "trends": [
     {
       "keyword": "kyle busch",
-      "score": 40000004,
+      "score": 40000005,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-05-24 19:51:56"
+      "timestamp": "2026-05-25 05:18:39"
     },
     {
       "keyword": "spurs vs thunder",
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "cavaliers vs knicks",
-      "score": 25000000,
+      "score": 27000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-05-24 09:21:32"
+      "timestamp": "2026-05-25 05:18:39"
     },
     {
       "keyword": "thunder vs spurs",
@@ -31,24 +31,17 @@
     },
     {
       "keyword": "drake",
-      "score": 11400000,
+      "score": 9400000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-20 21:00:28"
     },
     {
       "keyword": "mackenzie shirilla",
-      "score": 9300000,
+      "score": 8900000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-21 10:39:41"
-    },
-    {
-      "keyword": "air force monica witt",
-      "score": 8900000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-05-22 10:01:33"
     },
     {
       "keyword": "thomas massie",
@@ -59,7 +52,7 @@
     },
     {
       "keyword": "aaron rai",
-      "score": 8500000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-05-20 10:05:30"
@@ -72,32 +65,39 @@
       "timestamp": "2026-05-24 19:51:56"
     },
     {
+      "keyword": "air force monica witt",
+      "score": 7900000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-22 10:01:33"
+    },
+    {
       "keyword": "ebola",
-      "score": 7000000,
+      "score": 6900000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-22 10:01:33"
     },
     {
+      "keyword": "garden grove chemical leak",
+      "score": 5700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-25 05:18:39"
+    },
+    {
       "keyword": "brandon clarke",
-      "score": 7000000,
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-19 10:38:43"
     },
     {
-      "keyword": "gina carano",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-18 10:59:47"
-    },
-    {
-      "keyword": "garden grove chemical leak",
-      "score": 4700000,
+      "keyword": "mandalorian and grogu",
+      "score": 4100000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-24 19:51:56"
+      "timestamp": "2026-05-25 05:18:39"
     },
     {
       "keyword": "the crash netflix",
@@ -122,7 +122,7 @@
     },
     {
       "keyword": "new spotify logo",
-      "score": 3500000,
+      "score": 3300000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-22 10:01:33"
@@ -142,22 +142,8 @@
       "timestamp": "2026-05-22 20:32:56"
     },
     {
-      "keyword": "mandalorian and grogu",
-      "score": 3100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-24 19:51:56"
-    },
-    {
-      "keyword": "obsession",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-19 20:31:39"
-    },
-    {
       "keyword": "heidi broussard",
-      "score": 3000000,
+      "score": 2800000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-22 05:02:08"
@@ -170,18 +156,25 @@
       "timestamp": "2026-05-22 10:01:33"
     },
     {
-      "keyword": "john travolta",
-      "score": 2700000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-22 15:46:55"
-    },
-    {
       "keyword": "dutton ranch cast",
       "score": 2700000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-22 05:02:08"
+    },
+    {
+      "keyword": "obsession",
+      "score": 2600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-19 20:31:39"
+    },
+    {
+      "keyword": "john travolta",
+      "score": 2600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-22 15:46:55"
     },
     {
       "keyword": "mackenzie shirilla now",
@@ -198,25 +191,32 @@
       "timestamp": "2026-05-24 05:03:19"
     },
     {
-      "keyword": "nate diaz",
-      "score": 2500000,
+      "keyword": "the boys finale",
+      "score": 2400000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-18 20:27:57"
+      "timestamp": "2026-05-22 05:02:08"
     },
     {
-      "keyword": "off campus",
-      "score": 2500000,
-      "traffic_numeric": 500000,
+      "keyword": "dodgers vs padres",
+      "score": 2100000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-05-22 05:02:08"
+    },
+    {
+      "keyword": "bettina anderson",
+      "score": 2050000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-18 20:27:57"
+      "timestamp": "2026-05-25 05:18:39"
     }
   ],
   "category_stats": {
-    "其他": 105,
-    "体育": 45,
+    "其他": 102,
+    "体育": 43,
     "科技/AI": 7,
-    "娱乐/生活": 6,
+    "娱乐/生活": 7,
     "金融/商业": 2
   },
   "insights": []

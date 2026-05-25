@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-25 11:06:51",
+  "last_updated": "2026-05-25 15:55:07",
   "trends": [
     {
       "keyword": "kyle busch",
-      "score": 40000006,
+      "score": 40000007,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-05-25 11:06:51"
+      "timestamp": "2026-05-25 15:55:07"
     },
     {
       "keyword": "spurs vs thunder",
@@ -58,6 +58,13 @@
       "timestamp": "2026-05-24 19:51:56"
     },
     {
+      "keyword": "garden grove chemical leak",
+      "score": 7700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-25 15:55:07"
+    },
+    {
       "keyword": "aaron rai",
       "score": 7500000,
       "traffic_numeric": 1000000,
@@ -70,13 +77,6 @@
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-05-22 10:01:33"
-    },
-    {
-      "keyword": "garden grove chemical leak",
-      "score": 6700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-25 11:06:51"
     },
     {
       "keyword": "ebola",
@@ -93,18 +93,18 @@
       "timestamp": "2026-05-25 05:18:39"
     },
     {
-      "keyword": "the crash netflix",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-05-22 10:01:33"
-    },
-    {
       "keyword": "brandon clarke",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-19 10:38:43"
+    },
+    {
+      "keyword": "the crash netflix",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-05-22 10:01:33"
     },
     {
       "keyword": "san diego shooting",
@@ -121,11 +121,25 @@
       "timestamp": "2026-05-24 14:22:48"
     },
     {
+      "keyword": "indy 500",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-25 15:55:07"
+    },
+    {
       "keyword": "simi valley fire",
       "score": 3250000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-21 16:11:12"
+    },
+    {
+      "keyword": "memorial day 2026",
+      "score": 3200000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-25 15:55:07"
     },
     {
       "keyword": "spurs vs okc",
@@ -140,6 +154,13 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-22 10:01:33"
+    },
+    {
+      "keyword": "stewart mclean",
+      "score": 2970000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-25 15:55:07"
     },
     {
       "keyword": "heidi broussard",
@@ -184,39 +205,18 @@
       "timestamp": "2026-05-24 05:03:19"
     },
     {
-      "keyword": "indy 500",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
+      "keyword": "bettina anderson",
+      "score": 2450000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-25 11:06:51"
-    },
-    {
-      "keyword": "stewart mclean",
-      "score": 2470000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-25 11:06:51"
-    },
-    {
-      "keyword": "obsession",
-      "score": 2400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-19 20:31:39"
-    },
-    {
-      "keyword": "the boys finale",
-      "score": 2400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-22 05:02:08"
+      "timestamp": "2026-05-25 15:55:07"
     }
   ],
   "category_stats": {
-    "其他": 100,
+    "其他": 104,
     "体育": 40,
+    "娱乐/生活": 8,
     "科技/AI": 7,
-    "娱乐/生活": 7,
     "金融/商业": 2
   },
   "insights": [

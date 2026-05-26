@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-26 16:39:54",
+  "last_updated": "2026-05-26 20:41:23",
   "trends": [
     {
       "keyword": "kyle busch",
-      "score": 40000010,
+      "score": 40000011,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-05-26 16:39:54"
+      "timestamp": "2026-05-26 20:41:23"
     },
     {
       "keyword": "cavaliers vs knicks",
@@ -17,7 +17,7 @@
     },
     {
       "keyword": "spurs vs thunder",
-      "score": 25000000,
+      "score": 23000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-22 20:32:56"
@@ -30,16 +30,16 @@
       "timestamp": "2026-05-24 19:51:56"
     },
     {
+      "keyword": "garden grove chemical leak",
+      "score": 12700000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-26 20:41:23"
+    },
+    {
       "keyword": "memorial day 2026",
       "score": 12200000,
       "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-05-26 16:39:54"
-    },
-    {
-      "keyword": "garden grove chemical leak",
-      "score": 10700000,
-      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-26 16:39:54"
     },
@@ -51,13 +51,6 @@
       "timestamp": "2026-05-26 16:39:54"
     },
     {
-      "keyword": "thomas massie",
-      "score": 8200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-22 05:02:08"
-    },
-    {
       "keyword": "knicks vs cavs",
       "score": 8000000,
       "traffic_numeric": 2000000,
@@ -65,25 +58,32 @@
       "timestamp": "2026-05-24 19:51:56"
     },
     {
+      "keyword": "thomas massie",
+      "score": 8000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-22 05:02:08"
+    },
+    {
       "keyword": "mackenzie shirilla",
-      "score": 6500000,
+      "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-21 10:39:41"
     },
     {
       "keyword": "ebola",
-      "score": 5700000,
+      "score": 5200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-22 10:01:33"
     },
     {
-      "keyword": "air force monica witt",
-      "score": 4900000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-05-22 10:01:33"
+      "keyword": "nba finals",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-05-26 20:41:23"
     },
     {
       "keyword": "indy 500",
@@ -93,11 +93,18 @@
       "timestamp": "2026-05-25 20:17:49"
     },
     {
-      "keyword": "drake",
-      "score": 4200000,
-      "traffic_numeric": 1000000,
+      "keyword": "air force monica witt",
+      "score": 4400000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-22 10:01:33"
+    },
+    {
+      "keyword": "the boroughs",
+      "score": 4250000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-20 21:00:28"
+      "timestamp": "2026-05-26 20:41:23"
     },
     {
       "keyword": "mandalorian and grogu",
@@ -114,13 +121,6 @@
       "timestamp": "2026-05-22 10:01:33"
     },
     {
-      "keyword": "the boroughs",
-      "score": 3750000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-26 16:39:54"
-    },
-    {
       "keyword": "stewart mclean",
       "score": 3470000,
       "traffic_numeric": 500000,
@@ -128,25 +128,25 @@
       "timestamp": "2026-05-25 20:17:49"
     },
     {
+      "keyword": "bettina anderson",
+      "score": 3250000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-26 20:41:23"
+    },
+    {
+      "keyword": "drake",
+      "score": 3200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-20 21:00:28"
+    },
+    {
       "keyword": "tom kane",
-      "score": 3400000,
+      "score": 3200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-24 14:22:48"
-    },
-    {
-      "keyword": "bettina anderson",
-      "score": 3050000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-26 16:39:54"
-    },
-    {
-      "keyword": "aaron rai",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-05-20 10:05:30"
     },
     {
       "keyword": "spurs vs okc",
@@ -163,18 +163,11 @@
       "timestamp": "2026-05-26 05:01:49"
     },
     {
-      "keyword": "san diego shooting",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-21 05:14:36"
-    },
-    {
       "keyword": "rob base",
-      "score": 2800000,
+      "score": 3000000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-26 16:39:54"
+      "timestamp": "2026-05-26 20:41:23"
     },
     {
       "keyword": "blue jays vs yankees",
@@ -182,13 +175,6 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-05-22 10:01:33"
-    },
-    {
-      "keyword": "simi valley fire",
-      "score": 2600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-21 16:11:12"
     },
     {
       "keyword": "mackenzie shirilla now",
@@ -205,19 +191,33 @@
       "timestamp": "2026-05-24 05:03:19"
     },
     {
+      "keyword": "san diego shooting",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-21 05:14:36"
+    },
+    {
       "keyword": "the boys finale",
       "score": 2400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-22 05:02:08"
+    },
+    {
+      "keyword": "simi valley fire",
+      "score": 2400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-21 16:11:12"
     }
   ],
   "category_stats": {
-    "其他": 103,
-    "体育": 47,
+    "其他": 100,
+    "体育": 46,
     "科技/AI": 8,
     "娱乐/生活": 8,
-    "金融/商业": 3
+    "金融/商业": 4
   },
   "insights": [
     {

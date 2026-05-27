@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-05-26 20:41:23",
+  "last_updated": "2026-05-27 05:14:41",
   "trends": [
     {
       "keyword": "kyle busch",
-      "score": 40000011,
+      "score": 40000012,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-05-26 20:41:23"
+      "timestamp": "2026-05-27 05:14:41"
     },
     {
       "keyword": "cavaliers vs knicks",
-      "score": 31000000,
+      "score": 30000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-25 20:17:49"
     },
     {
       "keyword": "spurs vs thunder",
-      "score": 23000000,
+      "score": 21000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-22 20:32:56"
@@ -31,10 +31,10 @@
     },
     {
       "keyword": "garden grove chemical leak",
-      "score": 12700000,
+      "score": 14700000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-05-26 20:41:23"
+      "timestamp": "2026-05-27 05:14:41"
     },
     {
       "keyword": "memorial day 2026",
@@ -59,31 +59,38 @@
     },
     {
       "keyword": "thomas massie",
-      "score": 8000000,
+      "score": 7500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-22 05:02:08"
     },
     {
+      "keyword": "nba finals",
+      "score": 7000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-05-27 05:14:41"
+    },
+    {
       "keyword": "mackenzie shirilla",
-      "score": 6000000,
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-21 10:39:41"
     },
     {
+      "keyword": "the boroughs",
+      "score": 4750000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-27 05:14:41"
+    },
+    {
       "keyword": "ebola",
-      "score": 5200000,
+      "score": 4700000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-22 10:01:33"
-    },
-    {
-      "keyword": "nba finals",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-05-26 20:41:23"
     },
     {
       "keyword": "indy 500",
@@ -91,20 +98,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-25 20:17:49"
-    },
-    {
-      "keyword": "air force monica witt",
-      "score": 4400000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-05-22 10:01:33"
-    },
-    {
-      "keyword": "the boroughs",
-      "score": 4250000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-26 20:41:23"
     },
     {
       "keyword": "mandalorian and grogu",
@@ -121,6 +114,13 @@
       "timestamp": "2026-05-22 10:01:33"
     },
     {
+      "keyword": "air force monica witt",
+      "score": 3900000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-22 10:01:33"
+    },
+    {
       "keyword": "stewart mclean",
       "score": 3470000,
       "traffic_numeric": 500000,
@@ -129,31 +129,10 @@
     },
     {
       "keyword": "bettina anderson",
-      "score": 3250000,
+      "score": 3450000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-26 20:41:23"
-    },
-    {
-      "keyword": "drake",
-      "score": 3200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-20 21:00:28"
-    },
-    {
-      "keyword": "tom kane",
-      "score": 3200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-24 14:22:48"
-    },
-    {
-      "keyword": "spurs vs okc",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-22 20:32:56"
+      "timestamp": "2026-05-27 05:14:41"
     },
     {
       "keyword": "mandalorian movie",
@@ -163,6 +142,13 @@
       "timestamp": "2026-05-26 05:01:49"
     },
     {
+      "keyword": "spurs vs okc",
+      "score": 3000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-22 20:32:56"
+    },
+    {
       "keyword": "rob base",
       "score": 3000000,
       "traffic_numeric": 200000,
@@ -170,18 +156,18 @@
       "timestamp": "2026-05-26 20:41:23"
     },
     {
+      "keyword": "tom kane",
+      "score": 3000000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-24 14:22:48"
+    },
+    {
       "keyword": "blue jays vs yankees",
-      "score": 2700000,
+      "score": 2600000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-05-22 10:01:33"
-    },
-    {
-      "keyword": "mackenzie shirilla now",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-23 19:53:58"
     },
     {
       "keyword": "ebola outbreak",
@@ -191,11 +177,11 @@
       "timestamp": "2026-05-24 05:03:19"
     },
     {
-      "keyword": "san diego shooting",
+      "keyword": "mackenzie shirilla now",
       "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-21 05:14:36"
+      "timestamp": "2026-05-23 19:53:58"
     },
     {
       "keyword": "the boys finale",
@@ -206,15 +192,29 @@
     },
     {
       "keyword": "simi valley fire",
-      "score": 2400000,
+      "score": 2200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-21 16:11:12"
+    },
+    {
+      "keyword": "drake",
+      "score": 2200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-20 21:00:28"
+    },
+    {
+      "keyword": "jaxson dart",
+      "score": 2150000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-27 05:14:41"
     }
   ],
   "category_stats": {
-    "其他": 100,
-    "体育": 46,
+    "其他": 102,
+    "体育": 48,
     "科技/AI": 8,
     "娱乐/生活": 8,
     "金融/商业": 4

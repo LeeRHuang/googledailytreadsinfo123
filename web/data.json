@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-05-27 10:52:43",
+  "last_updated": "2026-05-27 16:37:07",
   "trends": [
     {
       "keyword": "kyle busch",
-      "score": 40000013,
+      "score": 40000014,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-05-27 10:52:43"
+      "timestamp": "2026-05-27 16:37:07"
     },
     {
       "keyword": "cavaliers vs knicks",
-      "score": 29000000,
+      "score": 28000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-25 20:17:49"
     },
     {
+      "keyword": "garden grove chemical leak",
+      "score": 18700000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-27 16:37:07"
+    },
+    {
       "keyword": "spurs vs thunder",
-      "score": 19000000,
+      "score": 17000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-22 20:32:56"
-    },
-    {
-      "keyword": "garden grove chemical leak",
-      "score": 16700000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-27 10:52:43"
     },
     {
       "keyword": "thunder vs spurs",
@@ -59,14 +59,14 @@
     },
     {
       "keyword": "nba finals",
-      "score": 7200000,
+      "score": 7400000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-05-27 10:52:43"
+      "timestamp": "2026-05-27 16:37:07"
     },
     {
       "keyword": "thomas massie",
-      "score": 7000000,
+      "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-22 05:02:08"
@@ -86,25 +86,11 @@
       "timestamp": "2026-05-25 20:17:49"
     },
     {
-      "keyword": "ebola",
-      "score": 4200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-22 10:01:33"
-    },
-    {
       "keyword": "mandalorian and grogu",
       "score": 4100000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-25 05:18:39"
-    },
-    {
-      "keyword": "mackenzie shirilla",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-21 10:39:41"
     },
     {
       "keyword": "the crash netflix",
@@ -115,10 +101,17 @@
     },
     {
       "keyword": "bettina anderson",
-      "score": 3650000,
+      "score": 3850000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-27 10:52:43"
+      "timestamp": "2026-05-27 16:37:07"
+    },
+    {
+      "keyword": "ebola",
+      "score": 3700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-22 10:01:33"
     },
     {
       "keyword": "stewart mclean",
@@ -128,18 +121,11 @@
       "timestamp": "2026-05-25 20:17:49"
     },
     {
-      "keyword": "air force monica witt",
-      "score": 3400000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-05-22 10:01:33"
-    },
-    {
-      "keyword": "spurs vs okc",
+      "keyword": "mackenzie shirilla",
       "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-22 20:32:56"
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-21 10:39:41"
     },
     {
       "keyword": "mandalorian movie",
@@ -149,6 +135,13 @@
       "timestamp": "2026-05-26 05:01:49"
     },
     {
+      "keyword": "spurs vs okc",
+      "score": 3000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-22 20:32:56"
+    },
+    {
       "keyword": "rob base",
       "score": 3000000,
       "traffic_numeric": 200000,
@@ -156,11 +149,32 @@
       "timestamp": "2026-05-26 20:41:23"
     },
     {
+      "keyword": "air force monica witt",
+      "score": 2900000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-05-22 10:01:33"
+    },
+    {
       "keyword": "tom kane",
-      "score": 2800000,
+      "score": 2600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-24 14:22:48"
+    },
+    {
+      "keyword": "jaxson dart",
+      "score": 2550000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-27 16:37:07"
+    },
+    {
+      "keyword": "ebola outbreak",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-24 05:03:19"
     },
     {
       "keyword": "blue jays vs yankees",
@@ -177,25 +191,18 @@
       "timestamp": "2026-05-23 19:53:58"
     },
     {
-      "keyword": "ebola outbreak",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-24 05:03:19"
-    },
-    {
       "keyword": "the boys finale",
-      "score": 2400000,
+      "score": 2200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-22 05:02:08"
     },
     {
-      "keyword": "jaxson dart",
-      "score": 2350000,
+      "keyword": "disregard",
+      "score": 2150000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-27 10:52:43"
+      "timestamp": "2026-05-27 16:37:07"
     },
     {
       "keyword": "coca cola 600",
@@ -203,17 +210,10 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-25 20:17:49"
-    },
-    {
-      "keyword": "simi valley fire",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-21 16:11:12"
     }
   ],
   "category_stats": {
-    "其他": 103,
+    "其他": 105,
     "体育": 49,
     "娱乐/生活": 8,
     "科技/AI": 7,

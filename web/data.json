@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28 16:51:45",
+  "last_updated": "2026-05-28 21:06:04",
   "trends": [
     {
       "keyword": "kyle busch",
@@ -10,14 +10,14 @@
     },
     {
       "keyword": "garden grove chemical leak",
-      "score": 24700000,
+      "score": 26700000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-05-28 16:51:44"
+      "timestamp": "2026-05-28 21:06:04"
     },
     {
       "keyword": "cavaliers vs knicks",
-      "score": 24000000,
+      "score": 23000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-25 20:17:49"
@@ -37,18 +37,18 @@
       "timestamp": "2026-05-26 16:39:54"
     },
     {
+      "keyword": "kyle busch cause of death",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-05-28 21:06:04"
+    },
+    {
       "keyword": "knicks vs cavaliers",
       "score": 10000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-05-26 16:39:54"
-    },
-    {
-      "keyword": "spurs vs thunder",
-      "score": 9000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-22 20:32:56"
     },
     {
       "keyword": "knicks vs cavs",
@@ -65,11 +65,11 @@
       "timestamp": "2026-05-27 16:37:07"
     },
     {
-      "keyword": "kyle busch cause of death",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-05-28 16:51:44"
+      "keyword": "spurs vs thunder",
+      "score": 7000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-22 20:32:56"
     },
     {
       "keyword": "the boroughs",
@@ -135,18 +135,11 @@
       "timestamp": "2026-05-22 20:32:56"
     },
     {
-      "keyword": "the crash netflix",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-05-22 10:01:33"
-    },
-    {
       "keyword": "disregard",
-      "score": 2550000,
+      "score": 2750000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-28 05:07:49"
+      "timestamp": "2026-05-28 21:06:04"
     },
     {
       "keyword": "ebola outbreak",
@@ -163,32 +156,18 @@
       "timestamp": "2026-05-23 19:53:58"
     },
     {
+      "keyword": "james talarico",
+      "score": 2200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-28 21:06:04"
+    },
+    {
       "keyword": "coca cola 600",
       "score": 2100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-25 20:17:49"
-    },
-    {
-      "keyword": "thomas massie",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-22 05:02:08"
-    },
-    {
-      "keyword": "ebola",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-22 10:01:33"
-    },
-    {
-      "keyword": "white house",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-24 19:51:56"
     },
     {
       "keyword": "nasire best",
@@ -198,23 +177,44 @@
       "timestamp": "2026-05-25 20:17:49"
     },
     {
+      "keyword": "white house",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-24 19:51:56"
+    },
+    {
+      "keyword": "the crash netflix",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-05-22 10:01:33"
+    },
+    {
+      "keyword": "french open",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-28 21:06:04"
+    },
+    {
+      "keyword": "dodgers vs brewers",
+      "score": 1700000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-05-25 15:55:07"
+    },
+    {
       "keyword": "tom kane",
-      "score": 1800000,
+      "score": 1600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-24 14:22:48"
-    },
-    {
-      "keyword": "james talarico",
-      "score": 1700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-28 16:51:44"
     }
   ],
   "category_stats": {
-    "其他": 111,
-    "体育": 46,
+    "其他": 112,
+    "体育": 42,
     "娱乐/生活": 10,
     "科技/AI": 6,
     "金融/商业": 5

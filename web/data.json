@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-27 21:03:15",
+  "last_updated": "2026-05-28 05:07:49",
   "trends": [
     {
       "keyword": "kyle busch",
-      "score": 40000015,
+      "score": 40000016,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-05-27 21:03:15"
+      "timestamp": "2026-05-28 05:07:49"
     },
     {
       "keyword": "cavaliers vs knicks",
@@ -17,17 +17,10 @@
     },
     {
       "keyword": "garden grove chemical leak",
-      "score": 20700000,
+      "score": 22700000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-05-27 21:03:15"
-    },
-    {
-      "keyword": "spurs vs thunder",
-      "score": 15000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-22 20:32:56"
+      "timestamp": "2026-05-28 05:07:49"
     },
     {
       "keyword": "thunder vs spurs",
@@ -35,6 +28,13 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-24 19:51:56"
+    },
+    {
+      "keyword": "spurs vs thunder",
+      "score": 15000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-22 20:32:56"
     },
     {
       "keyword": "memorial day 2026",
@@ -143,17 +143,17 @@
     },
     {
       "keyword": "jaxson dart",
-      "score": 2750000,
+      "score": 2950000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-27 21:03:15"
+      "timestamp": "2026-05-28 05:07:49"
     },
     {
-      "keyword": "mackenzie shirilla now",
-      "score": 2500000,
-      "traffic_numeric": 500000,
+      "keyword": "disregard",
+      "score": 2550000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-23 19:53:58"
+      "timestamp": "2026-05-28 05:07:49"
     },
     {
       "keyword": "blue jays vs yankees",
@@ -170,6 +170,13 @@
       "timestamp": "2026-05-24 05:03:19"
     },
     {
+      "keyword": "mackenzie shirilla now",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-23 19:53:58"
+    },
+    {
       "keyword": "tom kane",
       "score": 2400000,
       "traffic_numeric": 200000,
@@ -184,13 +191,6 @@
       "timestamp": "2026-05-22 10:01:33"
     },
     {
-      "keyword": "disregard",
-      "score": 2350000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-27 21:03:15"
-    },
-    {
       "keyword": "coca cola 600",
       "score": 2100000,
       "traffic_numeric": 500000,
@@ -198,11 +198,11 @@
       "timestamp": "2026-05-25 20:17:49"
     },
     {
-      "keyword": "white house",
+      "keyword": "mackenzie shirilla",
       "score": 2000000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-24 19:51:56"
+      "timestamp": "2026-05-21 10:39:41"
     },
     {
       "keyword": "the boys finale",
@@ -213,11 +213,11 @@
     }
   ],
   "category_stats": {
-    "其他": 108,
-    "体育": 46,
+    "其他": 110,
+    "体育": 47,
     "娱乐/生活": 8,
     "科技/AI": 6,
-    "金融/商业": 4
+    "金融/商业": 5
   },
   "insights": [
     {

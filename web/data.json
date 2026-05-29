@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29 16:40:13",
+  "last_updated": "2026-05-29 21:09:06",
   "trends": [
     {
       "keyword": "garden grove chemical leak",
@@ -10,17 +10,10 @@
     },
     {
       "keyword": "kyle busch",
-      "score": 25000017,
+      "score": 20000017,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-05-28 10:48:55"
-    },
-    {
-      "keyword": "cavaliers vs knicks",
-      "score": 17000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-25 20:17:49"
     },
     {
       "keyword": "thunder vs spurs",
@@ -28,6 +21,13 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-05-24 19:51:56"
+    },
+    {
+      "keyword": "cavaliers vs knicks",
+      "score": 15000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-25 20:17:49"
     },
     {
       "keyword": "memorial day 2026",
@@ -66,7 +66,7 @@
     },
     {
       "keyword": "the boroughs",
-      "score": 4750000,
+      "score": 4700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-27 05:14:41"
@@ -80,14 +80,14 @@
     },
     {
       "keyword": "bettina anderson",
-      "score": 4100000,
+      "score": 4000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-28 10:48:55"
     },
     {
       "keyword": "mandalorian and grogu",
-      "score": 3900000,
+      "score": 3700000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-25 05:18:39"
@@ -121,6 +121,13 @@
       "timestamp": "2026-05-28 10:48:55"
     },
     {
+      "keyword": "french open",
+      "score": 3150000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-29 21:09:06"
+    },
+    {
       "keyword": "mandalorian movie",
       "score": 3000000,
       "traffic_numeric": 1000000,
@@ -129,43 +136,43 @@
     },
     {
       "keyword": "disregard",
-      "score": 2950000,
+      "score": 2900000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-29 05:14:39"
     },
     {
-      "keyword": "french open",
-      "score": 2650000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-29 16:40:13"
-    },
-    {
-      "keyword": "mackenzie shirilla now",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-23 19:53:58"
-    },
-    {
       "keyword": "josh jacobs",
-      "score": 2200000,
+      "score": 2400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-29 16:40:13"
+      "timestamp": "2026-05-29 21:09:06"
     },
     {
       "keyword": "ferrari luce",
-      "score": 2170000,
+      "score": 2370000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-29 16:40:13"
+      "timestamp": "2026-05-29 21:09:06"
+    },
+    {
+      "keyword": "walmart blackstone parmesan ranch recall",
+      "score": 2120000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-29 21:09:06"
     },
     {
       "keyword": "coca cola 600",
       "score": 2100000,
       "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-25 20:17:49"
+    },
+    {
+      "keyword": "nasire best",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-25 20:17:49"
     },
@@ -177,20 +184,6 @@
       "timestamp": "2026-05-29 10:41:20"
     },
     {
-      "keyword": "spurs vs thunder",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-22 20:32:56"
-    },
-    {
-      "keyword": "nasire best",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-25 20:17:49"
-    },
-    {
       "keyword": "white house",
       "score": 2000000,
       "traffic_numeric": 500000,
@@ -198,11 +191,11 @@
       "timestamp": "2026-05-24 19:51:56"
     },
     {
-      "keyword": "walmart blackstone parmesan ranch recall",
-      "score": 1920000,
-      "traffic_numeric": 200000,
+      "keyword": "mackenzie shirilla now",
+      "score": 2000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-29 16:40:13"
+      "timestamp": "2026-05-23 19:53:58"
     },
     {
       "keyword": "backrooms movie",
@@ -210,12 +203,19 @@
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-05-29 16:40:13"
+    },
+    {
+      "keyword": "roland garros",
+      "score": 1850000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-29 21:09:06"
     }
   ],
   "category_stats": {
-    "其他": 105,
-    "体育": 40,
-    "娱乐/生活": 9,
+    "其他": 106,
+    "体育": 39,
+    "娱乐/生活": 8,
     "科技/AI": 5,
     "金融/商业": 3
   },

@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-30 09:10:25",
+  "last_updated": "2026-05-30 14:29:39",
   "trends": [
     {
       "keyword": "garden grove chemical leak",
-      "score": 26700000,
+      "score": 26500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-28 21:06:04"
@@ -16,25 +16,11 @@
       "timestamp": "2026-05-26 16:39:54"
     },
     {
-      "keyword": "thunder vs spurs",
-      "score": 11000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-24 19:51:56"
-    },
-    {
-      "keyword": "cavaliers vs knicks",
-      "score": 11000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-25 20:17:49"
-    },
-    {
-      "keyword": "kyle busch",
-      "score": 10000017,
+      "keyword": "knicks vs cavaliers",
+      "score": 10000000,
       "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-05-28 10:48:55"
+      "category": "体育",
+      "timestamp": "2026-05-26 16:39:54"
     },
     {
       "keyword": "kyle busch cause of death",
@@ -44,11 +30,18 @@
       "timestamp": "2026-05-28 21:06:04"
     },
     {
-      "keyword": "knicks vs cavaliers",
-      "score": 10000000,
-      "traffic_numeric": 5000000,
+      "keyword": "cavaliers vs knicks",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-05-26 16:39:54"
+      "timestamp": "2026-05-25 20:17:49"
+    },
+    {
+      "keyword": "thunder vs spurs",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-05-24 19:51:56"
     },
     {
       "keyword": "knicks vs cavs",
@@ -65,11 +58,18 @@
       "timestamp": "2026-05-29 10:41:20"
     },
     {
-      "keyword": "the boroughs",
-      "score": 4500000,
-      "traffic_numeric": 500000,
+      "keyword": "kyle busch",
+      "score": 5000017,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-05-27 05:14:41"
+      "timestamp": "2026-05-28 10:48:55"
+    },
+    {
+      "keyword": "spurs vs okc game 7",
+      "score": 4500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-05-30 14:29:39"
     },
     {
       "keyword": "indy 500",
@@ -79,60 +79,74 @@
       "timestamp": "2026-05-25 20:17:49"
     },
     {
-      "keyword": "james talarico",
-      "score": 3700000,
+      "keyword": "the boroughs",
+      "score": 4400000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-30 04:47:12"
+      "timestamp": "2026-05-27 05:14:41"
+    },
+    {
+      "keyword": "james talarico",
+      "score": 4200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-30 14:29:39"
+    },
+    {
+      "keyword": "backrooms",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-05-30 14:29:39"
+    },
+    {
+      "keyword": "french open",
+      "score": 3600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-30 14:29:39"
     },
     {
       "keyword": "bettina anderson",
-      "score": 3600000,
+      "score": 3400000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-28 10:48:55"
     },
     {
-      "keyword": "mandalorian and grogu",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-05-25 05:18:39"
-    },
-    {
-      "keyword": "spurs vs okc game 7",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-05-30 09:10:25"
-    },
-    {
-      "keyword": "stewart mclean",
-      "score": 3400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-25 20:17:49"
-    },
-    {
       "keyword": "jaxson dart",
-      "score": 3350000,
+      "score": 3300000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-28 16:51:44"
     },
     {
-      "keyword": "french open",
-      "score": 3150000,
+      "keyword": "stewart mclean",
+      "score": 3300000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-29 21:09:06"
+      "timestamp": "2026-05-25 20:17:49"
     },
     {
-      "keyword": "backrooms",
+      "keyword": "claude lemieux",
+      "score": 3100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-30 14:29:39"
+    },
+    {
+      "keyword": "mandalorian and grogu",
       "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-30 09:10:25"
+      "timestamp": "2026-05-25 05:18:39"
+    },
+    {
+      "keyword": "josh jacobs",
+      "score": 3000000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-30 14:29:39"
     },
     {
       "keyword": "mandalorian movie",
@@ -142,39 +156,25 @@
       "timestamp": "2026-05-26 05:01:49"
     },
     {
-      "keyword": "josh jacobs",
-      "score": 2800000,
+      "keyword": "ferrari luce",
+      "score": 2970000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-30 09:10:25"
+      "timestamp": "2026-05-30 14:29:39"
     },
     {
       "keyword": "rob base",
-      "score": 2800000,
+      "score": 2600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-28 10:48:55"
     },
     {
-      "keyword": "ferrari luce",
-      "score": 2770000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-30 09:10:25"
-    },
-    {
       "keyword": "disregard",
-      "score": 2700000,
+      "score": 2600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-29 05:14:39"
-    },
-    {
-      "keyword": "claude lemieux",
-      "score": 2600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-30 09:10:25"
     },
     {
       "keyword": "walmart blackstone parmesan ranch recall",
@@ -191,6 +191,13 @@
       "timestamp": "2026-05-25 20:17:49"
     },
     {
+      "keyword": "roland garros",
+      "score": 2050000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-30 14:29:39"
+    },
+    {
       "keyword": "spurs vs okc game 6",
       "score": 2000000,
       "traffic_numeric": 1000000,
@@ -203,18 +210,11 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-25 20:17:49"
-    },
-    {
-      "keyword": "white house",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-24 19:51:56"
     }
   ],
   "category_stats": {
-    "其他": 112,
-    "体育": 44,
+    "其他": 107,
+    "体育": 43,
     "娱乐/生活": 7,
     "金融/商业": 3,
     "科技/AI": 3

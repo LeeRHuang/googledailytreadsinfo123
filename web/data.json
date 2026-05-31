@@ -1,19 +1,26 @@
 {
-  "last_updated": "2026-05-31 14:34:50",
+  "last_updated": "2026-05-31 20:03:38",
   "trends": [
     {
+      "keyword": "spurs vs okc game 7",
+      "score": 25500000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-05-31 20:03:38"
+    },
+    {
       "keyword": "garden grove chemical leak",
-      "score": 23000000,
+      "score": 22000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-28 21:06:04"
     },
     {
-      "keyword": "spurs vs okc game 7",
-      "score": 20500000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-05-31 14:34:50"
+      "keyword": "backrooms",
+      "score": 13000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-31 20:03:38"
     },
     {
       "keyword": "memorial day 2026",
@@ -23,18 +30,11 @@
       "timestamp": "2026-05-26 16:39:54"
     },
     {
-      "keyword": "backrooms",
-      "score": 11000000,
+      "keyword": "psg vs arsenal",
+      "score": 10100000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-31 14:34:50"
-    },
-    {
-      "keyword": "kyle busch cause of death",
-      "score": 10000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-05-28 21:06:04"
+      "category": "体育",
+      "timestamp": "2026-05-31 20:03:38"
     },
     {
       "keyword": "knicks vs cavaliers",
@@ -44,11 +44,11 @@
       "timestamp": "2026-05-26 16:39:54"
     },
     {
-      "keyword": "psg vs arsenal",
-      "score": 8100000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-31 14:34:50"
+      "keyword": "kyle busch cause of death",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-05-28 21:06:04"
     },
     {
       "keyword": "nba finals",
@@ -66,10 +66,10 @@
     },
     {
       "keyword": "claude lemieux",
-      "score": 5100000,
+      "score": 5600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-05-31 14:34:50"
+      "timestamp": "2026-05-31 20:03:38"
     },
     {
       "keyword": "james talarico",
@@ -80,7 +80,7 @@
     },
     {
       "keyword": "indy 500",
-      "score": 4500000,
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-25 20:17:49"
@@ -100,18 +100,18 @@
       "timestamp": "2026-05-31 14:34:50"
     },
     {
+      "keyword": "ferrari luce",
+      "score": 3570000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-31 20:03:38"
+    },
+    {
       "keyword": "the boroughs",
-      "score": 3600000,
+      "score": 3400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-27 05:14:41"
-    },
-    {
-      "keyword": "ferrari luce",
-      "score": 3370000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-31 05:08:55"
     },
     {
       "keyword": "mandalorian movie",
@@ -122,10 +122,17 @@
     },
     {
       "keyword": "jaxson dart",
-      "score": 2900000,
+      "score": 2800000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-28 16:51:44"
+    },
+    {
+      "keyword": "blue origin explosion",
+      "score": 2800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-31 20:03:38"
     },
     {
       "keyword": "spider noir",
@@ -136,24 +143,10 @@
     },
     {
       "keyword": "bettina anderson",
-      "score": 2600000,
+      "score": 2400000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-28 10:48:55"
-    },
-    {
-      "keyword": "stewart mclean",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-25 20:17:49"
-    },
-    {
-      "keyword": "blue origin explosion",
-      "score": 2300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-31 14:34:50"
     },
     {
       "keyword": "roland garros",
@@ -163,13 +156,6 @@
       "timestamp": "2026-05-30 20:00:59"
     },
     {
-      "keyword": "disregard",
-      "score": 2200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-29 05:14:39"
-    },
-    {
       "keyword": "walmart blackstone parmesan ranch recall",
       "score": 2120000,
       "traffic_numeric": 200000,
@@ -177,18 +163,18 @@
       "timestamp": "2026-05-29 21:09:06"
     },
     {
-      "keyword": "coca cola 600",
+      "keyword": "disregard",
       "score": 2100000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-29 05:14:39"
+    },
+    {
+      "keyword": "stewart mclean",
+      "score": 2000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-25 20:17:49"
-    },
-    {
-      "keyword": "knicks vs cavs",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-24 19:51:56"
     },
     {
       "keyword": "spurs vs okc game 6",
@@ -198,23 +184,37 @@
       "timestamp": "2026-05-29 10:41:20"
     },
     {
-      "keyword": "thunder vs spurs",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-05-24 19:51:56"
-    },
-    {
       "keyword": "nasire best",
       "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-05-25 20:17:49"
+    },
+    {
+      "keyword": "oura ring 5",
+      "score": 2000000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-31 20:03:38"
+    },
+    {
+      "keyword": "coca cola 600",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-05-25 20:17:49"
+    },
+    {
+      "keyword": "mexico vs australia",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-05-31 20:03:38"
     }
   ],
   "category_stats": {
-    "其他": 110,
-    "体育": 43,
+    "其他": 107,
+    "体育": 38,
     "娱乐/生活": 7,
     "科技/AI": 4,
     "金融/商业": 3

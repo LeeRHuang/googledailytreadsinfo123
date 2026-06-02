@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02 05:30:06",
+  "last_updated": "2026-06-02 11:20:29",
   "trends": [
     {
       "keyword": "spurs vs okc game 7",
@@ -66,17 +66,17 @@
     },
     {
       "keyword": "blue origin explosion",
-      "score": 4300000,
+      "score": 4800000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-02 05:30:06"
+      "timestamp": "2026-06-02 11:20:29"
     },
     {
       "keyword": "blue moon full moon",
-      "score": 4200000,
+      "score": 4700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-02 05:30:06"
+      "timestamp": "2026-06-02 11:20:29"
     },
     {
       "keyword": "josh jacobs",
@@ -108,10 +108,10 @@
     },
     {
       "keyword": "oura ring 5",
-      "score": 3000000,
+      "score": 3200000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-06-02 05:30:06"
+      "timestamp": "2026-06-02 11:20:29"
     },
     {
       "keyword": "spider noir",
@@ -135,11 +135,11 @@
       "timestamp": "2026-05-29 21:09:06"
     },
     {
-      "keyword": "memorial day 2026",
+      "keyword": "kane parsons",
       "score": 2000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-05-26 16:39:54"
+      "timestamp": "2026-06-02 11:20:29"
     },
     {
       "keyword": "spurs vs okc game 6",
@@ -149,11 +149,25 @@
       "timestamp": "2026-05-29 10:41:20"
     },
     {
+      "keyword": "memorial day 2026",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-26 16:39:54"
+    },
+    {
       "keyword": "backrooms movie",
       "score": 1900000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-05-29 16:40:13"
+    },
+    {
+      "keyword": "matt brown alaskan bush people",
+      "score": 1850000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-06-02 11:20:29"
     },
     {
       "keyword": "jaxson dart",
@@ -168,13 +182,6 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-29 05:14:39"
-    },
-    {
-      "keyword": "matt brown alaskan bush people",
-      "score": 1650000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-06-01 22:01:28"
     },
     {
       "keyword": "disregard",
@@ -199,22 +206,15 @@
     },
     {
       "keyword": "ncaa baseball scores",
-      "score": 1200000,
+      "score": 1400000,
       "traffic_numeric": 200000,
       "category": "体育",
-      "timestamp": "2026-06-01 22:01:28"
-    },
-    {
-      "keyword": "phillies vs dodgers",
-      "score": 1200000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-05-31 20:03:38"
+      "timestamp": "2026-06-02 11:20:29"
     }
   ],
   "category_stats": {
-    "其他": 110,
-    "体育": 34,
+    "其他": 114,
+    "体育": 35,
     "娱乐/生活": 8,
     "金融/商业": 3,
     "科技/AI": 3

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02 17:17:57",
+  "last_updated": "2026-06-02 21:47:20",
   "trends": [
     {
       "keyword": "spurs vs okc game 7",
@@ -16,13 +16,6 @@
       "timestamp": "2026-06-01 22:01:28"
     },
     {
-      "keyword": "garden grove chemical leak",
-      "score": 16000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-05-28 21:06:04"
-    },
-    {
       "keyword": "psg vs arsenal",
       "score": 14100000,
       "traffic_numeric": 2000000,
@@ -30,18 +23,18 @@
       "timestamp": "2026-06-01 12:32:44"
     },
     {
+      "keyword": "garden grove chemical leak",
+      "score": 14000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-05-28 21:06:04"
+    },
+    {
       "keyword": "kyle busch cause of death",
       "score": 10000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-05-28 21:06:04"
-    },
-    {
-      "keyword": "nba finals",
-      "score": 9600000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-06-01 22:01:28"
     },
     {
       "keyword": "claude lemieux",
@@ -52,10 +45,17 @@
     },
     {
       "keyword": "blue moon full moon",
-      "score": 5200000,
+      "score": 5700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-02 17:17:57"
+      "timestamp": "2026-06-02 21:47:20"
+    },
+    {
+      "keyword": "josh jacobs",
+      "score": 5000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-06-02 21:47:20"
     },
     {
       "keyword": "james talarico",
@@ -72,11 +72,11 @@
       "timestamp": "2026-06-02 11:20:29"
     },
     {
-      "keyword": "josh jacobs",
-      "score": 4500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-06-02 17:17:57"
+      "keyword": "nba finals",
+      "score": 4600000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-06-01 22:01:28"
     },
     {
       "keyword": "french open",
@@ -86,11 +86,11 @@
       "timestamp": "2026-05-30 20:00:59"
     },
     {
-      "keyword": "ferrari luce",
-      "score": 3500000,
+      "keyword": "oura ring 5",
+      "score": 3600000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-31 20:03:38"
+      "timestamp": "2026-06-02 21:47:20"
     },
     {
       "keyword": "mexico vs australia",
@@ -100,11 +100,11 @@
       "timestamp": "2026-06-01 18:28:34"
     },
     {
-      "keyword": "oura ring 5",
+      "keyword": "ferrari luce",
       "score": 3400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-06-02 17:17:57"
+      "timestamp": "2026-05-31 20:03:38"
     },
     {
       "keyword": "kane parsons",
@@ -121,18 +121,18 @@
       "timestamp": "2026-05-31 05:08:55"
     },
     {
-      "keyword": "roland garros",
-      "score": 2200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-30 20:00:59"
-    },
-    {
       "keyword": "walmart blackstone parmesan ranch recall",
-      "score": 2120000,
+      "score": 2100000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-29 21:09:06"
+    },
+    {
+      "keyword": "roland garros",
+      "score": 2100000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-30 20:00:59"
     },
     {
       "keyword": "matt brown alaskan bush people",
@@ -156,32 +156,32 @@
       "timestamp": "2026-05-29 16:40:13"
     },
     {
-      "keyword": "jaxson dart",
-      "score": 1600000,
+      "keyword": "congressman tom kean jr",
+      "score": 1800000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-28 16:51:44"
+      "timestamp": "2026-06-02 21:47:20"
     },
     {
-      "keyword": "congressman tom kean jr",
+      "keyword": "myles garrett",
       "score": 1600000,
-      "traffic_numeric": 200000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-02 17:17:57"
+      "timestamp": "2026-06-02 21:47:20"
     },
     {
       "keyword": "eid al-adha",
-      "score": 1600000,
+      "score": 1550000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-05-29 05:14:39"
     },
     {
-      "keyword": "disregard",
+      "keyword": "love island usa",
       "score": 1500000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-29 05:14:39"
+      "timestamp": "2026-06-02 21:47:20"
     },
     {
       "keyword": "ncaa baseball scores",
@@ -191,32 +191,32 @@
       "timestamp": "2026-06-02 11:20:29"
     },
     {
-      "keyword": "love island usa",
-      "score": 1300000,
+      "keyword": "jaxson dart",
+      "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-06-02 17:17:57"
+      "timestamp": "2026-05-28 16:51:44"
     },
     {
-      "keyword": "phillies vs dodgers",
-      "score": 1200000,
+      "keyword": "disregard",
+      "score": 1400000,
       "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-05-29 05:14:39"
+    },
+    {
+      "keyword": "spurs vs knicks",
+      "score": 1400000,
+      "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-05-31 20:03:38"
-    },
-    {
-      "keyword": "bettina anderson",
-      "score": 1200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-05-28 10:48:55"
+      "timestamp": "2026-06-02 21:47:20"
     }
   ],
   "category_stats": {
-    "其他": 118,
-    "体育": 35,
-    "娱乐/生活": 8,
-    "金融/商业": 3,
+    "其他": 119,
+    "体育": 34,
+    "娱乐/生活": 7,
+    "金融/商业": 4,
     "科技/AI": 3
   },
   "insights": []

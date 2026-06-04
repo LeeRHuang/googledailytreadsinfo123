@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04 05:38:50",
+  "last_updated": "2026-06-04 10:29:32",
   "trends": [
     {
       "keyword": "spurs vs okc game 7",
@@ -23,6 +23,13 @@
       "timestamp": "2026-06-01 12:32:44"
     },
     {
+      "keyword": "knicks vs spurs",
+      "score": 10300000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-06-04 10:29:32"
+    },
+    {
       "keyword": "kyle busch cause of death",
       "score": 10000000,
       "traffic_numeric": 5000000,
@@ -31,10 +38,10 @@
     },
     {
       "keyword": "blue moon full moon",
-      "score": 8200000,
+      "score": 8700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-04 05:38:50"
+      "timestamp": "2026-06-04 10:29:32"
     },
     {
       "keyword": "claude lemieux",
@@ -44,11 +51,18 @@
       "timestamp": "2026-06-01 12:32:44"
     },
     {
-      "keyword": "knicks vs spurs",
-      "score": 5300000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-06-04 05:38:50"
+      "keyword": "california election results",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-04 10:29:32"
+    },
+    {
+      "keyword": "la mayor race",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-04 10:29:32"
     },
     {
       "keyword": "blue origin explosion",
@@ -65,6 +79,13 @@
       "timestamp": "2026-06-04 05:38:50"
     },
     {
+      "keyword": "myles garrett",
+      "score": 4600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-06-04 10:29:32"
+    },
+    {
       "keyword": "james talarico",
       "score": 4200000,
       "traffic_numeric": 500000,
@@ -72,32 +93,11 @@
       "timestamp": "2026-05-31 14:34:50"
     },
     {
-      "keyword": "myles garrett",
-      "score": 4100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-06-04 05:38:50"
-    },
-    {
       "keyword": "garden grove chemical leak",
       "score": 4000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-05-28 21:06:04"
-    },
-    {
-      "keyword": "california election results",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-03 21:38:34"
-    },
-    {
-      "keyword": "la mayor race",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-04 05:38:50"
     },
     {
       "keyword": "josh jacobs",
@@ -135,6 +135,13 @@
       "timestamp": "2026-05-30 20:00:59"
     },
     {
+      "keyword": "stanley cup finals",
+      "score": 3400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-06-04 10:29:32"
+    },
+    {
       "keyword": "kane parsons",
       "score": 3000000,
       "traffic_numeric": 1000000,
@@ -142,18 +149,11 @@
       "timestamp": "2026-06-02 17:17:57"
     },
     {
-      "keyword": "stanley cup finals",
-      "score": 2900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-06-04 05:38:50"
-    },
-    {
       "keyword": "congressman tom kean jr",
-      "score": 2800000,
+      "score": 3000000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-06-04 05:38:50"
+      "timestamp": "2026-06-04 10:29:32"
     },
     {
       "keyword": "spider noir",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 122,
-    "体育": 34,
+    "其他": 123,
+    "体育": 36,
     "娱乐/生活": 7,
     "科技/AI": 4,
     "金融/商业": 3

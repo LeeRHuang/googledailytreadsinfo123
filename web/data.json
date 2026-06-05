@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-06-05 15:46:51",
+  "last_updated": "2026-06-05 20:38:48",
   "trends": [
     {
       "keyword": "knicks vs spurs",
-      "score": 35300000,
+      "score": 37300000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-06-05 15:46:51"
+      "timestamp": "2026-06-05 20:38:48"
     },
     {
       "keyword": "spurs vs okc game 7",
-      "score": 30500000,
+      "score": 30000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-06-01 05:45:11"
@@ -30,6 +30,13 @@
       "timestamp": "2026-06-01 12:32:44"
     },
     {
+      "keyword": "california election results",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-05 20:38:48"
+    },
+    {
       "keyword": "la mayor race",
       "score": 11000000,
       "traffic_numeric": 2000000,
@@ -37,11 +44,11 @@
       "timestamp": "2026-06-05 15:46:51"
     },
     {
-      "keyword": "california election results",
+      "keyword": "california governor race",
       "score": 10000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-06-05 15:46:51"
+      "timestamp": "2026-06-05 20:38:48"
     },
     {
       "keyword": "blue moon full moon",
@@ -51,29 +58,29 @@
       "timestamp": "2026-06-05 15:46:51"
     },
     {
-      "keyword": "california governor race",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
+      "keyword": "stanley cup finals",
+      "score": 7600000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-05 05:10:07"
+      "timestamp": "2026-06-05 20:38:48"
     },
     {
       "keyword": "myles garrett",
-      "score": 7100000,
+      "score": 7600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-05 15:46:51"
+      "timestamp": "2026-06-05 20:38:48"
     },
     {
-      "keyword": "stanley cup finals",
-      "score": 6600000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-05 15:46:51"
+      "keyword": "spurs vs knicks",
+      "score": 5900000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-06-05 20:38:48"
     },
     {
       "keyword": "claude lemieux",
-      "score": 5500000,
+      "score": 5000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-06-01 12:32:44"
@@ -87,24 +94,17 @@
     },
     {
       "keyword": "oura ring 5",
-      "score": 4400000,
+      "score": 4300000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-06-04 05:38:50"
     },
     {
       "keyword": "congressman tom kean jr",
-      "score": 4000000,
+      "score": 4200000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-06-05 15:46:51"
-    },
-    {
-      "keyword": "spurs vs knicks",
-      "score": 3900000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-06-03 21:38:34"
+      "timestamp": "2026-06-05 20:38:48"
     },
     {
       "keyword": "love island usa",
@@ -136,31 +136,38 @@
     },
     {
       "keyword": "josh jacobs",
-      "score": 3000000,
+      "score": 2800000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-06-02 21:47:20"
     },
     {
-      "keyword": "james talarico",
-      "score": 2200000,
-      "traffic_numeric": 500000,
+      "keyword": "god of war laufey",
+      "score": 2400000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-05-31 14:34:50"
+      "timestamp": "2026-06-05 20:38:48"
     },
     {
       "keyword": "scott pelley",
-      "score": 2200000,
+      "score": 2400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-06-05 15:46:51"
+      "timestamp": "2026-06-05 20:38:48"
     },
     {
-      "keyword": "god of war laufey",
-      "score": 2200000,
+      "keyword": "james handy",
+      "score": 2400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-05 20:38:48"
+    },
+    {
+      "keyword": "peabo bryson",
+      "score": 2300000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-06-05 15:46:51"
+      "timestamp": "2026-06-05 20:38:48"
     },
     {
       "keyword": "love island",
@@ -170,18 +177,18 @@
       "timestamp": "2026-06-05 05:10:07"
     },
     {
-      "keyword": "peabo bryson",
-      "score": 2100000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-06-05 15:46:51"
-    },
-    {
       "keyword": "matt brown alaskan bush people",
       "score": 2050000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-06-02 17:17:57"
+    },
+    {
+      "keyword": "mexico vs serbia",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-06-05 20:38:48"
     },
     {
       "keyword": "nba finals",
@@ -192,10 +199,10 @@
     },
     {
       "keyword": "air jordan 1 travis scott shy pink",
-      "score": 1850000,
+      "score": 1950000,
       "traffic_numeric": 100000,
       "category": "科技/AI",
-      "timestamp": "2026-06-05 15:46:51"
+      "timestamp": "2026-06-05 20:38:48"
     },
     {
       "keyword": "spider noir",
@@ -203,20 +210,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-05-31 05:08:55"
-    },
-    {
-      "keyword": "french open",
-      "score": 1700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-05-30 20:00:59"
     }
   ],
   "category_stats": {
     "其他": 114,
-    "体育": 33,
-    "娱乐/生活": 7,
-    "科技/AI": 6,
+    "体育": 32,
+    "娱乐/生活": 6,
+    "科技/AI": 5,
     "金融/商业": 3
   },
   "insights": []

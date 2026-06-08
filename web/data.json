@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07 20:11:46",
+  "last_updated": "2026-06-08 05:27:21",
   "trends": [
     {
       "keyword": "knicks vs spurs",
@@ -10,17 +10,17 @@
     },
     {
       "keyword": "la mayor race",
-      "score": 27000000,
+      "score": 29000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-06-07 20:11:46"
+      "timestamp": "2026-06-08 05:27:21"
     },
     {
       "keyword": "california election results",
-      "score": 20000000,
+      "score": 22000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-06-07 20:11:46"
+      "timestamp": "2026-06-08 05:27:21"
     },
     {
       "keyword": "california governor race",
@@ -30,18 +30,18 @@
       "timestamp": "2026-06-07 05:14:47"
     },
     {
-      "keyword": "knicks vs spurs game 3",
-      "score": 15000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-06-07 20:11:46"
-    },
-    {
       "keyword": "james handy",
-      "score": 13400000,
+      "score": 15400000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-06-07 20:11:46"
+      "timestamp": "2026-06-08 05:27:21"
+    },
+    {
+      "keyword": "knicks vs spurs game 3",
+      "score": 15200000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-06-08 05:27:21"
     },
     {
       "keyword": "myles garrett",
@@ -72,6 +72,13 @@
       "timestamp": "2026-06-05 20:38:48"
     },
     {
+      "keyword": "bitcoin price",
+      "score": 5900000,
+      "traffic_numeric": 500000,
+      "category": "金融/商业",
+      "timestamp": "2026-06-08 05:27:21"
+    },
+    {
       "keyword": "spurs vs knicks",
       "score": 5900000,
       "traffic_numeric": 2000000,
@@ -79,18 +86,11 @@
       "timestamp": "2026-06-05 20:38:48"
     },
     {
-      "keyword": "bitcoin price",
-      "score": 5400000,
-      "traffic_numeric": 500000,
-      "category": "金融/商业",
-      "timestamp": "2026-06-07 20:11:46"
-    },
-    {
       "keyword": "god of war laufey",
-      "score": 5200000,
+      "score": 5700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-07 20:11:46"
+      "timestamp": "2026-06-08 05:27:21"
     },
     {
       "keyword": "spurs vs okc game 7",
@@ -101,17 +101,31 @@
     },
     {
       "keyword": "world cup",
-      "score": 4500000,
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-07 20:11:46"
+      "timestamp": "2026-06-08 05:27:21"
     },
     {
       "keyword": "love island",
-      "score": 4400000,
+      "score": 4900000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-07 20:11:46"
+      "timestamp": "2026-06-08 05:27:21"
+    },
+    {
+      "keyword": "masters of the universe",
+      "score": 4400000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-08 05:27:21"
+    },
+    {
+      "keyword": "anthony head",
+      "score": 4100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-06-08 05:27:21"
     },
     {
       "keyword": "psg vs arsenal",
@@ -121,11 +135,18 @@
       "timestamp": "2026-06-01 12:32:44"
     },
     {
-      "keyword": "anthony head",
-      "score": 3600000,
+      "keyword": "82-0 game",
+      "score": 3900000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-06-07 20:11:46"
+      "category": "娱乐/生活",
+      "timestamp": "2026-06-08 05:27:21"
+    },
+    {
+      "keyword": "usa vs germany",
+      "score": 3700000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-06-08 05:27:21"
     },
     {
       "keyword": "congressman tom kean jr",
@@ -142,25 +163,11 @@
       "timestamp": "2026-06-06 09:13:45"
     },
     {
-      "keyword": "82-0 game",
-      "score": 3400000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-06-07 20:11:46"
-    },
-    {
       "keyword": "peabo bryson",
       "score": 3300000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-06-07 14:41:38"
-    },
-    {
-      "keyword": "usa vs germany",
-      "score": 3200000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-06-07 20:11:46"
     },
     {
       "keyword": "kane parsons",
@@ -203,19 +210,12 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-06-05 20:38:48"
-    },
-    {
-      "keyword": "masters of the universe",
-      "score": 2400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-07 20:11:46"
     }
   ],
   "category_stats": {
-    "其他": 94,
+    "其他": 98,
     "体育": 37,
-    "娱乐/生活": 8,
+    "娱乐/生活": 9,
     "科技/AI": 7,
     "金融/商业": 3
   },

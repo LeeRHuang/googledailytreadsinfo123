@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-08 21:18:43",
+  "last_updated": "2026-06-09 04:52:17",
   "trends": [
     {
       "keyword": "knicks vs spurs",
-      "score": 37000004,
+      "score": 39000004,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-06-06 20:01:35"
+      "timestamp": "2026-06-09 04:52:17"
     },
     {
       "keyword": "la mayor race",
@@ -17,17 +17,17 @@
     },
     {
       "keyword": "california election results",
-      "score": 26500000,
+      "score": 27000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-06-08 21:18:43"
+      "timestamp": "2026-06-09 04:52:17"
     },
     {
       "keyword": "james handy",
-      "score": 21400000,
+      "score": 23400000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-06-08 21:18:43"
+      "timestamp": "2026-06-09 04:52:17"
     },
     {
       "keyword": "california governor race",
@@ -38,31 +38,31 @@
     },
     {
       "keyword": "knicks vs spurs game 3",
-      "score": 16400000,
+      "score": 18400000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-06-08 21:18:43"
+      "timestamp": "2026-06-09 04:52:17"
     },
     {
       "keyword": "myles garrett",
-      "score": 10700000,
+      "score": 10600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-06-07 20:11:46"
     },
     {
+      "keyword": "masters of the universe",
+      "score": 7900000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-09 04:52:17"
+    },
+    {
       "keyword": "stanley cup finals",
-      "score": 7550000,
+      "score": 7500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-05 20:38:48"
-    },
-    {
-      "keyword": "masters of the universe",
-      "score": 7400000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-08 21:18:43"
     },
     {
       "keyword": "bitcoin price",
@@ -72,32 +72,32 @@
       "timestamp": "2026-06-08 16:51:21"
     },
     {
-      "keyword": "blue moon full moon",
-      "score": 6400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-06-05 15:46:51"
-    },
-    {
       "keyword": "spurs vs knicks",
-      "score": 5900000,
+      "score": 6400000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-06-05 20:38:48"
+      "timestamp": "2026-06-09 04:52:17"
     },
     {
       "keyword": "god of war laufey",
-      "score": 5700000,
+      "score": 6200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-08 05:27:21"
+      "timestamp": "2026-06-09 04:52:17"
     },
     {
       "keyword": "anthony head",
-      "score": 5600000,
+      "score": 6100000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-08 21:18:43"
+      "timestamp": "2026-06-09 04:52:17"
+    },
+    {
+      "keyword": "blue moon full moon",
+      "score": 5900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-06-05 15:46:51"
     },
     {
       "keyword": "world cup",
@@ -107,18 +107,18 @@
       "timestamp": "2026-06-08 11:41:38"
     },
     {
+      "keyword": "82-0 game",
+      "score": 4900000,
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-06-09 04:52:17"
+    },
+    {
       "keyword": "love island",
       "score": 4900000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-08 05:27:21"
-    },
-    {
-      "keyword": "82-0 game",
-      "score": 4400000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-06-08 11:41:38"
     },
     {
       "keyword": "usa vs germany",
@@ -135,18 +135,18 @@
       "timestamp": "2026-06-06 09:13:45"
     },
     {
-      "keyword": "congressman tom kean jr",
-      "score": 3300000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-06-05 20:38:48"
-    },
-    {
       "keyword": "peabo bryson",
       "score": 3300000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-06-07 14:41:38"
+    },
+    {
+      "keyword": "congressman tom kean jr",
+      "score": 3200000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-06-05 20:38:48"
     },
     {
       "keyword": "kane parsons",
@@ -164,7 +164,7 @@
     },
     {
       "keyword": "callum turner",
-      "score": 2550000,
+      "score": 2500000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-06-07 14:41:38"
@@ -178,7 +178,7 @@
     },
     {
       "keyword": "love island usa",
-      "score": 2400000,
+      "score": 2300000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-03 11:32:54"
@@ -191,13 +191,6 @@
       "timestamp": "2026-06-08 16:51:21"
     },
     {
-      "keyword": "backrooms",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-01 22:01:28"
-    },
-    {
       "keyword": "aaron donald",
       "score": 2000000,
       "traffic_numeric": 200000,
@@ -205,18 +198,25 @@
       "timestamp": "2026-06-06 04:50:02"
     },
     {
+      "keyword": "tony awards 2026",
+      "score": 1900000,
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-06-09 04:52:17"
+    },
+    {
       "keyword": "oura ring 5",
-      "score": 2000000,
+      "score": 1800000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-06-04 05:38:50"
     }
   ],
   "category_stats": {
-    "其他": 105,
+    "其他": 106,
     "体育": 36,
+    "科技/AI": 8,
     "娱乐/生活": 7,
-    "科技/AI": 7,
     "金融/商业": 3
   },
   "insights": [

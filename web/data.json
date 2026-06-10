@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10 10:52:59",
+  "last_updated": "2026-06-10 16:34:51",
   "trends": [
     {
       "keyword": "knicks vs spurs",
@@ -9,22 +9,22 @@
       "timestamp": "2026-06-09 04:52:17"
     },
     {
+      "keyword": "james handy",
+      "score": 35400000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-10 16:34:51"
+    },
+    {
       "keyword": "la mayor race",
-      "score": 34500000,
+      "score": 34000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-08 21:18:43"
     },
     {
-      "keyword": "james handy",
-      "score": 33400000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-10 10:52:59"
-    },
-    {
       "keyword": "california election results",
-      "score": 29500000,
+      "score": 28500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-09 15:55:59"
@@ -51,8 +51,15 @@
       "timestamp": "2026-06-10 05:16:13"
     },
     {
+      "keyword": "knicks vs spurs game 4",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-06-10 16:34:51"
+    },
+    {
       "keyword": "myles garrett",
-      "score": 8700000,
+      "score": 8200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-06-07 20:11:46"
@@ -65,11 +72,11 @@
       "timestamp": "2026-06-09 04:52:17"
     },
     {
-      "keyword": "stanley cup finals",
-      "score": 6700000,
-      "traffic_numeric": 1000000,
+      "keyword": "karmelo anthony",
+      "score": 7200000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-06-05 20:38:48"
+      "timestamp": "2026-06-10 16:34:51"
     },
     {
       "keyword": "bitcoin price",
@@ -79,6 +86,13 @@
       "timestamp": "2026-06-08 16:51:21"
     },
     {
+      "keyword": "stanley cup finals",
+      "score": 6200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-05 20:38:48"
+    },
+    {
       "keyword": "anthony head",
       "score": 6100000,
       "traffic_numeric": 500000,
@@ -86,11 +100,11 @@
       "timestamp": "2026-06-09 04:52:17"
     },
     {
-      "keyword": "god of war laufey",
+      "keyword": "world cup",
       "score": 6000000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-09 04:52:17"
+      "timestamp": "2026-06-10 16:34:51"
     },
     {
       "keyword": "82-0 game",
@@ -100,25 +114,11 @@
       "timestamp": "2026-06-09 20:36:59"
     },
     {
-      "keyword": "world cup",
-      "score": 5500000,
-      "traffic_numeric": 1000000,
+      "keyword": "god of war laufey",
+      "score": 5800000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-08 11:41:38"
-    },
-    {
-      "keyword": "karmelo anthony",
-      "score": 5200000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-10 10:52:59"
-    },
-    {
-      "keyword": "knicks vs spurs game 4",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-06-10 10:52:59"
+      "timestamp": "2026-06-09 04:52:17"
     },
     {
       "keyword": "love island",
@@ -128,18 +128,18 @@
       "timestamp": "2026-06-08 05:27:21"
     },
     {
-      "keyword": "spurs vs knicks",
-      "score": 4500000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-06-09 04:52:17"
-    },
-    {
       "keyword": "game 3 nba finals",
       "score": 4200000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-06-09 15:55:59"
+    },
+    {
+      "keyword": "spurs vs knicks",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-06-09 04:52:17"
     },
     {
       "keyword": "usa vs germany",
@@ -156,15 +156,8 @@
       "timestamp": "2026-06-06 09:13:45"
     },
     {
-      "keyword": "blue moon full moon",
-      "score": 3400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-06-05 15:46:51"
-    },
-    {
       "keyword": "peabo bryson",
-      "score": 3200000,
+      "score": 3000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-06-07 14:41:38"
@@ -177,25 +170,32 @@
       "timestamp": "2026-06-06 20:01:35"
     },
     {
-      "keyword": "congressman tom kean jr",
-      "score": 2200000,
-      "traffic_numeric": 200000,
+      "keyword": "blue moon full moon",
+      "score": 2900000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-05 20:38:48"
-    },
-    {
-      "keyword": "scott pelley",
-      "score": 2200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-06-05 20:38:48"
+      "timestamp": "2026-06-05 15:46:51"
     },
     {
       "keyword": "callum turner",
-      "score": 2100000,
+      "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-06-07 14:41:38"
+    },
+    {
+      "keyword": "trump booed at msg",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-09 20:36:59"
+    },
+    {
+      "keyword": "scott pelley",
+      "score": 2000000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-06-05 20:38:48"
     },
     {
       "keyword": "la mayor race results",
@@ -205,19 +205,25 @@
       "timestamp": "2026-06-09 15:55:59"
     },
     {
-      "keyword": "trump booed at msg",
+      "keyword": "congressman tom kean jr",
       "score": 2000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-06-09 20:36:59"
+      "timestamp": "2026-06-05 20:38:48"
     }
   ],
   "category_stats": {
-    "其他": 95,
+    "其他": 96,
     "体育": 47,
-    "科技/AI": 9,
-    "娱乐/生活": 7,
+    "科技/AI": 10,
+    "娱乐/生活": 9,
     "金融/商业": 4
   },
-  "insights": []
+  "insights": [
+    {
+      "title": "季节性效率/计划应用",
+      "context": "新年计划相关关键词搜索量激增。",
+      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
+    }
+  ]
 }

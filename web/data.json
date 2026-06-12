@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-12 05:29:04",
+  "last_updated": "2026-06-12 10:54:39",
   "trends": [
     {
       "keyword": "james handy",
-      "score": 43200000,
+      "score": 43000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-11 16:45:38"
@@ -17,14 +17,14 @@
     },
     {
       "keyword": "la mayor race",
-      "score": 27000000,
+      "score": 26000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-08 21:18:43"
     },
     {
       "keyword": "california election results",
-      "score": 23500000,
+      "score": 21500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-09 15:55:59"
@@ -37,6 +37,13 @@
       "timestamp": "2026-06-11 21:08:44"
     },
     {
+      "keyword": "fifa world cup 2026",
+      "score": 16400000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-06-12 10:54:39"
+    },
+    {
       "keyword": "karmelo anthony",
       "score": 15200000,
       "traffic_numeric": 2000000,
@@ -44,18 +51,11 @@
       "timestamp": "2026-06-11 16:45:38"
     },
     {
-      "keyword": "knicks vs spurs",
-      "score": 14000004,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-06-09 04:52:17"
-    },
-    {
       "keyword": "world cup",
-      "score": 13000000,
+      "score": 15000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-06-12 05:29:04"
+      "timestamp": "2026-06-12 10:54:39"
     },
     {
       "keyword": "california governor race",
@@ -65,18 +65,25 @@
       "timestamp": "2026-06-08 21:18:43"
     },
     {
-      "keyword": "fifa world cup 2026",
-      "score": 11400000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-06-12 05:29:04"
-    },
-    {
       "keyword": "spurs vs knicks game 3",
       "score": 10500000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-06-10 05:16:13"
+    },
+    {
+      "keyword": "knicks vs spurs game 5",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-06-12 10:54:39"
+    },
+    {
+      "keyword": "knicks vs spurs",
+      "score": 9000004,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-06-09 04:52:17"
     },
     {
       "keyword": "masters of the universe",
@@ -101,24 +108,17 @@
     },
     {
       "keyword": "82-0 game",
-      "score": 5900000,
+      "score": 5700000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-06-09 20:36:59"
     },
     {
       "keyword": "bitcoin price",
-      "score": 5800000,
+      "score": 5600000,
       "traffic_numeric": 500000,
       "category": "金融/商业",
       "timestamp": "2026-06-08 16:51:21"
-    },
-    {
-      "keyword": "knicks vs spurs game 5",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-06-12 05:29:04"
     },
     {
       "keyword": "og anunoby",
@@ -128,25 +128,32 @@
       "timestamp": "2026-06-11 16:45:38"
     },
     {
+      "keyword": "game 3 nba finals",
+      "score": 4200000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-06-09 15:55:59"
+    },
+    {
       "keyword": "myles garrett",
-      "score": 4700000,
+      "score": 4200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-06-07 20:11:46"
     },
     {
       "keyword": "god of war laufey",
-      "score": 4400000,
+      "score": 4200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-06-09 04:52:17"
     },
     {
-      "keyword": "game 3 nba finals",
-      "score": 4200000,
+      "keyword": "austin metcalf",
+      "score": 4000000,
       "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-06-09 15:55:59"
+      "category": "其他",
+      "timestamp": "2026-06-12 10:54:39"
     },
     {
       "keyword": "usa vs germany",
@@ -163,11 +170,25 @@
       "timestamp": "2026-06-08 05:27:21"
     },
     {
-      "keyword": "mexico vs serbia",
-      "score": 2500000,
+      "keyword": "world cup schedule",
+      "score": 2700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-12 10:54:39"
+    },
+    {
+      "keyword": "heat advisory",
+      "score": 2450000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-06-06 20:01:35"
+      "category": "其他",
+      "timestamp": "2026-06-12 10:54:39"
+    },
+    {
+      "keyword": "simone biles",
+      "score": 2400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-06-12 10:54:39"
     },
     {
       "keyword": "carmelo anthony",
@@ -177,32 +198,11 @@
       "timestamp": "2026-06-11 21:08:44"
     },
     {
-      "keyword": "simone biles",
-      "score": 2200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-06-12 05:29:04"
-    },
-    {
-      "keyword": "stanley cup finals",
-      "score": 2200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-05 20:38:48"
-    },
-    {
       "keyword": "office romance",
       "score": 2050000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-06-11 05:26:54"
-    },
-    {
-      "keyword": "austin metcalf",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-12 05:29:04"
     },
     {
       "keyword": "screw worm",
@@ -213,9 +213,9 @@
     }
   ],
   "category_stats": {
-    "其他": 113,
+    "其他": 112,
     "体育": 46,
-    "娱乐/生活": 10,
+    "娱乐/生活": 11,
     "科技/AI": 10,
     "金融/商业": 3
   },

@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-06-14 05:22:55",
+  "last_updated": "2026-06-14 10:21:17",
   "trends": [
     {
       "keyword": "knicks vs spurs game 5",
-      "score": 40000001,
+      "score": 40500001,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-06-14 05:22:55"
+      "timestamp": "2026-06-14 10:21:17"
     },
     {
       "keyword": "james handy",
-      "score": 36000000,
+      "score": 34000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-11 16:45:38"
     },
     {
       "keyword": "knicks vs spurs game 3",
-      "score": 30900000,
+      "score": 25900000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-06-11 11:21:44"
     },
     {
       "keyword": "fifa world cup 2026",
-      "score": 21400006,
+      "score": 21400007,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-06-14 05:22:55"
+      "timestamp": "2026-06-14 10:21:17"
     },
     {
       "keyword": "knicks vs spurs game 4",
@@ -37,39 +37,46 @@
       "timestamp": "2026-06-11 21:08:44"
     },
     {
-      "keyword": "california election results",
-      "score": 15500000,
+      "keyword": "spacex stock",
+      "score": 15400000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-09 15:55:59"
+      "category": "金融/商业",
+      "timestamp": "2026-06-14 10:21:17"
     },
     {
       "keyword": "world cup",
-      "score": 14500001,
+      "score": 14500002,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-06-14 05:22:55"
+      "timestamp": "2026-06-14 10:21:17"
     },
     {
       "keyword": "karmelo anthony",
-      "score": 14400000,
+      "score": 14200000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-11 16:45:38"
     },
     {
+      "keyword": "california election results",
+      "score": 13500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-09 15:55:59"
+    },
+    {
       "keyword": "la mayor race",
-      "score": 14000000,
+      "score": 12000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-08 21:18:43"
     },
     {
-      "keyword": "spacex stock",
-      "score": 13400000,
-      "traffic_numeric": 2000000,
-      "category": "金融/商业",
-      "timestamp": "2026-06-14 05:22:55"
+      "keyword": "usa vs paraguay",
+      "score": 10700000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-06-14 10:21:17"
     },
     {
       "keyword": "spurs vs knicks game 3",
@@ -87,7 +94,7 @@
     },
     {
       "keyword": "masters of the universe",
-      "score": 6900000,
+      "score": 6700000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-09 04:52:17"
@@ -100,6 +107,13 @@
       "timestamp": "2026-06-13 05:20:00"
     },
     {
+      "keyword": "heat advisory",
+      "score": 6450000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-06-14 10:21:17"
+    },
+    {
       "keyword": "south korea vs czechia",
       "score": 6050000,
       "traffic_numeric": 1000000,
@@ -107,18 +121,11 @@
       "timestamp": "2026-06-14 05:22:55"
     },
     {
-      "keyword": "heat advisory",
-      "score": 5950000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-06-14 05:22:55"
-    },
-    {
-      "keyword": "usa vs paraguay",
+      "keyword": "world cup fixtures",
       "score": 5700000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-06-14 05:22:55"
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-14 10:21:17"
     },
     {
       "keyword": "spurs vs knicks",
@@ -135,13 +142,6 @@
       "timestamp": "2026-06-11 16:45:38"
     },
     {
-      "keyword": "world cup fixtures",
-      "score": 4700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-14 05:22:55"
-    },
-    {
       "keyword": "world cup schedule",
       "score": 4500000,
       "traffic_numeric": 2000000,
@@ -156,25 +156,25 @@
       "timestamp": "2026-06-09 15:55:59"
     },
     {
+      "keyword": "copa mundial de la fifa 2026",
+      "score": 3800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-06-14 10:21:17"
+    },
+    {
       "keyword": "82-0 game",
-      "score": 4000000,
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-06-09 20:36:59"
     },
     {
       "keyword": "anthony head",
-      "score": 4000000,
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-06-09 04:52:17"
-    },
-    {
-      "keyword": "copa mundial de la fifa 2026",
-      "score": 3600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-06-14 05:22:55"
     },
     {
       "keyword": "simone biles",
@@ -191,31 +191,31 @@
       "timestamp": "2026-06-13 20:09:09"
     },
     {
-      "keyword": "bitcoin price",
-      "score": 2700000,
-      "traffic_numeric": 500000,
-      "category": "金融/商业",
-      "timestamp": "2026-06-08 16:51:21"
-    },
-    {
-      "keyword": "usa vs germany",
-      "score": 2500000,
+      "keyword": "fifa",
+      "score": 2600000,
       "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-06-08 05:27:21"
+      "category": "其他",
+      "timestamp": "2026-06-14 10:21:17"
     },
     {
-      "keyword": "god of war laufey",
-      "score": 2500000,
-      "traffic_numeric": 500000,
+      "keyword": "ufc freedom 250",
+      "score": 2300000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-09 04:52:17"
+      "timestamp": "2026-06-14 05:22:55"
+    },
+    {
+      "keyword": "every year after",
+      "score": 2270000,
+      "traffic_numeric": 200000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-06-14 05:22:55"
     }
   ],
   "category_stats": {
-    "其他": 119,
+    "其他": 120,
     "体育": 53,
-    "娱乐/生活": 11,
+    "娱乐/生活": 10,
     "科技/AI": 9,
     "金融/商业": 3
   },

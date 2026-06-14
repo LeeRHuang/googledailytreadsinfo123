@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-14 15:02:52",
+  "last_updated": "2026-06-14 20:10:24",
   "trends": [
     {
       "keyword": "knicks vs spurs game 5",
-      "score": 40500002,
+      "score": 40500003,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-06-14 15:02:52"
+      "timestamp": "2026-06-14 20:10:24"
     },
     {
       "keyword": "james handy",
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "fifa world cup 2026",
-      "score": 21400008,
+      "score": 21400009,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-06-14 15:02:52"
+      "timestamp": "2026-06-14 20:10:24"
     },
     {
       "keyword": "knicks vs spurs game 3",
@@ -28,6 +28,13 @@
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-06-11 11:21:44"
+    },
+    {
+      "keyword": "usa vs paraguay",
+      "score": 20700000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-06-14 20:10:24"
     },
     {
       "keyword": "knicks vs spurs game 4",
@@ -38,17 +45,10 @@
     },
     {
       "keyword": "spacex stock",
-      "score": 17400000,
+      "score": 19400000,
       "traffic_numeric": 2000000,
       "category": "金融/商业",
-      "timestamp": "2026-06-14 15:02:52"
-    },
-    {
-      "keyword": "usa vs paraguay",
-      "score": 15700000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-06-14 15:02:52"
+      "timestamp": "2026-06-14 20:10:24"
     },
     {
       "keyword": "karmelo anthony",
@@ -94,17 +94,17 @@
     },
     {
       "keyword": "heat advisory",
-      "score": 6950000,
+      "score": 7450000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-14 15:02:52"
+      "timestamp": "2026-06-14 20:10:24"
     },
     {
       "keyword": "world cup fixtures",
-      "score": 6700000,
+      "score": 6900000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-14 15:02:52"
+      "timestamp": "2026-06-14 20:10:24"
     },
     {
       "keyword": "mexico vs south africa",
@@ -142,6 +142,13 @@
       "timestamp": "2026-06-11 11:21:44"
     },
     {
+      "keyword": "copa mundial de la fifa 2026",
+      "score": 5300000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-14 20:10:24"
+    },
+    {
       "keyword": "og anunoby",
       "score": 5000000,
       "traffic_numeric": 5000000,
@@ -149,11 +156,11 @@
       "timestamp": "2026-06-11 16:45:38"
     },
     {
-      "keyword": "copa mundial de la fifa 2026",
-      "score": 4300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-06-14 15:02:52"
+      "keyword": "brazil vs morocco",
+      "score": 4900000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-06-14 20:10:24"
     },
     {
       "keyword": "game 3 nba finals",
@@ -161,6 +168,27 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-06-09 15:55:59"
+    },
+    {
+      "keyword": "haiti vs scotland",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-06-14 20:10:24"
+    },
+    {
+      "keyword": "mexico vs south korea",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-06-14 20:10:24"
+    },
+    {
+      "keyword": "ufc white house",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-14 20:10:24"
     },
     {
       "keyword": "fifa world cup 2026™",
@@ -182,39 +210,11 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-14 15:02:52"
-    },
-    {
-      "keyword": "anthony head",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-06-09 04:52:17"
-    },
-    {
-      "keyword": "82-0 game",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-06-09 20:36:59"
-    },
-    {
-      "keyword": "haiti vs scotland",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-06-14 15:02:52"
-    },
-    {
-      "keyword": "simone biles",
-      "score": 3000000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-06-13 05:20:00"
     }
   ],
   "category_stats": {
-    "其他": 118,
-    "体育": 50,
+    "其他": 119,
+    "体育": 51,
     "娱乐/生活": 10,
     "科技/AI": 9,
     "金融/商业": 3

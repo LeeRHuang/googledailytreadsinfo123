@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16 12:00:41",
+  "last_updated": "2026-06-16 17:59:04",
   "trends": [
     {
       "keyword": "knicks vs spurs game 5",
@@ -9,6 +9,13 @@
       "timestamp": "2026-06-14 20:10:24"
     },
     {
+      "keyword": "spacex stock",
+      "score": 37400000,
+      "traffic_numeric": 5000000,
+      "category": "金融/商业",
+      "timestamp": "2026-06-16 17:59:03"
+    },
+    {
       "keyword": "usa vs paraguay",
       "score": 35700000,
       "traffic_numeric": 5000000,
@@ -16,18 +23,11 @@
       "timestamp": "2026-06-15 21:44:25"
     },
     {
-      "keyword": "spacex stock",
-      "score": 32400000,
-      "traffic_numeric": 5000000,
-      "category": "金融/商业",
-      "timestamp": "2026-06-16 12:00:41"
-    },
-    {
       "keyword": "fifa world cup 2026",
-      "score": 21400014,
+      "score": 21400015,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-06-16 12:00:41"
+      "timestamp": "2026-06-16 17:59:03"
     },
     {
       "keyword": "knicks vs spurs game 4",
@@ -37,18 +37,11 @@
       "timestamp": "2026-06-11 21:08:44"
     },
     {
-      "keyword": "james handy",
-      "score": 18000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-11 16:45:38"
-    },
-    {
       "keyword": "world cup",
-      "score": 17000005,
+      "score": 17000006,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-06-16 12:00:41"
+      "timestamp": "2026-06-16 17:59:03"
     },
     {
       "keyword": "ufc white house",
@@ -58,11 +51,25 @@
       "timestamp": "2026-06-15 21:44:25"
     },
     {
+      "keyword": "james handy",
+      "score": 16000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-11 16:45:38"
+    },
+    {
       "keyword": "karmelo anthony",
       "score": 13200000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-11 16:45:38"
+    },
+    {
+      "keyword": "oliver tree death",
+      "score": 12200000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-16 17:59:03"
     },
     {
       "keyword": "world cup schedule",
@@ -86,13 +93,6 @@
       "timestamp": "2026-06-13 14:57:27"
     },
     {
-      "keyword": "oliver tree death",
-      "score": 10200000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-16 12:00:41"
-    },
-    {
       "keyword": "spurs vs knicks game 3",
       "score": 10000000,
       "traffic_numeric": 5000000,
@@ -101,10 +101,31 @@
     },
     {
       "keyword": "world cup fixtures",
-      "score": 8800000,
+      "score": 9300000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-16 12:00:41"
+      "timestamp": "2026-06-16 17:59:03"
+    },
+    {
+      "keyword": "fifa world cup 2026™",
+      "score": 8920000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-16 17:59:03"
+    },
+    {
+      "keyword": "copa mundial de la fifa 2026",
+      "score": 8300000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-16 17:59:03"
+    },
+    {
+      "keyword": "fifa",
+      "score": 8100000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-16 17:59:03"
     },
     {
       "keyword": "heat advisory",
@@ -114,39 +135,11 @@
       "timestamp": "2026-06-15 06:13:04"
     },
     {
-      "keyword": "fifa world cup 2026™",
-      "score": 7920000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-16 12:00:41"
-    },
-    {
-      "keyword": "copa mundial de la fifa 2026",
-      "score": 7800000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-16 12:00:41"
-    },
-    {
-      "keyword": "knicks vs spurs game 3",
-      "score": 7500000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-06-11 11:21:44"
-    },
-    {
       "keyword": "world cup standings",
-      "score": 7200000,
+      "score": 7700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-16 12:00:41"
-    },
-    {
-      "keyword": "fifa",
-      "score": 7100000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-16 06:21:44"
+      "timestamp": "2026-06-16 17:59:03"
     },
     {
       "keyword": "mexico vs south africa",
@@ -157,10 +150,10 @@
     },
     {
       "keyword": "mexico vs south korea",
-      "score": 6400000,
+      "score": 6600000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-06-16 12:00:41"
+      "timestamp": "2026-06-16 17:59:03"
     },
     {
       "keyword": "south korea vs czechia",
@@ -168,6 +161,20 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-06-14 05:22:55"
+    },
+    {
+      "keyword": "cape verde",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-16 17:59:03"
+    },
+    {
+      "keyword": "knicks vs spurs game 3",
+      "score": 5500000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-06-11 11:21:44"
     },
     {
       "keyword": "spurs vs knicks",
@@ -184,40 +191,33 @@
       "timestamp": "2026-06-11 16:45:38"
     },
     {
+      "keyword": "curacao",
+      "score": 5000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-16 17:59:03"
+    },
+    {
+      "keyword": "aldon smith",
+      "score": 4400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-06-16 17:59:03"
+    },
+    {
       "keyword": "ufc freedom 250",
       "score": 4300000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-15 06:13:04"
-    },
-    {
-      "keyword": "cape verde",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-16 12:00:41"
-    },
-    {
-      "keyword": "curacao",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-16 06:21:44"
-    },
-    {
-      "keyword": "haiti vs scotland",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-06-14 20:10:24"
     }
   ],
   "category_stats": {
-    "其他": 114,
+    "其他": 110,
     "体育": 44,
     "娱乐/生活": 9,
-    "科技/AI": 9,
-    "金融/商业": 3
+    "科技/AI": 8,
+    "金融/商业": 2
   },
   "insights": [
     {

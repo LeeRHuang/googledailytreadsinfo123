@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18 11:09:15",
+  "last_updated": "2026-06-18 16:17:22",
   "trends": [
     {
       "keyword": "spacex stock",
@@ -24,24 +24,24 @@
     },
     {
       "keyword": "oliver tree death",
-      "score": 26200000,
+      "score": 28200000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-06-18 11:09:15"
-    },
-    {
-      "keyword": "fifa world cup 2026",
-      "score": 21200018,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-06-17 11:31:35"
+      "timestamp": "2026-06-18 16:17:22"
     },
     {
       "keyword": "cape verde",
-      "score": 20000000,
+      "score": 22000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-06-18 11:09:15"
+      "timestamp": "2026-06-18 16:17:22"
+    },
+    {
+      "keyword": "fifa world cup 2026",
+      "score": 21000018,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-06-17 11:31:35"
     },
     {
       "keyword": "ufc white house",
@@ -52,7 +52,7 @@
     },
     {
       "keyword": "world cup",
-      "score": 15500007,
+      "score": 14500007,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-06-16 21:46:22"
@@ -79,6 +79,13 @@
       "timestamp": "2026-06-17 20:55:40"
     },
     {
+      "keyword": "taylor parker",
+      "score": 11600000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-18 16:17:22"
+    },
+    {
       "keyword": "world cup schedule",
       "score": 11000000,
       "traffic_numeric": 5000000,
@@ -100,13 +107,6 @@
       "timestamp": "2026-06-17 11:31:35"
     },
     {
-      "keyword": "taylor parker",
-      "score": 10600000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-18 11:09:15"
-    },
-    {
       "keyword": "austin metcalf",
       "score": 10200000,
       "traffic_numeric": 2000000,
@@ -121,11 +121,25 @@
       "timestamp": "2026-06-17 11:31:35"
     },
     {
+      "keyword": "argentina vs algeria",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-06-18 16:17:22"
+    },
+    {
       "keyword": "world cup games today",
       "score": 9200000,
       "traffic_numeric": 2000000,
       "category": "娱乐/生活",
       "timestamp": "2026-06-18 05:33:28"
+    },
+    {
+      "keyword": "justin gaethje",
+      "score": 9000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-18 16:17:22"
     },
     {
       "keyword": "curacao",
@@ -135,6 +149,20 @@
       "timestamp": "2026-06-17 05:40:35"
     },
     {
+      "keyword": "portugal world cup",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-18 16:17:22"
+    },
+    {
+      "keyword": "jelly roll",
+      "score": 8400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-18 16:17:22"
+    },
+    {
       "keyword": "mexico vs south korea",
       "score": 8300000,
       "traffic_numeric": 2000000,
@@ -142,39 +170,11 @@
       "timestamp": "2026-06-18 11:09:15"
     },
     {
-      "keyword": "argentina vs algeria",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-06-18 11:09:15"
-    },
-    {
-      "keyword": "justin gaethje",
-      "score": 8000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-18 11:09:15"
-    },
-    {
-      "keyword": "jelly roll",
-      "score": 7400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-18 11:09:15"
-    },
-    {
-      "keyword": "heat advisory",
-      "score": 7100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-06-15 06:13:04"
-    },
-    {
       "keyword": "elon musk net worth",
-      "score": 7000000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-18 11:09:15"
+      "timestamp": "2026-06-18 16:17:22"
     },
     {
       "keyword": "ilia topuria",
@@ -184,11 +184,18 @@
       "timestamp": "2026-06-17 16:34:28"
     },
     {
-      "keyword": "portugal world cup",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
+      "keyword": "heat advisory",
+      "score": 6900000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-18 11:09:15"
+      "timestamp": "2026-06-15 06:13:04"
+    },
+    {
+      "keyword": "josh hokit",
+      "score": 6400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-06-18 16:17:22"
     },
     {
       "keyword": "world cup standing",
@@ -196,13 +203,6 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-06-18 05:33:28"
-    },
-    {
-      "keyword": "mexico vs south africa",
-      "score": 6200000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-06-13 05:20:00"
     },
     {
       "keyword": "south korea vs czechia",
@@ -213,10 +213,10 @@
     }
   ],
   "category_stats": {
-    "其他": 96,
-    "体育": 44,
+    "其他": 99,
+    "体育": 42,
     "娱乐/生活": 7,
-    "科技/AI": 6,
+    "科技/AI": 5,
     "金融/商业": 3
   },
   "insights": [

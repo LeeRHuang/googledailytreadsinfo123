@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19 11:18:55",
+  "last_updated": "2026-06-19 16:03:15",
   "trends": [
     {
       "keyword": "spacex stock",
@@ -9,18 +9,18 @@
       "timestamp": "2026-06-18 11:09:15"
     },
     {
+      "keyword": "oliver tree death",
+      "score": 36200000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-19 16:03:15"
+    },
+    {
       "keyword": "usa vs paraguay",
       "score": 35400000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-06-15 21:44:25"
-    },
-    {
-      "keyword": "oliver tree death",
-      "score": 34200000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-19 11:18:55"
     },
     {
       "keyword": "knicks vs spurs game 5",
@@ -31,10 +31,10 @@
     },
     {
       "keyword": "cape verde",
-      "score": 24500000,
+      "score": 25000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-06-19 06:00:22"
+      "timestamp": "2026-06-19 16:03:15"
     },
     {
       "keyword": "ufc white house",
@@ -65,6 +65,13 @@
       "timestamp": "2026-06-19 06:00:22"
     },
     {
+      "keyword": "justin gaethje",
+      "score": 13000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-19 16:03:15"
+    },
+    {
       "keyword": "copa mundial de la fifa 2026",
       "score": 12800000,
       "traffic_numeric": 1000000,
@@ -79,25 +86,18 @@
       "timestamp": "2026-06-19 11:18:55"
     },
     {
+      "keyword": "jelly roll",
+      "score": 12400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-19 16:03:15"
+    },
+    {
       "keyword": "fifa world cup 2026™",
       "score": 12100000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-17 20:55:40"
-    },
-    {
-      "keyword": "justin gaethje",
-      "score": 12000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-19 11:18:55"
-    },
-    {
-      "keyword": "jelly roll",
-      "score": 11400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-19 11:18:55"
     },
     {
       "keyword": "brazil vs morocco",
@@ -128,13 +128,6 @@
       "timestamp": "2026-06-18 05:33:28"
     },
     {
-      "keyword": "world cup schedule",
-      "score": 9000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-06-15 13:05:34"
-    },
-    {
       "keyword": "portugal world cup",
       "score": 9000000,
       "traffic_numeric": 2000000,
@@ -149,6 +142,13 @@
       "timestamp": "2026-06-17 05:40:35"
     },
     {
+      "keyword": "world cup schedule",
+      "score": 9000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-06-15 13:05:34"
+    },
+    {
       "keyword": "elon musk net worth",
       "score": 8500000,
       "traffic_numeric": 1000000,
@@ -157,10 +157,10 @@
     },
     {
       "keyword": "josh hokit",
-      "score": 7900000,
+      "score": 8400000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-19 11:18:55"
+      "timestamp": "2026-06-19 16:03:15"
     },
     {
       "keyword": "world cup",
@@ -198,23 +198,23 @@
       "timestamp": "2026-06-13 14:57:27"
     },
     {
+      "keyword": "daveigh chase",
+      "score": 6200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-19 16:03:15"
+    },
+    {
       "keyword": "disney+",
       "score": 6100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-06-19 06:00:22"
-    },
-    {
-      "keyword": "mexico vs south africa",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-06-13 05:20:00"
     }
   ],
   "category_stats": {
-    "其他": 92,
-    "体育": 39,
+    "其他": 95,
+    "体育": 42,
     "娱乐/生活": 7,
     "科技/AI": 4,
     "金融/商业": 4

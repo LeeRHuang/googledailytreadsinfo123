@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-20 05:08:45",
+  "last_updated": "2026-06-20 09:56:59",
   "trends": [
     {
       "keyword": "spacex stock",
-      "score": 63000000,
+      "score": 61000000,
       "traffic_numeric": 5000000,
       "category": "金融/商业",
       "timestamp": "2026-06-18 11:09:15"
@@ -30,13 +30,6 @@
       "timestamp": "2026-06-20 05:08:45"
     },
     {
-      "keyword": "knicks vs spurs game 5",
-      "score": 20500003,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-06-14 20:10:24"
-    },
-    {
       "keyword": "ufc white house",
       "score": 16000000,
       "traffic_numeric": 5000000,
@@ -44,11 +37,18 @@
       "timestamp": "2026-06-15 21:44:25"
     },
     {
+      "keyword": "knicks vs spurs game 5",
+      "score": 15500003,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-06-14 20:10:24"
+    },
+    {
       "keyword": "jelly roll",
-      "score": 14400000,
+      "score": 15400000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-20 05:08:45"
+      "timestamp": "2026-06-20 09:56:59"
     },
     {
       "keyword": "world cup standings",
@@ -73,7 +73,7 @@
     },
     {
       "keyword": "taylor parker",
-      "score": 13600000,
+      "score": 13550000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-19 06:00:22"
@@ -87,24 +87,24 @@
     },
     {
       "keyword": "copa mundial de la fifa 2026",
-      "score": 12100000,
+      "score": 11600000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-18 11:09:15"
     },
     {
-      "keyword": "fifa world cup 2026™",
-      "score": 11700000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-17 20:55:40"
-    },
-    {
       "keyword": "brazil vs morocco",
-      "score": 10900000,
+      "score": 10800000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-06-15 21:44:25"
+    },
+    {
+      "keyword": "fifa world cup 2026™",
+      "score": 10700000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-17 20:55:40"
     },
     {
       "keyword": "fifa",
@@ -114,11 +114,18 @@
       "timestamp": "2026-06-17 11:31:35"
     },
     {
-      "keyword": "world cup fixtures",
-      "score": 9300000,
+      "keyword": "daveigh chase",
+      "score": 9200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-17 11:31:35"
+      "timestamp": "2026-06-20 09:56:59"
+    },
+    {
+      "keyword": "curacao",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-17 05:40:35"
     },
     {
       "keyword": "portugal world cup",
@@ -135,13 +142,6 @@
       "timestamp": "2026-06-18 05:33:28"
     },
     {
-      "keyword": "curacao",
-      "score": 9000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-17 05:40:35"
-    },
-    {
       "keyword": "josh hokit",
       "score": 8900000,
       "traffic_numeric": 500000,
@@ -149,18 +149,18 @@
       "timestamp": "2026-06-19 20:21:26"
     },
     {
+      "keyword": "world cup fixtures",
+      "score": 8800000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-17 11:31:35"
+    },
+    {
       "keyword": "elon musk net worth",
       "score": 8500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-18 21:19:40"
-    },
-    {
-      "keyword": "daveigh chase",
-      "score": 8200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-20 05:08:45"
     },
     {
       "keyword": "juneteenth",
@@ -192,7 +192,7 @@
     },
     {
       "keyword": "world cup standing",
-      "score": 6300000,
+      "score": 6200000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-06-18 05:33:28"
@@ -213,10 +213,10 @@
     }
   ],
   "category_stats": {
-    "其他": 95,
+    "其他": 97,
     "体育": 46,
     "娱乐/生活": 8,
-    "科技/AI": 4,
+    "科技/AI": 5,
     "金融/商业": 4
   },
   "insights": [

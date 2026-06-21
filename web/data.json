@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-06-21 15:12:41",
+  "last_updated": "2026-06-21 20:31:39",
   "trends": [
     {
-      "keyword": "spacex stock",
-      "score": 49000000,
-      "traffic_numeric": 5000000,
-      "category": "金融/商业",
-      "timestamp": "2026-06-18 11:09:15"
-    },
-    {
       "keyword": "oliver tree death",
-      "score": 48200000,
+      "score": 48000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-21 15:12:40"
+    },
+    {
+      "keyword": "spacex stock",
+      "score": 47000000,
+      "traffic_numeric": 5000000,
+      "category": "金融/商业",
+      "timestamp": "2026-06-18 11:09:15"
     },
     {
       "keyword": "cape verde",
@@ -23,25 +23,25 @@
       "timestamp": "2026-06-21 15:12:40"
     },
     {
-      "keyword": "usa vs paraguay",
-      "score": 20000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-06-15 21:44:25"
-    },
-    {
       "keyword": "jelly roll",
-      "score": 19400000,
+      "score": 20400000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-21 15:12:40"
+      "timestamp": "2026-06-21 20:31:39"
     },
     {
       "keyword": "daveigh chase",
-      "score": 14200000,
+      "score": 15200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-21 15:12:40"
+      "timestamp": "2026-06-21 20:31:39"
+    },
+    {
+      "keyword": "usa vs paraguay",
+      "score": 15000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-06-15 21:44:25"
     },
     {
       "keyword": "argentina vs algeria",
@@ -49,13 +49,6 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-06-19 06:00:22"
-    },
-    {
-      "keyword": "ufc white house",
-      "score": 14000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-06-15 21:44:25"
     },
     {
       "keyword": "justin gaethje",
@@ -66,14 +59,21 @@
     },
     {
       "keyword": "taylor parker",
-      "score": 12700000,
+      "score": 12500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-19 06:00:22"
     },
     {
-      "keyword": "world cup standings",
+      "keyword": "ufc white house",
       "score": 12000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-06-15 21:44:25"
+    },
+    {
+      "keyword": "world cup standings",
+      "score": 11500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-18 11:09:15"
@@ -86,11 +86,11 @@
       "timestamp": "2026-06-21 15:12:40"
     },
     {
-      "keyword": "mexico vs south korea",
+      "keyword": "tay keith",
       "score": 10500000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-06-19 11:18:55"
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-21 20:31:39"
     },
     {
       "keyword": "juneteenth",
@@ -100,25 +100,18 @@
       "timestamp": "2026-06-20 15:04:08"
     },
     {
-      "keyword": "tay keith",
-      "score": 9500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-21 15:12:40"
-    },
-    {
-      "keyword": "copa mundial de la fifa 2026",
-      "score": 9500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-18 11:09:15"
-    },
-    {
       "keyword": "fifa world cup 2026™",
       "score": 9500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-17 20:55:40"
+    },
+    {
+      "keyword": "us open leaderboard",
+      "score": 9400000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-21 20:31:39"
     },
     {
       "keyword": "usa vs australia",
@@ -149,6 +142,27 @@
       "timestamp": "2026-06-19 20:21:26"
     },
     {
+      "keyword": "anne hathaway",
+      "score": 8600000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-21 20:31:39"
+    },
+    {
+      "keyword": "mexico vs south korea",
+      "score": 8500000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-06-19 11:18:55"
+    },
+    {
+      "keyword": "copa mundial de la fifa 2026",
+      "score": 8500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-18 11:09:15"
+    },
+    {
       "keyword": "elon musk net worth",
       "score": 8500000,
       "traffic_numeric": 1000000,
@@ -163,20 +177,6 @@
       "timestamp": "2026-06-21 05:43:44"
     },
     {
-      "keyword": "brazil vs morocco",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-06-15 21:44:25"
-    },
-    {
-      "keyword": "anne hathaway",
-      "score": 7600000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-21 15:12:40"
-    },
-    {
       "keyword": "england vs croatia",
       "score": 7500000,
       "traffic_numeric": 2000000,
@@ -184,18 +184,11 @@
       "timestamp": "2026-06-19 20:21:26"
     },
     {
-      "keyword": "us open leaderboard",
-      "score": 7400000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-21 15:12:40"
-    },
-    {
-      "keyword": "fifa",
+      "keyword": "brazil vs haiti",
       "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-17 11:31:35"
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-06-21 20:31:39"
     },
     {
       "keyword": "ilia topuria",
@@ -205,17 +198,24 @@
       "timestamp": "2026-06-17 16:34:28"
     },
     {
-      "keyword": "world cup standing",
-      "score": 6100000,
-      "traffic_numeric": 5000000,
+      "keyword": "fifa",
+      "score": 7000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-06-18 05:33:28"
+      "timestamp": "2026-06-17 11:31:35"
+    },
+    {
+      "keyword": "brazil vs morocco",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-06-15 21:44:25"
     }
   ],
   "category_stats": {
     "其他": 90,
-    "体育": 47,
-    "科技/AI": 7,
+    "体育": 43,
+    "科技/AI": 6,
     "娱乐/生活": 6,
     "金融/商业": 4
   },

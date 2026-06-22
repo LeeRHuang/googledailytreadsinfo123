@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22 17:30:55",
+  "last_updated": "2026-06-22 21:28:20",
   "trends": [
     {
       "keyword": "oliver tree death",
@@ -24,24 +24,24 @@
     },
     {
       "keyword": "jelly roll",
-      "score": 22400000,
+      "score": 23400000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-22 17:30:55"
+      "timestamp": "2026-06-22 21:28:20"
     },
     {
       "keyword": "daveigh chase",
-      "score": 18200000,
+      "score": 19200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-22 17:30:55"
+      "timestamp": "2026-06-22 21:28:20"
     },
     {
-      "keyword": "justin gaethje",
-      "score": 14000000,
+      "keyword": "tay keith",
+      "score": 14500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-19 20:21:26"
+      "timestamp": "2026-06-22 21:28:20"
     },
     {
       "keyword": "argentina vs algeria",
@@ -51,18 +51,25 @@
       "timestamp": "2026-06-19 06:00:22"
     },
     {
-      "keyword": "tay keith",
-      "score": 13500000,
+      "keyword": "justin gaethje",
+      "score": 14000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-22 17:30:55"
+      "timestamp": "2026-06-19 20:21:26"
     },
     {
       "keyword": "anne hathaway",
-      "score": 11600000,
+      "score": 12600000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-22 17:30:55"
+      "timestamp": "2026-06-22 21:28:20"
+    },
+    {
+      "keyword": "us open leaderboard",
+      "score": 12400000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-22 21:28:20"
     },
     {
       "keyword": "taylor parker",
@@ -70,13 +77,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-19 06:00:22"
-    },
-    {
-      "keyword": "us open leaderboard",
-      "score": 11400000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-22 17:30:55"
     },
     {
       "keyword": "juneteenth meaning",
@@ -114,18 +114,18 @@
       "timestamp": "2026-06-18 16:17:22"
     },
     {
-      "keyword": "josh hokit",
-      "score": 8500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-06-19 20:21:26"
-    },
-    {
       "keyword": "elon musk net worth",
       "score": 8500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-18 21:19:40"
+    },
+    {
+      "keyword": "josh hokit",
+      "score": 8500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-06-19 20:21:26"
     },
     {
       "keyword": "mexico vs south korea",
@@ -163,6 +163,13 @@
       "timestamp": "2026-06-22 06:12:43"
     },
     {
+      "keyword": "fifa world cup 2026™",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-17 20:55:40"
+    },
+    {
       "keyword": "curacao",
       "score": 7000000,
       "traffic_numeric": 2000000,
@@ -177,32 +184,18 @@
       "timestamp": "2026-06-21 20:31:39"
     },
     {
-      "keyword": "fifa world cup 2026™",
-      "score": 7000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-17 20:55:40"
-    },
-    {
       "keyword": "gta 6",
-      "score": 6400000,
+      "score": 6900000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-22 17:30:55"
+      "timestamp": "2026-06-22 21:28:20"
     },
     {
       "keyword": "obama presidential center",
-      "score": 6200000,
+      "score": 6700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-22 17:30:55"
-    },
-    {
-      "keyword": "world cup games today",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-06-18 05:33:28"
+      "timestamp": "2026-06-22 21:28:20"
     },
     {
       "keyword": "ilia topuria",
@@ -210,11 +203,18 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-17 16:34:28"
+    },
+    {
+      "keyword": "world cup games today",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-06-18 05:33:28"
     }
   ],
   "category_stats": {
-    "其他": 101,
-    "体育": 44,
+    "其他": 104,
+    "体育": 45,
     "娱乐/生活": 8,
     "科技/AI": 7,
     "金融/商业": 4

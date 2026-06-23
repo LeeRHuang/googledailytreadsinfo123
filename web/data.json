@@ -1,54 +1,54 @@
 {
-  "last_updated": "2026-06-23 10:29:06",
+  "last_updated": "2026-06-23 15:45:32",
   "trends": [
     {
       "keyword": "oliver tree death",
-      "score": 40000000,
+      "score": 38000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-21 15:12:40"
     },
     {
       "keyword": "spacex stock",
-      "score": 36000000,
+      "score": 34000000,
       "traffic_numeric": 5000000,
       "category": "金融/商业",
       "timestamp": "2026-06-18 11:09:15"
     },
     {
       "keyword": "cape verde",
-      "score": 30500000,
+      "score": 28500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-21 15:12:40"
     },
     {
       "keyword": "jelly roll",
-      "score": 23200000,
+      "score": 23000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-22 21:28:20"
     },
     {
       "keyword": "daveigh chase",
-      "score": 21200000,
+      "score": 22200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-23 10:29:06"
+      "timestamp": "2026-06-23 15:45:32"
     },
     {
       "keyword": "tay keith",
-      "score": 16500000,
+      "score": 17500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-23 10:29:06"
+      "timestamp": "2026-06-23 15:45:32"
     },
     {
       "keyword": "anne hathaway",
-      "score": 14600000,
+      "score": 15600000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-23 10:29:06"
+      "timestamp": "2026-06-23 15:45:32"
     },
     {
       "keyword": "argentina vs algeria",
@@ -65,13 +65,6 @@
       "timestamp": "2026-06-22 21:28:20"
     },
     {
-      "keyword": "justin gaethje",
-      "score": 12000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-19 20:21:26"
-    },
-    {
       "keyword": "juneteenth meaning",
       "score": 11400000,
       "traffic_numeric": 2000000,
@@ -79,11 +72,11 @@
       "timestamp": "2026-06-21 15:12:40"
     },
     {
-      "keyword": "taylor parker",
-      "score": 10500000,
+      "keyword": "justin gaethje",
+      "score": 11000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-19 06:00:22"
+      "timestamp": "2026-06-19 20:21:26"
     },
     {
       "keyword": "juneteenth",
@@ -91,6 +84,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-20 15:04:08"
+    },
+    {
+      "keyword": "taylor parker",
+      "score": 10000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-19 06:00:22"
     },
     {
       "keyword": "usa vs australia",
@@ -107,6 +107,13 @@
       "timestamp": "2026-06-18 16:17:22"
     },
     {
+      "keyword": "gta 6",
+      "score": 8400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-06-23 15:45:32"
+    },
+    {
       "keyword": "elon musk net worth",
       "score": 8000000,
       "traffic_numeric": 1000000,
@@ -121,25 +128,11 @@
       "timestamp": "2026-06-21 05:43:44"
     },
     {
-      "keyword": "world cup standings",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-18 11:09:15"
-    },
-    {
-      "keyword": "gta 6",
-      "score": 7900000,
+      "keyword": "obama presidential center",
+      "score": 7700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-23 10:29:06"
-    },
-    {
-      "keyword": "josh hokit",
-      "score": 7500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-06-19 20:21:26"
+      "timestamp": "2026-06-23 15:45:32"
     },
     {
       "keyword": "england vs croatia",
@@ -156,11 +149,11 @@
       "timestamp": "2026-06-22 06:12:43"
     },
     {
-      "keyword": "obama presidential center",
-      "score": 7200000,
+      "keyword": "josh hokit",
+      "score": 7000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-23 04:46:32"
+      "timestamp": "2026-06-19 20:21:26"
     },
     {
       "keyword": "brazil vs haiti",
@@ -170,25 +163,18 @@
       "timestamp": "2026-06-21 20:31:39"
     },
     {
-      "keyword": "copa mundial de la fifa 2026",
-      "score": 6500000,
-      "traffic_numeric": 1000000,
+      "keyword": "world cup standings",
+      "score": 7000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-18 11:09:15"
     },
     {
       "keyword": "mexico vs south korea",
-      "score": 6300000,
+      "score": 6100000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-06-19 11:18:55"
-    },
-    {
-      "keyword": "world cup standing",
-      "score": 6000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-06-18 05:33:28"
     },
     {
       "keyword": "world cup games today",
@@ -198,11 +184,11 @@
       "timestamp": "2026-06-18 05:33:28"
     },
     {
-      "keyword": "fifa world cup 2026™",
+      "keyword": "copa mundial de la fifa 2026",
       "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-17 20:55:40"
+      "timestamp": "2026-06-18 11:09:15"
     },
     {
       "keyword": "toy story 5",
@@ -210,20 +196,28 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-21 20:31:39"
+    },
+    {
+      "keyword": "world cup standing",
+      "score": 5500000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-06-18 05:33:28"
+    },
+    {
+      "keyword": "fifa schedule",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-06-17 11:31:35"
     }
   ],
   "category_stats": {
     "其他": 110,
-    "体育": 44,
+    "体育": 42,
     "科技/AI": 7,
     "娱乐/生活": 7,
     "金融/商业": 4
   },
-  "insights": [
-    {
-      "title": "季节性效率/计划应用",
-      "context": "新年计划相关关键词搜索量激增。",
-      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
-    }
-  ]
+  "insights": []
 }

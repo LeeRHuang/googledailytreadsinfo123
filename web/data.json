@@ -1,54 +1,54 @@
 {
-  "last_updated": "2026-06-23 21:04:47",
+  "last_updated": "2026-06-24 04:54:19",
   "trends": [
     {
       "keyword": "oliver tree death",
-      "score": 36000000,
+      "score": 34000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-21 15:12:40"
     },
     {
-      "keyword": "spacex stock",
-      "score": 29000000,
-      "traffic_numeric": 5000000,
-      "category": "金融/商业",
-      "timestamp": "2026-06-18 11:09:15"
-    },
-    {
       "keyword": "cape verde",
-      "score": 26500000,
+      "score": 24500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-21 15:12:40"
     },
     {
       "keyword": "daveigh chase",
-      "score": 23200000,
+      "score": 24200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-23 21:04:47"
+      "timestamp": "2026-06-24 04:54:19"
+    },
+    {
+      "keyword": "spacex stock",
+      "score": 24000000,
+      "traffic_numeric": 5000000,
+      "category": "金融/商业",
+      "timestamp": "2026-06-18 11:09:15"
     },
     {
       "keyword": "jelly roll",
-      "score": 22500000,
+      "score": 22000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-22 21:28:20"
     },
     {
       "keyword": "tay keith",
-      "score": 18500000,
+      "score": 19500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-23 21:04:47"
+      "timestamp": "2026-06-24 04:54:19"
     },
     {
       "keyword": "anne hathaway",
-      "score": 16100000,
+      "score": 17100000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-23 21:04:47"
+      "timestamp": "2026-06-24 04:54:19"
     },
     {
       "keyword": "argentina vs algeria",
@@ -79,20 +79,6 @@
       "timestamp": "2026-06-20 15:04:08"
     },
     {
-      "keyword": "justin gaethje",
-      "score": 10000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-19 20:21:26"
-    },
-    {
-      "keyword": "taylor parker",
-      "score": 9500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-19 06:00:22"
-    },
-    {
       "keyword": "usa vs australia",
       "score": 9200000,
       "traffic_numeric": 2000000,
@@ -100,18 +86,32 @@
       "timestamp": "2026-06-20 20:18:00"
     },
     {
+      "keyword": "gta 6",
+      "score": 9100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-06-24 04:54:19"
+    },
+    {
+      "keyword": "justin gaethje",
+      "score": 9000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-19 20:21:26"
+    },
+    {
+      "keyword": "taylor parker",
+      "score": 9000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-19 06:00:22"
+    },
+    {
       "keyword": "portugal world cup",
-      "score": 8900000,
+      "score": 8700000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-18 16:17:22"
-    },
-    {
-      "keyword": "gta 6",
-      "score": 8600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-06-23 21:04:47"
     },
     {
       "keyword": "portugal vs dr congo",
@@ -128,13 +128,6 @@
       "timestamp": "2026-06-23 15:45:32"
     },
     {
-      "keyword": "elon musk net worth",
-      "score": 7500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-18 21:19:40"
-    },
-    {
       "keyword": "england vs croatia",
       "score": 7500000,
       "traffic_numeric": 2000000,
@@ -149,18 +142,18 @@
       "timestamp": "2026-06-22 06:12:43"
     },
     {
+      "keyword": "elon musk net worth",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-18 21:19:40"
+    },
+    {
       "keyword": "brazil vs haiti",
       "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-06-21 20:31:39"
-    },
-    {
-      "keyword": "josh hokit",
-      "score": 6500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-06-19 20:21:26"
     },
     {
       "keyword": "world cup standings",
@@ -170,18 +163,25 @@
       "timestamp": "2026-06-18 11:09:15"
     },
     {
+      "keyword": "argentina vs austria",
+      "score": 6200000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-06-24 04:54:19"
+    },
+    {
+      "keyword": "josh hokit",
+      "score": 6000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-06-19 20:21:26"
+    },
+    {
       "keyword": "world cup games today",
       "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "娱乐/生活",
       "timestamp": "2026-06-18 05:33:28"
-    },
-    {
-      "keyword": "mexico vs south korea",
-      "score": 5900000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-06-19 11:18:55"
     },
     {
       "keyword": "toy story 5",
@@ -191,11 +191,11 @@
       "timestamp": "2026-06-21 20:31:39"
     },
     {
-      "keyword": "copa mundial de la fifa 2026",
-      "score": 5500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-18 11:09:15"
+      "keyword": "mexico vs south korea",
+      "score": 5700000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-06-19 11:18:55"
     },
     {
       "keyword": "world cup standing",
@@ -205,17 +205,17 @@
       "timestamp": "2026-06-18 05:33:28"
     },
     {
-      "keyword": "argentina vs austria",
+      "keyword": "france vs iraq",
       "score": 5200000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-06-23 21:04:47"
+      "timestamp": "2026-06-24 04:54:19"
     }
   ],
   "category_stats": {
     "其他": 111,
-    "体育": 44,
-    "科技/AI": 7,
+    "体育": 48,
+    "科技/AI": 8,
     "娱乐/生活": 7,
     "金融/商业": 4
   },

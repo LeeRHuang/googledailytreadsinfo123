@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-24 15:26:20",
+  "last_updated": "2026-06-24 20:29:14",
   "trends": [
     {
       "keyword": "oliver tree death",
-      "score": 30000000,
+      "score": 28000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-21 15:12:40"
@@ -16,25 +16,25 @@
       "timestamp": "2026-06-24 15:26:20"
     },
     {
-      "keyword": "cape verde",
-      "score": 20500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-21 15:12:40"
-    },
-    {
       "keyword": "tay keith",
-      "score": 20500000,
+      "score": 21500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-24 15:26:20"
+      "timestamp": "2026-06-24 20:29:14"
     },
     {
       "keyword": "jelly roll",
-      "score": 20000000,
+      "score": 19000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-22 21:28:20"
+    },
+    {
+      "keyword": "cape verde",
+      "score": 18500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-21 15:12:40"
     },
     {
       "keyword": "anne hathaway",
@@ -44,25 +44,18 @@
       "timestamp": "2026-06-24 15:26:20"
     },
     {
-      "keyword": "spacex stock",
-      "score": 14000000,
-      "traffic_numeric": 5000000,
-      "category": "金融/商业",
-      "timestamp": "2026-06-18 11:09:15"
-    },
-    {
-      "keyword": "argentina vs algeria",
-      "score": 14000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-06-19 06:00:22"
-    },
-    {
       "keyword": "us open leaderboard",
       "score": 13400000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-24 15:26:20"
+    },
+    {
+      "keyword": "argentina vs algeria",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-06-19 06:00:22"
     },
     {
       "keyword": "juneteenth meaning",
@@ -72,18 +65,18 @@
       "timestamp": "2026-06-21 15:12:40"
     },
     {
+      "keyword": "gta 6",
+      "score": 10300000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-24 20:29:14"
+    },
+    {
       "keyword": "juneteenth",
       "score": 10200000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-20 15:04:08"
-    },
-    {
-      "keyword": "gta 6",
-      "score": 9300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-06-24 10:06:52"
     },
     {
       "keyword": "usa vs australia",
@@ -100,6 +93,13 @@
       "timestamp": "2026-06-19 20:21:26"
     },
     {
+      "keyword": "spacex stock",
+      "score": 9000000,
+      "traffic_numeric": 5000000,
+      "category": "金融/商业",
+      "timestamp": "2026-06-18 11:09:15"
+    },
+    {
       "keyword": "portugal world cup",
       "score": 8000000,
       "traffic_numeric": 2000000,
@@ -112,6 +112,13 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-06-21 05:43:44"
+    },
+    {
+      "keyword": "nba draft",
+      "score": 7800000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-06-24 20:29:14"
     },
     {
       "keyword": "obama presidential center",
@@ -142,13 +149,6 @@
       "timestamp": "2026-06-24 15:26:20"
     },
     {
-      "keyword": "taylor parker",
-      "score": 7000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-19 06:00:22"
-    },
-    {
       "keyword": "brazil vs haiti",
       "score": 7000000,
       "traffic_numeric": 1000000,
@@ -163,18 +163,11 @@
       "timestamp": "2026-06-24 15:26:20"
     },
     {
-      "keyword": "world cup games today",
+      "keyword": "taylor parker",
       "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-06-18 05:33:28"
-    },
-    {
-      "keyword": "nba draft",
-      "score": 5800000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-06-24 15:26:20"
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-19 06:00:22"
     },
     {
       "keyword": "toy story 5",
@@ -191,30 +184,37 @@
       "timestamp": "2026-06-24 15:26:20"
     },
     {
-      "keyword": "elon musk net worth",
-      "score": 5500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-18 21:19:40"
-    },
-    {
       "keyword": "mexico vs south korea",
-      "score": 5300000,
+      "score": 5100000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-06-19 11:18:55"
     },
     {
+      "keyword": "elon musk net worth",
+      "score": 4500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-18 21:19:40"
+    },
+    {
       "keyword": "josh hokit",
-      "score": 5000000,
+      "score": 4500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-06-19 20:21:26"
+    },
+    {
+      "keyword": "germany vs ivory coast",
+      "score": 4200000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-06-21 20:31:39"
     }
   ],
   "category_stats": {
-    "其他": 107,
-    "体育": 48,
+    "其他": 105,
+    "体育": 50,
     "科技/AI": 8,
     "娱乐/生活": 6,
     "金融/商业": 4

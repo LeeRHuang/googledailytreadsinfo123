@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-06-25 04:59:50",
+  "last_updated": "2026-06-25 10:12:38",
   "trends": [
     {
       "keyword": "daveigh chase",
-      "score": 26000000,
+      "score": 25500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-24 15:26:20"
     },
     {
       "keyword": "oliver tree death",
-      "score": 26000000,
+      "score": 24000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-21 15:12:40"
@@ -24,21 +24,21 @@
     },
     {
       "keyword": "anne hathaway",
-      "score": 18600000,
+      "score": 19600000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-25 04:59:50"
+      "timestamp": "2026-06-25 10:12:38"
     },
     {
       "keyword": "jelly roll",
-      "score": 18000000,
+      "score": 17000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-22 21:28:20"
     },
     {
       "keyword": "cape verde",
-      "score": 16500000,
+      "score": 14500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-21 15:12:40"
@@ -51,6 +51,20 @@
       "timestamp": "2026-06-24 15:26:20"
     },
     {
+      "keyword": "gta 6",
+      "score": 12300000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-25 10:12:38"
+    },
+    {
+      "keyword": "nba draft",
+      "score": 11800000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-06-25 10:12:38"
+    },
+    {
       "keyword": "juneteenth meaning",
       "score": 11400000,
       "traffic_numeric": 2000000,
@@ -58,32 +72,11 @@
       "timestamp": "2026-06-21 15:12:40"
     },
     {
-      "keyword": "gta 6",
-      "score": 11300000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-25 04:59:50"
-    },
-    {
       "keyword": "juneteenth",
       "score": 10200000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-20 15:04:08"
-    },
-    {
-      "keyword": "argentina vs algeria",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-06-19 06:00:22"
-    },
-    {
-      "keyword": "nba draft",
-      "score": 9800000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-06-25 04:59:50"
     },
     {
       "keyword": "usa vs australia",
@@ -100,11 +93,11 @@
       "timestamp": "2026-06-21 05:43:44"
     },
     {
-      "keyword": "justin gaethje",
+      "keyword": "argentina vs algeria",
       "score": 8000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-19 20:21:26"
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-06-19 06:00:22"
     },
     {
       "keyword": "obama presidential center",
@@ -128,13 +121,6 @@
       "timestamp": "2026-06-24 15:26:20"
     },
     {
-      "keyword": "spacex stock",
-      "score": 7000000,
-      "traffic_numeric": 5000000,
-      "category": "金融/商业",
-      "timestamp": "2026-06-18 11:09:15"
-    },
-    {
       "keyword": "brazil vs haiti",
       "score": 7000000,
       "traffic_numeric": 1000000,
@@ -142,10 +128,10 @@
       "timestamp": "2026-06-21 20:31:39"
     },
     {
-      "keyword": "england vs croatia",
-      "score": 6500000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
+      "keyword": "justin gaethje",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
       "timestamp": "2026-06-19 20:21:26"
     },
     {
@@ -156,11 +142,11 @@
       "timestamp": "2026-06-24 15:26:20"
     },
     {
-      "keyword": "portugal world cup",
+      "keyword": "england vs croatia",
       "score": 6000000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-18 16:17:22"
+      "category": "体育",
+      "timestamp": "2026-06-19 20:21:26"
     },
     {
       "keyword": "toy story 5",
@@ -170,6 +156,13 @@
       "timestamp": "2026-06-21 20:31:39"
     },
     {
+      "keyword": "prime day 2026",
+      "score": 5600000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-25 10:12:38"
+    },
+    {
       "keyword": "giannis antetokounmpo",
       "score": 5500000,
       "traffic_numeric": 1000000,
@@ -177,25 +170,11 @@
       "timestamp": "2026-06-24 15:26:20"
     },
     {
-      "keyword": "taylor parker",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-19 06:00:22"
-    },
-    {
       "keyword": "mexico vs south korea",
-      "score": 4900000,
+      "score": 4700000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-06-19 11:18:55"
-    },
-    {
-      "keyword": "prime day 2026",
-      "score": 4600000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-25 04:59:50"
     },
     {
       "keyword": "germany vs ivory coast",
@@ -205,18 +184,39 @@
       "timestamp": "2026-06-21 20:31:39"
     },
     {
+      "keyword": "taylor parker",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-19 06:00:22"
+    },
+    {
+      "keyword": "portugal world cup",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-18 16:17:22"
+    },
+    {
       "keyword": "colombia vs uzbekistan",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-06-19 06:00:22"
+    },
+    {
+      "keyword": "i will find you netflix",
+      "score": 3600000,
+      "traffic_numeric": 200000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-06-25 04:59:50"
     }
   ],
   "category_stats": {
-    "其他": 106,
+    "其他": 104,
     "体育": 51,
     "科技/AI": 9,
-    "娱乐/生活": 6,
+    "娱乐/生活": 5,
     "金融/商业": 3
   },
   "insights": [

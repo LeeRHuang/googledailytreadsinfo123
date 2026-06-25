@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-25 15:44:21",
+  "last_updated": "2026-06-25 20:37:18",
   "trends": [
     {
       "keyword": "daveigh chase",
-      "score": 25000000,
+      "score": 24000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-24 15:26:20"
@@ -17,7 +17,7 @@
     },
     {
       "keyword": "oliver tree death",
-      "score": 22000000,
+      "score": 20000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-21 15:12:40"
@@ -31,7 +31,7 @@
     },
     {
       "keyword": "jelly roll",
-      "score": 16000000,
+      "score": 15000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-22 21:28:20"
@@ -58,13 +58,6 @@
       "timestamp": "2026-06-25 15:44:21"
     },
     {
-      "keyword": "cape verde",
-      "score": 12500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-21 15:12:40"
-    },
-    {
       "keyword": "juneteenth meaning",
       "score": 11400000,
       "traffic_numeric": 2000000,
@@ -72,8 +65,15 @@
       "timestamp": "2026-06-21 15:12:40"
     },
     {
+      "keyword": "cape verde",
+      "score": 10500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-21 15:12:40"
+    },
+    {
       "keyword": "juneteenth",
-      "score": 10200000,
+      "score": 10000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-20 15:04:08"
@@ -100,18 +100,18 @@
       "timestamp": "2026-06-23 15:45:32"
     },
     {
-      "keyword": "us open",
-      "score": 7200000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-22 06:12:43"
-    },
-    {
       "keyword": "argentina vs austria",
       "score": 7200000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-06-24 15:26:20"
+    },
+    {
+      "keyword": "us open",
+      "score": 7000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-22 06:12:43"
     },
     {
       "keyword": "brazil vs haiti",
@@ -126,20 +126,6 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-06-24 15:26:20"
-    },
-    {
-      "keyword": "justin gaethje",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-19 20:21:26"
-    },
-    {
-      "keyword": "argentina vs algeria",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-06-19 06:00:22"
     },
     {
       "keyword": "toy story 5",
@@ -163,6 +149,13 @@
       "timestamp": "2026-06-24 15:26:20"
     },
     {
+      "keyword": "justin gaethje",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-19 20:21:26"
+    },
+    {
       "keyword": "germany vs ivory coast",
       "score": 4200000,
       "traffic_numeric": 1000000,
@@ -177,11 +170,11 @@
       "timestamp": "2026-06-19 11:18:55"
     },
     {
-      "keyword": "england vs croatia",
+      "keyword": "argentina vs algeria",
       "score": 4000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-06-19 20:21:26"
+      "timestamp": "2026-06-19 06:00:22"
     },
     {
       "keyword": "i will find you netflix",
@@ -191,11 +184,11 @@
       "timestamp": "2026-06-25 04:59:50"
     },
     {
-      "keyword": "spiderman brand new day",
-      "score": 3200000,
-      "traffic_numeric": 500000,
+      "keyword": "amazon prime day",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-23 04:46:32"
+      "timestamp": "2026-06-25 20:37:18"
     },
     {
       "keyword": "mexico vs czechia",
@@ -205,17 +198,24 @@
       "timestamp": "2026-06-25 15:44:21"
     },
     {
-      "keyword": "taylor parker",
+      "keyword": "uruguay vs cabo verde",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-06-22 17:30:55"
+    },
+    {
+      "keyword": "what is juneteenth",
       "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-19 06:00:22"
+      "timestamp": "2026-06-20 09:56:59"
     }
   ],
   "category_stats": {
     "其他": 105,
-    "体育": 52,
-    "科技/AI": 9,
+    "体育": 54,
+    "科技/AI": 10,
     "娱乐/生活": 4,
     "金融/商业": 2
   },

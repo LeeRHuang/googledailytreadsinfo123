@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-06-27 09:24:37",
+  "last_updated": "2026-06-27 14:20:18",
   "trends": [
     {
       "keyword": "anne hathaway",
-      "score": 19000000,
+      "score": 18000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-26 05:03:29"
     },
     {
       "keyword": "tay keith",
-      "score": 19000000,
+      "score": 18000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-25 04:59:50"
     },
     {
       "keyword": "daveigh chase",
-      "score": 18000000,
+      "score": 17000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-24 15:26:20"
     },
     {
       "keyword": "fifa world cup 2026 standings",
-      "score": 14300000,
+      "score": 16300000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-06-27 09:24:37"
+      "timestamp": "2026-06-27 14:20:18"
     },
     {
       "keyword": "nba draft",
@@ -37,32 +37,25 @@
       "timestamp": "2026-06-25 15:44:21"
     },
     {
+      "keyword": "prime day 2026",
+      "score": 12600000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-27 14:20:18"
+    },
+    {
       "keyword": "us open leaderboard",
-      "score": 11900000,
+      "score": 11700000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-24 15:26:20"
     },
     {
       "keyword": "gta 6",
-      "score": 11100000,
+      "score": 10600000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-25 15:44:21"
-    },
-    {
-      "keyword": "prime day 2026",
-      "score": 10600000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-27 09:24:37"
-    },
-    {
-      "keyword": "juneteenth meaning",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-21 15:12:40"
     },
     {
       "keyword": "amazon prime day",
@@ -72,11 +65,25 @@
       "timestamp": "2026-06-27 04:52:54"
     },
     {
+      "keyword": "venezuela earthquake",
+      "score": 8400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-27 14:20:18"
+    },
+    {
       "keyword": "jelly roll",
-      "score": 9000000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-22 21:28:20"
+    },
+    {
+      "keyword": "juneteenth meaning",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-21 15:12:40"
     },
     {
       "keyword": "oliver tree death",
@@ -84,13 +91,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-21 15:12:40"
-    },
-    {
-      "keyword": "venezuela earthquake",
-      "score": 7400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-27 09:24:37"
     },
     {
       "keyword": "argentina vs austria",
@@ -114,32 +114,25 @@
       "timestamp": "2026-06-26 20:29:41"
     },
     {
-      "keyword": "brazil vs haiti",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-06-21 20:31:39"
-    },
-    {
-      "keyword": "usa vs australia",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-06-20 20:18:00"
-    },
-    {
-      "keyword": "obama presidential center",
-      "score": 5700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-06-23 15:45:32"
-    },
-    {
       "keyword": "giannis antetokounmpo",
       "score": 5500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-24 15:26:20"
+    },
+    {
+      "keyword": "obama presidential center",
+      "score": 5200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-06-23 15:45:32"
+    },
+    {
+      "keyword": "brazil vs haiti",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-06-21 20:31:39"
     },
     {
       "keyword": "cape verde",
@@ -149,11 +142,11 @@
       "timestamp": "2026-06-21 15:12:40"
     },
     {
-      "keyword": "us open",
-      "score": 4500000,
-      "traffic_numeric": 2000000,
+      "keyword": "lamelo ball",
+      "score": 4700000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-22 06:12:43"
+      "timestamp": "2026-06-27 14:20:18"
     },
     {
       "keyword": "toy story 5",
@@ -170,11 +163,25 @@
       "timestamp": "2026-06-21 20:31:39"
     },
     {
-      "keyword": "lamelo ball",
-      "score": 4200000,
-      "traffic_numeric": 1000000,
+      "keyword": "usa vs australia",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-06-20 20:18:00"
+    },
+    {
+      "keyword": "us open",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-06-27 09:24:37"
+      "timestamp": "2026-06-22 06:12:43"
+    },
+    {
+      "keyword": "clive davis",
+      "score": 3750000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-06-27 14:20:18"
     },
     {
       "keyword": "ecuador vs germany",
@@ -184,15 +191,8 @@
       "timestamp": "2026-06-26 20:29:41"
     },
     {
-      "keyword": "clive davis",
-      "score": 3550000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-06-27 09:24:37"
-    },
-    {
       "keyword": "i will find you netflix",
-      "score": 3500000,
+      "score": 3400000,
       "traffic_numeric": 200000,
       "category": "娱乐/生活",
       "timestamp": "2026-06-25 04:59:50"
@@ -205,17 +205,17 @@
       "timestamp": "2026-06-25 15:44:21"
     },
     {
-      "keyword": "is oliver tree dead",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-21 10:24:48"
+      "keyword": "norway vs france",
+      "score": 3050000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-06-27 14:20:18"
     }
   ],
   "category_stats": {
-    "其他": 103,
+    "其他": 99,
     "体育": 55,
-    "科技/AI": 13,
+    "科技/AI": 14,
     "娱乐/生活": 4
   },
   "insights": [

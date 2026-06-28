@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28 14:29:19",
+  "last_updated": "2026-06-28 20:01:53",
   "trends": [
     {
       "keyword": "fifa world cup 2026 standings",
@@ -9,18 +9,11 @@
       "timestamp": "2026-06-28 14:29:19"
     },
     {
-      "keyword": "anne hathaway",
-      "score": 14000000,
-      "traffic_numeric": 1000000,
+      "keyword": "venezuela earthquake",
+      "score": 14400000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-06-26 05:03:29"
-    },
-    {
-      "keyword": "tay keith",
-      "score": 14000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-25 04:59:50"
+      "timestamp": "2026-06-28 20:01:53"
     },
     {
       "keyword": "nba draft",
@@ -30,11 +23,18 @@
       "timestamp": "2026-06-25 15:44:21"
     },
     {
-      "keyword": "daveigh chase",
+      "keyword": "anne hathaway",
       "score": 13000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-24 15:26:20"
+      "timestamp": "2026-06-26 05:03:29"
+    },
+    {
+      "keyword": "tay keith",
+      "score": 13000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-25 04:59:50"
     },
     {
       "keyword": "prime day 2026",
@@ -44,11 +44,11 @@
       "timestamp": "2026-06-27 14:20:18"
     },
     {
-      "keyword": "venezuela earthquake",
-      "score": 12400000,
+      "keyword": "daveigh chase",
+      "score": 12000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-28 14:29:19"
+      "timestamp": "2026-06-24 15:26:20"
     },
     {
       "keyword": "amazon prime day",
@@ -59,30 +59,23 @@
     },
     {
       "keyword": "gta 6",
-      "score": 8600000,
+      "score": 8100000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-25 15:44:21"
+    },
+    {
+      "keyword": "lamelo ball",
+      "score": 7200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-28 20:01:53"
     },
     {
       "keyword": "argentina vs austria",
       "score": 7200000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-06-24 15:26:20"
-    },
-    {
-      "keyword": "lamelo ball",
-      "score": 6700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-28 14:29:19"
-    },
-    {
-      "keyword": "us open leaderboard",
-      "score": 6500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
       "timestamp": "2026-06-24 15:26:20"
     },
     {
@@ -93,11 +86,32 @@
       "timestamp": "2026-06-24 15:26:20"
     },
     {
+      "keyword": "colombia vs portugal",
+      "score": 6050000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-06-28 20:01:53"
+    },
+    {
       "keyword": "usa vs turkey",
       "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-06-26 20:29:41"
+    },
+    {
+      "keyword": "fifa world cup 2026 bracket",
+      "score": 6000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-06-28 20:01:53"
+    },
+    {
+      "keyword": "us open leaderboard",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-24 15:26:20"
     },
     {
       "keyword": "giannis antetokounmpo",
@@ -107,25 +121,18 @@
       "timestamp": "2026-06-24 15:26:20"
     },
     {
-      "keyword": "jelly roll",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-22 21:28:20"
-    },
-    {
-      "keyword": "colombia vs portugal",
-      "score": 4050000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-06-28 14:29:19"
-    },
-    {
       "keyword": "norway vs france",
       "score": 4050000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-06-27 20:05:51"
+    },
+    {
+      "keyword": "jelly roll",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-22 21:28:20"
     },
     {
       "keyword": "clive davis",
@@ -142,11 +149,11 @@
       "timestamp": "2026-06-26 20:29:41"
     },
     {
-      "keyword": "obama presidential center",
+      "keyword": "supergirl",
       "score": 3200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-23 15:45:32"
+      "timestamp": "2026-06-28 20:01:53"
     },
     {
       "keyword": "mexico vs czechia",
@@ -156,13 +163,6 @@
       "timestamp": "2026-06-25 15:44:21"
     },
     {
-      "keyword": "us open",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-22 06:12:43"
-    },
-    {
       "keyword": "uruguay vs cabo verde",
       "score": 3000000,
       "traffic_numeric": 1000000,
@@ -170,11 +170,18 @@
       "timestamp": "2026-06-22 17:30:55"
     },
     {
-      "keyword": "i will find you netflix",
-      "score": 2800000,
+      "keyword": "nba trades",
+      "score": 2900000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-06-28 20:01:53"
+    },
+    {
+      "keyword": "jaylen brown",
+      "score": 2850000,
       "traffic_numeric": 200000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-06-25 04:59:50"
+      "category": "其他",
+      "timestamp": "2026-06-28 20:01:53"
     },
     {
       "keyword": "lottery",
@@ -191,29 +198,22 @@
       "timestamp": "2026-06-27 20:05:51"
     },
     {
-      "keyword": "supergirl",
+      "keyword": "obama presidential center",
       "score": 2700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-06-28 05:20:33"
+      "timestamp": "2026-06-23 15:45:32"
     },
     {
-      "keyword": "nba trades",
-      "score": 2700000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-06-28 14:29:19"
-    },
-    {
-      "keyword": "jaylen brown",
-      "score": 2650000,
+      "keyword": "i will find you netflix",
+      "score": 2600000,
       "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-06-28 14:29:19"
+      "category": "娱乐/生活",
+      "timestamp": "2026-06-25 04:59:50"
     }
   ],
   "category_stats": {
-    "其他": 98,
+    "其他": 96,
     "体育": 60,
     "科技/AI": 12,
     "娱乐/生活": 4

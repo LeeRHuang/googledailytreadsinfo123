@@ -1,30 +1,30 @@
 {
-  "last_updated": "2026-06-27 20:05:51",
+  "last_updated": "2026-06-28 05:20:33",
   "trends": [
     {
       "keyword": "fifa world cup 2026 standings",
-      "score": 18300000,
-      "traffic_numeric": 2000000,
+      "score": 23300000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-06-27 20:05:51"
+      "timestamp": "2026-06-28 05:20:33"
     },
     {
       "keyword": "tay keith",
-      "score": 17000000,
+      "score": 16000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-25 04:59:50"
     },
     {
       "keyword": "anne hathaway",
-      "score": 17000000,
+      "score": 16000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-26 05:03:29"
     },
     {
       "keyword": "daveigh chase",
-      "score": 16000000,
+      "score": 15000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-24 15:26:20"
@@ -45,14 +45,21 @@
     },
     {
       "keyword": "us open leaderboard",
-      "score": 11500000,
+      "score": 10500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-24 15:26:20"
     },
     {
+      "keyword": "venezuela earthquake",
+      "score": 10400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-28 05:20:33"
+    },
+    {
       "keyword": "gta 6",
-      "score": 10100000,
+      "score": 9600000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-25 15:44:21"
@@ -65,25 +72,11 @@
       "timestamp": "2026-06-27 04:52:54"
     },
     {
-      "keyword": "venezuela earthquake",
-      "score": 9400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-27 20:05:51"
-    },
-    {
       "keyword": "argentina vs austria",
       "score": 7200000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-06-24 15:26:20"
-    },
-    {
-      "keyword": "jelly roll",
-      "score": 7000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-22 21:28:20"
     },
     {
       "keyword": "france vs iraq",
@@ -93,6 +86,13 @@
       "timestamp": "2026-06-24 15:26:20"
     },
     {
+      "keyword": "jelly roll",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-22 21:28:20"
+    },
+    {
       "keyword": "usa vs turkey",
       "score": 6000000,
       "traffic_numeric": 2000000,
@@ -100,18 +100,11 @@
       "timestamp": "2026-06-26 20:29:41"
     },
     {
-      "keyword": "oliver tree death",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
+      "keyword": "lamelo ball",
+      "score": 5700000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-21 15:12:40"
-    },
-    {
-      "keyword": "juneteenth meaning",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-21 15:12:40"
+      "timestamp": "2026-06-28 05:20:33"
     },
     {
       "keyword": "giannis antetokounmpo",
@@ -121,25 +114,11 @@
       "timestamp": "2026-06-24 15:26:20"
     },
     {
-      "keyword": "lamelo ball",
-      "score": 5200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-27 20:05:51"
-    },
-    {
       "keyword": "obama presidential center",
-      "score": 4700000,
+      "score": 4200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-06-23 15:45:32"
-    },
-    {
-      "keyword": "germany vs ivory coast",
-      "score": 4200000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-06-21 20:31:39"
     },
     {
       "keyword": "norway vs france",
@@ -149,18 +128,25 @@
       "timestamp": "2026-06-27 20:05:51"
     },
     {
-      "keyword": "toy story 5",
+      "keyword": "juneteenth meaning",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-21 15:12:40"
+    },
+    {
+      "keyword": "germany vs ivory coast",
       "score": 4000000,
       "traffic_numeric": 1000000,
-      "category": "其他",
+      "category": "体育",
       "timestamp": "2026-06-21 20:31:39"
     },
     {
-      "keyword": "brazil vs haiti",
+      "keyword": "oliver tree death",
       "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-06-21 20:31:39"
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-21 15:12:40"
     },
     {
       "keyword": "clive davis",
@@ -178,7 +164,7 @@
     },
     {
       "keyword": "i will find you netflix",
-      "score": 3300000,
+      "score": 3200000,
       "traffic_numeric": 200000,
       "category": "娱乐/生活",
       "timestamp": "2026-06-25 04:59:50"
@@ -191,11 +177,11 @@
       "timestamp": "2026-06-25 15:44:21"
     },
     {
-      "keyword": "us open",
+      "keyword": "ecuador vs curaçao",
       "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-22 06:12:43"
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-06-21 20:31:39"
     },
     {
       "keyword": "uruguay vs cabo verde",
@@ -205,16 +191,30 @@
       "timestamp": "2026-06-22 17:30:55"
     },
     {
-      "keyword": "ecuador vs curaçao",
+      "keyword": "toy story 5",
       "score": 3000000,
       "traffic_numeric": 1000000,
-      "category": "体育",
+      "category": "其他",
       "timestamp": "2026-06-21 20:31:39"
+    },
+    {
+      "keyword": "brazil vs haiti",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-06-21 20:31:39"
+    },
+    {
+      "keyword": "us open",
+      "score": 3000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-22 06:12:43"
     }
   ],
   "category_stats": {
-    "其他": 98,
-    "体育": 57,
+    "其他": 96,
+    "体育": 61,
     "科技/AI": 14,
     "娱乐/生活": 4
   },

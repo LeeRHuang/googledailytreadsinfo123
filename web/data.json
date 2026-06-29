@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29 05:23:00",
+  "last_updated": "2026-06-29 11:46:20",
   "trends": [
     {
       "keyword": "fifa world cup 2026 standings",
@@ -10,10 +10,10 @@
     },
     {
       "keyword": "venezuela earthquake",
-      "score": 15400000,
+      "score": 17400000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-06-29 05:23:00"
+      "timestamp": "2026-06-29 11:46:20"
     },
     {
       "keyword": "nba draft",
@@ -30,32 +30,32 @@
       "timestamp": "2026-06-27 14:20:18"
     },
     {
-      "keyword": "anne hathaway",
-      "score": 12000000,
-      "traffic_numeric": 1000000,
+      "keyword": "fifa world cup 2026 bracket",
+      "score": 11000001,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-06-26 05:03:29"
+      "timestamp": "2026-06-29 11:46:20"
     },
     {
       "keyword": "tay keith",
-      "score": 12000000,
+      "score": 11000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-25 04:59:50"
     },
     {
-      "keyword": "daveigh chase",
+      "keyword": "anne hathaway",
       "score": 11000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-24 15:26:20"
+      "timestamp": "2026-06-26 05:03:29"
     },
     {
-      "keyword": "fifa world cup 2026 bracket",
-      "score": 11000000,
-      "traffic_numeric": 5000000,
+      "keyword": "daveigh chase",
+      "score": 10000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-29 05:23:00"
+      "timestamp": "2026-06-24 15:26:20"
     },
     {
       "keyword": "amazon prime day",
@@ -66,17 +66,10 @@
     },
     {
       "keyword": "lamelo ball",
-      "score": 7700000,
+      "score": 8200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-29 05:23:00"
-    },
-    {
-      "keyword": "gta 6",
-      "score": 7600000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-25 15:44:21"
+      "timestamp": "2026-06-29 11:46:20"
     },
     {
       "keyword": "argentina vs austria",
@@ -84,6 +77,13 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-06-24 15:26:20"
+    },
+    {
+      "keyword": "gta 6",
+      "score": 7100000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-25 15:44:21"
     },
     {
       "keyword": "france vs iraq",
@@ -149,25 +149,18 @@
       "timestamp": "2026-06-26 20:29:41"
     },
     {
+      "keyword": "jaylen brown",
+      "score": 3250000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-06-29 11:46:20"
+    },
+    {
       "keyword": "mexico vs czechia",
       "score": 3100000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-06-25 15:44:21"
-    },
-    {
-      "keyword": "jaylen brown",
-      "score": 3050000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-06-29 05:23:00"
-    },
-    {
-      "keyword": "uruguay vs cabo verde",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-06-22 17:30:55"
     },
     {
       "keyword": "jelly roll",
@@ -184,18 +177,18 @@
       "timestamp": "2026-06-28 20:01:53"
     },
     {
-      "keyword": "lottery",
-      "score": 2800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-06-24 15:26:20"
-    },
-    {
       "keyword": "steam machine",
       "score": 2750000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-06-27 20:05:51"
+    },
+    {
+      "keyword": "lottery",
+      "score": 2700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-06-24 15:26:20"
     },
     {
       "keyword": "norway vs senegal",
@@ -210,13 +203,20 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-06-25 04:59:50"
+    },
+    {
+      "keyword": "extreme heat watch",
+      "score": 2300000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-29 11:46:20"
     }
   ],
   "category_stats": {
-    "其他": 97,
+    "其他": 95,
     "体育": 55,
-    "科技/AI": 10,
-    "娱乐/生活": 5
+    "科技/AI": 9,
+    "娱乐/生活": 4
   },
   "insights": [
     {

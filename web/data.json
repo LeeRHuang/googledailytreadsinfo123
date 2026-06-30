@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29 20:34:02",
+  "last_updated": "2026-06-30 04:51:22",
   "trends": [
     {
       "keyword": "fifa world cup 2026 standings",
@@ -10,31 +10,31 @@
     },
     {
       "keyword": "venezuela earthquake",
-      "score": 19900000,
+      "score": 20900000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-06-29 20:34:02"
+      "timestamp": "2026-06-30 04:51:22"
     },
     {
       "keyword": "nba draft",
-      "score": 13400000,
+      "score": 13200000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-06-25 15:44:21"
     },
     {
       "keyword": "prime day 2026",
-      "score": 12400000,
+      "score": 12200000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-27 14:20:18"
     },
     {
       "keyword": "fifa world cup 2026 bracket",
-      "score": 11000003,
+      "score": 11000004,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-06-29 20:34:02"
+      "timestamp": "2026-06-30 04:51:22"
     },
     {
       "keyword": "amazon prime day",
@@ -44,20 +44,6 @@
       "timestamp": "2026-06-27 04:52:54"
     },
     {
-      "keyword": "tay keith",
-      "score": 9000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-25 04:59:50"
-    },
-    {
-      "keyword": "anne hathaway",
-      "score": 9000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-26 05:03:29"
-    },
-    {
       "keyword": "lamelo ball",
       "score": 8200000,
       "traffic_numeric": 1000000,
@@ -65,32 +51,18 @@
       "timestamp": "2026-06-29 11:46:20"
     },
     {
-      "keyword": "daveigh chase",
-      "score": 8000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-24 15:26:20"
-    },
-    {
-      "keyword": "argentina vs austria",
+      "keyword": "anne hathaway",
       "score": 7000000,
       "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-06-24 15:26:20"
+      "category": "其他",
+      "timestamp": "2026-06-26 05:03:29"
     },
     {
-      "keyword": "france vs iraq",
-      "score": 6200000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-06-24 15:26:20"
-    },
-    {
-      "keyword": "gta 6",
-      "score": 6100000,
+      "keyword": "tay keith",
+      "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-25 15:44:21"
+      "timestamp": "2026-06-25 04:59:50"
     },
     {
       "keyword": "colombia vs portugal",
@@ -100,6 +72,13 @@
       "timestamp": "2026-06-28 20:01:53"
     },
     {
+      "keyword": "daveigh chase",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-24 15:26:20"
+    },
+    {
       "keyword": "usa vs turkey",
       "score": 6000000,
       "traffic_numeric": 2000000,
@@ -107,10 +86,31 @@
       "timestamp": "2026-06-26 20:29:41"
     },
     {
-      "keyword": "giannis antetokounmpo",
-      "score": 5500000,
+      "keyword": "gta 6",
+      "score": 5100000,
       "traffic_numeric": 1000000,
       "category": "其他",
+      "timestamp": "2026-06-25 15:44:21"
+    },
+    {
+      "keyword": "giannis antetokounmpo",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-24 15:26:20"
+    },
+    {
+      "keyword": "france vs iraq",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-06-24 15:26:20"
+    },
+    {
+      "keyword": "argentina vs austria",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
       "timestamp": "2026-06-24 15:26:20"
     },
     {
@@ -128,18 +128,25 @@
       "timestamp": "2026-06-26 20:29:41"
     },
     {
-      "keyword": "clive davis",
-      "score": 3700000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-06-27 14:20:18"
-    },
-    {
       "keyword": "supergirl",
       "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-06-29 05:23:00"
+    },
+    {
+      "keyword": "extreme heat watch",
+      "score": 3700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-06-30 04:51:22"
+    },
+    {
+      "keyword": "clive davis",
+      "score": 3400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-06-27 14:20:18"
     },
     {
       "keyword": "jaylen brown",
@@ -164,24 +171,10 @@
     },
     {
       "keyword": "steam machine",
-      "score": 2750000,
+      "score": 2600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-06-27 20:05:51"
-    },
-    {
-      "keyword": "extreme heat watch",
-      "score": 2700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-29 20:34:02"
-    },
-    {
-      "keyword": "norway vs senegal",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-06-24 15:26:20"
     },
     {
       "keyword": "portugal vs uzbekistan",
@@ -189,6 +182,13 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-06-25 04:59:50"
+    },
+    {
+      "keyword": "brazil vs japan",
+      "score": 2300000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-06-30 04:51:22"
     },
     {
       "keyword": "travelers championship",
@@ -199,24 +199,24 @@
     },
     {
       "keyword": "citizen vigilante",
-      "score": 2050000,
+      "score": 2250000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-06-29 20:34:02"
+      "timestamp": "2026-06-30 04:51:22"
     },
     {
-      "keyword": "england vs ghana",
-      "score": 2020000,
+      "keyword": "bet awards 2026",
+      "score": 2200000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-06-24 20:29:14"
+      "category": "娱乐/生活",
+      "timestamp": "2026-06-30 04:51:22"
     }
   ],
   "category_stats": {
-    "其他": 97,
-    "体育": 54,
-    "科技/AI": 8,
-    "娱乐/生活": 4
+    "其他": 96,
+    "体育": 55,
+    "科技/AI": 7,
+    "娱乐/生活": 3
   },
   "insights": [
     {

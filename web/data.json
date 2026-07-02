@@ -1,40 +1,47 @@
 {
-  "last_updated": "2026-07-02 09:53:28",
+  "last_updated": "2026-07-02 15:01:50",
   "trends": [
     {
       "keyword": "fifa world cup 2026 bracket",
-      "score": 40000006,
+      "score": 45000006,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-07-02 09:53:28"
+      "timestamp": "2026-07-02 15:01:50"
     },
     {
       "keyword": "fifa world cup 2026 standings",
-      "score": 38700000,
+      "score": 38500000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-01 05:17:39"
     },
     {
       "keyword": "venezuela earthquake",
-      "score": 27200000,
+      "score": 27000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-01 20:43:30"
     },
     {
       "keyword": "mexico vs ecuador",
-      "score": 16200000,
+      "score": 18200000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-07-02 09:53:28"
+      "timestamp": "2026-07-02 15:01:50"
     },
     {
       "keyword": "usa vs bosnia and herzegovina",
-      "score": 10200000,
+      "score": 15200000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-07-02 09:53:28"
+      "timestamp": "2026-07-02 15:01:50"
+    },
+    {
+      "keyword": "extreme heat warning",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-02 15:01:50"
     },
     {
       "keyword": "germany vs paraguay",
@@ -42,13 +49,6 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-07-01 05:17:39"
-    },
-    {
-      "keyword": "extreme heat warning",
-      "score": 10000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-02 09:53:28"
     },
     {
       "keyword": "lamelo ball",
@@ -66,10 +66,17 @@
     },
     {
       "keyword": "prime day 2026",
-      "score": 8000000,
+      "score": 7000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-06-27 14:20:18"
+    },
+    {
+      "keyword": "lebron james",
+      "score": 6350000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-02 15:01:50"
     },
     {
       "keyword": "colombia vs portugal",
@@ -93,11 +100,11 @@
       "timestamp": "2026-07-01 15:36:12"
     },
     {
-      "keyword": "lebron james",
-      "score": 5350000,
+      "keyword": "jaylen brown",
+      "score": 5300000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-02 09:53:28"
+      "timestamp": "2026-07-02 15:01:50"
     },
     {
       "keyword": "france vs sweden",
@@ -128,13 +135,6 @@
       "timestamp": "2026-06-30 20:34:29"
     },
     {
-      "keyword": "jaylen brown",
-      "score": 4400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-02 09:53:28"
-    },
-    {
       "keyword": "brazil vs japan",
       "score": 4300000,
       "traffic_numeric": 1000000,
@@ -156,11 +156,11 @@
       "timestamp": "2026-07-01 20:43:30"
     },
     {
-      "keyword": "nba draft",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-06-25 15:44:21"
+      "keyword": "supergirl",
+      "score": 3700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-06-29 05:23:00"
     },
     {
       "keyword": "ecuador vs germany",
@@ -170,11 +170,11 @@
       "timestamp": "2026-06-26 20:29:41"
     },
     {
-      "keyword": "supergirl",
-      "score": 3700000,
-      "traffic_numeric": 500000,
+      "keyword": "wimbledon",
+      "score": 3600000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-29 05:23:00"
+      "timestamp": "2026-07-02 15:01:50"
     },
     {
       "keyword": "citizen vigilante",
@@ -191,18 +191,11 @@
       "timestamp": "2026-07-01 20:43:30"
     },
     {
-      "keyword": "wimbledon",
-      "score": 3100000,
+      "keyword": "belgium vs senegal",
+      "score": 3050000,
       "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-01 20:43:30"
-    },
-    {
-      "keyword": "chris johnson",
-      "score": 2900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-02 04:48:53"
+      "category": "体育",
+      "timestamp": "2026-07-02 15:01:50"
     },
     {
       "keyword": "nba trades",
@@ -210,11 +203,18 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-06-28 20:01:53"
+    },
+    {
+      "keyword": "chris johnson",
+      "score": 2900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-02 04:48:53"
     }
   ],
   "category_stats": {
-    "其他": 105,
-    "体育": 53,
+    "其他": 108,
+    "体育": 52,
     "科技/AI": 8,
     "娱乐/生活": 3
   },

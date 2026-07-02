@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02 15:01:50",
+  "last_updated": "2026-07-02 20:20:43",
   "trends": [
     {
       "keyword": "fifa world cup 2026 bracket",
@@ -10,38 +10,38 @@
     },
     {
       "keyword": "fifa world cup 2026 standings",
-      "score": 38500000,
+      "score": 38000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-01 05:17:39"
     },
     {
       "keyword": "venezuela earthquake",
-      "score": 27000000,
+      "score": 26500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-01 20:43:30"
     },
     {
       "keyword": "mexico vs ecuador",
-      "score": 18200000,
+      "score": 20200000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-07-02 15:01:50"
+      "timestamp": "2026-07-02 20:20:43"
     },
     {
       "keyword": "usa vs bosnia and herzegovina",
-      "score": 15200000,
+      "score": 20200000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-07-02 15:01:50"
+      "timestamp": "2026-07-02 20:20:43"
     },
     {
       "keyword": "extreme heat warning",
-      "score": 12000000,
+      "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-02 15:01:50"
+      "timestamp": "2026-07-02 20:20:43"
     },
     {
       "keyword": "germany vs paraguay",
@@ -52,17 +52,17 @@
     },
     {
       "keyword": "lamelo ball",
-      "score": 8200000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-29 11:46:20"
     },
     {
-      "keyword": "amazon prime day",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
+      "keyword": "lebron james",
+      "score": 7350000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-27 04:52:54"
+      "timestamp": "2026-07-02 20:20:43"
     },
     {
       "keyword": "prime day 2026",
@@ -72,11 +72,11 @@
       "timestamp": "2026-06-27 14:20:18"
     },
     {
-      "keyword": "lebron james",
-      "score": 6350000,
-      "traffic_numeric": 1000000,
+      "keyword": "amazon prime day",
+      "score": 7000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-02 15:01:50"
+      "timestamp": "2026-06-27 04:52:54"
     },
     {
       "keyword": "colombia vs portugal",
@@ -84,6 +84,13 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-06-28 20:01:53"
+    },
+    {
+      "keyword": "world cup bracket",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-02 20:20:43"
     },
     {
       "keyword": "usa vs turkey",
@@ -121,6 +128,13 @@
       "timestamp": "2026-07-01 20:43:30"
     },
     {
+      "keyword": "spain vs austria",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-02 20:20:43"
+    },
+    {
       "keyword": "venezuela",
       "score": 5000000,
       "traffic_numeric": 1000000,
@@ -149,18 +163,18 @@
       "timestamp": "2026-06-27 20:05:51"
     },
     {
-      "keyword": "world cup bracket",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-01 20:43:30"
+      "keyword": "belgium vs senegal",
+      "score": 4050000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-07-02 20:20:43"
     },
     {
-      "keyword": "supergirl",
-      "score": 3700000,
-      "traffic_numeric": 500000,
+      "keyword": "wimbledon",
+      "score": 3800000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-06-29 05:23:00"
+      "timestamp": "2026-07-02 20:20:43"
     },
     {
       "keyword": "ecuador vs germany",
@@ -170,11 +184,11 @@
       "timestamp": "2026-06-26 20:29:41"
     },
     {
-      "keyword": "wimbledon",
-      "score": 3600000,
-      "traffic_numeric": 1000000,
+      "keyword": "supergirl",
+      "score": 3700000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-02 15:01:50"
+      "timestamp": "2026-06-29 05:23:00"
     },
     {
       "keyword": "citizen vigilante",
@@ -184,38 +198,24 @@
       "timestamp": "2026-07-02 04:48:53"
     },
     {
+      "keyword": "england vs dr congo",
+      "score": 3250000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-07-02 20:20:43"
+    },
+    {
       "keyword": "terremoto",
       "score": 3150000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-01 20:43:30"
-    },
-    {
-      "keyword": "belgium vs senegal",
-      "score": 3050000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-07-02 15:01:50"
-    },
-    {
-      "keyword": "nba trades",
-      "score": 2900000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-06-28 20:01:53"
-    },
-    {
-      "keyword": "chris johnson",
-      "score": 2900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-02 04:48:53"
     }
   ],
   "category_stats": {
-    "其他": 108,
+    "其他": 105,
     "体育": 52,
-    "科技/AI": 8,
+    "科技/AI": 9,
     "娱乐/生活": 3
   },
   "insights": [

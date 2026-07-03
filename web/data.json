@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03 04:43:40",
+  "last_updated": "2026-07-03 09:52:22",
   "trends": [
     {
       "keyword": "fifa world cup 2026 bracket",
@@ -10,17 +10,10 @@
     },
     {
       "keyword": "fifa world cup 2026 standings",
-      "score": 37000000,
+      "score": 35000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-01 05:17:39"
-    },
-    {
-      "keyword": "venezuela earthquake",
-      "score": 26000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-01 20:43:30"
     },
     {
       "keyword": "usa vs bosnia and herzegovina",
@@ -30,18 +23,25 @@
       "timestamp": "2026-07-03 04:43:40"
     },
     {
+      "keyword": "venezuela earthquake",
+      "score": 25000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-01 20:43:30"
+    },
+    {
       "keyword": "mexico vs ecuador",
-      "score": 22200000,
+      "score": 24200000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-07-03 04:43:40"
+      "timestamp": "2026-07-03 09:52:22"
     },
     {
       "keyword": "extreme heat warning",
-      "score": 16000000,
+      "score": 18000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-03 04:43:40"
+      "timestamp": "2026-07-03 09:52:22"
     },
     {
       "keyword": "germany vs paraguay",
@@ -52,24 +52,17 @@
     },
     {
       "keyword": "lebron james",
-      "score": 8350000,
+      "score": 9350000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-03 04:43:40"
+      "timestamp": "2026-07-03 09:52:22"
     },
     {
       "keyword": "lamelo ball",
-      "score": 7500000,
+      "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-29 11:46:20"
-    },
-    {
-      "keyword": "prime day 2026",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-06-27 14:20:18"
     },
     {
       "keyword": "colombia vs portugal",
@@ -79,13 +72,6 @@
       "timestamp": "2026-06-28 20:01:53"
     },
     {
-      "keyword": "world cup bracket",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-02 20:20:43"
-    },
-    {
       "keyword": "usa vs turkey",
       "score": 6000000,
       "traffic_numeric": 2000000,
@@ -93,11 +79,18 @@
       "timestamp": "2026-06-26 20:29:41"
     },
     {
-      "keyword": "amazon prime day",
+      "keyword": "world cup bracket",
       "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-06-27 04:52:54"
+      "timestamp": "2026-07-02 20:20:43"
+    },
+    {
+      "keyword": "prime day 2026",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-06-27 14:20:18"
     },
     {
       "keyword": "méxico - ecuador",
@@ -107,18 +100,25 @@
       "timestamp": "2026-07-01 15:36:12"
     },
     {
-      "keyword": "jaylen brown",
-      "score": 5200000,
-      "traffic_numeric": 1000000,
+      "keyword": "amazon prime day",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-02 15:01:50"
+      "timestamp": "2026-06-27 04:52:54"
     },
     {
       "keyword": "spain vs austria",
-      "score": 5200000,
+      "score": 5400000,
       "traffic_numeric": 5000000,
       "category": "科技/AI",
-      "timestamp": "2026-07-03 04:43:40"
+      "timestamp": "2026-07-03 09:52:22"
+    },
+    {
+      "keyword": "jaylen brown",
+      "score": 5100000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-02 15:01:50"
     },
     {
       "keyword": "belgium vs senegal",
@@ -177,6 +177,13 @@
       "timestamp": "2026-06-27 20:05:51"
     },
     {
+      "keyword": "portugal vs croatia",
+      "score": 4020000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-03 09:52:22"
+    },
+    {
       "keyword": "wimbledon",
       "score": 3800000,
       "traffic_numeric": 1000000,
@@ -185,17 +192,10 @@
     },
     {
       "keyword": "supergirl",
-      "score": 3700000,
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-06-29 05:23:00"
-    },
-    {
-      "keyword": "ecuador vs germany",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-06-26 20:29:41"
     },
     {
       "keyword": "citizen vigilante",
@@ -213,7 +213,7 @@
     }
   ],
   "category_stats": {
-    "其他": 106,
+    "其他": 104,
     "体育": 47,
     "科技/AI": 8,
     "娱乐/生活": 3

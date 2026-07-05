@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-07-05 09:39:15",
+  "last_updated": "2026-07-05 14:31:13",
   "trends": [
     {
       "keyword": "fifa world cup 2026 bracket",
-      "score": 66000006,
+      "score": 65000006,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-05 04:46:32"
     },
     {
       "keyword": "fourth of july",
-      "score": 33600000,
+      "score": 38600000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-07-05 09:39:15"
+      "timestamp": "2026-07-05 14:31:13"
     },
     {
       "keyword": "mexico vs ecuador",
@@ -30,6 +30,13 @@
       "timestamp": "2026-07-04 09:21:49"
     },
     {
+      "keyword": "argentina vs cape verde",
+      "score": 25400000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-05 14:31:13"
+    },
+    {
       "keyword": "usa vs bosnia and herzegovina",
       "score": 25200000,
       "traffic_numeric": 5000000,
@@ -38,45 +45,31 @@
     },
     {
       "keyword": "usa vs belgium",
-      "score": 20600000,
+      "score": 20800000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-07-05 09:39:15"
-    },
-    {
-      "keyword": "argentina vs cape verde",
-      "score": 20400000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-05 09:39:15"
-    },
-    {
-      "keyword": "venezuela earthquake",
-      "score": 17000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-01 20:43:30"
+      "timestamp": "2026-07-05 14:31:13"
     },
     {
       "keyword": "lebron james",
-      "score": 16350000,
+      "score": 17350000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-05 09:39:15"
-    },
-    {
-      "keyword": "fifa world cup 2026 standings",
-      "score": 16000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-07-01 05:17:39"
+      "timestamp": "2026-07-05 14:31:13"
     },
     {
       "keyword": "taylor swift wedding",
-      "score": 14200000,
+      "score": 16200000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-05 09:39:15"
+      "timestamp": "2026-07-05 14:31:13"
+    },
+    {
+      "keyword": "venezuela earthquake",
+      "score": 15000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-01 20:43:30"
     },
     {
       "keyword": "portugal vs croatia",
@@ -100,11 +93,18 @@
       "timestamp": "2026-07-04 09:21:49"
     },
     {
+      "keyword": "fifa world cup 2026 standings",
+      "score": 9000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-07-01 05:17:39"
+    },
+    {
       "keyword": "wimbledon",
-      "score": 7000000,
+      "score": 7500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-05 09:39:15"
+      "timestamp": "2026-07-05 14:31:13"
     },
     {
       "keyword": "spain vs austria",
@@ -149,13 +149,6 @@
       "timestamp": "2026-07-01 15:36:12"
     },
     {
-      "keyword": "colombia vs portugal",
-      "score": 5000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-06-28 20:01:53"
-    },
-    {
       "keyword": "netherlands vs morocco",
       "score": 5000000,
       "traffic_numeric": 1000000,
@@ -164,10 +157,17 @@
     },
     {
       "keyword": "extreme heat watch",
-      "score": 4900000,
+      "score": 4700000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-30 20:34:29"
+    },
+    {
+      "keyword": "mexico vs england",
+      "score": 4650000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-07-05 14:31:13"
     },
     {
       "keyword": "brazil vs japan",
@@ -184,13 +184,6 @@
       "timestamp": "2026-07-03 04:43:40"
     },
     {
-      "keyword": "mexico vs england",
-      "score": 4150000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-07-05 09:39:15"
-    },
-    {
       "keyword": "jaylen brown trade",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -205,16 +198,23 @@
       "timestamp": "2026-07-04 20:07:02"
     },
     {
-      "keyword": "jaylen brown",
+      "keyword": "australia vs egypt",
       "score": 3500000,
       "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-07-04 20:07:02"
+    },
+    {
+      "keyword": "chris johnson",
+      "score": 3400000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-02 15:01:50"
+      "timestamp": "2026-07-03 04:43:40"
     }
   ],
   "category_stats": {
-    "其他": 117,
-    "体育": 45,
+    "其他": 119,
+    "体育": 40,
     "娱乐/生活": 4,
     "科技/AI": 4
   },

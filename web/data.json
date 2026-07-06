@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-07-05 20:00:27",
+  "last_updated": "2026-07-06 05:05:02",
   "trends": [
     {
       "keyword": "fifa world cup 2026 bracket",
-      "score": 65000006,
+      "score": 60000006,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-05 04:46:32"
     },
     {
       "keyword": "fourth of july",
-      "score": 43600000,
+      "score": 48600000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-07-05 20:00:27"
+      "timestamp": "2026-07-06 05:05:02"
     },
     {
       "keyword": "mexico vs ecuador",
@@ -45,28 +45,28 @@
     },
     {
       "keyword": "usa vs belgium",
-      "score": 21300000,
+      "score": 22300000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-07-05 20:00:27"
+      "timestamp": "2026-07-06 05:05:02"
     },
     {
       "keyword": "taylor swift wedding",
-      "score": 18200000,
+      "score": 20200000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-05 20:00:27"
+      "timestamp": "2026-07-06 05:05:02"
     },
     {
       "keyword": "lebron james",
-      "score": 17350000,
+      "score": 18350000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-05 14:31:13"
+      "timestamp": "2026-07-06 05:05:02"
     },
     {
       "keyword": "venezuela earthquake",
-      "score": 15000000,
+      "score": 13000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-01 20:43:30"
@@ -77,6 +77,13 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-07-04 09:21:49"
+    },
+    {
+      "keyword": "mexico vs england",
+      "score": 10650000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-06 05:05:02"
     },
     {
       "keyword": "germany vs paraguay",
@@ -114,13 +121,6 @@
       "timestamp": "2026-07-03 20:14:53"
     },
     {
-      "keyword": "world cup bracket",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-02 20:20:43"
-    },
-    {
       "keyword": "méxico - ecuador",
       "score": 6000000,
       "traffic_numeric": 2000000,
@@ -128,11 +128,11 @@
       "timestamp": "2026-07-01 15:36:12"
     },
     {
-      "keyword": "mexico vs england",
-      "score": 5650000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-07-05 20:00:27"
+      "keyword": "world cup bracket",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-02 20:20:43"
     },
     {
       "keyword": "belgium vs senegal",
@@ -164,7 +164,7 @@
     },
     {
       "keyword": "extreme heat watch",
-      "score": 4700000,
+      "score": 4600000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-06-30 20:34:29"
@@ -184,18 +184,18 @@
       "timestamp": "2026-07-03 04:43:40"
     },
     {
-      "keyword": "colombia vs ghana",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-07-04 20:07:02"
-    },
-    {
       "keyword": "jaylen brown trade",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-03 15:08:48"
+    },
+    {
+      "keyword": "colombia vs ghana",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-07-04 20:07:02"
     },
     {
       "keyword": "australia vs egypt",
@@ -213,10 +213,10 @@
     }
   ],
   "category_stats": {
-    "其他": 120,
-    "体育": 42,
-    "科技/AI": 6,
-    "娱乐/生活": 4
+    "其他": 127,
+    "体育": 38,
+    "科技/AI": 7,
+    "娱乐/生活": 5
   },
   "insights": [
     {

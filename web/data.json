@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-07-06 05:05:02",
+  "last_updated": "2026-07-06 11:17:13",
   "trends": [
     {
       "keyword": "fifa world cup 2026 bracket",
-      "score": 60000006,
+      "score": 55000006,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-05 04:46:32"
     },
     {
       "keyword": "fourth of july",
-      "score": 48600000,
+      "score": 53600000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-07-06 05:05:02"
+      "timestamp": "2026-07-06 11:17:13"
     },
     {
       "keyword": "mexico vs ecuador",
-      "score": 26200000,
+      "score": 26100000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-03 20:14:53"
@@ -45,17 +45,17 @@
     },
     {
       "keyword": "usa vs belgium",
-      "score": 22300000,
+      "score": 23300000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-07-06 05:05:02"
+      "timestamp": "2026-07-06 11:17:13"
     },
     {
       "keyword": "taylor swift wedding",
-      "score": 20200000,
+      "score": 22200000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-06 05:05:02"
+      "timestamp": "2026-07-06 11:17:13"
     },
     {
       "keyword": "lebron james",
@@ -65,11 +65,11 @@
       "timestamp": "2026-07-06 05:05:02"
     },
     {
-      "keyword": "venezuela earthquake",
-      "score": 13000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-01 20:43:30"
+      "keyword": "mexico vs england",
+      "score": 15650000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-06 11:17:13"
     },
     {
       "keyword": "portugal vs croatia",
@@ -79,11 +79,11 @@
       "timestamp": "2026-07-04 09:21:49"
     },
     {
-      "keyword": "mexico vs england",
-      "score": 10650000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-06 05:05:02"
+      "keyword": "venezuela earthquake",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-01 20:43:30"
     },
     {
       "keyword": "germany vs paraguay",
@@ -149,13 +149,6 @@
       "timestamp": "2026-07-02 04:48:53"
     },
     {
-      "keyword": "netherlands vs morocco",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-07-01 20:43:30"
-    },
-    {
       "keyword": "venezuela",
       "score": 5000000,
       "traffic_numeric": 1000000,
@@ -163,11 +156,18 @@
       "timestamp": "2026-07-01 15:36:12"
     },
     {
-      "keyword": "extreme heat watch",
-      "score": 4600000,
+      "keyword": "netherlands vs morocco",
+      "score": 5000000,
       "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-06-30 20:34:29"
+      "category": "体育",
+      "timestamp": "2026-07-01 20:43:30"
+    },
+    {
+      "keyword": "brazil vs norway",
+      "score": 4800000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-06 11:17:13"
     },
     {
       "keyword": "brazil vs japan",
@@ -184,11 +184,11 @@
       "timestamp": "2026-07-03 04:43:40"
     },
     {
-      "keyword": "jaylen brown trade",
-      "score": 4000000,
+      "keyword": "lebron",
+      "score": 4200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-03 15:08:48"
+      "timestamp": "2026-07-06 11:17:13"
     },
     {
       "keyword": "colombia vs ghana",
@@ -198,25 +198,25 @@
       "timestamp": "2026-07-04 20:07:02"
     },
     {
-      "keyword": "australia vs egypt",
-      "score": 3500000,
+      "keyword": "jaylen brown trade",
+      "score": 4000000,
       "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-07-04 20:07:02"
+      "category": "其他",
+      "timestamp": "2026-07-03 15:08:48"
     },
     {
-      "keyword": "chris johnson",
-      "score": 3400000,
-      "traffic_numeric": 500000,
+      "keyword": "extreme heat watch",
+      "score": 3600000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-03 04:43:40"
+      "timestamp": "2026-06-30 20:34:29"
     }
   ],
   "category_stats": {
-    "其他": 127,
+    "其他": 128,
     "体育": 38,
-    "科技/AI": 7,
-    "娱乐/生活": 5
+    "科技/AI": 8,
+    "娱乐/生活": 6
   },
   "insights": [
     {

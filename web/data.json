@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07 20:44:41",
+  "last_updated": "2026-07-08 04:06:07",
   "trends": [
     {
       "keyword": "fourth of july",
@@ -7,6 +7,13 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-06 20:47:47"
+    },
+    {
+      "keyword": "usa vs belgium",
+      "score": 49800000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-08 04:06:07"
     },
     {
       "keyword": "mexico vs england",
@@ -21,13 +28,6 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-05 04:46:32"
-    },
-    {
-      "keyword": "usa vs belgium",
-      "score": 44800000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-07 20:44:41"
     },
     {
       "keyword": "argentina vs cape verde",
@@ -93,18 +93,18 @@
       "timestamp": "2026-07-04 09:21:49"
     },
     {
-      "keyword": "taylor swift",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-07 10:23:39"
-    },
-    {
       "keyword": "england vs mexico",
       "score": 8000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-07-07 04:43:46"
+    },
+    {
+      "keyword": "taylor swift",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-07 10:23:39"
     },
     {
       "keyword": "wimbledon",
@@ -114,18 +114,18 @@
       "timestamp": "2026-07-05 20:00:27"
     },
     {
+      "keyword": "mitch mcconnell",
+      "score": 7350000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-08 04:06:07"
+    },
+    {
       "keyword": "spain vs austria",
       "score": 6400000,
       "traffic_numeric": 5000000,
       "category": "科技/AI",
       "timestamp": "2026-07-03 20:14:53"
-    },
-    {
-      "keyword": "mitch mcconnell",
-      "score": 6350000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-07 20:44:41"
     },
     {
       "keyword": "méxico - ecuador",
@@ -142,6 +142,13 @@
       "timestamp": "2026-07-02 20:20:43"
     },
     {
+      "keyword": "taylor swift wedding dress",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-08 04:06:07"
+    },
+    {
       "keyword": "belgium vs senegal",
       "score": 5050000,
       "traffic_numeric": 1000000,
@@ -154,6 +161,13 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-07-02 04:48:53"
+    },
+    {
+      "keyword": "spain vs portugal",
+      "score": 4800000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-08 04:06:07"
     },
     {
       "keyword": "england vs dr congo",
@@ -170,20 +184,6 @@
       "timestamp": "2026-07-06 11:17:13"
     },
     {
-      "keyword": "taylor swift wedding dress",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-07 20:44:41"
-    },
-    {
-      "keyword": "jaylen brown trade",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-03 15:08:48"
-    },
-    {
       "keyword": "colombia vs ghana",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -191,11 +191,11 @@
       "timestamp": "2026-07-04 20:07:02"
     },
     {
-      "keyword": "spain vs portugal",
-      "score": 3800000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-07 20:44:41"
+      "keyword": "jaylen brown trade",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-03 15:08:48"
     },
     {
       "keyword": "venezuela earthquake",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 124,
-    "体育": 44,
+    "其他": 125,
+    "体育": 45,
     "科技/AI": 11,
     "娱乐/生活": 5
   },

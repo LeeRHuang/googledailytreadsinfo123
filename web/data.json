@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09 10:21:00",
+  "last_updated": "2026-07-09 15:48:33",
   "trends": [
     {
       "keyword": "usa vs belgium",
@@ -17,17 +17,10 @@
     },
     {
       "keyword": "mexico vs england",
-      "score": 45500000,
+      "score": 45400000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-07 20:44:41"
-    },
-    {
-      "keyword": "fifa world cup 2026 bracket",
-      "score": 26000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-07-05 04:46:32"
     },
     {
       "keyword": "argentina vs cape verde",
@@ -38,24 +31,17 @@
     },
     {
       "keyword": "taylor swift wedding",
-      "score": 21800000,
+      "score": 21600000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-06 11:17:13"
     },
     {
-      "keyword": "extreme heat warning",
-      "score": 16000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-04 09:21:49"
-    },
-    {
-      "keyword": "usa vs bosnia and herzegovina",
-      "score": 15000000,
+      "keyword": "fifa world cup 2026 bracket",
+      "score": 21000000,
       "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-03 04:43:40"
+      "category": "其他",
+      "timestamp": "2026-07-05 04:46:32"
     },
     {
       "keyword": "brazil vs norway",
@@ -65,11 +51,18 @@
       "timestamp": "2026-07-07 15:44:36"
     },
     {
-      "keyword": "lebron james",
-      "score": 13000000,
+      "keyword": "extreme heat warning",
+      "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-06 05:05:02"
+      "timestamp": "2026-07-04 09:21:49"
+    },
+    {
+      "keyword": "argentina vs egypt",
+      "score": 13200000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-09 15:48:32"
     },
     {
       "keyword": "portugal vs croatia",
@@ -79,18 +72,11 @@
       "timestamp": "2026-07-04 09:21:49"
     },
     {
-      "keyword": "argentina vs egypt",
-      "score": 11200000,
+      "keyword": "lebron james",
+      "score": 12000000,
       "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-09 10:21:00"
-    },
-    {
-      "keyword": "mexico vs ecuador",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-03 20:14:53"
+      "category": "其他",
+      "timestamp": "2026-07-06 05:05:02"
     },
     {
       "keyword": "argentina vs cabo verde",
@@ -98,6 +84,13 @@
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-04 09:21:49"
+    },
+    {
+      "keyword": "usa vs bosnia and herzegovina",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-03 04:43:40"
     },
     {
       "keyword": "taylor swift wedding dress",
@@ -114,13 +107,6 @@
       "timestamp": "2026-07-09 04:40:19"
     },
     {
-      "keyword": "england vs mexico",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-07 04:43:46"
-    },
-    {
       "keyword": "taylor swift",
       "score": 8000000,
       "traffic_numeric": 2000000,
@@ -128,11 +114,32 @@
       "timestamp": "2026-07-07 10:23:39"
     },
     {
+      "keyword": "england vs mexico",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-07 04:43:46"
+    },
+    {
+      "keyword": "mexico vs ecuador",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-03 20:14:53"
+    },
+    {
       "keyword": "mitch mcconnell",
-      "score": 7200000,
+      "score": 7100000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-08 04:06:07"
+    },
+    {
+      "keyword": "mitch mcconnell health",
+      "score": 7000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-09 15:48:32"
     },
     {
       "keyword": "spain vs austria",
@@ -142,20 +149,6 @@
       "timestamp": "2026-07-03 20:14:53"
     },
     {
-      "keyword": "mitch mcconnell health",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-09 10:21:00"
-    },
-    {
-      "keyword": "wimbledon",
-      "score": 4900000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-05 20:00:27"
-    },
-    {
       "keyword": "spain vs portugal",
       "score": 4800000,
       "traffic_numeric": 2000000,
@@ -163,11 +156,32 @@
       "timestamp": "2026-07-08 04:06:07"
     },
     {
+      "keyword": "wimbledon",
+      "score": 4400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-05 20:00:27"
+    },
+    {
       "keyword": "lebron",
       "score": 4200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-06 11:17:13"
+    },
+    {
+      "keyword": "nolan wells",
+      "score": 4050000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-09 15:48:32"
+    },
+    {
+      "keyword": "graham platner",
+      "score": 4010000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-09 15:48:32"
     },
     {
       "keyword": "jaylen brown trade",
@@ -191,20 +205,6 @@
       "timestamp": "2026-07-08 15:05:26"
     },
     {
-      "keyword": "nolan wells",
-      "score": 3550000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-09 10:21:00"
-    },
-    {
-      "keyword": "graham platner",
-      "score": 3510000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-09 10:21:00"
-    },
-    {
       "keyword": "australia vs egypt",
       "score": 3500000,
       "traffic_numeric": 1000000,
@@ -213,9 +213,9 @@
     }
   ],
   "category_stats": {
-    "其他": 125,
+    "其他": 126,
     "体育": 45,
-    "科技/AI": 10,
+    "科技/AI": 11,
     "娱乐/生活": 4
   },
   "insights": [

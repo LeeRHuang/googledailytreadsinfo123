@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-10 15:21:55",
+  "last_updated": "2026-07-10 20:19:15",
   "trends": [
     {
       "keyword": "fourth of july",
-      "score": 62000001,
+      "score": 60000001,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-08 20:13:44"
@@ -17,28 +17,28 @@
     },
     {
       "keyword": "mexico vs england",
-      "score": 44700000,
+      "score": 44500000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-07 20:44:41"
     },
     {
       "keyword": "argentina vs cape verde",
-      "score": 25200000,
+      "score": 25000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-05 14:31:13"
     },
     {
       "keyword": "argentina vs egypt",
-      "score": 21200000,
+      "score": 22200000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-07-10 15:21:55"
+      "timestamp": "2026-07-10 20:19:15"
     },
     {
       "keyword": "taylor swift wedding",
-      "score": 20500000,
+      "score": 20000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-06 11:17:13"
@@ -52,7 +52,7 @@
     },
     {
       "keyword": "fifa world cup 2026 bracket",
-      "score": 14000000,
+      "score": 12000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-05 04:46:32"
@@ -63,6 +63,13 @@
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-04 09:21:49"
+    },
+    {
+      "keyword": "france vs morocco",
+      "score": 9200000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-10 20:19:15"
     },
     {
       "keyword": "mitch mcconnell health",
@@ -86,13 +93,6 @@
       "timestamp": "2026-07-09 04:40:19"
     },
     {
-      "keyword": "england vs mexico",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-07 04:43:46"
-    },
-    {
       "keyword": "taylor swift",
       "score": 8000000,
       "traffic_numeric": 2000000,
@@ -100,53 +100,39 @@
       "timestamp": "2026-07-07 10:23:39"
     },
     {
-      "keyword": "lebron james",
+      "keyword": "england vs mexico",
       "score": 8000000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-06 05:05:02"
+      "category": "体育",
+      "timestamp": "2026-07-07 04:43:46"
     },
     {
-      "keyword": "france vs morocco",
-      "score": 7200000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-10 15:21:55"
+      "keyword": "nolan wells",
+      "score": 6550000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-10 20:19:15"
+    },
+    {
+      "keyword": "graham platner",
+      "score": 6510000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-10 20:19:15"
     },
     {
       "keyword": "mitch mcconnell",
-      "score": 6400000,
+      "score": 6200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-08 04:06:07"
     },
     {
-      "keyword": "nolan wells",
-      "score": 6050000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-10 15:21:55"
-    },
-    {
-      "keyword": "graham platner",
-      "score": 6010000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-10 15:21:55"
-    },
-    {
-      "keyword": "portugal vs croatia",
+      "keyword": "lebron james",
       "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-04 09:21:49"
-    },
-    {
-      "keyword": "extreme heat warning",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-04 09:21:49"
+      "timestamp": "2026-07-06 05:05:02"
     },
     {
       "keyword": "the odyssey",
@@ -170,13 +156,6 @@
       "timestamp": "2026-07-10 15:21:55"
     },
     {
-      "keyword": "lebron",
-      "score": 4200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-06 11:17:13"
-    },
-    {
       "keyword": "colombia vs ghana",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -184,11 +163,25 @@
       "timestamp": "2026-07-04 20:07:02"
     },
     {
-      "keyword": "wimbledon",
+      "keyword": "extreme heat warning",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-04 09:21:49"
+    },
+    {
+      "keyword": "portugal vs croatia",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-04 09:21:49"
+    },
+    {
+      "keyword": "lebron",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-05 20:00:27"
+      "timestamp": "2026-07-06 11:17:13"
     },
     {
       "keyword": "parasite outbreak explosive diarrhea",
@@ -198,24 +191,31 @@
       "timestamp": "2026-07-08 15:05:26"
     },
     {
-      "keyword": "australia vs egypt",
+      "keyword": "wimbledon",
       "score": 3500000,
       "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-07-04 20:07:02"
+      "category": "其他",
+      "timestamp": "2026-07-05 20:00:27"
     },
     {
       "keyword": "norway vs england",
-      "score": 2900000,
+      "score": 3400000,
       "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-07-10 15:21:55"
+      "timestamp": "2026-07-10 20:19:15"
+    },
+    {
+      "keyword": "australia vs egypt",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-07-04 20:07:02"
     }
   ],
   "category_stats": {
-    "其他": 120,
-    "体育": 45,
-    "科技/AI": 16,
+    "其他": 122,
+    "体育": 44,
+    "科技/AI": 15,
     "娱乐/生活": 4
   },
   "insights": [

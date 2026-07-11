@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10 20:19:15",
+  "last_updated": "2026-07-11 04:09:34",
   "trends": [
     {
       "keyword": "fourth of july",
@@ -31,10 +31,10 @@
     },
     {
       "keyword": "argentina vs egypt",
-      "score": 22200000,
+      "score": 23200000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-07-10 20:19:15"
+      "timestamp": "2026-07-11 04:09:34"
     },
     {
       "keyword": "taylor swift wedding",
@@ -58,18 +58,18 @@
       "timestamp": "2026-07-05 04:46:32"
     },
     {
+      "keyword": "france vs morocco",
+      "score": 11200000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-11 04:09:34"
+    },
+    {
       "keyword": "argentina vs cabo verde",
       "score": 10000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-04 09:21:49"
-    },
-    {
-      "keyword": "france vs morocco",
-      "score": 9200000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-10 20:19:15"
     },
     {
       "keyword": "mitch mcconnell health",
@@ -93,13 +93,6 @@
       "timestamp": "2026-07-09 04:40:19"
     },
     {
-      "keyword": "taylor swift",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-07 10:23:39"
-    },
-    {
       "keyword": "england vs mexico",
       "score": 8000000,
       "traffic_numeric": 2000000,
@@ -107,18 +100,25 @@
       "timestamp": "2026-07-07 04:43:46"
     },
     {
-      "keyword": "nolan wells",
-      "score": 6550000,
-      "traffic_numeric": 500000,
+      "keyword": "taylor swift",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-10 20:19:15"
+      "timestamp": "2026-07-07 10:23:39"
+    },
+    {
+      "keyword": "nolan wells",
+      "score": 7550000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-11 04:09:34"
     },
     {
       "keyword": "graham platner",
-      "score": 6510000,
+      "score": 7010000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-10 20:19:15"
+      "timestamp": "2026-07-11 04:09:34"
     },
     {
       "keyword": "mitch mcconnell",
@@ -156,13 +156,6 @@
       "timestamp": "2026-07-10 15:21:55"
     },
     {
-      "keyword": "colombia vs ghana",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-07-04 20:07:02"
-    },
-    {
       "keyword": "extreme heat warning",
       "score": 4000000,
       "traffic_numeric": 2000000,
@@ -184,6 +177,20 @@
       "timestamp": "2026-07-06 11:17:13"
     },
     {
+      "keyword": "colombia vs ghana",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-07-04 20:07:02"
+    },
+    {
+      "keyword": "norway vs england",
+      "score": 3900000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-07-11 04:09:34"
+    },
+    {
       "keyword": "parasite outbreak explosive diarrhea",
       "score": 3800000,
       "traffic_numeric": 200000,
@@ -198,13 +205,6 @@
       "timestamp": "2026-07-05 20:00:27"
     },
     {
-      "keyword": "norway vs england",
-      "score": 3400000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-07-10 20:19:15"
-    },
-    {
       "keyword": "australia vs egypt",
       "score": 3000000,
       "traffic_numeric": 1000000,
@@ -213,9 +213,9 @@
     }
   ],
   "category_stats": {
-    "其他": 122,
-    "体育": 44,
-    "科技/AI": 15,
+    "其他": 123,
+    "体育": 47,
+    "科技/AI": 16,
     "娱乐/生活": 4
   },
   "insights": [

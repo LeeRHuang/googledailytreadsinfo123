@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-07-11 04:09:34",
+  "last_updated": "2026-07-11 08:32:56",
   "trends": [
     {
       "keyword": "fourth of july",
-      "score": 60000001,
+      "score": 55000001,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-08 20:13:44"
     },
     {
       "keyword": "usa vs belgium",
-      "score": 59800000,
+      "score": 54800000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-08 20:13:44"
     },
     {
       "keyword": "mexico vs england",
-      "score": 44500000,
+      "score": 44000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-07 20:44:41"
@@ -31,14 +31,14 @@
     },
     {
       "keyword": "argentina vs egypt",
-      "score": 23200000,
+      "score": 24200000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-07-11 04:09:34"
+      "timestamp": "2026-07-11 08:32:56"
     },
     {
       "keyword": "taylor swift wedding",
-      "score": 20000000,
+      "score": 18000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-06 11:17:13"
@@ -51,25 +51,18 @@
       "timestamp": "2026-07-07 15:44:36"
     },
     {
+      "keyword": "france vs morocco",
+      "score": 13200000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-11 08:32:56"
+    },
+    {
       "keyword": "fifa world cup 2026 bracket",
-      "score": 12000000,
+      "score": 10000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-05 04:46:32"
-    },
-    {
-      "keyword": "france vs morocco",
-      "score": 11200000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-11 04:09:34"
-    },
-    {
-      "keyword": "argentina vs cabo verde",
-      "score": 10000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-04 09:21:49"
     },
     {
       "keyword": "mitch mcconnell health",
@@ -84,6 +77,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-09 20:32:19"
+    },
+    {
+      "keyword": "nolan wells",
+      "score": 8550000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-11 08:32:56"
     },
     {
       "keyword": "switzerland vs colombia",
@@ -107,32 +107,18 @@
       "timestamp": "2026-07-07 10:23:39"
     },
     {
-      "keyword": "nolan wells",
-      "score": 7550000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-11 04:09:34"
-    },
-    {
       "keyword": "graham platner",
-      "score": 7010000,
+      "score": 7510000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-11 04:09:34"
+      "timestamp": "2026-07-11 08:32:56"
     },
     {
       "keyword": "mitch mcconnell",
-      "score": 6200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-08 04:06:07"
-    },
-    {
-      "keyword": "lebron james",
       "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-06 05:05:02"
+      "timestamp": "2026-07-08 04:06:07"
     },
     {
       "keyword": "the odyssey",
@@ -140,6 +126,20 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-10 15:21:55"
+    },
+    {
+      "keyword": "argentina vs cabo verde",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-04 09:21:49"
+    },
+    {
+      "keyword": "lebron james",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-06 05:05:02"
     },
     {
       "keyword": "spain vs portugal",
@@ -156,18 +156,18 @@
       "timestamp": "2026-07-10 15:21:55"
     },
     {
-      "keyword": "extreme heat warning",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-04 09:21:49"
+      "keyword": "norway vs england",
+      "score": 4400000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-07-11 08:32:56"
     },
     {
-      "keyword": "portugal vs croatia",
-      "score": 4000000,
+      "keyword": "spain vs belgium",
+      "score": 4100000,
       "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-04 09:21:49"
+      "category": "科技/AI",
+      "timestamp": "2026-07-11 08:32:56"
     },
     {
       "keyword": "lebron",
@@ -177,22 +177,8 @@
       "timestamp": "2026-07-06 11:17:13"
     },
     {
-      "keyword": "colombia vs ghana",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-07-04 20:07:02"
-    },
-    {
-      "keyword": "norway vs england",
-      "score": 3900000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-07-11 04:09:34"
-    },
-    {
       "keyword": "parasite outbreak explosive diarrhea",
-      "score": 3800000,
+      "score": 3600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-08 15:05:26"
@@ -205,18 +191,32 @@
       "timestamp": "2026-07-05 20:00:27"
     },
     {
-      "keyword": "australia vs egypt",
+      "keyword": "mitch mcconnell ambulance stretcher video",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-11 08:32:56"
+    },
+    {
+      "keyword": "colombia vs ghana",
       "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-07-04 20:07:02"
+    },
+    {
+      "keyword": "bonnie tyler",
+      "score": 2820000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-11 08:32:56"
     }
   ],
   "category_stats": {
-    "其他": 123,
+    "其他": 124,
     "体育": 47,
     "科技/AI": 16,
-    "娱乐/生活": 4
+    "娱乐/生活": 3
   },
   "insights": [
     {

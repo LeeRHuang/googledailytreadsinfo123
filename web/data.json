@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-07-12 04:29:45",
+  "last_updated": "2026-07-12 09:05:26",
   "trends": [
     {
       "keyword": "usa vs belgium",
-      "score": 44600000,
+      "score": 44400000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-08 20:13:44"
     },
     {
       "keyword": "mexico vs england",
-      "score": 42500000,
+      "score": 42000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-07 20:44:41"
     },
     {
       "keyword": "fourth of july",
-      "score": 40000001,
+      "score": 35000001,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-08 20:13:44"
     },
     {
       "keyword": "argentina vs egypt",
-      "score": 26200000,
+      "score": 27200000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-07-12 04:29:45"
+      "timestamp": "2026-07-12 09:05:26"
     },
     {
       "keyword": "france vs morocco",
@@ -37,53 +37,74 @@
       "timestamp": "2026-07-12 04:29:45"
     },
     {
-      "keyword": "argentina vs cape verde",
-      "score": 15000000,
+      "keyword": "norway vs england",
+      "score": 16400000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-07-05 14:31:13"
+      "timestamp": "2026-07-12 09:05:26"
     },
     {
       "keyword": "brazil vs norway",
-      "score": 14750000,
+      "score": 14700000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-07-07 15:44:36"
     },
     {
+      "keyword": "nolan wells",
+      "score": 12550000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-12 09:05:26"
+    },
+    {
+      "keyword": "spain vs belgium",
+      "score": 12100000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-12 09:05:26"
+    },
+    {
+      "keyword": "conor mcgregor",
+      "score": 11400000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-07-12 09:05:26"
+    },
+    {
+      "keyword": "argentina vs switzerland",
+      "score": 10300000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-12 09:05:26"
+    },
+    {
+      "keyword": "mitch mcconnell health",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-12 09:05:26"
+    },
+    {
+      "keyword": "argentina vs cape verde",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-05 14:31:13"
+    },
+    {
       "keyword": "taylor swift wedding",
-      "score": 12000000,
+      "score": 10000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-06 11:17:13"
     },
     {
-      "keyword": "nolan wells",
-      "score": 11550000,
-      "traffic_numeric": 1000000,
+      "keyword": "graham platner",
+      "score": 9010000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-12 04:29:45"
-    },
-    {
-      "keyword": "norway vs england",
-      "score": 11400000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-12 04:29:45"
-    },
-    {
-      "keyword": "spain vs belgium",
-      "score": 10100000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-12 04:29:45"
-    },
-    {
-      "keyword": "mitch mcconnell health",
-      "score": 9000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-10 15:21:55"
+      "timestamp": "2026-07-12 09:05:26"
     },
     {
       "keyword": "taylor swift wedding dress",
@@ -91,13 +112,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-09 20:32:19"
-    },
-    {
-      "keyword": "graham platner",
-      "score": 8510000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-11 19:56:08"
     },
     {
       "keyword": "switzerland vs colombia",
@@ -121,20 +135,6 @@
       "timestamp": "2026-07-07 10:23:39"
     },
     {
-      "keyword": "conor mcgregor",
-      "score": 6400000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-07-12 04:29:45"
-    },
-    {
-      "keyword": "mitch mcconnell",
-      "score": 5400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-08 04:06:07"
-    },
-    {
       "keyword": "the odyssey",
       "score": 5300000,
       "traffic_numeric": 500000,
@@ -142,18 +142,18 @@
       "timestamp": "2026-07-10 15:21:55"
     },
     {
-      "keyword": "argentina vs switzerland",
-      "score": 5300000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-12 04:29:45"
+      "keyword": "mitch mcconnell",
+      "score": 5200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-08 04:06:07"
     },
     {
-      "keyword": "fifa world cup 2026 bracket",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
+      "keyword": "bonnie tyler",
+      "score": 4820000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-05 04:46:32"
+      "timestamp": "2026-07-12 09:05:26"
     },
     {
       "keyword": "spain vs portugal",
@@ -170,20 +170,6 @@
       "timestamp": "2026-07-10 15:21:55"
     },
     {
-      "keyword": "bonnie tyler",
-      "score": 4320000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-12 04:29:45"
-    },
-    {
-      "keyword": "lebron james",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-06 05:05:02"
-    },
-    {
       "keyword": "mitch mcconnell ambulance stretcher video",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -192,37 +178,45 @@
     },
     {
       "keyword": "cyclospora parasite outbreak",
-      "score": 3200000,
+      "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-12 04:29:45"
+      "timestamp": "2026-07-12 09:05:26"
+    },
+    {
+      "keyword": "connor murphy",
+      "score": 3150000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-12 09:05:26"
+    },
+    {
+      "keyword": "lebron james",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-06 05:05:02"
     },
     {
       "keyword": "parasite outbreak explosive diarrhea",
-      "score": 3000000,
+      "score": 2800000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-08 15:05:26"
     },
     {
-      "keyword": "connor murphy",
-      "score": 2950000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-12 04:29:45"
+      "keyword": "portugal vs spain",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-07 10:23:39"
     }
   ],
   "category_stats": {
-    "其他": 120,
+    "其他": 115,
     "体育": 45,
     "科技/AI": 22,
-    "娱乐/生活": 3
+    "娱乐/生活": 2
   },
-  "insights": [
-    {
-      "title": "季节性效率/计划应用",
-      "context": "新年计划相关关键词搜索量激增。",
-      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
-    }
-  ]
+  "insights": []
 }

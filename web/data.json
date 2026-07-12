@@ -1,75 +1,82 @@
 {
-  "last_updated": "2026-07-11 19:56:08",
+  "last_updated": "2026-07-12 04:29:45",
   "trends": [
     {
-      "keyword": "fourth of july",
-      "score": 45000001,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-07-08 20:13:44"
-    },
-    {
       "keyword": "usa vs belgium",
-      "score": 44800000,
+      "score": 44600000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-08 20:13:44"
     },
     {
       "keyword": "mexico vs england",
-      "score": 43000000,
+      "score": 42500000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-07 20:44:41"
     },
     {
+      "keyword": "fourth of july",
+      "score": 40000001,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-07-08 20:13:44"
+    },
+    {
       "keyword": "argentina vs egypt",
-      "score": 25200000,
+      "score": 26200000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-07-11 19:56:08"
+      "timestamp": "2026-07-12 04:29:45"
+    },
+    {
+      "keyword": "france vs morocco",
+      "score": 19200000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-12 04:29:45"
     },
     {
       "keyword": "argentina vs cape verde",
-      "score": 20000000,
+      "score": 15000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-05 14:31:13"
     },
     {
-      "keyword": "france vs morocco",
-      "score": 17200000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-11 19:56:08"
-    },
-    {
       "keyword": "brazil vs norway",
-      "score": 14800000,
+      "score": 14750000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-07-07 15:44:36"
     },
     {
       "keyword": "taylor swift wedding",
-      "score": 14000000,
+      "score": 12000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-06 11:17:13"
     },
     {
       "keyword": "nolan wells",
-      "score": 10550000,
+      "score": 11550000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-11 19:56:08"
+      "timestamp": "2026-07-12 04:29:45"
     },
     {
-      "keyword": "fifa world cup 2026 bracket",
-      "score": 10000000,
+      "keyword": "norway vs england",
+      "score": 11400000,
       "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-07-05 04:46:32"
+      "category": "体育",
+      "timestamp": "2026-07-12 04:29:45"
+    },
+    {
+      "keyword": "spain vs belgium",
+      "score": 10100000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-12 04:29:45"
     },
     {
       "keyword": "mitch mcconnell health",
@@ -100,11 +107,11 @@
       "timestamp": "2026-07-09 04:40:19"
     },
     {
-      "keyword": "spain vs belgium",
-      "score": 8100000,
+      "keyword": "england vs mexico",
+      "score": 8000000,
       "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-11 19:56:08"
+      "category": "体育",
+      "timestamp": "2026-07-07 04:43:46"
     },
     {
       "keyword": "taylor swift",
@@ -114,22 +121,15 @@
       "timestamp": "2026-07-07 10:23:39"
     },
     {
-      "keyword": "england vs mexico",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-07 04:43:46"
-    },
-    {
-      "keyword": "norway vs england",
+      "keyword": "conor mcgregor",
       "score": 6400000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-07-11 19:56:08"
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-07-12 04:29:45"
     },
     {
       "keyword": "mitch mcconnell",
-      "score": 5600000,
+      "score": 5400000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-08 04:06:07"
@@ -140,6 +140,20 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-10 15:21:55"
+    },
+    {
+      "keyword": "argentina vs switzerland",
+      "score": 5300000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-12 04:29:45"
+    },
+    {
+      "keyword": "fifa world cup 2026 bracket",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-07-05 04:46:32"
     },
     {
       "keyword": "spain vs portugal",
@@ -156,6 +170,13 @@
       "timestamp": "2026-07-10 15:21:55"
     },
     {
+      "keyword": "bonnie tyler",
+      "score": 4320000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-12 04:29:45"
+    },
+    {
       "keyword": "lebron james",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -170,52 +191,31 @@
       "timestamp": "2026-07-11 14:13:27"
     },
     {
-      "keyword": "bonnie tyler",
-      "score": 3820000,
+      "keyword": "cyclospora parasite outbreak",
+      "score": 3200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-11 19:56:08"
+      "timestamp": "2026-07-12 04:29:45"
     },
     {
       "keyword": "parasite outbreak explosive diarrhea",
-      "score": 3200000,
+      "score": 3000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-08 15:05:26"
     },
     {
-      "keyword": "lebron",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-06 11:17:13"
-    },
-    {
-      "keyword": "wimbledon",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-05 20:00:27"
-    },
-    {
       "keyword": "connor murphy",
-      "score": 2750000,
+      "score": 2950000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-11 19:56:08"
-    },
-    {
-      "keyword": "cyclospora parasite outbreak",
-      "score": 2700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-11 19:56:08"
+      "timestamp": "2026-07-12 04:29:45"
     }
   ],
   "category_stats": {
-    "其他": 118,
-    "体育": 47,
-    "科技/AI": 20,
+    "其他": 120,
+    "体育": 45,
+    "科技/AI": 22,
     "娱乐/生活": 3
   },
   "insights": [

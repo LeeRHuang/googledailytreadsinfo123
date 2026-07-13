@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-07-13 10:01:04",
+  "last_updated": "2026-07-13 15:46:06",
   "trends": [
     {
       "keyword": "usa vs belgium",
-      "score": 42500000,
+      "score": 41500000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-08 20:13:44"
     },
     {
-      "keyword": "mexico vs england",
-      "score": 35000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-07 20:44:41"
-    },
-    {
       "keyword": "conor mcgregor",
-      "score": 31400000,
+      "score": 36400000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-07-13 10:01:04"
+      "timestamp": "2026-07-13 15:46:05"
     },
     {
       "keyword": "argentina vs switzerland",
-      "score": 30300000,
+      "score": 35300000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-07-13 10:01:04"
+      "timestamp": "2026-07-13 15:46:05"
+    },
+    {
+      "keyword": "mexico vs england",
+      "score": 30000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-07 20:44:41"
     },
     {
       "keyword": "argentina vs egypt",
@@ -44,6 +44,20 @@
       "timestamp": "2026-07-12 20:02:17"
     },
     {
+      "keyword": "mitch mcconnell health",
+      "score": 20000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-13 15:46:05"
+    },
+    {
+      "keyword": "lindsey graham",
+      "score": 19500000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-07-13 15:46:05"
+    },
+    {
       "keyword": "france vs morocco",
       "score": 19200000,
       "traffic_numeric": 2000000,
@@ -58,13 +72,6 @@
       "timestamp": "2026-07-13 04:32:18"
     },
     {
-      "keyword": "mitch mcconnell health",
-      "score": 18000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-13 10:01:04"
-    },
-    {
       "keyword": "nolan wells",
       "score": 16550000,
       "traffic_numeric": 1000000,
@@ -73,21 +80,14 @@
     },
     {
       "keyword": "fourth of july",
-      "score": 15000001,
+      "score": 10000001,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-08 20:13:44"
     },
     {
-      "keyword": "lindsey graham",
-      "score": 14500000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-07-13 10:01:04"
-    },
-    {
       "keyword": "brazil vs norway",
-      "score": 12000000,
+      "score": 10000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-07-07 15:44:36"
@@ -114,13 +114,6 @@
       "timestamp": "2026-07-09 04:40:19"
     },
     {
-      "keyword": "england vs mexico",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-07 04:43:46"
-    },
-    {
       "keyword": "taylor swift",
       "score": 8000000,
       "traffic_numeric": 2000000,
@@ -129,17 +122,24 @@
     },
     {
       "keyword": "bonnie tyler",
-      "score": 6820000,
+      "score": 7820000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-13 04:32:18"
+      "timestamp": "2026-07-13 15:46:05"
     },
     {
       "keyword": "cyclospora parasite outbreak",
-      "score": 6700000,
+      "score": 7700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-13 10:01:04"
+      "timestamp": "2026-07-13 15:46:05"
+    },
+    {
+      "keyword": "england vs mexico",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-07 04:43:46"
     },
     {
       "keyword": "the odyssey",
@@ -149,6 +149,13 @@
       "timestamp": "2026-07-10 15:21:55"
     },
     {
+      "keyword": "jayden adams",
+      "score": 5200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-13 15:46:05"
+    },
+    {
       "keyword": "mitch mcconnell",
       "score": 5000000,
       "traffic_numeric": 1000000,
@@ -156,25 +163,18 @@
       "timestamp": "2026-07-08 04:06:07"
     },
     {
-      "keyword": "spain vs portugal",
-      "score": 4700000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-08 04:06:07"
-    },
-    {
       "keyword": "pluralibacter gergoviae shampoo recall",
-      "score": 4620000,
+      "score": 4600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-10 15:21:55"
     },
     {
-      "keyword": "jayden adams",
-      "score": 4200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-13 10:01:04"
+      "keyword": "spain vs portugal",
+      "score": 4500000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-08 04:06:07"
     },
     {
       "keyword": "mitch mcconnell ambulance stretcher video",
@@ -184,6 +184,20 @@
       "timestamp": "2026-07-11 14:13:27"
     },
     {
+      "keyword": "paddy pimblett",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-13 15:46:05"
+    },
+    {
+      "keyword": "france vs spain",
+      "score": 3400000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-13 15:46:05"
+    },
+    {
       "keyword": "connor murphy",
       "score": 3150000,
       "traffic_numeric": 200000,
@@ -191,31 +205,17 @@
       "timestamp": "2026-07-12 09:05:26"
     },
     {
-      "keyword": "paddy pimblett",
-      "score": 3000000,
+      "keyword": "mlb draft",
+      "score": 2800000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-13 10:01:04"
-    },
-    {
-      "keyword": "portugal vs spain",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-07 10:23:39"
-    },
-    {
-      "keyword": "dairy queen franchise locations closed",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-12 20:02:17"
+      "category": "体育",
+      "timestamp": "2026-07-13 15:46:05"
     }
   ],
   "category_stats": {
     "其他": 105,
-    "体育": 38,
-    "科技/AI": 20,
+    "体育": 36,
+    "科技/AI": 21,
     "娱乐/生活": 2,
     "金融/商业": 1
   },

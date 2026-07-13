@@ -1,12 +1,19 @@
 {
-  "last_updated": "2026-07-13 15:46:06",
+  "last_updated": "2026-07-13 20:04:42",
   "trends": [
     {
       "keyword": "usa vs belgium",
-      "score": 41500000,
+      "score": 40500000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-08 20:13:44"
+    },
+    {
+      "keyword": "argentina vs switzerland",
+      "score": 40300000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-13 20:04:42"
     },
     {
       "keyword": "conor mcgregor",
@@ -14,20 +21,6 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-13 15:46:05"
-    },
-    {
-      "keyword": "argentina vs switzerland",
-      "score": 35300000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-13 15:46:05"
-    },
-    {
-      "keyword": "mexico vs england",
-      "score": 30000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-07 20:44:41"
     },
     {
       "keyword": "argentina vs egypt",
@@ -44,16 +37,30 @@
       "timestamp": "2026-07-12 20:02:17"
     },
     {
-      "keyword": "mitch mcconnell health",
-      "score": 20000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-13 15:46:05"
+      "keyword": "mexico vs england",
+      "score": 25000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-07 20:44:41"
     },
     {
       "keyword": "lindsey graham",
-      "score": 19500000,
+      "score": 24500000,
       "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-07-13 20:04:42"
+    },
+    {
+      "keyword": "spain vs belgium",
+      "score": 20100000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-13 20:04:42"
+    },
+    {
+      "keyword": "mitch mcconnell health",
+      "score": 20000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-13 15:46:05"
     },
@@ -65,13 +72,6 @@
       "timestamp": "2026-07-12 04:29:45"
     },
     {
-      "keyword": "spain vs belgium",
-      "score": 18100000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-13 04:32:18"
-    },
-    {
       "keyword": "nolan wells",
       "score": 16550000,
       "traffic_numeric": 1000000,
@@ -80,17 +80,10 @@
     },
     {
       "keyword": "fourth of july",
-      "score": 10000001,
+      "score": 10000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-08 20:13:44"
-    },
-    {
-      "keyword": "brazil vs norway",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-07 15:44:36"
     },
     {
       "keyword": "graham platner",
@@ -98,6 +91,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-12 14:21:54"
+    },
+    {
+      "keyword": "cyclospora parasite outbreak",
+      "score": 8700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-13 20:04:42"
     },
     {
       "keyword": "taylor swift wedding dress",
@@ -114,11 +114,11 @@
       "timestamp": "2026-07-09 04:40:19"
     },
     {
-      "keyword": "taylor swift",
+      "keyword": "brazil vs norway",
       "score": 8000000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-07 10:23:39"
+      "category": "体育",
+      "timestamp": "2026-07-07 15:44:36"
     },
     {
       "keyword": "bonnie tyler",
@@ -128,32 +128,25 @@
       "timestamp": "2026-07-13 15:46:05"
     },
     {
-      "keyword": "cyclospora parasite outbreak",
-      "score": 7700000,
+      "keyword": "jayden adams",
+      "score": 6200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-13 15:46:05"
+      "timestamp": "2026-07-13 20:04:42"
     },
     {
-      "keyword": "england vs mexico",
+      "keyword": "taylor swift",
       "score": 6000000,
       "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-07 04:43:46"
+      "category": "其他",
+      "timestamp": "2026-07-07 10:23:39"
     },
     {
       "keyword": "the odyssey",
-      "score": 5300000,
+      "score": 5200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-10 15:21:55"
-    },
-    {
-      "keyword": "jayden adams",
-      "score": 5200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-13 15:46:05"
     },
     {
       "keyword": "mitch mcconnell",
@@ -164,17 +157,17 @@
     },
     {
       "keyword": "pluralibacter gergoviae shampoo recall",
-      "score": 4600000,
+      "score": 4550000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-10 15:21:55"
     },
     {
-      "keyword": "spain vs portugal",
-      "score": 4500000,
+      "keyword": "england vs mexico",
+      "score": 4000000,
       "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-08 04:06:07"
+      "category": "体育",
+      "timestamp": "2026-07-07 04:43:46"
     },
     {
       "keyword": "mitch mcconnell ambulance stretcher video",
@@ -184,18 +177,32 @@
       "timestamp": "2026-07-11 14:13:27"
     },
     {
+      "keyword": "spain vs portugal",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-08 04:06:07"
+    },
+    {
       "keyword": "paddy pimblett",
-      "score": 3500000,
+      "score": 4000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-13 15:46:05"
+      "timestamp": "2026-07-13 20:04:42"
     },
     {
       "keyword": "france vs spain",
-      "score": 3400000,
+      "score": 3600000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
-      "timestamp": "2026-07-13 15:46:05"
+      "timestamp": "2026-07-13 20:04:42"
+    },
+    {
+      "keyword": "mlb draft",
+      "score": 3300000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-07-13 20:04:42"
     },
     {
       "keyword": "connor murphy",
@@ -203,20 +210,13 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-12 09:05:26"
-    },
-    {
-      "keyword": "mlb draft",
-      "score": 2800000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-07-13 15:46:05"
     }
   ],
   "category_stats": {
-    "其他": 105,
+    "其他": 104,
     "体育": 36,
-    "科技/AI": 21,
-    "娱乐/生活": 2,
+    "科技/AI": 20,
+    "娱乐/生活": 1,
     "金融/商业": 1
   },
   "insights": []

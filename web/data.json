@@ -1,19 +1,12 @@
 {
-  "last_updated": "2026-07-14 03:50:29",
+  "last_updated": "2026-07-14 09:01:47",
   "trends": [
     {
       "keyword": "argentina vs switzerland",
-      "score": 45300000,
+      "score": 50300000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-07-14 03:50:29"
-    },
-    {
-      "keyword": "usa vs belgium",
-      "score": 40000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-08 20:13:44"
+      "timestamp": "2026-07-14 09:01:47"
     },
     {
       "keyword": "conor mcgregor",
@@ -23,11 +16,18 @@
       "timestamp": "2026-07-13 15:46:05"
     },
     {
+      "keyword": "usa vs belgium",
+      "score": 35000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-08 20:13:44"
+    },
+    {
       "keyword": "lindsey graham",
-      "score": 29500000,
+      "score": 34500000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-07-14 03:50:29"
+      "timestamp": "2026-07-14 09:01:47"
     },
     {
       "keyword": "argentina vs egypt",
@@ -51,13 +51,6 @@
       "timestamp": "2026-07-13 20:04:42"
     },
     {
-      "keyword": "mexico vs england",
-      "score": 20000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-07 20:44:41"
-    },
-    {
       "keyword": "mitch mcconnell health",
       "score": 20000000,
       "traffic_numeric": 2000000,
@@ -73,21 +66,28 @@
     },
     {
       "keyword": "nolan wells",
-      "score": 16500000,
+      "score": 16300000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-13 10:01:04"
     },
     {
+      "keyword": "mexico vs england",
+      "score": 15000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-07 20:44:41"
+    },
+    {
       "keyword": "cyclospora parasite outbreak",
-      "score": 9700000,
+      "score": 10700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-14 03:50:29"
+      "timestamp": "2026-07-14 09:01:47"
     },
     {
       "keyword": "graham platner",
-      "score": 9500000,
+      "score": 9300000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-12 14:21:54"
@@ -107,6 +107,13 @@
       "timestamp": "2026-07-09 04:40:19"
     },
     {
+      "keyword": "jayden adams",
+      "score": 8200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-14 09:01:47"
+    },
+    {
       "keyword": "bonnie tyler",
       "score": 7820000,
       "traffic_numeric": 1000000,
@@ -114,25 +121,11 @@
       "timestamp": "2026-07-13 15:46:05"
     },
     {
-      "keyword": "jayden adams",
-      "score": 7200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-14 03:50:29"
-    },
-    {
-      "keyword": "brazil vs norway",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-07 15:44:36"
-    },
-    {
-      "keyword": "the odyssey",
-      "score": 5100000,
+      "keyword": "paddy pimblett",
+      "score": 5000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-10 15:21:55"
+      "timestamp": "2026-07-14 09:01:47"
     },
     {
       "keyword": "fourth of july",
@@ -142,18 +135,18 @@
       "timestamp": "2026-07-08 20:13:44"
     },
     {
-      "keyword": "mitch mcconnell",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-08 04:06:07"
-    },
-    {
-      "keyword": "paddy pimblett",
-      "score": 4500000,
+      "keyword": "the odyssey",
+      "score": 4900000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-14 03:50:29"
+      "timestamp": "2026-07-10 15:21:55"
+    },
+    {
+      "keyword": "france vs spain",
+      "score": 4600000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-14 09:01:47"
     },
     {
       "keyword": "pluralibacter gergoviae shampoo recall",
@@ -163,25 +156,18 @@
       "timestamp": "2026-07-10 15:21:55"
     },
     {
-      "keyword": "france vs spain",
-      "score": 4100000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-14 03:50:29"
-    },
-    {
-      "keyword": "mitch mcconnell ambulance stretcher video",
+      "keyword": "mitch mcconnell",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-11 14:13:27"
+      "timestamp": "2026-07-08 04:06:07"
     },
     {
-      "keyword": "taylor swift",
+      "keyword": "brazil vs norway",
       "score": 4000000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-07 10:23:39"
+      "category": "体育",
+      "timestamp": "2026-07-07 15:44:36"
     },
     {
       "keyword": "spain vs portugal",
@@ -191,11 +177,25 @@
       "timestamp": "2026-07-08 04:06:07"
     },
     {
+      "keyword": "mitch mcconnell ambulance stretcher video",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-11 14:13:27"
+    },
+    {
       "keyword": "latest news",
-      "score": 3350000,
+      "score": 3850000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-14 03:50:29"
+      "timestamp": "2026-07-14 09:01:47"
+    },
+    {
+      "keyword": "sam neill",
+      "score": 3700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-14 09:01:47"
     },
     {
       "keyword": "mlb draft",
@@ -215,8 +215,8 @@
   "category_stats": {
     "其他": 104,
     "体育": 36,
-    "科技/AI": 19,
-    "娱乐/生活": 2,
+    "科技/AI": 20,
+    "娱乐/生活": 3,
     "金融/商业": 1
   },
   "insights": [

@@ -1,47 +1,47 @@
 {
-  "last_updated": "2026-07-14 14:29:38",
+  "last_updated": "2026-07-14 20:04:29",
   "trends": [
     {
       "keyword": "argentina vs switzerland",
-      "score": 55300000,
+      "score": 60300000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-07-14 14:29:38"
+      "timestamp": "2026-07-14 20:04:29"
     },
     {
       "keyword": "lindsey graham",
-      "score": 39500000,
+      "score": 44500000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-07-14 14:29:38"
+      "timestamp": "2026-07-14 20:04:29"
     },
     {
       "keyword": "conor mcgregor",
-      "score": 36400000,
+      "score": 38400000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-07-13 15:46:05"
-    },
-    {
-      "keyword": "usa vs belgium",
-      "score": 30000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-08 20:13:44"
+      "timestamp": "2026-07-14 20:04:29"
     },
     {
       "keyword": "argentina vs egypt",
-      "score": 27200000,
+      "score": 27000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-07-12 09:05:26"
     },
     {
       "keyword": "norway vs england",
-      "score": 26400000,
+      "score": 26350000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-12 20:02:17"
+    },
+    {
+      "keyword": "usa vs belgium",
+      "score": 25000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-08 20:13:44"
     },
     {
       "keyword": "spain vs belgium",
@@ -66,7 +66,7 @@
     },
     {
       "keyword": "nolan wells",
-      "score": 16100000,
+      "score": 15900000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-13 10:01:04"
@@ -79,32 +79,25 @@
       "timestamp": "2026-07-14 14:29:38"
     },
     {
-      "keyword": "mexico vs england",
-      "score": 10000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-07 20:44:41"
-    },
-    {
       "keyword": "jayden adams",
-      "score": 9200000,
+      "score": 10200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-14 14:29:38"
+      "timestamp": "2026-07-14 20:04:29"
     },
     {
       "keyword": "graham platner",
-      "score": 9100000,
+      "score": 8900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-12 14:21:54"
     },
     {
-      "keyword": "taylor swift wedding dress",
-      "score": 8600000,
-      "traffic_numeric": 2000000,
+      "keyword": "bonnie tyler",
+      "score": 8820000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-09 20:32:19"
+      "timestamp": "2026-07-14 20:04:29"
     },
     {
       "keyword": "switzerland vs colombia",
@@ -114,32 +107,46 @@
       "timestamp": "2026-07-09 04:40:19"
     },
     {
-      "keyword": "bonnie tyler",
-      "score": 7820000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-13 15:46:05"
-    },
-    {
       "keyword": "sam neill",
-      "score": 5700000,
+      "score": 7700000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-14 14:29:38"
+      "timestamp": "2026-07-14 20:04:29"
     },
     {
-      "keyword": "paddy pimblett",
-      "score": 5500000,
-      "traffic_numeric": 500000,
+      "keyword": "taylor swift wedding dress",
+      "score": 6600000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-14 14:29:38"
+      "timestamp": "2026-07-09 20:32:19"
     },
     {
       "keyword": "france vs spain",
-      "score": 5100000,
+      "score": 6100000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
-      "timestamp": "2026-07-14 14:29:38"
+      "timestamp": "2026-07-14 20:04:29"
+    },
+    {
+      "keyword": "paddy pimblett",
+      "score": 6000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-14 20:04:29"
+    },
+    {
+      "keyword": "mcgregor vs holloway",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-14 20:04:29"
+    },
+    {
+      "keyword": "mexico vs england",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-07 20:44:41"
     },
     {
       "keyword": "fourth of july",
@@ -150,13 +157,6 @@
     },
     {
       "keyword": "the odyssey",
-      "score": 4700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-10 15:21:55"
-    },
-    {
-      "keyword": "pluralibacter gergoviae shampoo recall",
       "score": 4500000,
       "traffic_numeric": 500000,
       "category": "其他",
@@ -170,25 +170,25 @@
       "timestamp": "2026-07-14 14:29:38"
     },
     {
+      "keyword": "home run derby 2026",
+      "score": 4300000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-14 20:04:29"
+    },
+    {
+      "keyword": "pluralibacter gergoviae shampoo recall",
+      "score": 4300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-10 15:21:55"
+    },
+    {
       "keyword": "mitch mcconnell ambulance stretcher video",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-11 14:13:27"
-    },
-    {
-      "keyword": "spain vs portugal",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-08 04:06:07"
-    },
-    {
-      "keyword": "home run derby 2026",
-      "score": 3300000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-14 14:29:38"
     },
     {
       "keyword": "mlb draft",
@@ -205,19 +205,19 @@
       "timestamp": "2026-07-12 09:05:26"
     },
     {
-      "keyword": "mitch mcconnell",
+      "keyword": "spain vs portugal",
       "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
       "timestamp": "2026-07-08 04:06:07"
     }
   ],
   "category_stats": {
-    "其他": 100,
-    "体育": 35,
-    "科技/AI": 19,
+    "其他": 101,
+    "体育": 36,
+    "科技/AI": 18,
     "娱乐/生活": 4,
-    "金融/商业": 1
+    "金融/商业": 2
   },
   "insights": [
     {

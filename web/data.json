@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-07-13 20:04:42",
+  "last_updated": "2026-07-14 03:50:29",
   "trends": [
     {
+      "keyword": "argentina vs switzerland",
+      "score": 45300000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-14 03:50:29"
+    },
+    {
       "keyword": "usa vs belgium",
-      "score": 40500000,
+      "score": 40000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-08 20:13:44"
-    },
-    {
-      "keyword": "argentina vs switzerland",
-      "score": 40300000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-13 20:04:42"
     },
     {
       "keyword": "conor mcgregor",
@@ -21,6 +21,13 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-13 15:46:05"
+    },
+    {
+      "keyword": "lindsey graham",
+      "score": 29500000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-07-14 03:50:29"
     },
     {
       "keyword": "argentina vs egypt",
@@ -37,25 +44,18 @@
       "timestamp": "2026-07-12 20:02:17"
     },
     {
-      "keyword": "mexico vs england",
-      "score": 25000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-07 20:44:41"
-    },
-    {
-      "keyword": "lindsey graham",
-      "score": 24500000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-07-13 20:04:42"
-    },
-    {
       "keyword": "spain vs belgium",
       "score": 20100000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-07-13 20:04:42"
+    },
+    {
+      "keyword": "mexico vs england",
+      "score": 20000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-07 20:44:41"
     },
     {
       "keyword": "mitch mcconnell health",
@@ -73,31 +73,24 @@
     },
     {
       "keyword": "nolan wells",
-      "score": 16550000,
+      "score": 16500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-13 10:01:04"
     },
     {
-      "keyword": "fourth of july",
-      "score": 10000000,
-      "traffic_numeric": 5000000,
+      "keyword": "cyclospora parasite outbreak",
+      "score": 9700000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-08 20:13:44"
+      "timestamp": "2026-07-14 03:50:29"
     },
     {
       "keyword": "graham platner",
-      "score": 9510000,
+      "score": 9500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-12 14:21:54"
-    },
-    {
-      "keyword": "cyclospora parasite outbreak",
-      "score": 8700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-13 20:04:42"
     },
     {
       "keyword": "taylor swift wedding dress",
@@ -114,13 +107,6 @@
       "timestamp": "2026-07-09 04:40:19"
     },
     {
-      "keyword": "brazil vs norway",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-07 15:44:36"
-    },
-    {
       "keyword": "bonnie tyler",
       "score": 7820000,
       "traffic_numeric": 1000000,
@@ -129,24 +115,31 @@
     },
     {
       "keyword": "jayden adams",
-      "score": 6200000,
+      "score": 7200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-13 20:04:42"
+      "timestamp": "2026-07-14 03:50:29"
     },
     {
-      "keyword": "taylor swift",
+      "keyword": "brazil vs norway",
       "score": 6000000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-07 10:23:39"
+      "category": "体育",
+      "timestamp": "2026-07-07 15:44:36"
     },
     {
       "keyword": "the odyssey",
-      "score": 5200000,
+      "score": 5100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-10 15:21:55"
+    },
+    {
+      "keyword": "fourth of july",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-07-08 20:13:44"
     },
     {
       "keyword": "mitch mcconnell",
@@ -156,18 +149,25 @@
       "timestamp": "2026-07-08 04:06:07"
     },
     {
+      "keyword": "paddy pimblett",
+      "score": 4500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-14 03:50:29"
+    },
+    {
       "keyword": "pluralibacter gergoviae shampoo recall",
-      "score": 4550000,
+      "score": 4500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-10 15:21:55"
     },
     {
-      "keyword": "england vs mexico",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-07 04:43:46"
+      "keyword": "france vs spain",
+      "score": 4100000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-14 03:50:29"
     },
     {
       "keyword": "mitch mcconnell ambulance stretcher video",
@@ -177,6 +177,13 @@
       "timestamp": "2026-07-11 14:13:27"
     },
     {
+      "keyword": "taylor swift",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-07 10:23:39"
+    },
+    {
       "keyword": "spain vs portugal",
       "score": 4000000,
       "traffic_numeric": 2000000,
@@ -184,18 +191,11 @@
       "timestamp": "2026-07-08 04:06:07"
     },
     {
-      "keyword": "paddy pimblett",
-      "score": 4000000,
+      "keyword": "latest news",
+      "score": 3350000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-13 20:04:42"
-    },
-    {
-      "keyword": "france vs spain",
-      "score": 3600000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-13 20:04:42"
+      "timestamp": "2026-07-14 03:50:29"
     },
     {
       "keyword": "mlb draft",
@@ -215,9 +215,15 @@
   "category_stats": {
     "其他": 104,
     "体育": 36,
-    "科技/AI": 20,
-    "娱乐/生活": 1,
+    "科技/AI": 19,
+    "娱乐/生活": 2,
     "金融/商业": 1
   },
-  "insights": []
+  "insights": [
+    {
+      "title": "季节性效率/计划应用",
+      "context": "新年计划相关关键词搜索量激增。",
+      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
+    }
+  ]
 }

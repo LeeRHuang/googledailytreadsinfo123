@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15 09:05:34",
+  "last_updated": "2026-07-15 14:34:47",
   "trends": [
     {
       "keyword": "argentina vs switzerland",
@@ -10,10 +10,10 @@
     },
     {
       "keyword": "lindsey graham",
-      "score": 54500000,
+      "score": 59500000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-07-15 09:05:34"
+      "timestamp": "2026-07-15 14:34:47"
     },
     {
       "keyword": "conor mcgregor",
@@ -24,14 +24,14 @@
     },
     {
       "keyword": "norway vs england",
-      "score": 26200000,
+      "score": 26100000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-12 20:02:17"
     },
     {
       "keyword": "argentina vs egypt",
-      "score": 25000000,
+      "score": 23000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-07-12 09:05:26"
@@ -44,13 +44,6 @@
       "timestamp": "2026-07-13 20:04:42"
     },
     {
-      "keyword": "mitch mcconnell health",
-      "score": 20000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-13 15:46:05"
-    },
-    {
       "keyword": "france vs morocco",
       "score": 19200000,
       "traffic_numeric": 2000000,
@@ -58,46 +51,53 @@
       "timestamp": "2026-07-12 04:29:45"
     },
     {
+      "keyword": "mitch mcconnell health",
+      "score": 19000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-13 15:46:05"
+    },
+    {
       "keyword": "nolan wells",
-      "score": 15500000,
+      "score": 15000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-13 10:01:04"
     },
     {
-      "keyword": "usa vs belgium",
-      "score": 15000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-08 20:13:44"
-    },
-    {
       "keyword": "cyclospora parasite outbreak",
-      "score": 13700000,
+      "score": 14700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-15 09:05:34"
+      "timestamp": "2026-07-15 14:34:47"
     },
     {
       "keyword": "sam neill",
-      "score": 11700000,
+      "score": 13700000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-15 09:05:34"
+      "timestamp": "2026-07-15 14:34:47"
     },
     {
       "keyword": "jayden adams",
-      "score": 11200000,
+      "score": 12200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-15 03:51:08"
+      "timestamp": "2026-07-15 14:34:47"
     },
     {
       "keyword": "france vs spain",
-      "score": 10100000,
+      "score": 12100000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
-      "timestamp": "2026-07-15 09:05:34"
+      "timestamp": "2026-07-15 14:34:47"
+    },
+    {
+      "keyword": "usa vs belgium",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-08 20:13:44"
     },
     {
       "keyword": "bonnie tyler",
@@ -108,14 +108,21 @@
     },
     {
       "keyword": "graham platner",
-      "score": 8500000,
+      "score": 8000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-12 14:21:54"
     },
     {
+      "keyword": "home run derby 2026",
+      "score": 7300000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-15 14:34:47"
+    },
+    {
       "keyword": "switzerland vs colombia",
-      "score": 7000000,
+      "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-07-09 04:40:19"
@@ -129,17 +136,10 @@
     },
     {
       "keyword": "latest news",
-      "score": 5350000,
+      "score": 5850000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-15 09:05:34"
-    },
-    {
-      "keyword": "home run derby 2026",
-      "score": 5300000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-15 03:51:08"
+      "timestamp": "2026-07-15 14:34:47"
     },
     {
       "keyword": "fourth of july",
@@ -156,13 +156,6 @@
       "timestamp": "2026-07-14 20:04:29"
     },
     {
-      "keyword": "the odyssey",
-      "score": 4100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-10 15:21:55"
-    },
-    {
       "keyword": "mitch mcconnell ambulance stretcher video",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -170,8 +163,15 @@
       "timestamp": "2026-07-11 14:13:27"
     },
     {
-      "keyword": "pluralibacter gergoviae shampoo recall",
+      "keyword": "the odyssey",
       "score": 3900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-10 15:21:55"
+    },
+    {
+      "keyword": "pluralibacter gergoviae shampoo recall",
+      "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-10 15:21:55"
@@ -184,6 +184,13 @@
       "timestamp": "2026-07-15 03:51:08"
     },
     {
+      "keyword": "technology news",
+      "score": 3370000,
+      "traffic_numeric": 200000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-15 14:34:47"
+    },
+    {
       "keyword": "mlb draft",
       "score": 3300000,
       "traffic_numeric": 500000,
@@ -191,29 +198,22 @@
       "timestamp": "2026-07-13 20:04:42"
     },
     {
-      "keyword": "technology news",
-      "score": 3170000,
+      "keyword": "upcoming events",
+      "score": 3120000,
       "traffic_numeric": 200000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-15 09:05:34"
+      "category": "其他",
+      "timestamp": "2026-07-15 14:34:47"
     },
     {
       "keyword": "connor murphy",
-      "score": 3100000,
+      "score": 3000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-12 09:05:26"
-    },
-    {
-      "keyword": "upcoming events",
-      "score": 2920000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-15 09:05:34"
     }
   ],
   "category_stats": {
-    "其他": 102,
+    "其他": 100,
     "体育": 35,
     "科技/AI": 17,
     "娱乐/生活": 6,

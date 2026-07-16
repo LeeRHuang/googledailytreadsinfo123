@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-16 09:06:54",
+  "last_updated": "2026-07-16 14:40:32",
   "trends": [
     {
       "keyword": "lindsey graham",
-      "score": 71500000,
+      "score": 76500000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-07-16 09:06:54"
+      "timestamp": "2026-07-16 14:40:32"
     },
     {
       "keyword": "argentina vs switzerland",
@@ -24,10 +24,24 @@
     },
     {
       "keyword": "norway vs england",
-      "score": 25600000,
+      "score": 25400000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-12 20:02:17"
+    },
+    {
+      "keyword": "sam neill",
+      "score": 21700000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-16 14:40:32"
+    },
+    {
+      "keyword": "france vs spain",
+      "score": 20100000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-16 14:40:32"
     },
     {
       "keyword": "spain vs belgium",
@@ -37,32 +51,18 @@
       "timestamp": "2026-07-13 20:04:42"
     },
     {
-      "keyword": "sam neill",
-      "score": 19700000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-16 09:06:54"
-    },
-    {
-      "keyword": "france vs spain",
-      "score": 18100000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-16 09:06:54"
-    },
-    {
-      "keyword": "argentina vs egypt",
-      "score": 18000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-12 09:05:26"
-    },
-    {
       "keyword": "france vs morocco",
-      "score": 17500000,
+      "score": 17000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-07-12 04:29:45"
+    },
+    {
+      "keyword": "argentina vs egypt",
+      "score": 16000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-12 09:05:26"
     },
     {
       "keyword": "cyclospora parasite outbreak",
@@ -80,21 +80,21 @@
     },
     {
       "keyword": "mitch mcconnell health",
-      "score": 15000000,
+      "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-13 15:46:05"
     },
     {
       "keyword": "nolan wells",
-      "score": 13500000,
+      "score": 13000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-13 10:01:04"
     },
     {
       "keyword": "bonnie tyler",
-      "score": 8820000,
+      "score": 8800000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-14 20:04:29"
@@ -114,11 +114,11 @@
       "timestamp": "2026-07-16 09:06:54"
     },
     {
-      "keyword": "graham platner",
-      "score": 6500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-12 14:21:54"
+      "keyword": "england vs argentina",
+      "score": 6400000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-16 14:40:32"
     },
     {
       "keyword": "paddy pimblett",
@@ -126,6 +126,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-14 20:04:29"
+    },
+    {
+      "keyword": "graham platner",
+      "score": 6000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-12 14:21:54"
     },
     {
       "keyword": "mcgregor vs holloway",
@@ -140,13 +147,6 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-07-16 09:06:54"
-    },
-    {
-      "keyword": "england vs argentina",
-      "score": 4400000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-16 04:01:14"
     },
     {
       "keyword": "mitch mcconnell ambulance stretcher video",
@@ -191,11 +191,11 @@
       "timestamp": "2026-07-13 20:04:42"
     },
     {
-      "keyword": "the odyssey",
+      "keyword": "explosive diarrhea parasite",
       "score": 3000000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-10 15:21:55"
+      "timestamp": "2026-07-16 14:40:32"
     },
     {
       "keyword": "sports scores today",
@@ -213,9 +213,9 @@
     }
   ],
   "category_stats": {
-    "其他": 96,
-    "体育": 32,
-    "科技/AI": 18,
+    "其他": 99,
+    "体育": 31,
+    "科技/AI": 19,
     "娱乐/生活": 7,
     "金融/商业": 2
   },

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-18 08:34:20",
+  "last_updated": "2026-07-18 14:08:14",
   "trends": [
     {
       "keyword": "lindsey graham",
-      "score": 111500000,
+      "score": 116500000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-07-18 08:34:20"
+      "timestamp": "2026-07-18 14:08:14"
     },
     {
       "keyword": "argentina vs switzerland",
@@ -16,18 +16,18 @@
       "timestamp": "2026-07-14 20:04:29"
     },
     {
+      "keyword": "sam neill",
+      "score": 37700000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-18 14:08:14"
+    },
+    {
       "keyword": "conor mcgregor",
       "score": 37000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-14 20:04:29"
-    },
-    {
-      "keyword": "sam neill",
-      "score": 35700000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-18 08:34:20"
     },
     {
       "keyword": "france vs spain",
@@ -45,17 +45,17 @@
     },
     {
       "keyword": "england vs argentina",
-      "score": 19400000,
+      "score": 21400000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-07-18 08:34:20"
+      "timestamp": "2026-07-18 14:08:14"
     },
     {
       "keyword": "canada wildfires",
-      "score": 16250000,
+      "score": 18250000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-18 08:34:20"
+      "timestamp": "2026-07-18 14:08:14"
     },
     {
       "keyword": "spain vs belgium",
@@ -87,10 +87,10 @@
     },
     {
       "keyword": "the odyssey",
-      "score": 9000000,
+      "score": 11000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-18 08:34:20"
+      "timestamp": "2026-07-18 14:08:14"
     },
     {
       "keyword": "nolan wells",
@@ -114,6 +114,13 @@
       "timestamp": "2026-07-16 09:06:54"
     },
     {
+      "keyword": "world cup final",
+      "score": 6500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-18 14:08:14"
+    },
+    {
       "keyword": "argentina vs england",
       "score": 6400000,
       "traffic_numeric": 2000000,
@@ -128,13 +135,6 @@
       "timestamp": "2026-07-14 20:04:29"
     },
     {
-      "keyword": "paddy pimblett",
-      "score": 6000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-14 20:04:29"
-    },
-    {
       "keyword": "france vs morocco",
       "score": 6000000,
       "traffic_numeric": 2000000,
@@ -142,11 +142,18 @@
       "timestamp": "2026-07-12 04:29:45"
     },
     {
-      "keyword": "world cup final",
-      "score": 5500000,
+      "keyword": "paddy pimblett",
+      "score": 6000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-14 20:04:29"
+    },
+    {
+      "keyword": "cyclosporiasis foods to avoid",
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-18 08:34:20"
+      "timestamp": "2026-07-18 14:08:14"
     },
     {
       "keyword": "mcgregor vs holloway",
@@ -156,24 +163,31 @@
       "timestamp": "2026-07-14 20:04:29"
     },
     {
-      "keyword": "cyclosporiasis foods to avoid",
-      "score": 4000000,
+      "keyword": "the open",
+      "score": 4050000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-18 08:34:20"
+      "timestamp": "2026-07-18 14:08:14"
     },
     {
-      "keyword": "upcoming events",
-      "score": 3400000,
-      "traffic_numeric": 200000,
+      "keyword": "why are flags at half mast today",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-16 09:06:54"
+      "timestamp": "2026-07-18 14:08:14"
     },
     {
       "keyword": "technology news",
       "score": 3400000,
       "traffic_numeric": 200000,
       "category": "科技/AI",
+      "timestamp": "2026-07-16 09:06:54"
+    },
+    {
+      "keyword": "upcoming events",
+      "score": 3400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
       "timestamp": "2026-07-16 09:06:54"
     },
     {
@@ -196,26 +210,12 @@
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-07-16 09:06:54"
-    },
-    {
-      "keyword": "the open",
-      "score": 3050000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-18 08:34:20"
-    },
-    {
-      "keyword": "explosive diarrhea parasite",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-16 14:40:32"
     }
   ],
   "category_stats": {
-    "其他": 110,
+    "其他": 115,
     "体育": 26,
-    "科技/AI": 15,
+    "科技/AI": 16,
     "娱乐/生活": 7,
     "金融/商业": 2
   },

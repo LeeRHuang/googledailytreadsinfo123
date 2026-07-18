@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-17 19:48:32",
+  "last_updated": "2026-07-18 03:50:20",
   "trends": [
     {
       "keyword": "lindsey graham",
-      "score": 101500000,
+      "score": 106500000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-07-17 19:48:32"
+      "timestamp": "2026-07-18 03:50:20"
     },
     {
       "keyword": "argentina vs switzerland",
@@ -17,17 +17,17 @@
     },
     {
       "keyword": "conor mcgregor",
-      "score": 38200000,
+      "score": 38000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-14 20:04:29"
     },
     {
       "keyword": "sam neill",
-      "score": 31700000,
+      "score": 33700000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-17 19:48:32"
+      "timestamp": "2026-07-18 03:50:20"
     },
     {
       "keyword": "france vs spain",
@@ -38,7 +38,7 @@
     },
     {
       "keyword": "norway vs england",
-      "score": 23500000,
+      "score": 23000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-12 20:02:17"
@@ -52,10 +52,10 @@
     },
     {
       "keyword": "england vs argentina",
-      "score": 16400000,
+      "score": 18400000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-07-17 19:48:32"
+      "timestamp": "2026-07-18 03:50:20"
     },
     {
       "keyword": "jayden adams",
@@ -66,24 +66,17 @@
     },
     {
       "keyword": "cyclospora parasite outbreak",
-      "score": 14900000,
+      "score": 14700000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-15 19:54:24"
     },
     {
       "keyword": "canada wildfires",
-      "score": 12250000,
+      "score": 14250000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-17 19:48:32"
-    },
-    {
-      "keyword": "france vs morocco",
-      "score": 12000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-12 04:29:45"
+      "timestamp": "2026-07-18 03:50:20"
     },
     {
       "keyword": "mitch mcconnell health",
@@ -93,18 +86,18 @@
       "timestamp": "2026-07-13 15:46:05"
     },
     {
+      "keyword": "france vs morocco",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-12 04:29:45"
+    },
+    {
       "keyword": "nolan wells",
-      "score": 10500000,
+      "score": 10000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-13 10:01:04"
-    },
-    {
-      "keyword": "bonnie tyler",
-      "score": 7500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-14 20:04:29"
     },
     {
       "keyword": "home run derby 2026",
@@ -114,18 +107,25 @@
       "timestamp": "2026-07-15 14:34:47"
     },
     {
+      "keyword": "the odyssey",
+      "score": 7000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-18 03:50:20"
+    },
+    {
+      "keyword": "bonnie tyler",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-14 20:04:29"
+    },
+    {
       "keyword": "latest news",
-      "score": 6950000,
+      "score": 6900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-16 09:06:54"
-    },
-    {
-      "keyword": "argentina vs egypt",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-07-12 09:05:26"
     },
     {
       "keyword": "paddy pimblett",
@@ -135,11 +135,11 @@
       "timestamp": "2026-07-14 20:04:29"
     },
     {
-      "keyword": "the odyssey",
+      "keyword": "argentina vs egypt",
       "score": 5000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-17 19:48:32"
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-07-12 09:05:26"
     },
     {
       "keyword": "mcgregor vs holloway",
@@ -149,6 +149,13 @@
       "timestamp": "2026-07-14 20:04:29"
     },
     {
+      "keyword": "world cup final",
+      "score": 4500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-18 03:50:20"
+    },
+    {
       "keyword": "argentina vs england",
       "score": 4400000,
       "traffic_numeric": 2000000,
@@ -156,39 +163,18 @@
       "timestamp": "2026-07-16 09:06:54"
     },
     {
-      "keyword": "mitch mcconnell ambulance stretcher video",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-11 14:13:27"
-    },
-    {
       "keyword": "technology news",
-      "score": 3750000,
+      "score": 3700000,
       "traffic_numeric": 200000,
       "category": "科技/AI",
       "timestamp": "2026-07-16 09:06:54"
     },
     {
       "keyword": "upcoming events",
-      "score": 3650000,
+      "score": 3600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-16 09:06:54"
-    },
-    {
-      "keyword": "graham platner",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-12 14:21:54"
-    },
-    {
-      "keyword": "world cup final",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-17 19:48:32"
     },
     {
       "keyword": "who won love island usa season 8",
@@ -210,12 +196,26 @@
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-07-16 09:06:54"
+    },
+    {
+      "keyword": "mitch mcconnell ambulance stretcher video",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-11 14:13:27"
+    },
+    {
+      "keyword": "graham platner",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-12 14:21:54"
     }
   ],
   "category_stats": {
-    "其他": 107,
-    "体育": 22,
-    "科技/AI": 17,
+    "其他": 109,
+    "体育": 27,
+    "科技/AI": 16,
     "娱乐/生活": 7,
     "金融/商业": 2
   },

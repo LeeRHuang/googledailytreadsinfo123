@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-07-18 14:08:14",
+  "last_updated": "2026-07-18 19:53:57",
   "trends": [
     {
       "keyword": "lindsey graham",
-      "score": 116500000,
+      "score": 118500000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-07-18 14:08:14"
+      "timestamp": "2026-07-18 19:53:57"
     },
     {
       "keyword": "argentina vs switzerland",
-      "score": 60200000,
+      "score": 60100000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-14 20:04:29"
     },
     {
       "keyword": "sam neill",
-      "score": 37700000,
+      "score": 39700000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-18 14:08:14"
+      "timestamp": "2026-07-18 19:53:57"
     },
     {
       "keyword": "conor mcgregor",
@@ -37,32 +37,25 @@
       "timestamp": "2026-07-17 19:48:32"
     },
     {
+      "keyword": "england vs argentina",
+      "score": 23400000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-18 19:53:57"
+    },
+    {
       "keyword": "norway vs england",
-      "score": 22000000,
+      "score": 21000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-12 20:02:17"
     },
     {
-      "keyword": "england vs argentina",
-      "score": 21400000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-18 14:08:14"
-    },
-    {
       "keyword": "canada wildfires",
-      "score": 18250000,
+      "score": 20250000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-18 14:08:14"
-    },
-    {
-      "keyword": "spain vs belgium",
-      "score": 16000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-13 20:04:42"
+      "timestamp": "2026-07-18 19:53:57"
     },
     {
       "keyword": "jayden adams",
@@ -72,11 +65,25 @@
       "timestamp": "2026-07-16 09:06:54"
     },
     {
-      "keyword": "cyclospora parasite outbreak",
+      "keyword": "spain vs belgium",
       "score": 14000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-13 20:04:42"
+    },
+    {
+      "keyword": "cyclospora parasite outbreak",
+      "score": 13500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-15 19:54:24"
+    },
+    {
+      "keyword": "the odyssey",
+      "score": 13000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-18 19:53:57"
     },
     {
       "keyword": "mitch mcconnell health",
@@ -86,18 +93,18 @@
       "timestamp": "2026-07-13 15:46:05"
     },
     {
-      "keyword": "the odyssey",
-      "score": 11000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-18 14:08:14"
-    },
-    {
-      "keyword": "nolan wells",
-      "score": 8000000,
+      "keyword": "world cup final",
+      "score": 7500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-13 10:01:04"
+      "timestamp": "2026-07-18 19:53:57"
+    },
+    {
+      "keyword": "argentina vs england",
+      "score": 7400000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-18 19:53:57"
     },
     {
       "keyword": "home run derby 2026",
@@ -107,39 +114,25 @@
       "timestamp": "2026-07-15 14:34:47"
     },
     {
+      "keyword": "nolan wells",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-13 10:01:04"
+    },
+    {
       "keyword": "latest news",
-      "score": 6600000,
+      "score": 6500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-16 09:06:54"
     },
     {
-      "keyword": "world cup final",
-      "score": 6500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-18 14:08:14"
-    },
-    {
-      "keyword": "argentina vs england",
-      "score": 6400000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-18 08:34:20"
-    },
-    {
-      "keyword": "bonnie tyler",
+      "keyword": "cyclosporiasis foods to avoid",
       "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-14 20:04:29"
-    },
-    {
-      "keyword": "france vs morocco",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-12 04:29:45"
+      "timestamp": "2026-07-18 19:53:57"
     },
     {
       "keyword": "paddy pimblett",
@@ -149,11 +142,25 @@
       "timestamp": "2026-07-14 20:04:29"
     },
     {
-      "keyword": "cyclosporiasis foods to avoid",
-      "score": 5000000,
+      "keyword": "why are flags at half mast today",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-18 19:53:57"
+    },
+    {
+      "keyword": "bonnie tyler",
+      "score": 5500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-18 14:08:14"
+      "timestamp": "2026-07-14 20:04:29"
+    },
+    {
+      "keyword": "the open",
+      "score": 5050000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-18 19:53:57"
     },
     {
       "keyword": "mcgregor vs holloway",
@@ -163,32 +170,18 @@
       "timestamp": "2026-07-14 20:04:29"
     },
     {
-      "keyword": "the open",
-      "score": 4050000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-18 14:08:14"
-    },
-    {
-      "keyword": "why are flags at half mast today",
+      "keyword": "france vs morocco",
       "score": 4000000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-18 14:08:14"
+      "category": "体育",
+      "timestamp": "2026-07-12 04:29:45"
     },
     {
-      "keyword": "technology news",
-      "score": 3400000,
-      "traffic_numeric": 200000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-16 09:06:54"
-    },
-    {
-      "keyword": "upcoming events",
-      "score": 3400000,
-      "traffic_numeric": 200000,
+      "keyword": "taylor farms",
+      "score": 3700000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-16 09:06:54"
+      "timestamp": "2026-07-18 19:53:57"
     },
     {
       "keyword": "who won love island usa season 8",
@@ -198,23 +191,30 @@
       "timestamp": "2026-07-15 03:51:08"
     },
     {
-      "keyword": "mlb draft",
-      "score": 3300000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-07-13 20:04:42"
-    },
-    {
       "keyword": "little house on the prairie",
       "score": 3300000,
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-07-16 09:06:54"
+    },
+    {
+      "keyword": "upcoming events",
+      "score": 3300000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-16 09:06:54"
+    },
+    {
+      "keyword": "technology news",
+      "score": 3300000,
+      "traffic_numeric": 200000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-16 09:06:54"
     }
   ],
   "category_stats": {
-    "其他": 115,
-    "体育": 26,
+    "其他": 114,
+    "体育": 27,
     "科技/AI": 16,
     "娱乐/生活": 7,
     "金融/商业": 2

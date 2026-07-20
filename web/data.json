@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19 20:04:12",
+  "last_updated": "2026-07-20 04:28:45",
   "trends": [
     {
       "keyword": "lindsey graham",
@@ -10,10 +10,10 @@
     },
     {
       "keyword": "sam neill",
-      "score": 46700000,
+      "score": 47700000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-19 20:04:12"
+      "timestamp": "2026-07-20 04:28:45"
     },
     {
       "keyword": "argentina vs switzerland",
@@ -31,10 +31,10 @@
     },
     {
       "keyword": "canada wildfires",
-      "score": 25250000,
+      "score": 25750000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-19 20:04:12"
+      "timestamp": "2026-07-20 04:28:45"
     },
     {
       "keyword": "england vs argentina",
@@ -58,18 +58,18 @@
       "timestamp": "2026-07-19 09:09:26"
     },
     {
+      "keyword": "france vs england",
+      "score": 14550000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-20 04:28:45"
+    },
+    {
       "keyword": "jayden adams",
       "score": 13000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-16 09:06:54"
-    },
-    {
-      "keyword": "france vs england",
-      "score": 12550000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-19 20:04:12"
     },
     {
       "keyword": "cyclospora parasite outbreak",
@@ -79,16 +79,23 @@
       "timestamp": "2026-07-15 19:54:24"
     },
     {
-      "keyword": "why are flags at half mast today",
-      "score": 9000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-19 20:04:12"
+      "keyword": "spain vs argentina",
+      "score": 10600000,
+      "traffic_numeric": 5000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-20 04:28:45"
     },
     {
       "keyword": "the open",
-      "score": 8550000,
+      "score": 9550000,
       "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-20 04:28:45"
+    },
+    {
+      "keyword": "why are flags at half mast today",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-19 20:04:12"
     },
@@ -114,6 +121,20 @@
       "timestamp": "2026-07-15 14:34:47"
     },
     {
+      "keyword": "odyssey",
+      "score": 7000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-07-20 04:28:45"
+    },
+    {
+      "keyword": "taylor farms",
+      "score": 6200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-20 04:28:45"
+    },
+    {
       "keyword": "cyclosporiasis foods to avoid",
       "score": 6000000,
       "traffic_numeric": 1000000,
@@ -128,25 +149,11 @@
       "timestamp": "2026-07-13 15:46:05"
     },
     {
-      "keyword": "taylor farms",
-      "score": 5700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-19 20:04:12"
-    },
-    {
       "keyword": "latest news",
       "score": 5600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-16 09:06:54"
-    },
-    {
-      "keyword": "spain vs argentina",
-      "score": 5600000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-19 20:04:12"
     },
     {
       "keyword": "mcgregor vs holloway",
@@ -163,13 +170,6 @@
       "timestamp": "2026-07-19 20:04:12"
     },
     {
-      "keyword": "spain vs belgium",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-13 20:04:42"
-    },
-    {
       "keyword": "paddy pimblett",
       "score": 4000000,
       "traffic_numeric": 500000,
@@ -182,6 +182,13 @@
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-07-19 20:04:12"
+    },
+    {
+      "keyword": "spain vs belgium",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-13 20:04:42"
     },
     {
       "keyword": "who won love island usa season 8",
@@ -203,19 +210,12 @@
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-07-16 09:06:54"
-    },
-    {
-      "keyword": "explosive diarrhea parasite",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-16 14:40:32"
     }
   ],
   "category_stats": {
-    "其他": 126,
+    "其他": 133,
     "体育": 21,
-    "科技/AI": 14,
+    "科技/AI": 15,
     "娱乐/生活": 9,
     "金融/商业": 2
   },

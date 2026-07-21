@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-07-21 09:29:20",
+  "last_updated": "2026-07-21 14:53:25",
   "trends": [
     {
       "keyword": "lindsey graham",
-      "score": 86000000,
+      "score": 81000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-19 04:13:15"
     },
     {
       "keyword": "sam neill",
-      "score": 44000000,
+      "score": 42000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-20 04:28:45"
@@ -23,8 +23,15 @@
       "timestamp": "2026-07-20 15:00:37"
     },
     {
+      "keyword": "odyssey",
+      "score": 27000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-07-21 14:53:25"
+    },
+    {
       "keyword": "france vs spain",
-      "score": 25500000,
+      "score": 25000000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-07-17 19:48:32"
@@ -37,13 +44,6 @@
       "timestamp": "2026-07-18 19:53:57"
     },
     {
-      "keyword": "odyssey",
-      "score": 22000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-07-21 09:29:20"
-    },
-    {
       "keyword": "the odyssey",
       "score": 22000000,
       "traffic_numeric": 5000000,
@@ -52,10 +52,10 @@
     },
     {
       "keyword": "spain vs argentina",
-      "score": 20600003,
+      "score": 20600004,
       "traffic_numeric": 5000000,
       "category": "科技/AI",
-      "timestamp": "2026-07-21 09:29:20"
+      "timestamp": "2026-07-21 14:53:25"
     },
     {
       "keyword": "france vs england",
@@ -65,25 +65,18 @@
       "timestamp": "2026-07-20 20:17:26"
     },
     {
+      "keyword": "taylor farms",
+      "score": 10700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-21 14:53:25"
+    },
+    {
       "keyword": "the open",
       "score": 10550000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-20 09:50:15"
-    },
-    {
-      "keyword": "taylor farms",
-      "score": 10200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-21 09:29:20"
-    },
-    {
-      "keyword": "argentina vs switzerland",
-      "score": 10000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-14 20:04:29"
     },
     {
       "keyword": "why are flags at half mast today",
@@ -101,17 +94,10 @@
     },
     {
       "keyword": "argentina vs england",
-      "score": 7200000,
+      "score": 7000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-07-18 19:53:57"
-    },
-    {
-      "keyword": "jayden adams",
-      "score": 7000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-16 09:06:54"
     },
     {
       "keyword": "cyclosporiasis foods to avoid",
@@ -121,11 +107,25 @@
       "timestamp": "2026-07-18 19:53:57"
     },
     {
-      "keyword": "shakira",
-      "score": 5500000,
+      "keyword": "jayden adams",
+      "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-21 09:29:20"
+      "timestamp": "2026-07-16 09:06:54"
+    },
+    {
+      "keyword": "shakira",
+      "score": 5700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-21 14:53:25"
+    },
+    {
+      "keyword": "argentina vs switzerland",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-14 20:04:29"
     },
     {
       "keyword": "christopher nolan",
@@ -135,18 +135,11 @@
       "timestamp": "2026-07-20 09:50:15"
     },
     {
-      "keyword": "home run derby 2026",
+      "keyword": "mcgregor vs holloway",
       "score": 5000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-15 14:34:47"
-    },
-    {
-      "keyword": "cyclospora parasite outbreak",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-15 19:54:24"
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-14 20:04:29"
     },
     {
       "keyword": "odyssey movie",
@@ -156,25 +149,25 @@
       "timestamp": "2026-07-19 20:04:12"
     },
     {
-      "keyword": "mcgregor vs holloway",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-14 20:04:29"
-    },
-    {
       "keyword": "air quality index",
-      "score": 4200000,
+      "score": 4400000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
-      "timestamp": "2026-07-20 15:00:37"
+      "timestamp": "2026-07-21 14:53:25"
     },
     {
       "keyword": "air quality",
-      "score": 4000000,
+      "score": 4200000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
-      "timestamp": "2026-07-20 20:17:26"
+      "timestamp": "2026-07-21 14:53:25"
+    },
+    {
+      "keyword": "cyclospora parasite outbreak",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-15 19:54:24"
     },
     {
       "keyword": "argentina vs spain",
@@ -184,18 +177,18 @@
       "timestamp": "2026-07-21 09:29:20"
     },
     {
-      "keyword": "latest news",
-      "score": 3200000,
-      "traffic_numeric": 500000,
+      "keyword": "home run derby 2026",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-16 09:06:54"
+      "timestamp": "2026-07-15 14:34:47"
     },
     {
-      "keyword": "tom segura",
-      "score": 3000000,
-      "traffic_numeric": 200000,
+      "keyword": "andrew tate",
+      "score": 3350000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-18 14:08:14"
+      "timestamp": "2026-07-21 14:53:25"
     },
     {
       "keyword": "explosive diarrhea parasite",
@@ -205,19 +198,26 @@
       "timestamp": "2026-07-16 14:40:32"
     },
     {
-      "keyword": "andrew tate",
-      "score": 2850000,
-      "traffic_numeric": 500000,
+      "keyword": "tom segura",
+      "score": 2900000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-21 09:29:20"
+      "timestamp": "2026-07-18 14:08:14"
+    },
+    {
+      "keyword": "little house on the prairie",
+      "score": 2700000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-16 09:06:54"
     }
   ],
   "category_stats": {
-    "其他": 137,
+    "其他": 142,
     "体育": 26,
-    "科技/AI": 18,
-    "娱乐/生活": 7,
-    "金融/商业": 3
+    "科技/AI": 17,
+    "娱乐/生活": 8,
+    "金融/商业": 2
   },
   "insights": [
     {

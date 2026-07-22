@@ -1,19 +1,12 @@
 {
-  "last_updated": "2026-07-22 14:54:07",
+  "last_updated": "2026-07-22 20:01:12",
   "trends": [
     {
       "keyword": "lindsey graham",
-      "score": 61000000,
+      "score": 59000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-19 04:13:15"
-    },
-    {
-      "keyword": "sam neill",
-      "score": 34000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-20 04:28:45"
     },
     {
       "keyword": "odyssey",
@@ -23,18 +16,18 @@
       "timestamp": "2026-07-21 20:20:10"
     },
     {
+      "keyword": "sam neill",
+      "score": 32000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-20 04:28:45"
+    },
+    {
       "keyword": "canada wildfires",
-      "score": 28200000,
+      "score": 28000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-20 15:00:37"
-    },
-    {
-      "keyword": "england vs argentina",
-      "score": 23000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-18 19:53:57"
     },
     {
       "keyword": "the odyssey",
@@ -42,6 +35,13 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-21 04:04:02"
+    },
+    {
+      "keyword": "england vs argentina",
+      "score": 21000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-18 19:53:57"
     },
     {
       "keyword": "spain vs argentina",
@@ -59,17 +59,17 @@
     },
     {
       "keyword": "france vs spain",
-      "score": 18000000,
+      "score": 16000000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-07-17 19:48:32"
     },
     {
       "keyword": "taylor farms",
-      "score": 12700000,
+      "score": 13200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-22 14:54:07"
+      "timestamp": "2026-07-22 20:01:12"
     },
     {
       "keyword": "the open",
@@ -108,10 +108,10 @@
     },
     {
       "keyword": "andrew tate",
-      "score": 5350000,
+      "score": 5850000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-22 14:54:07"
+      "timestamp": "2026-07-22 20:01:12"
     },
     {
       "keyword": "christopher nolan",
@@ -149,6 +149,13 @@
       "timestamp": "2026-07-21 14:53:25"
     },
     {
+      "keyword": "tropical storm bertha",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-22 20:01:12"
+    },
+    {
       "keyword": "argentina vs spain",
       "score": 4000000,
       "traffic_numeric": 2000000,
@@ -157,10 +164,10 @@
     },
     {
       "keyword": "avengers doomsday",
-      "score": 3450000,
+      "score": 3950000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-22 14:54:07"
+      "timestamp": "2026-07-22 20:01:12"
     },
     {
       "keyword": "jimothy raccoon",
@@ -177,18 +184,11 @@
       "timestamp": "2026-07-16 14:40:32"
     },
     {
-      "keyword": "jayden adams",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-16 09:06:54"
-    },
-    {
-      "keyword": "tropical storm bertha",
-      "score": 3000000,
+      "keyword": "ryan clark",
+      "score": 2800000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-22 14:54:07"
+      "timestamp": "2026-07-22 20:01:12"
     },
     {
       "keyword": "liga mx",
@@ -198,25 +198,25 @@
       "timestamp": "2026-07-20 04:28:45"
     },
     {
+      "keyword": "kaylee hottle",
+      "score": 2210000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-22 20:01:12"
+    },
+    {
       "keyword": "the odyssey showtimes",
-      "score": 2400000,
+      "score": 2200000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-07-18 08:34:20"
-    },
-    {
-      "keyword": "ryan clark",
-      "score": 2300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-22 14:54:07"
     }
   ],
   "category_stats": {
-    "其他": 146,
-    "体育": 22,
-    "科技/AI": 19,
-    "娱乐/生活": 7,
+    "其他": 150,
+    "体育": 24,
+    "科技/AI": 18,
+    "娱乐/生活": 6,
     "金融/商业": 2
   },
   "insights": []

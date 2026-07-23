@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-23 04:09:13",
+  "last_updated": "2026-07-23 09:22:35",
   "trends": [
     {
       "keyword": "lindsey graham",
-      "score": 54000000,
+      "score": 49000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-19 04:13:15"
@@ -17,7 +17,7 @@
     },
     {
       "keyword": "sam neill",
-      "score": 30000000,
+      "score": 28000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-20 04:28:45"
@@ -37,18 +37,18 @@
       "timestamp": "2026-07-21 04:04:02"
     },
     {
-      "keyword": "spain vs argentina",
-      "score": 20600008,
-      "traffic_numeric": 5000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-22 14:54:07"
-    },
-    {
       "keyword": "france vs england",
       "score": 20550000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-20 20:17:26"
+    },
+    {
+      "keyword": "spain vs argentina",
+      "score": 20500008,
+      "traffic_numeric": 5000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-22 14:54:07"
     },
     {
       "keyword": "england vs argentina",
@@ -58,13 +58,6 @@
       "timestamp": "2026-07-18 19:53:57"
     },
     {
-      "keyword": "france vs spain",
-      "score": 14000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-17 19:48:32"
-    },
-    {
       "keyword": "taylor farms",
       "score": 13200000,
       "traffic_numeric": 1000000,
@@ -72,8 +65,15 @@
       "timestamp": "2026-07-22 20:01:12"
     },
     {
+      "keyword": "france vs spain",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-17 19:48:32"
+    },
+    {
       "keyword": "the open",
-      "score": 10550000,
+      "score": 10500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-20 09:50:15"
@@ -101,10 +101,10 @@
     },
     {
       "keyword": "andrew tate",
-      "score": 6350000,
+      "score": 6850000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-23 04:09:13"
+      "timestamp": "2026-07-23 09:22:35"
     },
     {
       "keyword": "cyclosporiasis foods to avoid",
@@ -114,18 +114,11 @@
       "timestamp": "2026-07-18 19:53:57"
     },
     {
-      "keyword": "argentina vs england",
-      "score": 5000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-18 19:53:57"
-    },
-    {
       "keyword": "tropical storm bertha",
-      "score": 5000000,
+      "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-23 04:09:13"
+      "timestamp": "2026-07-23 09:22:35"
     },
     {
       "keyword": "odyssey movie",
@@ -143,10 +136,10 @@
     },
     {
       "keyword": "avengers doomsday",
-      "score": 4450000,
+      "score": 4950000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-23 04:09:13"
+      "timestamp": "2026-07-23 09:22:35"
     },
     {
       "keyword": "air quality index",
@@ -171,10 +164,17 @@
     },
     {
       "keyword": "ryan clark",
-      "score": 3300000,
+      "score": 3800000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-23 04:09:13"
+      "timestamp": "2026-07-23 09:22:35"
+    },
+    {
+      "keyword": "kaylee hottle",
+      "score": 3210000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-23 09:22:35"
     },
     {
       "keyword": "jimothy raccoon",
@@ -191,11 +191,11 @@
       "timestamp": "2026-07-23 04:09:13"
     },
     {
-      "keyword": "kaylee hottle",
-      "score": 2710000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-23 04:09:13"
+      "keyword": "argentina vs england",
+      "score": 3000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-18 19:53:57"
     },
     {
       "keyword": "liga mx",
@@ -205,17 +205,17 @@
       "timestamp": "2026-07-20 04:28:45"
     },
     {
-      "keyword": "dodgers vs yankees",
-      "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-07-20 15:00:37"
+      "keyword": "jimothy",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-23 09:22:35"
     }
   ],
   "category_stats": {
-    "其他": 151,
+    "其他": 147,
     "体育": 27,
-    "科技/AI": 19,
+    "科技/AI": 17,
     "娱乐/生活": 6,
     "金融/商业": 2
   },

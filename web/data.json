@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-22 20:01:12",
+  "last_updated": "2026-07-23 04:09:13",
   "trends": [
     {
       "keyword": "lindsey graham",
-      "score": 59000000,
+      "score": 54000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-19 04:13:15"
@@ -17,14 +17,14 @@
     },
     {
       "keyword": "sam neill",
-      "score": 32000000,
+      "score": 30000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-20 04:28:45"
     },
     {
       "keyword": "canada wildfires",
-      "score": 28000000,
+      "score": 27000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-20 15:00:37"
@@ -35,13 +35,6 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-21 04:04:02"
-    },
-    {
-      "keyword": "england vs argentina",
-      "score": 21000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-18 19:53:57"
     },
     {
       "keyword": "spain vs argentina",
@@ -58,8 +51,15 @@
       "timestamp": "2026-07-20 20:17:26"
     },
     {
+      "keyword": "england vs argentina",
+      "score": 19000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-18 19:53:57"
+    },
+    {
       "keyword": "france vs spain",
-      "score": 16000000,
+      "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-07-17 19:48:32"
@@ -100,6 +100,13 @@
       "timestamp": "2026-07-22 09:24:45"
     },
     {
+      "keyword": "andrew tate",
+      "score": 6350000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-23 04:09:13"
+    },
+    {
       "keyword": "cyclosporiasis foods to avoid",
       "score": 6000000,
       "traffic_numeric": 1000000,
@@ -107,18 +114,18 @@
       "timestamp": "2026-07-18 19:53:57"
     },
     {
-      "keyword": "andrew tate",
-      "score": 5850000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-22 20:01:12"
+      "keyword": "argentina vs england",
+      "score": 5000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-18 19:53:57"
     },
     {
-      "keyword": "christopher nolan",
+      "keyword": "tropical storm bertha",
       "score": 5000000,
-      "traffic_numeric": 5000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-20 09:50:15"
+      "timestamp": "2026-07-23 04:09:13"
     },
     {
       "keyword": "odyssey movie",
@@ -128,11 +135,18 @@
       "timestamp": "2026-07-19 20:04:12"
     },
     {
-      "keyword": "argentina vs england",
+      "keyword": "christopher nolan",
       "score": 5000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-18 19:53:57"
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-07-20 09:50:15"
+    },
+    {
+      "keyword": "avengers doomsday",
+      "score": 4450000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-23 04:09:13"
     },
     {
       "keyword": "air quality index",
@@ -149,13 +163,6 @@
       "timestamp": "2026-07-21 14:53:25"
     },
     {
-      "keyword": "tropical storm bertha",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-22 20:01:12"
-    },
-    {
       "keyword": "argentina vs spain",
       "score": 4000000,
       "traffic_numeric": 2000000,
@@ -163,11 +170,11 @@
       "timestamp": "2026-07-21 09:29:20"
     },
     {
-      "keyword": "avengers doomsday",
-      "score": 3950000,
+      "keyword": "ryan clark",
+      "score": 3300000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-22 20:01:12"
+      "timestamp": "2026-07-23 04:09:13"
     },
     {
       "keyword": "jimothy raccoon",
@@ -177,18 +184,18 @@
       "timestamp": "2026-07-22 14:54:07"
     },
     {
-      "keyword": "explosive diarrhea parasite",
+      "keyword": "odyssey cast",
       "score": 3000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-16 14:40:32"
+      "timestamp": "2026-07-23 04:09:13"
     },
     {
-      "keyword": "ryan clark",
-      "score": 2800000,
+      "keyword": "kaylee hottle",
+      "score": 2710000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-22 20:01:12"
+      "timestamp": "2026-07-23 04:09:13"
     },
     {
       "keyword": "liga mx",
@@ -198,24 +205,17 @@
       "timestamp": "2026-07-20 04:28:45"
     },
     {
-      "keyword": "kaylee hottle",
-      "score": 2210000,
+      "keyword": "dodgers vs yankees",
+      "score": 2100000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-22 20:01:12"
-    },
-    {
-      "keyword": "the odyssey showtimes",
-      "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-07-18 08:34:20"
+      "category": "体育",
+      "timestamp": "2026-07-20 15:00:37"
     }
   ],
   "category_stats": {
-    "其他": 150,
-    "体育": 24,
-    "科技/AI": 18,
+    "其他": 151,
+    "体育": 27,
+    "科技/AI": 19,
     "娱乐/生活": 6,
     "金融/商业": 2
   },

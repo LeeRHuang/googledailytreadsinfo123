@@ -1,13 +1,6 @@
 {
-  "last_updated": "2026-07-24 04:01:48",
+  "last_updated": "2026-07-24 09:14:31",
   "trends": [
-    {
-      "keyword": "lindsey graham",
-      "score": 39000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-07-19 04:13:15"
-    },
     {
       "keyword": "odyssey",
       "score": 32000000,
@@ -16,32 +9,39 @@
       "timestamp": "2026-07-21 20:20:10"
     },
     {
-      "keyword": "canada wildfires",
-      "score": 24000000,
-      "traffic_numeric": 2000000,
+      "keyword": "lindsey graham",
+      "score": 29000000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-07-20 15:00:37"
+      "timestamp": "2026-07-19 04:13:15"
+    },
+    {
+      "keyword": "france vs england",
+      "score": 20300000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-07-20 20:17:26"
     },
     {
       "keyword": "sam neill",
-      "score": 24000000,
+      "score": 20000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-20 04:28:45"
     },
     {
       "keyword": "the odyssey",
-      "score": 22000000,
+      "score": 20000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-21 04:04:02"
     },
     {
-      "keyword": "france vs england",
-      "score": 20500000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-07-20 20:17:26"
+      "keyword": "canada wildfires",
+      "score": 20000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-20 15:00:37"
     },
     {
       "keyword": "spain vs argentina",
@@ -51,32 +51,32 @@
       "timestamp": "2026-07-22 14:54:07"
     },
     {
-      "keyword": "england vs argentina",
-      "score": 15000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-18 19:53:57"
-    },
-    {
       "keyword": "taylor farms",
-      "score": 13200000,
+      "score": 12200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-22 20:01:12"
     },
     {
-      "keyword": "the open",
-      "score": 10100000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-20 09:50:15"
+      "keyword": "england vs argentina",
+      "score": 11000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-18 19:53:57"
     },
     {
       "keyword": "tropical storm bertha",
-      "score": 9000000,
+      "score": 10000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-24 04:01:48"
+      "timestamp": "2026-07-24 09:14:31"
+    },
+    {
+      "keyword": "the open",
+      "score": 9700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-20 09:50:15"
     },
     {
       "keyword": "why are flags at half mast today",
@@ -87,24 +87,17 @@
     },
     {
       "keyword": "andrew tate",
-      "score": 8350000,
+      "score": 8850000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-24 04:01:48"
+      "timestamp": "2026-07-24 09:14:31"
     },
     {
-      "keyword": "france vs spain",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-17 19:48:32"
-    },
-    {
-      "keyword": "world cup final",
-      "score": 7500000,
+      "keyword": "kaylee hottle",
+      "score": 7210000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-18 19:53:57"
+      "timestamp": "2026-07-24 09:14:31"
     },
     {
       "keyword": "shakira",
@@ -114,13 +107,6 @@
       "timestamp": "2026-07-22 09:24:45"
     },
     {
-      "keyword": "kaylee hottle",
-      "score": 6210000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-24 04:01:48"
-    },
-    {
       "keyword": "cyclosporiasis foods to avoid",
       "score": 6000000,
       "traffic_numeric": 1000000,
@@ -128,15 +114,22 @@
       "timestamp": "2026-07-18 19:53:57"
     },
     {
-      "keyword": "avengers doomsday",
-      "score": 5450000,
+      "keyword": "ryan clark",
+      "score": 5800000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-24 04:01:48"
+      "timestamp": "2026-07-24 09:14:31"
     },
     {
-      "keyword": "ryan clark",
-      "score": 5300000,
+      "keyword": "world cup final",
+      "score": 5500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-18 19:53:57"
+    },
+    {
+      "keyword": "avengers doomsday",
+      "score": 5450000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-24 04:01:48"
@@ -177,6 +170,13 @@
       "timestamp": "2026-07-21 14:53:25"
     },
     {
+      "keyword": "france vs spain",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-17 19:48:32"
+    },
+    {
       "keyword": "argentina vs spain",
       "score": 4000000,
       "traffic_numeric": 2000000,
@@ -206,16 +206,16 @@
     },
     {
       "keyword": "liga mx",
-      "score": 2500000,
+      "score": 2300000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-20 04:28:45"
     }
   ],
   "category_stats": {
-    "其他": 151,
+    "其他": 145,
     "体育": 29,
-    "科技/AI": 18,
+    "科技/AI": 19,
     "娱乐/生活": 6,
     "金融/商业": 4
   },

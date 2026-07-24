@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23 20:13:06",
+  "last_updated": "2026-07-24 04:01:48",
   "trends": [
     {
       "keyword": "lindsey graham",
@@ -72,6 +72,13 @@
       "timestamp": "2026-07-20 09:50:15"
     },
     {
+      "keyword": "tropical storm bertha",
+      "score": 9000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-24 04:01:48"
+    },
+    {
       "keyword": "why are flags at half mast today",
       "score": 9000000,
       "traffic_numeric": 2000000,
@@ -79,25 +86,18 @@
       "timestamp": "2026-07-19 20:04:12"
     },
     {
+      "keyword": "andrew tate",
+      "score": 8350000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-24 04:01:48"
+    },
+    {
       "keyword": "france vs spain",
       "score": 8000000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-07-17 19:48:32"
-    },
-    {
-      "keyword": "tropical storm bertha",
-      "score": 8000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-23 20:13:06"
-    },
-    {
-      "keyword": "andrew tate",
-      "score": 7850000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-23 20:13:06"
     },
     {
       "keyword": "world cup final",
@@ -114,6 +114,13 @@
       "timestamp": "2026-07-22 09:24:45"
     },
     {
+      "keyword": "kaylee hottle",
+      "score": 6210000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-24 04:01:48"
+    },
+    {
       "keyword": "cyclosporiasis foods to avoid",
       "score": 6000000,
       "traffic_numeric": 1000000,
@@ -121,18 +128,18 @@
       "timestamp": "2026-07-18 19:53:57"
     },
     {
-      "keyword": "kaylee hottle",
-      "score": 5210000,
-      "traffic_numeric": 1000000,
+      "keyword": "avengers doomsday",
+      "score": 5450000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-23 20:13:06"
+      "timestamp": "2026-07-24 04:01:48"
     },
     {
-      "keyword": "christopher nolan",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
+      "keyword": "ryan clark",
+      "score": 5300000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-20 09:50:15"
+      "timestamp": "2026-07-24 04:01:48"
     },
     {
       "keyword": "odyssey movie",
@@ -142,18 +149,11 @@
       "timestamp": "2026-07-19 20:04:12"
     },
     {
-      "keyword": "avengers doomsday",
-      "score": 4950000,
-      "traffic_numeric": 500000,
+      "keyword": "christopher nolan",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-07-23 09:22:35"
-    },
-    {
-      "keyword": "ryan clark",
-      "score": 4800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-23 20:13:06"
+      "timestamp": "2026-07-20 09:50:15"
     },
     {
       "keyword": "jimothy",
@@ -213,10 +213,10 @@
     }
   ],
   "category_stats": {
-    "其他": 146,
-    "体育": 28,
-    "科技/AI": 17,
-    "娱乐/生活": 5,
+    "其他": 151,
+    "体育": 29,
+    "科技/AI": 18,
+    "娱乐/生活": 6,
     "金融/商业": 4
   },
   "insights": []

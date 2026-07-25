@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25 04:02:55",
+  "last_updated": "2026-07-25 09:03:38",
   "trends": [
     {
       "keyword": "odyssey",
@@ -10,7 +10,7 @@
     },
     {
       "keyword": "france vs england",
-      "score": 19900000,
+      "score": 19700000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-20 20:17:26"
@@ -24,38 +24,31 @@
     },
     {
       "keyword": "the odyssey",
-      "score": 15000000,
+      "score": 13000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-21 04:04:02"
     },
     {
-      "keyword": "canada wildfires",
-      "score": 14000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-20 15:00:37"
-    },
-    {
-      "keyword": "lindsey graham",
-      "score": 14000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-07-19 04:13:15"
-    },
-    {
       "keyword": "sam neill",
-      "score": 14000000,
+      "score": 12000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-20 04:28:45"
     },
     {
-      "keyword": "taylor farms",
-      "score": 11000000,
+      "keyword": "canada wildfires",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-20 15:00:37"
+    },
+    {
+      "keyword": "kaylee hottle",
+      "score": 11210000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-22 20:01:12"
+      "timestamp": "2026-07-25 09:03:38"
     },
     {
       "keyword": "tropical storm bertha",
@@ -66,24 +59,38 @@
     },
     {
       "keyword": "andrew tate",
-      "score": 10350000,
+      "score": 10850000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-25 04:02:55"
+      "timestamp": "2026-07-25 09:03:38"
     },
     {
-      "keyword": "kaylee hottle",
-      "score": 10210000,
+      "keyword": "taylor farms",
+      "score": 10500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-25 04:02:55"
+      "timestamp": "2026-07-22 20:01:12"
+    },
+    {
+      "keyword": "lindsey graham",
+      "score": 9000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-07-19 04:13:15"
     },
     {
       "keyword": "the open",
-      "score": 8500000,
+      "score": 7500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-20 09:50:15"
+    },
+    {
+      "keyword": "ryan clark",
+      "score": 7300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-25 09:03:38"
     },
     {
       "keyword": "shakira",
@@ -100,13 +107,6 @@
       "timestamp": "2026-07-19 20:04:12"
     },
     {
-      "keyword": "ryan clark",
-      "score": 6800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-25 04:02:55"
-    },
-    {
       "keyword": "avengers doomsday",
       "score": 5450000,
       "traffic_numeric": 500000,
@@ -114,25 +114,18 @@
       "timestamp": "2026-07-24 04:01:48"
     },
     {
-      "keyword": "odyssey movie",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-07-19 20:04:12"
-    },
-    {
-      "keyword": "england vs argentina",
-      "score": 5000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-18 19:53:57"
-    },
-    {
       "keyword": "christopher nolan",
       "score": 5000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-20 09:50:15"
+    },
+    {
+      "keyword": "odyssey movie",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-07-19 20:04:12"
     },
     {
       "keyword": "jimothy",
@@ -156,13 +149,6 @@
       "timestamp": "2026-07-21 14:53:25"
     },
     {
-      "keyword": "lebron james",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-25 04:02:55"
-    },
-    {
       "keyword": "argentina vs spain",
       "score": 4000000,
       "traffic_numeric": 2000000,
@@ -170,25 +156,25 @@
       "timestamp": "2026-07-21 09:29:20"
     },
     {
-      "keyword": "jimothy raccoon",
-      "score": 3050000,
-      "traffic_numeric": 500000,
+      "keyword": "lebron james",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-22 14:54:07"
+      "timestamp": "2026-07-25 04:02:55"
     },
     {
-      "keyword": "cyclosporiasis foods to avoid",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-18 19:53:57"
-    },
-    {
-      "keyword": "argentina vs england",
-      "score": 3000000,
+      "keyword": "england vs argentina",
+      "score": 4000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-07-18 19:53:57"
+    },
+    {
+      "keyword": "jimothy raccoon",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-22 14:54:07"
     },
     {
       "keyword": "odyssey cast",
@@ -198,11 +184,11 @@
       "timestamp": "2026-07-23 04:09:13"
     },
     {
-      "keyword": "world cup final",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
+      "keyword": "76ers roster",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-18 19:53:57"
+      "timestamp": "2026-07-25 09:03:38"
     },
     {
       "keyword": "how long is the odyssey movie",
@@ -210,13 +196,27 @@
       "traffic_numeric": 2000000,
       "category": "娱乐/生活",
       "timestamp": "2026-07-22 04:08:39"
+    },
+    {
+      "keyword": "world cup final",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-18 19:53:57"
+    },
+    {
+      "keyword": "cyclosporiasis foods to avoid",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-18 19:53:57"
     }
   ],
   "category_stats": {
-    "其他": 145,
-    "体育": 34,
-    "科技/AI": 17,
-    "娱乐/生活": 6,
+    "其他": 146,
+    "体育": 35,
+    "科技/AI": 18,
+    "娱乐/生活": 5,
     "金融/商业": 3
   },
   "insights": []

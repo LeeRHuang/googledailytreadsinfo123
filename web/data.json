@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24 20:10:39",
+  "last_updated": "2026-07-25 04:02:55",
   "trends": [
     {
       "keyword": "odyssey",
@@ -10,7 +10,7 @@
     },
     {
       "keyword": "france vs england",
-      "score": 20100000,
+      "score": 19900000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-07-20 20:17:26"
@@ -23,36 +23,36 @@
       "timestamp": "2026-07-22 14:54:07"
     },
     {
-      "keyword": "lindsey graham",
-      "score": 19000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-07-19 04:13:15"
-    },
-    {
       "keyword": "the odyssey",
-      "score": 17000000,
+      "score": 15000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-21 04:04:02"
     },
     {
       "keyword": "canada wildfires",
-      "score": 16000000,
+      "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-20 15:00:37"
     },
     {
+      "keyword": "lindsey graham",
+      "score": 14000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-07-19 04:13:15"
+    },
+    {
       "keyword": "sam neill",
-      "score": 16000000,
+      "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-20 04:28:45"
     },
     {
       "keyword": "taylor farms",
-      "score": 11500000,
+      "score": 11000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-22 20:01:12"
@@ -66,31 +66,24 @@
     },
     {
       "keyword": "andrew tate",
-      "score": 9850000,
+      "score": 10350000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-24 20:10:39"
+      "timestamp": "2026-07-25 04:02:55"
     },
     {
       "keyword": "kaylee hottle",
-      "score": 9210000,
+      "score": 10210000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-24 20:10:39"
+      "timestamp": "2026-07-25 04:02:55"
     },
     {
       "keyword": "the open",
-      "score": 9000000,
+      "score": 8500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-20 09:50:15"
-    },
-    {
-      "keyword": "why are flags at half mast today",
-      "score": 9000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-19 20:04:12"
     },
     {
       "keyword": "shakira",
@@ -100,18 +93,18 @@
       "timestamp": "2026-07-22 09:24:45"
     },
     {
-      "keyword": "england vs argentina",
+      "keyword": "why are flags at half mast today",
       "score": 7000000,
       "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-18 19:53:57"
+      "category": "其他",
+      "timestamp": "2026-07-19 20:04:12"
     },
     {
       "keyword": "ryan clark",
-      "score": 6300000,
+      "score": 6800000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-24 14:38:14"
+      "timestamp": "2026-07-25 04:02:55"
     },
     {
       "keyword": "avengers doomsday",
@@ -121,18 +114,25 @@
       "timestamp": "2026-07-24 04:01:48"
     },
     {
-      "keyword": "christopher nolan",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-07-20 09:50:15"
-    },
-    {
       "keyword": "odyssey movie",
       "score": 5000000,
       "traffic_numeric": 5000000,
       "category": "娱乐/生活",
       "timestamp": "2026-07-19 20:04:12"
+    },
+    {
+      "keyword": "england vs argentina",
+      "score": 5000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-18 19:53:57"
+    },
+    {
+      "keyword": "christopher nolan",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-07-20 09:50:15"
     },
     {
       "keyword": "jimothy",
@@ -156,18 +156,11 @@
       "timestamp": "2026-07-21 14:53:25"
     },
     {
-      "keyword": "cyclosporiasis foods to avoid",
+      "keyword": "lebron james",
       "score": 4000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-18 19:53:57"
-    },
-    {
-      "keyword": "world cup final",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-18 19:53:57"
+      "timestamp": "2026-07-25 04:02:55"
     },
     {
       "keyword": "argentina vs spain",
@@ -178,10 +171,17 @@
     },
     {
       "keyword": "jimothy raccoon",
-      "score": 3100000,
+      "score": 3050000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-22 14:54:07"
+    },
+    {
+      "keyword": "cyclosporiasis foods to avoid",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-18 19:53:57"
     },
     {
       "keyword": "argentina vs england",
@@ -198,23 +198,23 @@
       "timestamp": "2026-07-23 04:09:13"
     },
     {
-      "keyword": "liga mx",
-      "score": 2100000,
-      "traffic_numeric": 500000,
+      "keyword": "world cup final",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-20 04:28:45"
+      "timestamp": "2026-07-18 19:53:57"
     },
     {
-      "keyword": "dodgers vs yankees",
-      "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-07-20 15:00:37"
+      "keyword": "how long is the odyssey movie",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-07-22 04:08:39"
     }
   ],
   "category_stats": {
-    "其他": 140,
-    "体育": 30,
+    "其他": 145,
+    "体育": 34,
     "科技/AI": 17,
     "娱乐/生活": 6,
     "金融/商业": 3

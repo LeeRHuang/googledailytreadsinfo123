@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26 09:12:32",
+  "last_updated": "2026-07-26 14:14:54",
   "trends": [
     {
       "keyword": "odyssey",
@@ -45,10 +45,10 @@
     },
     {
       "keyword": "ryan clark",
-      "score": 9300000,
+      "score": 9800000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-26 09:12:32"
+      "timestamp": "2026-07-26 14:14:54"
     },
     {
       "keyword": "taylor farms",
@@ -121,11 +121,11 @@
       "timestamp": "2026-07-21 14:53:25"
     },
     {
-      "keyword": "argentina vs spain",
+      "keyword": "sam neill",
       "score": 4000000,
       "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-21 09:29:20"
+      "category": "其他",
+      "timestamp": "2026-07-20 04:28:45"
     },
     {
       "keyword": "lebron james",
@@ -135,11 +135,11 @@
       "timestamp": "2026-07-25 04:02:55"
     },
     {
-      "keyword": "sam neill",
+      "keyword": "argentina vs spain",
       "score": 4000000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-20 04:28:45"
+      "category": "科技/AI",
+      "timestamp": "2026-07-21 09:29:20"
     },
     {
       "keyword": "the open",
@@ -170,18 +170,18 @@
       "timestamp": "2026-07-21 14:53:25"
     },
     {
+      "keyword": "masters of the universe",
+      "score": 2150000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-26 14:14:54"
+    },
+    {
       "keyword": "how long is the odyssey movie",
       "score": 2000000,
       "traffic_numeric": 2000000,
       "category": "娱乐/生活",
       "timestamp": "2026-07-22 04:08:39"
-    },
-    {
-      "keyword": "masters of the universe",
-      "score": 1950000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-26 09:12:32"
     },
     {
       "keyword": "alaska airlines boeing 787-9 emergency",
@@ -199,21 +199,21 @@
     },
     {
       "keyword": "tony romo",
-      "score": 1300000,
+      "score": 1500000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-26 09:12:32"
+      "timestamp": "2026-07-26 14:14:54"
     },
     {
-      "keyword": "dodgers vs phillies",
-      "score": 1300000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-07-23 09:22:35"
+      "keyword": "d4vd",
+      "score": 1370000,
+      "traffic_numeric": 100000,
+      "category": "其他",
+      "timestamp": "2026-07-26 14:14:54"
     }
   ],
   "category_stats": {
-    "其他": 150,
+    "其他": 152,
     "体育": 31,
     "科技/AI": 18,
     "娱乐/生活": 5,

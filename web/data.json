@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26 04:20:47",
+  "last_updated": "2026-07-26 09:12:32",
   "trends": [
     {
       "keyword": "odyssey",
@@ -10,17 +10,10 @@
     },
     {
       "keyword": "spain vs argentina",
-      "score": 18000008,
+      "score": 17000008,
       "traffic_numeric": 5000000,
       "category": "科技/AI",
       "timestamp": "2026-07-22 14:54:07"
-    },
-    {
-      "keyword": "france vs england",
-      "score": 14000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-20 20:17:26"
     },
     {
       "keyword": "kaylee hottle",
@@ -30,8 +23,15 @@
       "timestamp": "2026-07-25 14:20:18"
     },
     {
+      "keyword": "france vs england",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-20 20:17:26"
+    },
+    {
       "keyword": "andrew tate",
-      "score": 11800000,
+      "score": 11700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-25 19:57:58"
@@ -44,18 +44,18 @@
       "timestamp": "2026-07-24 14:38:14"
     },
     {
+      "keyword": "ryan clark",
+      "score": 9300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-26 09:12:32"
+    },
+    {
       "keyword": "taylor farms",
-      "score": 9000000,
+      "score": 8500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-22 20:01:12"
-    },
-    {
-      "keyword": "ryan clark",
-      "score": 8800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-26 04:20:47"
     },
     {
       "keyword": "76ers roster",
@@ -72,25 +72,11 @@
       "timestamp": "2026-07-22 09:24:45"
     },
     {
-      "keyword": "the odyssey",
-      "score": 7000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-07-21 04:04:02"
-    },
-    {
       "keyword": "canada wildfires",
-      "score": 6000000,
+      "score": 5500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-20 15:00:37"
-    },
-    {
-      "keyword": "sam neill",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-20 04:28:45"
     },
     {
       "keyword": "avengers doomsday",
@@ -100,13 +86,6 @@
       "timestamp": "2026-07-24 04:01:48"
     },
     {
-      "keyword": "christopher nolan",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-07-20 09:50:15"
-    },
-    {
       "keyword": "odyssey movie",
       "score": 5000000,
       "traffic_numeric": 5000000,
@@ -114,11 +93,18 @@
       "timestamp": "2026-07-19 20:04:12"
     },
     {
-      "keyword": "the open",
-      "score": 4500000,
-      "traffic_numeric": 1000000,
+      "keyword": "christopher nolan",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-20 09:50:15"
+    },
+    {
+      "keyword": "the odyssey",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-07-21 04:04:02"
     },
     {
       "keyword": "jimothy",
@@ -128,18 +114,18 @@
       "timestamp": "2026-07-23 20:13:06"
     },
     {
-      "keyword": "air quality index",
-      "score": 4400000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-21 14:53:25"
-    },
-    {
       "keyword": "air quality",
       "score": 4200000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-07-21 14:53:25"
+    },
+    {
+      "keyword": "argentina vs spain",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-21 09:29:20"
     },
     {
       "keyword": "lebron james",
@@ -149,11 +135,18 @@
       "timestamp": "2026-07-25 04:02:55"
     },
     {
-      "keyword": "argentina vs spain",
+      "keyword": "sam neill",
       "score": 4000000,
       "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-21 09:29:20"
+      "category": "其他",
+      "timestamp": "2026-07-20 04:28:45"
+    },
+    {
+      "keyword": "the open",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-20 09:50:15"
     },
     {
       "keyword": "odyssey cast",
@@ -164,10 +157,17 @@
     },
     {
       "keyword": "jimothy raccoon",
-      "score": 2700000,
+      "score": 2600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-22 14:54:07"
+    },
+    {
+      "keyword": "air quality index",
+      "score": 2400000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-21 14:53:25"
     },
     {
       "keyword": "how long is the odyssey movie",
@@ -178,10 +178,10 @@
     },
     {
       "keyword": "masters of the universe",
-      "score": 1750000,
+      "score": 1950000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-26 04:20:47"
+      "timestamp": "2026-07-26 09:12:32"
     },
     {
       "keyword": "alaska airlines boeing 787-9 emergency",
@@ -198,24 +198,24 @@
       "timestamp": "2026-07-23 09:22:35"
     },
     {
+      "keyword": "tony romo",
+      "score": 1300000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-26 09:12:32"
+    },
+    {
       "keyword": "dodgers vs phillies",
       "score": 1300000,
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-07-23 09:22:35"
-    },
-    {
-      "keyword": "d4vd",
-      "score": 1170000,
-      "traffic_numeric": 100000,
-      "category": "其他",
-      "timestamp": "2026-07-26 04:20:47"
     }
   ],
   "category_stats": {
-    "其他": 149,
+    "其他": 150,
     "体育": 31,
-    "科技/AI": 17,
+    "科技/AI": 18,
     "娱乐/生活": 5,
     "金融/商业": 3
   },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27 04:28:57",
+  "last_updated": "2026-07-27 10:38:31",
   "trends": [
     {
       "keyword": "odyssey",
@@ -16,13 +16,6 @@
       "timestamp": "2026-07-25 14:20:18"
     },
     {
-      "keyword": "andrew tate",
-      "score": 11200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-25 19:57:58"
-    },
-    {
       "keyword": "tropical storm bertha",
       "score": 11000000,
       "traffic_numeric": 1000000,
@@ -30,11 +23,11 @@
       "timestamp": "2026-07-24 14:38:14"
     },
     {
-      "keyword": "spain vs argentina",
-      "score": 10000008,
-      "traffic_numeric": 5000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-22 14:54:07"
+      "keyword": "andrew tate",
+      "score": 11000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-25 19:57:58"
     },
     {
       "keyword": "ryan clark",
@@ -52,24 +45,17 @@
     },
     {
       "keyword": "taylor farms",
-      "score": 7000000,
+      "score": 6500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-22 20:01:12"
     },
     {
       "keyword": "shakira",
-      "score": 6600000,
+      "score": 5600000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-22 09:24:45"
-    },
-    {
-      "keyword": "france vs england",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-20 20:17:26"
     },
     {
       "keyword": "avengers doomsday",
@@ -79,11 +65,11 @@
       "timestamp": "2026-07-24 04:01:48"
     },
     {
-      "keyword": "christopher nolan",
-      "score": 5000000,
+      "keyword": "spain vs argentina",
+      "score": 5000008,
       "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-07-20 09:50:15"
+      "category": "科技/AI",
+      "timestamp": "2026-07-22 14:54:07"
     },
     {
       "keyword": "the odyssey",
@@ -107,6 +93,13 @@
       "timestamp": "2026-07-21 14:53:25"
     },
     {
+      "keyword": "france vs england",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-20 20:17:26"
+    },
+    {
       "keyword": "lebron james",
       "score": 4000000,
       "traffic_numeric": 2000000,
@@ -128,32 +121,18 @@
       "timestamp": "2026-07-27 04:28:57"
     },
     {
-      "keyword": "canada wildfires",
-      "score": 2500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-20 15:00:37"
-    },
-    {
       "keyword": "tony romo",
-      "score": 2200000,
+      "score": 2400000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-27 04:28:57"
+      "timestamp": "2026-07-27 10:38:31"
     },
     {
-      "keyword": "jimothy raccoon",
+      "keyword": "david jonsson",
       "score": 2100000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-22 14:54:07"
-    },
-    {
-      "keyword": "how long is the odyssey movie",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-07-22 04:08:39"
+      "timestamp": "2026-07-27 10:38:31"
     },
     {
       "keyword": "argentina vs spain",
@@ -163,11 +142,25 @@
       "timestamp": "2026-07-21 09:29:20"
     },
     {
+      "keyword": "how long is the odyssey movie",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-07-22 04:08:39"
+    },
+    {
       "keyword": "d4vd",
-      "score": 1770000,
+      "score": 1970000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-27 04:28:57"
+      "timestamp": "2026-07-27 10:38:31"
+    },
+    {
+      "keyword": "jimothy raccoon",
+      "score": 1900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-22 14:54:07"
     },
     {
       "keyword": "alaska airlines boeing 787-9 emergency",
@@ -184,18 +177,18 @@
       "timestamp": "2026-07-23 09:22:35"
     },
     {
-      "keyword": "david jonsson",
+      "keyword": "ransom canyon",
       "score": 1600000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-27 04:28:57"
+      "timestamp": "2026-07-27 10:38:31"
     },
     {
-      "keyword": "ransom canyon",
+      "keyword": "egg recall",
       "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-27 04:28:57"
+      "timestamp": "2026-07-27 10:38:31"
     },
     {
       "keyword": "dodgers vs mets",
@@ -210,12 +203,19 @@
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-07-23 09:22:35"
+    },
+    {
+      "keyword": "jackson koivun",
+      "score": 1300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-27 10:38:31"
     }
   ],
   "category_stats": {
-    "其他": 137,
+    "其他": 134,
     "体育": 31,
-    "科技/AI": 17,
+    "科技/AI": 16,
     "娱乐/生活": 5,
     "金融/商业": 3
   },

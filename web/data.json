@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-27 10:38:31",
+  "last_updated": "2026-07-27 15:36:35",
   "trends": [
     {
       "keyword": "odyssey",
-      "score": 25000000,
+      "score": 20000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-07-21 20:20:10"
@@ -24,7 +24,7 @@
     },
     {
       "keyword": "andrew tate",
-      "score": 11000000,
+      "score": 10500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-25 19:57:58"
@@ -45,28 +45,21 @@
     },
     {
       "keyword": "taylor farms",
-      "score": 6500000,
+      "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-22 20:01:12"
     },
     {
-      "keyword": "shakira",
-      "score": 5600000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-22 09:24:45"
-    },
-    {
       "keyword": "avengers doomsday",
-      "score": 5450000,
+      "score": 5400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-24 04:01:48"
     },
     {
       "keyword": "spain vs argentina",
-      "score": 5000008,
+      "score": 5000007,
       "traffic_numeric": 5000000,
       "category": "科技/AI",
       "timestamp": "2026-07-22 14:54:07"
@@ -79,25 +72,18 @@
       "timestamp": "2026-07-21 04:04:02"
     },
     {
+      "keyword": "shakira",
+      "score": 4600000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-22 09:24:45"
+    },
+    {
       "keyword": "jimothy",
       "score": 4500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-23 20:13:06"
-    },
-    {
-      "keyword": "air quality",
-      "score": 4200000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-21 14:53:25"
-    },
-    {
-      "keyword": "france vs england",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-07-20 20:17:26"
     },
     {
       "keyword": "lebron james",
@@ -114,6 +100,20 @@
       "timestamp": "2026-07-23 04:09:13"
     },
     {
+      "keyword": "tony romo",
+      "score": 2600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-27 15:36:34"
+    },
+    {
+      "keyword": "david jonsson",
+      "score": 2600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-27 15:36:34"
+    },
+    {
       "keyword": "masters of the universe",
       "score": 2550000,
       "traffic_numeric": 200000,
@@ -121,25 +121,18 @@
       "timestamp": "2026-07-27 04:28:57"
     },
     {
-      "keyword": "tony romo",
-      "score": 2400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-27 10:38:31"
-    },
-    {
-      "keyword": "david jonsson",
-      "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-27 10:38:31"
-    },
-    {
-      "keyword": "argentina vs spain",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
+      "keyword": "air quality",
+      "score": 2200000,
+      "traffic_numeric": 2000000,
       "category": "科技/AI",
-      "timestamp": "2026-07-21 09:29:20"
+      "timestamp": "2026-07-21 14:53:25"
+    },
+    {
+      "keyword": "d4vd",
+      "score": 2170000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-27 15:36:34"
     },
     {
       "keyword": "how long is the odyssey movie",
@@ -149,25 +142,32 @@
       "timestamp": "2026-07-22 04:08:39"
     },
     {
-      "keyword": "d4vd",
-      "score": 1970000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-27 10:38:31"
+      "keyword": "france vs england",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-07-20 20:17:26"
     },
     {
-      "keyword": "jimothy raccoon",
-      "score": 1900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-22 14:54:07"
-    },
-    {
-      "keyword": "alaska airlines boeing 787-9 emergency",
-      "score": 1700000,
-      "traffic_numeric": 500000,
+      "keyword": "argentina vs spain",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-07-21 09:29:20"
+    },
+    {
+      "keyword": "jackson koivun",
+      "score": 1800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-27 15:36:34"
+    },
+    {
+      "keyword": "ransom canyon",
+      "score": 1800000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-27 15:36:34"
     },
     {
       "keyword": "orioles vs red sox",
@@ -177,45 +177,45 @@
       "timestamp": "2026-07-23 09:22:35"
     },
     {
-      "keyword": "ransom canyon",
-      "score": 1600000,
-      "traffic_numeric": 200000,
+      "keyword": "jimothy raccoon",
+      "score": 1700000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-27 10:38:31"
+      "timestamp": "2026-07-22 14:54:07"
+    },
+    {
+      "keyword": "ghost rider",
+      "score": 1600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-27 15:36:34"
     },
     {
       "keyword": "egg recall",
-      "score": 1400000,
+      "score": 1600000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-27 10:38:31"
+      "timestamp": "2026-07-27 15:36:34"
     },
     {
-      "keyword": "dodgers vs mets",
-      "score": 1300000,
+      "keyword": "yankees vs phillies",
+      "score": 1500000,
       "traffic_numeric": 200000,
       "category": "体育",
-      "timestamp": "2026-07-27 04:28:57"
+      "timestamp": "2026-07-27 15:36:34"
     },
     {
-      "keyword": "dodgers vs phillies",
-      "score": 1300000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-07-23 09:22:35"
-    },
-    {
-      "keyword": "jackson koivun",
-      "score": 1300000,
+      "keyword": "alaska airlines boeing 787-9 emergency",
+      "score": 1500000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-27 10:38:31"
+      "category": "科技/AI",
+      "timestamp": "2026-07-21 09:29:20"
     }
   ],
   "category_stats": {
-    "其他": 134,
-    "体育": 31,
-    "科技/AI": 16,
+    "其他": 130,
+    "体育": 30,
+    "科技/AI": 17,
     "娱乐/生活": 5,
     "金融/商业": 3
   },

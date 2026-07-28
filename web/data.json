@@ -1,13 +1,6 @@
 {
-  "last_updated": "2026-07-28 03:56:22",
+  "last_updated": "2026-07-28 09:36:13",
   "trends": [
-    {
-      "keyword": "odyssey",
-      "score": 15000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-07-21 20:20:10"
-    },
     {
       "keyword": "kaylee hottle",
       "score": 12210000,
@@ -17,24 +10,31 @@
     },
     {
       "keyword": "tropical storm bertha",
-      "score": 11000000,
+      "score": 10500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-24 14:38:14"
     },
     {
-      "keyword": "andrew tate",
+      "keyword": "odyssey",
       "score": 10000000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-07-25 19:57:58"
+      "timestamp": "2026-07-21 20:20:10"
     },
     {
       "keyword": "ryan clark",
-      "score": 9800000,
+      "score": 9400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-26 14:14:54"
+    },
+    {
+      "keyword": "andrew tate",
+      "score": 9000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-25 19:57:58"
     },
     {
       "keyword": "76ers roster",
@@ -45,31 +45,10 @@
     },
     {
       "keyword": "avengers doomsday",
-      "score": 5200000,
+      "score": 4500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-24 04:01:48"
-    },
-    {
-      "keyword": "spain vs argentina",
-      "score": 5000006,
-      "traffic_numeric": 5000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-22 14:54:07"
-    },
-    {
-      "keyword": "taylor farms",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-22 20:01:12"
-    },
-    {
-      "keyword": "the odyssey",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-07-21 04:04:02"
     },
     {
       "keyword": "jimothy",
@@ -79,6 +58,13 @@
       "timestamp": "2026-07-23 20:13:06"
     },
     {
+      "keyword": "david jonsson",
+      "score": 4100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-28 09:36:13"
+    },
+    {
       "keyword": "lebron james",
       "score": 4000000,
       "traffic_numeric": 2000000,
@@ -86,18 +72,11 @@
       "timestamp": "2026-07-25 04:02:55"
     },
     {
-      "keyword": "david jonsson",
-      "score": 3600000,
+      "keyword": "ghost rider",
+      "score": 3100000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-28 03:56:22"
-    },
-    {
-      "keyword": "shakira",
-      "score": 3600000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-22 09:24:45"
+      "timestamp": "2026-07-28 09:36:13"
     },
     {
       "keyword": "odyssey cast",
@@ -107,11 +86,11 @@
       "timestamp": "2026-07-23 04:09:13"
     },
     {
-      "keyword": "tony romo",
-      "score": 2800000,
+      "keyword": "taylor farms",
+      "score": 3000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-27 20:17:21"
+      "timestamp": "2026-07-22 20:01:12"
     },
     {
       "keyword": "jackson koivun",
@@ -121,16 +100,16 @@
       "timestamp": "2026-07-28 03:56:22"
     },
     {
+      "keyword": "tony romo",
+      "score": 2800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-27 20:17:21"
+    },
+    {
       "keyword": "masters of the universe",
       "score": 2750000,
       "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-28 03:56:22"
-    },
-    {
-      "keyword": "ghost rider",
-      "score": 2600000,
-      "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-28 03:56:22"
     },
@@ -142,18 +121,18 @@
       "timestamp": "2026-07-28 03:56:22"
     },
     {
-      "keyword": "ransom canyon",
-      "score": 2200000,
-      "traffic_numeric": 200000,
+      "keyword": "seattle shooting",
+      "score": 2400000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-28 03:56:22"
+      "timestamp": "2026-07-28 09:36:13"
     },
     {
-      "keyword": "argentina vs spain",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-21 09:29:20"
+      "keyword": "ransom canyon",
+      "score": 2400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-28 09:36:13"
     },
     {
       "keyword": "how long is the odyssey movie",
@@ -163,25 +142,18 @@
       "timestamp": "2026-07-22 04:08:39"
     },
     {
-      "keyword": "seattle shooting",
-      "score": 1900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-28 03:56:22"
-    },
-    {
-      "keyword": "orioles vs red sox",
-      "score": 1700000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-07-23 09:22:35"
-    },
-    {
       "keyword": "72 hours",
-      "score": 1650000,
+      "score": 1850000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-28 03:56:22"
+      "timestamp": "2026-07-28 09:36:13"
+    },
+    {
+      "keyword": "shakira",
+      "score": 1600000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-22 09:24:45"
     },
     {
       "keyword": "egg recall",
@@ -191,6 +163,13 @@
       "timestamp": "2026-07-27 15:36:34"
     },
     {
+      "keyword": "orioles vs red sox",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-07-23 09:22:35"
+    },
+    {
       "keyword": "yankees vs phillies",
       "score": 1500000,
       "traffic_numeric": 200000,
@@ -198,24 +177,45 @@
       "timestamp": "2026-07-27 15:36:34"
     },
     {
-      "keyword": "jimothy raccoon",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-22 14:54:07"
-    },
-    {
-      "keyword": "dodgers vs phillies",
+      "keyword": "dodgers vs mets",
       "score": 1300000,
       "traffic_numeric": 200000,
       "category": "体育",
-      "timestamp": "2026-07-23 09:22:35"
+      "timestamp": "2026-07-27 04:28:57"
+    },
+    {
+      "keyword": "wnba all star game",
+      "score": 1200000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-07-27 10:38:31"
+    },
+    {
+      "keyword": "nivea",
+      "score": 1150000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-25 14:20:18"
+    },
+    {
+      "keyword": "pt organics fruit pouch recall",
+      "score": 1100000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-24 20:10:39"
+    },
+    {
+      "keyword": "jimothy raccoon",
+      "score": 1100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-22 14:54:07"
     }
   ],
   "category_stats": {
-    "其他": 129,
-    "体育": 34,
-    "科技/AI": 18,
+    "其他": 128,
+    "体育": 35,
+    "科技/AI": 15,
     "娱乐/生活": 5,
     "金融/商业": 3
   },

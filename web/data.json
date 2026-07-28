@@ -1,37 +1,30 @@
 {
-  "last_updated": "2026-07-28 09:36:13",
+  "last_updated": "2026-07-28 15:05:38",
   "trends": [
     {
       "keyword": "kaylee hottle",
-      "score": 12210000,
+      "score": 12200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-25 14:20:18"
     },
     {
       "keyword": "tropical storm bertha",
-      "score": 10500000,
+      "score": 10000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-24 14:38:14"
     },
     {
-      "keyword": "odyssey",
-      "score": 10000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-07-21 20:20:10"
-    },
-    {
       "keyword": "ryan clark",
-      "score": 9400000,
+      "score": 9200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-26 14:14:54"
     },
     {
       "keyword": "andrew tate",
-      "score": 9000000,
+      "score": 8500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-25 19:57:58"
@@ -44,11 +37,18 @@
       "timestamp": "2026-07-26 04:20:47"
     },
     {
-      "keyword": "avengers doomsday",
-      "score": 4500000,
+      "keyword": "odyssey",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-07-21 20:20:10"
+    },
+    {
+      "keyword": "david jonsson",
+      "score": 4600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-24 04:01:48"
+      "timestamp": "2026-07-28 15:05:38"
     },
     {
       "keyword": "jimothy",
@@ -58,11 +58,11 @@
       "timestamp": "2026-07-23 20:13:06"
     },
     {
-      "keyword": "david jonsson",
-      "score": 4100000,
+      "keyword": "avengers doomsday",
+      "score": 4000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-28 09:36:13"
+      "timestamp": "2026-07-24 04:01:48"
     },
     {
       "keyword": "lebron james",
@@ -73,10 +73,17 @@
     },
     {
       "keyword": "ghost rider",
-      "score": 3100000,
+      "score": 3600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-28 09:36:13"
+      "timestamp": "2026-07-28 15:05:38"
+    },
+    {
+      "keyword": "jackson koivun",
+      "score": 3300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-28 15:05:38"
     },
     {
       "keyword": "odyssey cast",
@@ -86,25 +93,18 @@
       "timestamp": "2026-07-23 04:09:13"
     },
     {
-      "keyword": "taylor farms",
+      "keyword": "tony romo",
       "score": 3000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-22 20:01:12"
+      "timestamp": "2026-07-28 15:05:38"
     },
     {
-      "keyword": "jackson koivun",
-      "score": 2800000,
+      "keyword": "seattle shooting",
+      "score": 2900000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-28 03:56:22"
-    },
-    {
-      "keyword": "tony romo",
-      "score": 2800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-27 20:17:21"
+      "timestamp": "2026-07-28 15:05:38"
     },
     {
       "keyword": "masters of the universe",
@@ -114,6 +114,13 @@
       "timestamp": "2026-07-28 03:56:22"
     },
     {
+      "keyword": "ransom canyon",
+      "score": 2600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-28 15:05:38"
+    },
+    {
       "keyword": "d4vd",
       "score": 2570000,
       "traffic_numeric": 200000,
@@ -121,18 +128,18 @@
       "timestamp": "2026-07-28 03:56:22"
     },
     {
-      "keyword": "seattle shooting",
-      "score": 2400000,
+      "keyword": "taylor farms",
+      "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-28 09:36:13"
+      "timestamp": "2026-07-22 20:01:12"
     },
     {
-      "keyword": "ransom canyon",
-      "score": 2400000,
-      "traffic_numeric": 200000,
+      "keyword": "tmobile outage",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-28 09:36:13"
+      "timestamp": "2026-07-28 15:05:38"
     },
     {
       "keyword": "how long is the odyssey movie",
@@ -147,13 +154,6 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-28 09:36:13"
-    },
-    {
-      "keyword": "shakira",
-      "score": 1600000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-22 09:24:45"
     },
     {
       "keyword": "egg recall",
@@ -175,6 +175,13 @@
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-07-27 15:36:34"
+    },
+    {
+      "keyword": "shakira",
+      "score": 1400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-22 09:24:45"
     },
     {
       "keyword": "dodgers vs mets",
@@ -203,19 +210,12 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-24 20:10:39"
-    },
-    {
-      "keyword": "jimothy raccoon",
-      "score": 1100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-22 14:54:07"
     }
   ],
   "category_stats": {
-    "其他": 128,
-    "体育": 35,
-    "科技/AI": 15,
+    "其他": 129,
+    "体育": 36,
+    "科技/AI": 12,
     "娱乐/生活": 5,
     "金融/商业": 3
   },

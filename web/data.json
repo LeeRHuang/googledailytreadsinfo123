@@ -1,26 +1,19 @@
 {
-  "last_updated": "2026-07-29 03:58:49",
+  "last_updated": "2026-07-29 09:42:39",
   "trends": [
     {
       "keyword": "kaylee hottle",
-      "score": 12000000,
+      "score": 11000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-25 14:20:18"
     },
     {
       "keyword": "tropical storm bertha",
-      "score": 9500000,
+      "score": 8500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-24 14:38:14"
-    },
-    {
-      "keyword": "ryan clark",
-      "score": 9000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-26 14:14:54"
     },
     {
       "keyword": "76ers roster",
@@ -30,18 +23,25 @@
       "timestamp": "2026-07-26 04:20:47"
     },
     {
-      "keyword": "andrew tate",
+      "keyword": "ryan clark",
       "score": 8000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-26 14:14:54"
+    },
+    {
+      "keyword": "andrew tate",
+      "score": 7000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-25 19:57:58"
     },
     {
       "keyword": "david jonsson",
-      "score": 5600000,
+      "score": 6100000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-29 03:58:49"
+      "timestamp": "2026-07-29 09:42:39"
     },
     {
       "keyword": "ghost rider",
@@ -51,8 +51,15 @@
       "timestamp": "2026-07-29 03:58:49"
     },
     {
+      "keyword": "tony romo",
+      "score": 4200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-29 09:42:39"
+    },
+    {
       "keyword": "jimothy",
-      "score": 4500000,
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-23 20:13:06"
@@ -72,20 +79,6 @@
       "timestamp": "2026-07-29 03:58:49"
     },
     {
-      "keyword": "tony romo",
-      "score": 3700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-29 03:58:49"
-    },
-    {
-      "keyword": "avengers doomsday",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-24 04:01:48"
-    },
-    {
       "keyword": "jackson koivun",
       "score": 3300000,
       "traffic_numeric": 500000,
@@ -93,25 +86,18 @@
       "timestamp": "2026-07-28 15:05:38"
     },
     {
-      "keyword": "tmobile outage",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-28 20:12:18"
-    },
-    {
-      "keyword": "odyssey cast",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-23 04:09:13"
-    },
-    {
       "keyword": "ransom canyon",
       "score": 3000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
+    },
+    {
+      "keyword": "tmobile outage",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-28 20:12:18"
     },
     {
       "keyword": "masters of the universe",
@@ -122,10 +108,17 @@
     },
     {
       "keyword": "d4vd",
-      "score": 2570000,
+      "score": 2550000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-28 03:56:22"
+    },
+    {
+      "keyword": "avengers doomsday",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-24 04:01:48"
     },
     {
       "keyword": "72 hours",
@@ -135,20 +128,6 @@
       "timestamp": "2026-07-29 03:58:49"
     },
     {
-      "keyword": "taylor farms",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-22 20:01:12"
-    },
-    {
-      "keyword": "how long is the odyssey movie",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-07-22 04:08:39"
-    },
-    {
       "keyword": "egg recall",
       "score": 1600000,
       "traffic_numeric": 200000,
@@ -156,11 +135,18 @@
       "timestamp": "2026-07-27 15:36:34"
     },
     {
-      "keyword": "orioles vs red sox",
+      "keyword": "tractor supply is closing 75 underperforming petsense retail locations",
+      "score": 1570000,
+      "traffic_numeric": 200000,
+      "category": "科技/AI",
+      "timestamp": "2026-07-29 09:42:39"
+    },
+    {
+      "keyword": "spiderman brand new day",
       "score": 1500000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-07-23 09:22:35"
+      "category": "其他",
+      "timestamp": "2026-07-29 09:42:39"
     },
     {
       "keyword": "yankees vs phillies",
@@ -168,13 +154,6 @@
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-07-27 15:36:34"
-    },
-    {
-      "keyword": "tractor supply is closing 75 underperforming petsense retail locations",
-      "score": 1370000,
-      "traffic_numeric": 200000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-29 03:58:49"
     },
     {
       "keyword": "dodgers vs mets",
@@ -198,26 +177,47 @@
       "timestamp": "2026-07-27 10:38:31"
     },
     {
-      "keyword": "spiderman brand new day",
-      "score": 1200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-29 03:58:49"
-    },
-    {
       "keyword": "nivea",
       "score": 1150000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-25 14:20:18"
+    },
+    {
+      "keyword": "eric bieniemy",
+      "score": 1120000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-29 03:58:49"
+    },
+    {
+      "keyword": "pt organics fruit pouch recall",
+      "score": 1100000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-24 20:10:39"
+    },
+    {
+      "keyword": "lou koller tribute news",
+      "score": 1100000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-27 10:38:31"
+    },
+    {
+      "keyword": "orioles vs red sox",
+      "score": 1100000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-07-23 09:22:35"
     }
   ],
   "category_stats": {
-    "其他": 122,
-    "体育": 41,
+    "其他": 121,
+    "体育": 42,
     "科技/AI": 12,
-    "娱乐/生活": 4,
-    "金融/商业": 3
+    "娱乐/生活": 3,
+    "金融/商业": 2
   },
   "insights": []
 }

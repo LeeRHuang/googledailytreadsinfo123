@@ -1,19 +1,12 @@
 {
-  "last_updated": "2026-07-29 14:59:54",
+  "last_updated": "2026-07-29 20:10:14",
   "trends": [
     {
       "keyword": "kaylee hottle",
-      "score": 10500000,
+      "score": 10000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-25 14:20:18"
-    },
-    {
-      "keyword": "tropical storm bertha",
-      "score": 8000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-24 14:38:14"
     },
     {
       "keyword": "76ers roster",
@@ -24,10 +17,17 @@
     },
     {
       "keyword": "ryan clark",
-      "score": 7500000,
+      "score": 7000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-26 14:14:54"
+    },
+    {
+      "keyword": "tropical storm bertha",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-24 14:38:14"
     },
     {
       "keyword": "david jonsson",
@@ -38,17 +38,17 @@
     },
     {
       "keyword": "andrew tate",
-      "score": 6500000,
+      "score": 6000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-25 19:57:58"
     },
     {
       "keyword": "tony romo",
-      "score": 4700000,
+      "score": 5200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-29 14:59:54"
+      "timestamp": "2026-07-29 20:10:14"
     },
     {
       "keyword": "ghost rider",
@@ -65,13 +65,6 @@
       "timestamp": "2026-07-25 04:02:55"
     },
     {
-      "keyword": "jimothy",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-23 20:13:06"
-    },
-    {
       "keyword": "tmobile outage",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -84,6 +77,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
+    },
+    {
+      "keyword": "jimothy",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-23 20:13:06"
     },
     {
       "keyword": "jackson koivun",
@@ -107,6 +107,13 @@
       "timestamp": "2026-07-29 03:58:49"
     },
     {
+      "keyword": "spiderman brand new day",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-29 20:10:14"
+    },
+    {
       "keyword": "d4vd",
       "score": 2500000,
       "traffic_numeric": 200000,
@@ -121,25 +128,11 @@
       "timestamp": "2026-07-29 03:58:49"
     },
     {
-      "keyword": "avengers doomsday",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-24 04:01:48"
-    },
-    {
-      "keyword": "spiderman brand new day",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-29 14:59:54"
-    },
-    {
       "keyword": "tractor supply is closing 75 underperforming petsense retail locations",
-      "score": 1770000,
+      "score": 1970000,
       "traffic_numeric": 200000,
       "category": "科技/AI",
-      "timestamp": "2026-07-29 14:59:54"
+      "timestamp": "2026-07-29 20:10:14"
     },
     {
       "keyword": "egg recall",
@@ -154,6 +147,20 @@
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-07-27 15:36:34"
+    },
+    {
+      "keyword": "avengers doomsday",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-24 04:01:48"
+    },
+    {
+      "keyword": "lindsay clancy",
+      "score": 1400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-29 20:10:14"
     },
     {
       "keyword": "dodgers vs mets",
@@ -174,13 +181,6 @@
       "score": 1250000,
       "traffic_numeric": 200000,
       "category": "科技/AI",
-      "timestamp": "2026-07-29 14:59:54"
-    },
-    {
-      "keyword": "lindsay clancy",
-      "score": 1200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
       "timestamp": "2026-07-29 14:59:54"
     },
     {
@@ -205,19 +205,19 @@
       "timestamp": "2026-07-29 03:58:49"
     },
     {
-      "keyword": "lou koller tribute news",
+      "keyword": "pt organics fruit pouch recall",
       "score": 1100000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-27 10:38:31"
+      "timestamp": "2026-07-24 20:10:39"
     }
   ],
   "category_stats": {
-    "其他": 120,
-    "体育": 42,
+    "其他": 115,
+    "体育": 37,
     "科技/AI": 10,
     "娱乐/生活": 3,
-    "金融/商业": 2
+    "金融/商业": 3
   },
   "insights": []
 }

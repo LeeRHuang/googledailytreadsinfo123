@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30 15:09:26",
+  "last_updated": "2026-07-30 20:20:20",
   "trends": [
     {
       "keyword": "76ers roster",
@@ -9,18 +9,18 @@
       "timestamp": "2026-07-26 04:20:47"
     },
     {
+      "keyword": "tony romo",
+      "score": 7200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-30 20:20:20"
+    },
+    {
       "keyword": "kaylee hottle",
-      "score": 8000000,
+      "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-25 14:20:18"
-    },
-    {
-      "keyword": "tony romo",
-      "score": 6700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-30 15:09:26"
     },
     {
       "keyword": "david jonsson",
@@ -30,18 +30,18 @@
       "timestamp": "2026-07-29 14:59:54"
     },
     {
+      "keyword": "spiderman brand new day",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-30 20:20:20"
+    },
+    {
       "keyword": "ryan clark",
-      "score": 5500000,
+      "score": 5000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-26 14:14:54"
-    },
-    {
-      "keyword": "spiderman brand new day",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-30 15:09:26"
     },
     {
       "keyword": "ghost rider",
@@ -51,13 +51,6 @@
       "timestamp": "2026-07-29 03:58:49"
     },
     {
-      "keyword": "andrew tate",
-      "score": 4500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-25 19:57:58"
-    },
-    {
       "keyword": "lebron james",
       "score": 4000000,
       "traffic_numeric": 2000000,
@@ -65,18 +58,18 @@
       "timestamp": "2026-07-25 04:02:55"
     },
     {
-      "keyword": "tropical storm bertha",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-24 14:38:14"
-    },
-    {
       "keyword": "tmobile outage",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-29 14:59:54"
+    },
+    {
+      "keyword": "andrew tate",
+      "score": 4000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-25 19:57:58"
     },
     {
       "keyword": "seattle shooting",
@@ -100,11 +93,25 @@
       "timestamp": "2026-07-29 03:58:49"
     },
     {
+      "keyword": "tropical storm bertha",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-24 14:38:14"
+    },
+    {
       "keyword": "masters of the universe",
-      "score": 2700000,
+      "score": 2600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
+    },
+    {
+      "keyword": "lindsay clancy",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-30 20:20:20"
     },
     {
       "keyword": "72 hours",
@@ -115,17 +122,17 @@
     },
     {
       "keyword": "d4vd",
-      "score": 2350000,
+      "score": 2300000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-28 03:56:22"
     },
     {
-      "keyword": "lindsay clancy",
+      "keyword": "fauci",
       "score": 2000000,
-      "traffic_numeric": 200000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-30 15:09:26"
+      "timestamp": "2026-07-30 20:20:20"
     },
     {
       "keyword": "tractor supply is closing 75 underperforming petsense retail locations",
@@ -156,11 +163,25 @@
       "timestamp": "2026-07-27 15:36:34"
     },
     {
-      "keyword": "fauci",
+      "keyword": "yankees vs white sox",
       "score": 1500000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-07-30 20:20:20"
+    },
+    {
+      "keyword": "madison beer",
+      "score": 1450000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-30 15:09:26"
+      "timestamp": "2026-07-30 20:20:20"
+    },
+    {
+      "keyword": "cubs vs cardinals",
+      "score": 1400000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-07-30 20:20:20"
     },
     {
       "keyword": "dodgers vs mets",
@@ -168,13 +189,6 @@
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-07-27 04:28:57"
-    },
-    {
-      "keyword": "yankees vs white sox",
-      "score": 1300000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-07-30 15:09:26"
     },
     {
       "keyword": "bronny james",
@@ -191,20 +205,6 @@
       "timestamp": "2026-07-29 14:59:54"
     },
     {
-      "keyword": "madison beer",
-      "score": 1250000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-30 15:09:26"
-    },
-    {
-      "keyword": "cubs vs cardinals",
-      "score": 1200000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-07-30 15:09:26"
-    },
-    {
       "keyword": "wnba all star game",
       "score": 1200000,
       "traffic_numeric": 200000,
@@ -213,11 +213,11 @@
     }
   ],
   "category_stats": {
-    "其他": 112,
+    "其他": 114,
     "体育": 32,
     "科技/AI": 10,
     "娱乐/生活": 5,
-    "金融/商业": 5
+    "金融/商业": 4
   },
   "insights": []
 }

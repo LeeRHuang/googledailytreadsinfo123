@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29 20:10:14",
+  "last_updated": "2026-07-30 03:47:57",
   "trends": [
     {
       "keyword": "kaylee hottle",
@@ -45,10 +45,10 @@
     },
     {
       "keyword": "tony romo",
-      "score": 5200000,
+      "score": 5700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-29 20:10:14"
+      "timestamp": "2026-07-30 03:47:56"
     },
     {
       "keyword": "ghost rider",
@@ -86,6 +86,13 @@
       "timestamp": "2026-07-23 20:13:06"
     },
     {
+      "keyword": "spiderman brand new day",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-30 03:47:56"
+    },
+    {
       "keyword": "jackson koivun",
       "score": 3300000,
       "traffic_numeric": 500000,
@@ -107,13 +114,6 @@
       "timestamp": "2026-07-29 03:58:49"
     },
     {
-      "keyword": "spiderman brand new day",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-29 20:10:14"
-    },
-    {
       "keyword": "d4vd",
       "score": 2500000,
       "traffic_numeric": 200000,
@@ -122,10 +122,10 @@
     },
     {
       "keyword": "72 hours",
-      "score": 2250000,
+      "score": 2450000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-29 03:58:49"
+      "timestamp": "2026-07-30 03:47:56"
     },
     {
       "keyword": "tractor supply is closing 75 underperforming petsense retail locations",
@@ -135,17 +135,17 @@
       "timestamp": "2026-07-29 20:10:14"
     },
     {
+      "keyword": "lindsay clancy",
+      "score": 1600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-30 03:47:56"
+    },
+    {
       "keyword": "egg recall",
       "score": 1600000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-27 15:36:34"
-    },
-    {
-      "keyword": "yankees vs phillies",
-      "score": 1500000,
-      "traffic_numeric": 200000,
-      "category": "体育",
       "timestamp": "2026-07-27 15:36:34"
     },
     {
@@ -156,11 +156,11 @@
       "timestamp": "2026-07-24 04:01:48"
     },
     {
-      "keyword": "lindsay clancy",
-      "score": 1400000,
+      "keyword": "yankees vs phillies",
+      "score": 1500000,
       "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-29 20:10:14"
+      "category": "体育",
+      "timestamp": "2026-07-27 15:36:34"
     },
     {
       "keyword": "dodgers vs mets",
@@ -191,6 +191,13 @@
       "timestamp": "2026-07-27 10:38:31"
     },
     {
+      "keyword": "japan earthquake",
+      "score": 1150000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-30 03:47:56"
+    },
+    {
       "keyword": "nivea",
       "score": 1150000,
       "traffic_numeric": 200000,
@@ -203,20 +210,13 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
-    },
-    {
-      "keyword": "pt organics fruit pouch recall",
-      "score": 1100000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-24 20:10:39"
     }
   ],
   "category_stats": {
-    "其他": 115,
-    "体育": 37,
+    "其他": 117,
+    "体育": 39,
     "科技/AI": 10,
-    "娱乐/生活": 3,
+    "娱乐/生活": 5,
     "金融/商业": 3
   },
   "insights": []

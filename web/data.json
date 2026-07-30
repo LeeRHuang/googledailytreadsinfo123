@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-30 03:47:57",
+  "last_updated": "2026-07-30 09:31:00",
   "trends": [
     {
       "keyword": "kaylee hottle",
-      "score": 10000000,
+      "score": 9000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-25 14:20:18"
@@ -16,20 +16,6 @@
       "timestamp": "2026-07-26 04:20:47"
     },
     {
-      "keyword": "ryan clark",
-      "score": 7000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-26 14:14:54"
-    },
-    {
-      "keyword": "tropical storm bertha",
-      "score": 7000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-24 14:38:14"
-    },
-    {
       "keyword": "david jonsson",
       "score": 6600000,
       "traffic_numeric": 500000,
@@ -37,18 +23,32 @@
       "timestamp": "2026-07-29 14:59:54"
     },
     {
-      "keyword": "andrew tate",
+      "keyword": "tony romo",
+      "score": 6200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-30 09:31:00"
+    },
+    {
+      "keyword": "ryan clark",
       "score": 6000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-26 14:14:54"
+    },
+    {
+      "keyword": "andrew tate",
+      "score": 5000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-25 19:57:58"
     },
     {
-      "keyword": "tony romo",
-      "score": 5700000,
-      "traffic_numeric": 500000,
+      "keyword": "tropical storm bertha",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-30 03:47:56"
+      "timestamp": "2026-07-24 14:38:14"
     },
     {
       "keyword": "ghost rider",
@@ -56,6 +56,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
+    },
+    {
+      "keyword": "spiderman brand new day",
+      "score": 4500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-30 09:31:00"
     },
     {
       "keyword": "lebron james",
@@ -79,20 +86,6 @@
       "timestamp": "2026-07-29 03:58:49"
     },
     {
-      "keyword": "jimothy",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-23 20:13:06"
-    },
-    {
-      "keyword": "spiderman brand new day",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-30 03:47:56"
-    },
-    {
       "keyword": "jackson koivun",
       "score": 3300000,
       "traffic_numeric": 500000,
@@ -108,17 +101,10 @@
     },
     {
       "keyword": "masters of the universe",
-      "score": 2950000,
+      "score": 2800000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
-    },
-    {
-      "keyword": "d4vd",
-      "score": 2500000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-28 03:56:22"
     },
     {
       "keyword": "72 hours",
@@ -126,6 +112,20 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-30 03:47:56"
+    },
+    {
+      "keyword": "d4vd",
+      "score": 2400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-28 03:56:22"
+    },
+    {
+      "keyword": "jimothy",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-23 20:13:06"
     },
     {
       "keyword": "tractor supply is closing 75 underperforming petsense retail locations",
@@ -136,10 +136,10 @@
     },
     {
       "keyword": "lindsay clancy",
-      "score": 1600000,
+      "score": 1800000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-30 03:47:56"
+      "timestamp": "2026-07-30 09:31:00"
     },
     {
       "keyword": "egg recall",
@@ -149,13 +149,6 @@
       "timestamp": "2026-07-27 15:36:34"
     },
     {
-      "keyword": "avengers doomsday",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-24 04:01:48"
-    },
-    {
       "keyword": "yankees vs phillies",
       "score": 1500000,
       "traffic_numeric": 200000,
@@ -163,11 +156,11 @@
       "timestamp": "2026-07-27 15:36:34"
     },
     {
-      "keyword": "dodgers vs mets",
-      "score": 1300000,
+      "keyword": "japan earthquake",
+      "score": 1350000,
       "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-07-27 04:28:57"
+      "category": "其他",
+      "timestamp": "2026-07-30 09:31:00"
     },
     {
       "keyword": "bronny james",
@@ -175,6 +168,13 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-28 20:12:18"
+    },
+    {
+      "keyword": "dodgers vs mets",
+      "score": 1300000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-07-27 04:28:57"
     },
     {
       "keyword": "kai sato adrift at sea",
@@ -191,13 +191,6 @@
       "timestamp": "2026-07-27 10:38:31"
     },
     {
-      "keyword": "japan earthquake",
-      "score": 1150000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-30 03:47:56"
-    },
-    {
       "keyword": "nivea",
       "score": 1150000,
       "traffic_numeric": 200000,
@@ -210,14 +203,21 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
+    },
+    {
+      "keyword": "lou koller tribute news",
+      "score": 1100000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-27 10:38:31"
     }
   ],
   "category_stats": {
-    "其他": 117,
-    "体育": 39,
-    "科技/AI": 10,
+    "其他": 112,
+    "体育": 34,
+    "科技/AI": 11,
     "娱乐/生活": 5,
-    "金融/商业": 3
+    "金融/商业": 4
   },
   "insights": []
 }

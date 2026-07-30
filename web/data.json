@@ -1,19 +1,26 @@
 {
-  "last_updated": "2026-07-30 09:31:00",
+  "last_updated": "2026-07-30 15:09:26",
   "trends": [
-    {
-      "keyword": "kaylee hottle",
-      "score": 9000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-25 14:20:18"
-    },
     {
       "keyword": "76ers roster",
       "score": 8000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-26 04:20:47"
+    },
+    {
+      "keyword": "kaylee hottle",
+      "score": 8000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-25 14:20:18"
+    },
+    {
+      "keyword": "tony romo",
+      "score": 6700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-30 15:09:26"
     },
     {
       "keyword": "david jonsson",
@@ -23,32 +30,18 @@
       "timestamp": "2026-07-29 14:59:54"
     },
     {
-      "keyword": "tony romo",
-      "score": 6200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-30 09:31:00"
-    },
-    {
       "keyword": "ryan clark",
-      "score": 6000000,
+      "score": 5500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-26 14:14:54"
     },
     {
-      "keyword": "andrew tate",
-      "score": 5000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-25 19:57:58"
-    },
-    {
-      "keyword": "tropical storm bertha",
+      "keyword": "spiderman brand new day",
       "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-24 14:38:14"
+      "timestamp": "2026-07-30 15:09:26"
     },
     {
       "keyword": "ghost rider",
@@ -58,11 +51,11 @@
       "timestamp": "2026-07-29 03:58:49"
     },
     {
-      "keyword": "spiderman brand new day",
+      "keyword": "andrew tate",
       "score": 4500000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-30 09:31:00"
+      "timestamp": "2026-07-25 19:57:58"
     },
     {
       "keyword": "lebron james",
@@ -70,6 +63,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-07-25 04:02:55"
+    },
+    {
+      "keyword": "tropical storm bertha",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-24 14:38:14"
     },
     {
       "keyword": "tmobile outage",
@@ -101,7 +101,7 @@
     },
     {
       "keyword": "masters of the universe",
-      "score": 2800000,
+      "score": 2700000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
@@ -115,17 +115,17 @@
     },
     {
       "keyword": "d4vd",
-      "score": 2400000,
+      "score": 2350000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-28 03:56:22"
     },
     {
-      "keyword": "jimothy",
+      "keyword": "lindsay clancy",
       "score": 2000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-23 20:13:06"
+      "timestamp": "2026-07-30 15:09:26"
     },
     {
       "keyword": "tractor supply is closing 75 underperforming petsense retail locations",
@@ -135,18 +135,18 @@
       "timestamp": "2026-07-29 20:10:14"
     },
     {
-      "keyword": "lindsay clancy",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-30 09:31:00"
-    },
-    {
       "keyword": "egg recall",
       "score": 1600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-27 15:36:34"
+    },
+    {
+      "keyword": "japan earthquake",
+      "score": 1550000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-30 15:09:26"
     },
     {
       "keyword": "yankees vs phillies",
@@ -156,18 +156,11 @@
       "timestamp": "2026-07-27 15:36:34"
     },
     {
-      "keyword": "japan earthquake",
-      "score": 1350000,
-      "traffic_numeric": 200000,
+      "keyword": "fauci",
+      "score": 1500000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-30 09:31:00"
-    },
-    {
-      "keyword": "bronny james",
-      "score": 1300000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-28 20:12:18"
+      "timestamp": "2026-07-30 15:09:26"
     },
     {
       "keyword": "dodgers vs mets",
@@ -177,6 +170,20 @@
       "timestamp": "2026-07-27 04:28:57"
     },
     {
+      "keyword": "yankees vs white sox",
+      "score": 1300000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-07-30 15:09:26"
+    },
+    {
+      "keyword": "bronny james",
+      "score": 1300000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-28 20:12:18"
+    },
+    {
       "keyword": "kai sato adrift at sea",
       "score": 1250000,
       "traffic_numeric": 200000,
@@ -184,40 +191,33 @@
       "timestamp": "2026-07-29 14:59:54"
     },
     {
+      "keyword": "madison beer",
+      "score": 1250000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-30 15:09:26"
+    },
+    {
+      "keyword": "cubs vs cardinals",
+      "score": 1200000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-07-30 15:09:26"
+    },
+    {
       "keyword": "wnba all star game",
       "score": 1200000,
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-07-27 10:38:31"
-    },
-    {
-      "keyword": "nivea",
-      "score": 1150000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-25 14:20:18"
-    },
-    {
-      "keyword": "eric bieniemy",
-      "score": 1120000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-29 03:58:49"
-    },
-    {
-      "keyword": "lou koller tribute news",
-      "score": 1100000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-27 10:38:31"
     }
   ],
   "category_stats": {
     "其他": 112,
-    "体育": 34,
-    "科技/AI": 11,
+    "体育": 32,
+    "科技/AI": 10,
     "娱乐/生活": 5,
-    "金融/商业": 4
+    "金融/商业": 5
   },
   "insights": []
 }

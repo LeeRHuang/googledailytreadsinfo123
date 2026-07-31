@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-07-31 09:36:55",
+  "last_updated": "2026-07-31 15:11:29",
   "trends": [
     {
       "keyword": "spiderman brand new day",
-      "score": 10000000,
+      "score": 12000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-31 09:36:55"
+      "timestamp": "2026-07-31 15:11:29"
     },
     {
       "keyword": "tony romo",
-      "score": 8200000,
+      "score": 8700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-31 09:36:55"
+      "timestamp": "2026-07-31 15:11:29"
     },
     {
       "keyword": "76ers roster",
@@ -30,32 +30,11 @@
       "timestamp": "2026-07-29 14:59:54"
     },
     {
-      "keyword": "kaylee hottle",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-25 14:20:18"
-    },
-    {
       "keyword": "ghost rider",
       "score": 4600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
-    },
-    {
-      "keyword": "lebron james",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-25 04:02:55"
-    },
-    {
-      "keyword": "ryan clark",
-      "score": 4000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-26 14:14:54"
     },
     {
       "keyword": "tmobile outage",
@@ -65,11 +44,39 @@
       "timestamp": "2026-07-29 14:59:54"
     },
     {
+      "keyword": "kaylee hottle",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-25 14:20:18"
+    },
+    {
+      "keyword": "lebron james",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-25 04:02:55"
+    },
+    {
       "keyword": "seattle shooting",
       "score": 3900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
+    },
+    {
+      "keyword": "ryan clark",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-26 14:14:54"
+    },
+    {
+      "keyword": "fauci",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-31 15:11:29"
     },
     {
       "keyword": "jackson koivun",
@@ -79,13 +86,6 @@
       "timestamp": "2026-07-28 15:05:38"
     },
     {
-      "keyword": "andrew tate",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-25 19:57:58"
-    },
-    {
       "keyword": "ransom canyon",
       "score": 3000000,
       "traffic_numeric": 200000,
@@ -93,15 +93,8 @@
       "timestamp": "2026-07-29 03:58:49"
     },
     {
-      "keyword": "fauci",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-31 09:36:55"
-    },
-    {
       "keyword": "lindsay clancy",
-      "score": 2800000,
+      "score": 2700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-31 04:10:32"
@@ -114,15 +107,29 @@
       "timestamp": "2026-07-31 04:10:32"
     },
     {
+      "keyword": "andrew tate",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-25 19:57:58"
+    },
+    {
+      "keyword": "glen hansard",
+      "score": 2450000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-31 15:11:29"
+    },
+    {
       "keyword": "masters of the universe",
-      "score": 2400000,
+      "score": 2300000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
     },
     {
       "keyword": "d4vd",
-      "score": 2100000,
+      "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-28 03:56:22"
@@ -133,13 +140,6 @@
       "traffic_numeric": 200000,
       "category": "科技/AI",
       "timestamp": "2026-07-29 20:10:14"
-    },
-    {
-      "keyword": "glen hansard",
-      "score": 1950000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-31 09:36:55"
     },
     {
       "keyword": "yankees vs white sox",
@@ -163,13 +163,6 @@
       "timestamp": "2026-07-31 09:36:55"
     },
     {
-      "keyword": "egg recall",
-      "score": 1600000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-27 15:36:34"
-    },
-    {
       "keyword": "japan earthquake",
       "score": 1550000,
       "traffic_numeric": 200000,
@@ -184,11 +177,18 @@
       "timestamp": "2026-07-27 15:36:34"
     },
     {
-      "keyword": "dodgers vs mets",
-      "score": 1300000,
+      "keyword": "mariners vs dodgers",
+      "score": 1450000,
       "traffic_numeric": 200000,
       "category": "体育",
-      "timestamp": "2026-07-27 04:28:57"
+      "timestamp": "2026-07-31 15:11:29"
+    },
+    {
+      "keyword": "egg recall",
+      "score": 1400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-27 15:36:34"
     },
     {
       "keyword": "bronny james",
@@ -198,11 +198,11 @@
       "timestamp": "2026-07-28 20:12:18"
     },
     {
-      "keyword": "mariners vs dodgers",
-      "score": 1250000,
+      "keyword": "dodgers vs mets",
+      "score": 1300000,
       "traffic_numeric": 200000,
       "category": "体育",
-      "timestamp": "2026-07-31 09:36:55"
+      "timestamp": "2026-07-27 04:28:57"
     },
     {
       "keyword": "kai sato adrift at sea",
@@ -213,11 +213,11 @@
     }
   ],
   "category_stats": {
-    "其他": 117,
+    "其他": 113,
     "体育": 33,
-    "科技/AI": 9,
+    "科技/AI": 8,
     "娱乐/生活": 6,
-    "金融/商业": 4
+    "金融/商业": 5
   },
   "insights": []
 }

@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-07-31 15:11:29",
+  "last_updated": "2026-07-31 20:19:17",
   "trends": [
     {
       "keyword": "spiderman brand new day",
-      "score": 12000000,
+      "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-31 15:11:29"
+      "timestamp": "2026-07-31 20:19:17"
     },
     {
       "keyword": "tony romo",
-      "score": 8700000,
+      "score": 8600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-31 15:11:29"
@@ -44,18 +44,11 @@
       "timestamp": "2026-07-29 14:59:54"
     },
     {
-      "keyword": "kaylee hottle",
+      "keyword": "fauci",
       "score": 4000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-25 14:20:18"
-    },
-    {
-      "keyword": "lebron james",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-25 04:02:55"
+      "timestamp": "2026-07-31 20:19:17"
     },
     {
       "keyword": "seattle shooting",
@@ -72,18 +65,25 @@
       "timestamp": "2026-07-26 14:14:54"
     },
     {
-      "keyword": "fauci",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-31 15:11:29"
-    },
-    {
       "keyword": "jackson koivun",
       "score": 3300000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-28 15:05:38"
+    },
+    {
+      "keyword": "lindsay clancy",
+      "score": 3100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-31 20:19:17"
+    },
+    {
+      "keyword": "kaylee hottle",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-07-25 14:20:18"
     },
     {
       "keyword": "ransom canyon",
@@ -93,11 +93,11 @@
       "timestamp": "2026-07-29 03:58:49"
     },
     {
-      "keyword": "lindsay clancy",
-      "score": 2700000,
+      "keyword": "glen hansard",
+      "score": 2950000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-31 04:10:32"
+      "timestamp": "2026-07-31 20:19:17"
     },
     {
       "keyword": "72 hours",
@@ -107,32 +107,32 @@
       "timestamp": "2026-07-31 04:10:32"
     },
     {
-      "keyword": "andrew tate",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-25 19:57:58"
-    },
-    {
-      "keyword": "glen hansard",
-      "score": 2450000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-31 15:11:29"
-    },
-    {
       "keyword": "masters of the universe",
-      "score": 2300000,
+      "score": 2200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
     },
     {
-      "keyword": "d4vd",
-      "score": 2000000,
+      "keyword": "madison beer",
+      "score": 2050000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-28 03:56:22"
+      "timestamp": "2026-07-31 20:19:17"
+    },
+    {
+      "keyword": "lebron james",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-25 04:02:55"
+    },
+    {
+      "keyword": "andrew tate",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-25 19:57:58"
     },
     {
       "keyword": "tractor supply is closing 75 underperforming petsense retail locations",
@@ -142,17 +142,17 @@
       "timestamp": "2026-07-29 20:10:14"
     },
     {
+      "keyword": "d4vd",
+      "score": 1900000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-28 03:56:22"
+    },
+    {
       "keyword": "yankees vs white sox",
       "score": 1900000,
       "traffic_numeric": 200000,
       "category": "体育",
-      "timestamp": "2026-07-31 09:36:55"
-    },
-    {
-      "keyword": "madison beer",
-      "score": 1850000,
-      "traffic_numeric": 200000,
-      "category": "其他",
       "timestamp": "2026-07-31 09:36:55"
     },
     {
@@ -184,11 +184,11 @@
       "timestamp": "2026-07-31 15:11:29"
     },
     {
-      "keyword": "egg recall",
-      "score": 1400000,
+      "keyword": "dodgers vs mets",
+      "score": 1300000,
       "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-27 15:36:34"
+      "category": "体育",
+      "timestamp": "2026-07-27 04:28:57"
     },
     {
       "keyword": "bronny james",
@@ -198,26 +198,26 @@
       "timestamp": "2026-07-28 20:12:18"
     },
     {
-      "keyword": "dodgers vs mets",
-      "score": 1300000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-07-27 04:28:57"
-    },
-    {
       "keyword": "kai sato adrift at sea",
       "score": 1250000,
       "traffic_numeric": 200000,
       "category": "科技/AI",
       "timestamp": "2026-07-29 14:59:54"
+    },
+    {
+      "keyword": "wnba all star game",
+      "score": 1200000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-07-27 10:38:31"
     }
   ],
   "category_stats": {
-    "其他": 113,
-    "体育": 33,
+    "其他": 109,
+    "体育": 34,
     "科技/AI": 8,
     "娱乐/生活": 6,
-    "金融/商业": 5
+    "金融/商业": 4
   },
   "insights": []
 }

@@ -1,26 +1,19 @@
 {
-  "last_updated": "2026-08-01 09:02:33",
+  "last_updated": "2026-08-01 14:25:25",
   "trends": [
     {
       "keyword": "spiderman brand new day",
-      "score": 18000000,
+      "score": 20000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-08-01 09:02:33"
+      "timestamp": "2026-08-01 14:25:25"
     },
     {
       "keyword": "tony romo",
-      "score": 8400000,
+      "score": 8000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-31 15:11:29"
-    },
-    {
-      "keyword": "76ers roster",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-26 04:20:47"
     },
     {
       "keyword": "david jonsson",
@@ -31,10 +24,10 @@
     },
     {
       "keyword": "fauci",
-      "score": 5000000,
+      "score": 5500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-01 09:02:33"
+      "timestamp": "2026-08-01 14:25:25"
     },
     {
       "keyword": "ghost rider",
@@ -44,18 +37,25 @@
       "timestamp": "2026-07-29 03:58:49"
     },
     {
+      "keyword": "glen hansard",
+      "score": 4450000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-01 14:25:25"
+    },
+    {
+      "keyword": "76ers roster",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-07-26 04:20:47"
+    },
+    {
       "keyword": "tmobile outage",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-29 14:59:54"
-    },
-    {
-      "keyword": "glen hansard",
-      "score": 3950000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-01 09:02:33"
     },
     {
       "keyword": "seattle shooting",
@@ -66,7 +66,7 @@
     },
     {
       "keyword": "lindsay clancy",
-      "score": 3500000,
+      "score": 3300000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-01 04:10:48"
@@ -79,22 +79,15 @@
       "timestamp": "2026-07-28 15:05:38"
     },
     {
-      "keyword": "ryan clark",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-26 14:14:54"
-    },
-    {
       "keyword": "ransom canyon",
-      "score": 2900000,
+      "score": 2700000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
     },
     {
       "keyword": "72 hours",
-      "score": 2600000,
+      "score": 2500000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-31 04:10:32"
@@ -107,18 +100,11 @@
       "timestamp": "2026-07-31 20:19:17"
     },
     {
-      "keyword": "kaylee hottle",
+      "keyword": "ryan clark",
       "score": 2000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-25 14:20:18"
-    },
-    {
-      "keyword": "masters of the universe",
-      "score": 2000000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-29 03:58:49"
+      "timestamp": "2026-07-26 14:14:54"
     },
     {
       "keyword": "tractor supply is closing 75 underperforming petsense retail locations",
@@ -135,18 +121,25 @@
       "timestamp": "2026-07-31 09:36:55"
     },
     {
-      "keyword": "d4vd",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-28 03:56:22"
-    },
-    {
       "keyword": "cubs vs cardinals",
       "score": 1800000,
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-07-31 09:36:55"
+    },
+    {
+      "keyword": "d4vd",
+      "score": 1600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-28 03:56:22"
+    },
+    {
+      "keyword": "masters of the universe",
+      "score": 1600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-29 03:58:49"
     },
     {
       "keyword": "japan earthquake",
@@ -156,11 +149,18 @@
       "timestamp": "2026-07-30 15:09:26"
     },
     {
-      "keyword": "andrew tate",
-      "score": 1500000,
-      "traffic_numeric": 500000,
+      "keyword": "jared leto",
+      "score": 1520000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-25 19:57:58"
+      "timestamp": "2026-08-01 14:25:25"
+    },
+    {
+      "keyword": "bryan kohberger",
+      "score": 1450000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-01 14:25:25"
     },
     {
       "keyword": "mariners vs dodgers",
@@ -170,36 +170,15 @@
       "timestamp": "2026-07-31 15:11:29"
     },
     {
-      "keyword": "yankees vs phillies",
+      "keyword": "sadie sink",
       "score": 1400000,
       "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-07-27 15:36:34"
-    },
-    {
-      "keyword": "jared leto",
-      "score": 1320000,
-      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-01 09:02:33"
+      "timestamp": "2026-08-01 14:25:25"
     },
     {
       "keyword": "kavinsky",
       "score": 1270000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-01 09:02:33"
-    },
-    {
-      "keyword": "bronny james",
-      "score": 1250000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-28 20:12:18"
-    },
-    {
-      "keyword": "bryan kohberger",
-      "score": 1250000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-01 09:02:33"
@@ -210,12 +189,33 @@
       "traffic_numeric": 200000,
       "category": "科技/AI",
       "timestamp": "2026-07-29 14:59:54"
+    },
+    {
+      "keyword": "wnba all star game",
+      "score": 1200000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-07-27 10:38:31"
+    },
+    {
+      "keyword": "yankees vs phillies",
+      "score": 1200000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-07-27 15:36:34"
+    },
+    {
+      "keyword": "jean grey",
+      "score": 1150000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-01 14:25:25"
     }
   ],
   "category_stats": {
-    "其他": 113,
-    "体育": 40,
-    "科技/AI": 8,
+    "其他": 108,
+    "体育": 39,
+    "科技/AI": 7,
     "娱乐/生活": 6,
     "金融/商业": 4
   },

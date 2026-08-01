@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-07-31 20:19:17",
+  "last_updated": "2026-08-01 04:10:48",
   "trends": [
     {
       "keyword": "spiderman brand new day",
-      "score": 14000000,
+      "score": 16000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-07-31 20:19:17"
+      "timestamp": "2026-08-01 04:10:48"
     },
     {
       "keyword": "tony romo",
-      "score": 8600000,
+      "score": 8400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-31 15:11:29"
@@ -37,18 +37,18 @@
       "timestamp": "2026-07-29 03:58:49"
     },
     {
+      "keyword": "fauci",
+      "score": 4500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-01 04:10:48"
+    },
+    {
       "keyword": "tmobile outage",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-29 14:59:54"
-    },
-    {
-      "keyword": "fauci",
-      "score": 4000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-31 20:19:17"
     },
     {
       "keyword": "seattle shooting",
@@ -58,11 +58,18 @@
       "timestamp": "2026-07-29 03:58:49"
     },
     {
-      "keyword": "ryan clark",
+      "keyword": "lindsay clancy",
       "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-26 14:14:54"
+      "timestamp": "2026-08-01 04:10:48"
+    },
+    {
+      "keyword": "glen hansard",
+      "score": 3450000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-01 04:10:48"
     },
     {
       "keyword": "jackson koivun",
@@ -72,46 +79,25 @@
       "timestamp": "2026-07-28 15:05:38"
     },
     {
-      "keyword": "lindsay clancy",
-      "score": 3100000,
+      "keyword": "ryan clark",
+      "score": 3000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-31 20:19:17"
-    },
-    {
-      "keyword": "kaylee hottle",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-25 14:20:18"
+      "timestamp": "2026-07-26 14:14:54"
     },
     {
       "keyword": "ransom canyon",
-      "score": 3000000,
+      "score": 2900000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
-    },
-    {
-      "keyword": "glen hansard",
-      "score": 2950000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-31 20:19:17"
     },
     {
       "keyword": "72 hours",
-      "score": 2650000,
+      "score": 2600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-31 04:10:32"
-    },
-    {
-      "keyword": "masters of the universe",
-      "score": 2200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-29 03:58:49"
     },
     {
       "keyword": "madison beer",
@@ -121,18 +107,18 @@
       "timestamp": "2026-07-31 20:19:17"
     },
     {
-      "keyword": "lebron james",
+      "keyword": "kaylee hottle",
       "score": 2000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-07-25 04:02:55"
+      "timestamp": "2026-07-25 14:20:18"
     },
     {
-      "keyword": "andrew tate",
+      "keyword": "masters of the universe",
       "score": 2000000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-25 19:57:58"
+      "timestamp": "2026-07-29 03:58:49"
     },
     {
       "keyword": "tractor supply is closing 75 underperforming petsense retail locations",
@@ -140,13 +126,6 @@
       "traffic_numeric": 200000,
       "category": "科技/AI",
       "timestamp": "2026-07-29 20:10:14"
-    },
-    {
-      "keyword": "d4vd",
-      "score": 1900000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-28 03:56:22"
     },
     {
       "keyword": "yankees vs white sox",
@@ -163,6 +142,13 @@
       "timestamp": "2026-07-31 09:36:55"
     },
     {
+      "keyword": "d4vd",
+      "score": 1800000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-28 03:56:22"
+    },
+    {
       "keyword": "japan earthquake",
       "score": 1550000,
       "traffic_numeric": 200000,
@@ -170,11 +156,11 @@
       "timestamp": "2026-07-30 15:09:26"
     },
     {
-      "keyword": "yankees vs phillies",
+      "keyword": "andrew tate",
       "score": 1500000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-07-27 15:36:34"
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-25 19:57:58"
     },
     {
       "keyword": "mariners vs dodgers",
@@ -184,18 +170,11 @@
       "timestamp": "2026-07-31 15:11:29"
     },
     {
-      "keyword": "dodgers vs mets",
-      "score": 1300000,
+      "keyword": "yankees vs phillies",
+      "score": 1400000,
       "traffic_numeric": 200000,
       "category": "体育",
-      "timestamp": "2026-07-27 04:28:57"
-    },
-    {
-      "keyword": "bronny james",
-      "score": 1300000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-28 20:12:18"
+      "timestamp": "2026-07-27 15:36:34"
     },
     {
       "keyword": "kai sato adrift at sea",
@@ -205,16 +184,37 @@
       "timestamp": "2026-07-29 14:59:54"
     },
     {
+      "keyword": "bronny james",
+      "score": 1250000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-28 20:12:18"
+    },
+    {
       "keyword": "wnba all star game",
       "score": 1200000,
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-07-27 10:38:31"
+    },
+    {
+      "keyword": "dodgers vs mets",
+      "score": 1200000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-07-27 04:28:57"
+    },
+    {
+      "keyword": "eric bieniemy",
+      "score": 1120000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-29 03:58:49"
     }
   ],
   "category_stats": {
     "其他": 109,
-    "体育": 34,
+    "体育": 39,
     "科技/AI": 8,
     "娱乐/生活": 6,
     "金融/商业": 4

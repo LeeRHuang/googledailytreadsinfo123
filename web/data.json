@@ -1,12 +1,19 @@
 {
-  "last_updated": "2026-08-02 14:27:13",
+  "last_updated": "2026-08-02 19:56:06",
   "trends": [
     {
       "keyword": "spiderman brand new day",
-      "score": 37000000,
+      "score": 42000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-08-02 14:27:13"
+      "timestamp": "2026-08-02 19:56:06"
+    },
+    {
+      "keyword": "fauci",
+      "score": 7200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-02 19:56:06"
     },
     {
       "keyword": "tony romo",
@@ -16,18 +23,11 @@
       "timestamp": "2026-07-31 15:11:29"
     },
     {
-      "keyword": "fauci",
-      "score": 7000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-02 14:27:13"
-    },
-    {
       "keyword": "glen hansard",
-      "score": 6450000,
+      "score": 6950000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-02 14:27:13"
+      "timestamp": "2026-08-02 19:56:06"
     },
     {
       "keyword": "david jonsson",
@@ -73,24 +73,31 @@
     },
     {
       "keyword": "ceuta",
-      "score": 2360000,
+      "score": 2860000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-02 14:27:13"
+      "timestamp": "2026-08-02 19:56:06"
     },
     {
       "keyword": "bryan kohberger",
-      "score": 2250000,
+      "score": 2450000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-02 14:27:13"
+      "timestamp": "2026-08-02 19:56:06"
     },
     {
       "keyword": "sadie sink",
-      "score": 2200000,
+      "score": 2400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-02 14:27:13"
+      "timestamp": "2026-08-02 19:56:06"
+    },
+    {
+      "keyword": "jean grey",
+      "score": 2150000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-02 19:56:06"
     },
     {
       "keyword": "madison beer",
@@ -105,13 +112,6 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
-    },
-    {
-      "keyword": "jean grey",
-      "score": 1950000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-02 14:27:13"
     },
     {
       "keyword": "tractor supply is closing 75 underperforming petsense retail locations",
@@ -140,6 +140,13 @@
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-07-31 09:36:55"
+    },
+    {
+      "keyword": "tarik skubal",
+      "score": 1700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-02 19:56:06"
     },
     {
       "keyword": "japan earthquake",
@@ -184,13 +191,6 @@
       "timestamp": "2026-07-28 03:56:22"
     },
     {
-      "keyword": "tarik skubal",
-      "score": 1200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-02 14:27:13"
-    },
-    {
       "keyword": "idaho murders",
       "score": 1170000,
       "traffic_numeric": 200000,
@@ -205,16 +205,16 @@
       "timestamp": "2026-08-02 04:25:04"
     },
     {
-      "keyword": "eric bieniemy",
-      "score": 1120000,
+      "keyword": "yankees vs cubs",
+      "score": 1150000,
       "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-29 03:58:49"
+      "category": "体育",
+      "timestamp": "2026-08-02 19:56:06"
     }
   ],
   "category_stats": {
-    "其他": 105,
-    "体育": 38,
+    "其他": 107,
+    "体育": 40,
     "科技/AI": 8,
     "娱乐/生活": 7,
     "金融/商业": 4

@@ -1,44 +1,44 @@
 {
-  "last_updated": "2026-08-02 09:12:53",
+  "last_updated": "2026-08-02 14:27:13",
   "trends": [
     {
       "keyword": "spiderman brand new day",
-      "score": 32000000,
+      "score": 37000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-08-02 09:12:53"
+      "timestamp": "2026-08-02 14:27:13"
     },
     {
       "keyword": "tony romo",
-      "score": 7400000,
+      "score": 7200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-31 15:11:29"
     },
     {
       "keyword": "fauci",
-      "score": 6500000,
+      "score": 7000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-02 04:25:04"
+      "timestamp": "2026-08-02 14:27:13"
+    },
+    {
+      "keyword": "glen hansard",
+      "score": 6450000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-02 14:27:13"
     },
     {
       "keyword": "david jonsson",
-      "score": 6200000,
+      "score": 6000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-29 14:59:54"
     },
     {
-      "keyword": "glen hansard",
-      "score": 5950000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-02 09:12:53"
-    },
-    {
       "keyword": "ghost rider",
-      "score": 4300000,
+      "score": 4100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
@@ -72,11 +72,25 @@
       "timestamp": "2026-07-28 15:05:38"
     },
     {
-      "keyword": "ransom canyon",
+      "keyword": "ceuta",
+      "score": 2360000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-02 14:27:13"
+    },
+    {
+      "keyword": "bryan kohberger",
+      "score": 2250000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-02 14:27:13"
+    },
+    {
+      "keyword": "sadie sink",
       "score": 2200000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-29 03:58:49"
+      "timestamp": "2026-08-02 14:27:13"
     },
     {
       "keyword": "madison beer",
@@ -86,29 +100,22 @@
       "timestamp": "2026-07-31 20:19:17"
     },
     {
-      "keyword": "bryan kohberger",
-      "score": 2050000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-02 09:12:53"
-    },
-    {
-      "keyword": "72 hours",
+      "keyword": "ransom canyon",
       "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-31 04:10:32"
+      "timestamp": "2026-07-29 03:58:49"
     },
     {
-      "keyword": "sadie sink",
-      "score": 2000000,
+      "keyword": "jean grey",
+      "score": 1950000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-02 09:12:53"
+      "timestamp": "2026-08-02 14:27:13"
     },
     {
       "keyword": "tractor supply is closing 75 underperforming petsense retail locations",
-      "score": 1950000,
+      "score": 1900000,
       "traffic_numeric": 200000,
       "category": "科技/AI",
       "timestamp": "2026-07-29 20:10:14"
@@ -121,11 +128,11 @@
       "timestamp": "2026-07-31 09:36:55"
     },
     {
-      "keyword": "ceuta",
-      "score": 1860000,
-      "traffic_numeric": 500000,
+      "keyword": "72 hours",
+      "score": 1800000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-02 09:12:53"
+      "timestamp": "2026-07-31 04:10:32"
     },
     {
       "keyword": "cubs vs cardinals",
@@ -133,13 +140,6 @@
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-07-31 09:36:55"
-    },
-    {
-      "keyword": "jean grey",
-      "score": 1750000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-02 09:12:53"
     },
     {
       "keyword": "japan earthquake",
@@ -163,13 +163,6 @@
       "timestamp": "2026-07-31 15:11:29"
     },
     {
-      "keyword": "d4vd",
-      "score": 1300000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-28 03:56:22"
-    },
-    {
       "keyword": "kavinsky",
       "score": 1270000,
       "traffic_numeric": 200000,
@@ -184,6 +177,27 @@
       "timestamp": "2026-07-29 14:59:54"
     },
     {
+      "keyword": "d4vd",
+      "score": 1200000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-28 03:56:22"
+    },
+    {
+      "keyword": "tarik skubal",
+      "score": 1200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-02 14:27:13"
+    },
+    {
+      "keyword": "idaho murders",
+      "score": 1170000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-02 14:27:13"
+    },
+    {
       "keyword": "lollapalooza",
       "score": 1150000,
       "traffic_numeric": 200000,
@@ -196,24 +210,10 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
-    },
-    {
-      "keyword": "bronny james",
-      "score": 1100000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-28 20:12:18"
-    },
-    {
-      "keyword": "birmingham vs barcelona",
-      "score": 1000000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-08-01 14:25:25"
     }
   ],
   "category_stats": {
-    "其他": 110,
+    "其他": 105,
     "体育": 38,
     "科技/AI": 8,
     "娱乐/生活": 7,

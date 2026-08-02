@@ -1,44 +1,44 @@
 {
-  "last_updated": "2026-08-01 20:00:48",
+  "last_updated": "2026-08-02 04:25:04",
   "trends": [
     {
       "keyword": "spiderman brand new day",
-      "score": 22000000,
-      "traffic_numeric": 2000000,
+      "score": 27000000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-08-01 20:00:48"
+      "timestamp": "2026-08-02 04:25:04"
     },
     {
       "keyword": "tony romo",
-      "score": 7800000,
+      "score": 7600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-31 15:11:29"
     },
     {
+      "keyword": "fauci",
+      "score": 6500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-02 04:25:04"
+    },
+    {
       "keyword": "david jonsson",
-      "score": 6600000,
+      "score": 6400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-29 14:59:54"
     },
     {
-      "keyword": "fauci",
-      "score": 6000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-01 20:00:48"
-    },
-    {
       "keyword": "glen hansard",
-      "score": 4950000,
+      "score": 5450000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-01 20:00:48"
+      "timestamp": "2026-08-02 04:25:04"
     },
     {
       "keyword": "ghost rider",
-      "score": 4600000,
+      "score": 4500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
@@ -58,13 +58,6 @@
       "timestamp": "2026-07-29 03:58:49"
     },
     {
-      "keyword": "jackson koivun",
-      "score": 3300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-28 15:05:38"
-    },
-    {
       "keyword": "lindsay clancy",
       "score": 3300000,
       "traffic_numeric": 500000,
@@ -72,15 +65,22 @@
       "timestamp": "2026-08-01 04:10:48"
     },
     {
+      "keyword": "jackson koivun",
+      "score": 3200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-28 15:05:38"
+    },
+    {
       "keyword": "ransom canyon",
-      "score": 2600000,
+      "score": 2400000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
     },
     {
       "keyword": "72 hours",
-      "score": 2400000,
+      "score": 2200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-31 04:10:32"
@@ -91,13 +91,6 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-31 20:19:17"
-    },
-    {
-      "keyword": "76ers roster",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-07-26 04:20:47"
     },
     {
       "keyword": "tractor supply is closing 75 underperforming petsense retail locations",
@@ -114,6 +107,20 @@
       "timestamp": "2026-07-31 09:36:55"
     },
     {
+      "keyword": "bryan kohberger",
+      "score": 1850000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-02 04:25:04"
+    },
+    {
+      "keyword": "sadie sink",
+      "score": 1800000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-02 04:25:04"
+    },
+    {
       "keyword": "cubs vs cardinals",
       "score": 1800000,
       "traffic_numeric": 200000,
@@ -121,18 +128,18 @@
       "timestamp": "2026-07-31 09:36:55"
     },
     {
-      "keyword": "bryan kohberger",
-      "score": 1650000,
-      "traffic_numeric": 200000,
+      "keyword": "ceuta",
+      "score": 1660000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-01 20:00:48"
+      "timestamp": "2026-08-02 04:25:04"
     },
     {
-      "keyword": "sadie sink",
-      "score": 1600000,
+      "keyword": "jean grey",
+      "score": 1550000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-01 20:00:48"
+      "timestamp": "2026-08-02 04:25:04"
     },
     {
       "keyword": "japan earthquake",
@@ -149,20 +156,6 @@
       "timestamp": "2026-08-01 14:25:25"
     },
     {
-      "keyword": "d4vd",
-      "score": 1500000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-28 03:56:22"
-    },
-    {
-      "keyword": "ryan clark",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-26 14:14:54"
-    },
-    {
       "keyword": "mariners vs dodgers",
       "score": 1450000,
       "traffic_numeric": 200000,
@@ -170,18 +163,11 @@
       "timestamp": "2026-07-31 15:11:29"
     },
     {
-      "keyword": "masters of the universe",
+      "keyword": "d4vd",
       "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-29 03:58:49"
-    },
-    {
-      "keyword": "jean grey",
-      "score": 1350000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-01 20:00:48"
+      "timestamp": "2026-07-28 03:56:22"
     },
     {
       "keyword": "kavinsky",
@@ -198,24 +184,38 @@
       "timestamp": "2026-07-29 14:59:54"
     },
     {
-      "keyword": "yankees vs phillies",
+      "keyword": "masters of the universe",
       "score": 1200000,
       "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-07-27 15:36:34"
+      "category": "其他",
+      "timestamp": "2026-07-29 03:58:49"
     },
     {
-      "keyword": "ceuta",
-      "score": 1160000,
+      "keyword": "lollapalooza",
+      "score": 1150000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-01 20:00:48"
+      "timestamp": "2026-08-02 04:25:04"
+    },
+    {
+      "keyword": "eric bieniemy",
+      "score": 1120000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-29 03:58:49"
+    },
+    {
+      "keyword": "bronny james",
+      "score": 1100000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-28 20:12:18"
     }
   ],
   "category_stats": {
-    "其他": 108,
-    "体育": 36,
-    "科技/AI": 9,
+    "其他": 110,
+    "体育": 38,
+    "科技/AI": 8,
     "娱乐/生活": 7,
     "金融/商业": 4
   },

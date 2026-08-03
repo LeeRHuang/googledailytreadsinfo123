@@ -1,37 +1,37 @@
 {
-  "last_updated": "2026-08-03 04:24:17",
+  "last_updated": "2026-08-03 10:32:21",
   "trends": [
     {
       "keyword": "spiderman brand new day",
-      "score": 47000000,
+      "score": 52000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-08-03 04:24:16"
+      "timestamp": "2026-08-03 10:32:21"
     },
     {
       "keyword": "glen hansard",
-      "score": 7450000,
+      "score": 7950000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-03 04:24:16"
+      "timestamp": "2026-08-03 10:32:21"
     },
     {
       "keyword": "fauci",
-      "score": 7400000,
+      "score": 7600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-03 04:24:16"
+      "timestamp": "2026-08-03 10:32:21"
     },
     {
       "keyword": "tony romo",
-      "score": 6700000,
+      "score": 6500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-31 15:11:29"
     },
     {
       "keyword": "david jonsson",
-      "score": 5500000,
+      "score": 5000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-29 14:59:54"
@@ -44,25 +44,25 @@
       "timestamp": "2026-07-29 14:59:54"
     },
     {
-      "keyword": "ghost rider",
-      "score": 3900000,
+      "keyword": "seattle shooting",
+      "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
     },
     {
-      "keyword": "seattle shooting",
-      "score": 3900000,
+      "keyword": "ghost rider",
+      "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-29 03:58:49"
     },
     {
       "keyword": "ceuta",
-      "score": 3360000,
+      "score": 3560000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-03 04:24:16"
+      "timestamp": "2026-08-03 10:32:21"
     },
     {
       "keyword": "lindsay clancy",
@@ -72,39 +72,39 @@
       "timestamp": "2026-08-01 04:10:48"
     },
     {
-      "keyword": "jackson koivun",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-28 15:05:38"
-    },
-    {
       "keyword": "bryan kohberger",
-      "score": 2650000,
+      "score": 2850000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-03 04:24:16"
+      "timestamp": "2026-08-03 10:32:21"
     },
     {
       "keyword": "sadie sink",
-      "score": 2600000,
+      "score": 2800000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-03 04:24:16"
-    },
-    {
-      "keyword": "jean grey",
-      "score": 2350000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-03 04:24:16"
+      "timestamp": "2026-08-03 10:32:21"
     },
     {
       "keyword": "tarik skubal",
-      "score": 2200000,
+      "score": 2700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-03 04:24:16"
+      "timestamp": "2026-08-03 10:32:21"
+    },
+    {
+      "keyword": "jean grey",
+      "score": 2550000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-03 10:32:21"
+    },
+    {
+      "keyword": "jackson koivun",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-28 15:05:38"
     },
     {
       "keyword": "idaho murders",
@@ -121,25 +121,25 @@
       "timestamp": "2026-07-31 20:19:17"
     },
     {
+      "keyword": "idaho shooting",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-03 10:32:21"
+    },
+    {
+      "keyword": "jared leto",
+      "score": 1920000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-03 10:32:21"
+    },
+    {
       "keyword": "yankees vs white sox",
       "score": 1900000,
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-07-31 09:36:55"
-    },
-    {
-      "keyword": "cubs vs cardinals",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-07-31 09:36:55"
-    },
-    {
-      "keyword": "ransom canyon",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-29 03:58:49"
     },
     {
       "keyword": "tractor supply is closing 75 underperforming petsense retail locations",
@@ -149,18 +149,39 @@
       "timestamp": "2026-07-29 20:10:14"
     },
     {
-      "keyword": "jared leto",
-      "score": 1720000,
+      "keyword": "cubs vs cardinals",
+      "score": 1800000,
       "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-03 04:24:16"
+      "category": "体育",
+      "timestamp": "2026-07-31 09:36:55"
     },
     {
-      "keyword": "72 hours",
+      "keyword": "spokane fires",
+      "score": 1700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-03 10:32:21"
+    },
+    {
+      "keyword": "ransom canyon",
       "score": 1600000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-31 04:10:32"
+      "timestamp": "2026-07-29 03:58:49"
+    },
+    {
+      "keyword": "summerslam 2026",
+      "score": 1550000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-03 10:32:21"
+    },
+    {
+      "keyword": "red sox vs dodgers",
+      "score": 1550000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-08-03 10:32:21"
     },
     {
       "keyword": "japan earthquake",
@@ -170,6 +191,13 @@
       "timestamp": "2026-07-30 15:09:26"
     },
     {
+      "keyword": "yankees vs cubs",
+      "score": 1550000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-08-03 10:32:21"
+    },
+    {
       "keyword": "mariners vs dodgers",
       "score": 1450000,
       "traffic_numeric": 200000,
@@ -177,47 +205,25 @@
       "timestamp": "2026-07-31 15:11:29"
     },
     {
-      "keyword": "yankees vs cubs",
-      "score": 1350000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-08-03 04:24:16"
-    },
-    {
-      "keyword": "red sox vs dodgers",
-      "score": 1350000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-08-03 04:24:16"
-    },
-    {
-      "keyword": "kavinsky",
-      "score": 1270000,
+      "keyword": "72 hours",
+      "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-01 09:02:33"
-    },
-    {
-      "keyword": "kai sato adrift at sea",
-      "score": 1250000,
-      "traffic_numeric": 200000,
-      "category": "科技/AI",
-      "timestamp": "2026-07-29 14:59:54"
-    },
-    {
-      "keyword": "lollapalooza",
-      "score": 1250000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-03 04:24:16"
+      "timestamp": "2026-07-31 04:10:32"
     }
   ],
   "category_stats": {
-    "其他": 106,
-    "体育": 35,
+    "其他": 109,
+    "体育": 34,
     "科技/AI": 8,
-    "娱乐/生活": 7,
+    "娱乐/生活": 6,
     "金融/商业": 4
   },
-  "insights": []
+  "insights": [
+    {
+      "title": "季节性效率/计划应用",
+      "context": "新年计划相关关键词搜索量激增。",
+      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
+    }
+  ]
 }

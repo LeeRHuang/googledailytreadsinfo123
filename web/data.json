@@ -1,30 +1,30 @@
 {
-  "last_updated": "2026-08-03 15:45:54",
+  "last_updated": "2026-08-03 20:26:35",
   "trends": [
     {
       "keyword": "spiderman brand new day",
-      "score": 52000000,
+      "score": 57000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-08-03 10:32:21"
+      "timestamp": "2026-08-03 20:26:35"
     },
     {
       "keyword": "glen hansard",
-      "score": 8450000,
+      "score": 8950000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-03 15:45:54"
+      "timestamp": "2026-08-03 20:26:35"
     },
     {
       "keyword": "fauci",
-      "score": 7600000,
+      "score": 7800000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-03 10:32:21"
+      "timestamp": "2026-08-03 20:26:35"
     },
     {
       "keyword": "tony romo",
-      "score": 6100000,
+      "score": 5900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-31 15:11:29"
@@ -38,10 +38,10 @@
     },
     {
       "keyword": "ceuta",
-      "score": 4060000,
+      "score": 4560000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-03 15:45:54"
+      "timestamp": "2026-08-03 20:26:35"
     },
     {
       "keyword": "tmobile outage",
@@ -51,8 +51,29 @@
       "timestamp": "2026-07-29 14:59:54"
     },
     {
-      "keyword": "david jonsson",
+      "keyword": "idaho shooting",
       "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-03 20:26:35"
+    },
+    {
+      "keyword": "tarik skubal",
+      "score": 3700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-03 20:26:35"
+    },
+    {
+      "keyword": "sadie sink",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-03 20:26:35"
+    },
+    {
+      "keyword": "david jonsson",
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-29 14:59:54"
@@ -65,20 +86,6 @@
       "timestamp": "2026-08-01 04:10:48"
     },
     {
-      "keyword": "sadie sink",
-      "score": 3300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-03 15:45:54"
-    },
-    {
-      "keyword": "tarik skubal",
-      "score": 3200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-03 15:45:54"
-    },
-    {
       "keyword": "bryan kohberger",
       "score": 3050000,
       "traffic_numeric": 200000,
@@ -86,39 +93,32 @@
       "timestamp": "2026-08-03 15:45:54"
     },
     {
-      "keyword": "seattle shooting",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-29 03:58:49"
-    },
-    {
-      "keyword": "idaho shooting",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-03 15:45:54"
-    },
-    {
-      "keyword": "ghost rider",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-29 03:58:49"
-    },
-    {
       "keyword": "jean grey",
-      "score": 2750000,
+      "score": 2950000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-03 15:45:54"
+      "timestamp": "2026-08-03 20:26:35"
     },
     {
       "keyword": "spokane fires",
-      "score": 2200000,
+      "score": 2700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-03 15:45:54"
+      "timestamp": "2026-08-03 20:26:35"
+    },
+    {
+      "keyword": "seattle shooting",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-29 03:58:49"
+    },
+    {
+      "keyword": "ghost rider",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-29 03:58:49"
     },
     {
       "keyword": "idaho murders",
@@ -163,8 +163,22 @@
       "timestamp": "2026-08-03 15:45:54"
     },
     {
+      "keyword": "wicker movie",
+      "score": 1650000,
+      "traffic_numeric": 200000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-08-03 20:26:35"
+    },
+    {
+      "keyword": "vincent pastore",
+      "score": 1600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-03 20:26:35"
+    },
+    {
       "keyword": "tractor supply is closing 75 underperforming petsense retail locations",
-      "score": 1700000,
+      "score": 1600000,
       "traffic_numeric": 200000,
       "category": "科技/AI",
       "timestamp": "2026-07-29 20:10:14"
@@ -191,32 +205,18 @@
       "timestamp": "2026-07-30 15:09:26"
     },
     {
-      "keyword": "jackson koivun",
+      "keyword": "ariana grande",
       "score": 1500000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-07-28 15:05:38"
-    },
-    {
-      "keyword": "wicker movie",
-      "score": 1450000,
-      "traffic_numeric": 200000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-08-03 15:45:54"
-    },
-    {
-      "keyword": "mariners vs dodgers",
-      "score": 1450000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-07-31 15:11:29"
+      "timestamp": "2026-08-03 20:26:35"
     }
   ],
   "category_stats": {
-    "其他": 104,
-    "体育": 32,
-    "科技/AI": 8,
-    "娱乐/生活": 6,
+    "其他": 103,
+    "体育": 33,
+    "科技/AI": 9,
+    "娱乐/生活": 5,
     "金融/商业": 4
   },
   "insights": [

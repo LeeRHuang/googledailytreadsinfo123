@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-08-04 15:14:37",
+  "last_updated": "2026-08-04 20:20:16",
   "trends": [
     {
       "keyword": "spiderman brand new day",
-      "score": 56700000,
+      "score": 56500000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-08-03 20:26:35"
     },
     {
       "keyword": "glen hansard",
-      "score": 10450000,
+      "score": 10950000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-04 15:14:37"
+      "timestamp": "2026-08-04 20:20:16"
     },
     {
       "keyword": "fauci",
@@ -31,17 +31,17 @@
     },
     {
       "keyword": "tony romo",
-      "score": 5700000,
+      "score": 5500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-07-31 15:11:29"
     },
     {
       "keyword": "idaho murders",
-      "score": 5170000,
+      "score": 5370000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-04 15:14:37"
+      "timestamp": "2026-08-04 20:20:16"
     },
     {
       "keyword": "spider man brand new day",
@@ -51,15 +51,15 @@
       "timestamp": "2026-08-03 15:45:54"
     },
     {
-      "keyword": "tarik skubal",
+      "keyword": "spokane fires",
       "score": 4700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-04 15:14:37"
+      "timestamp": "2026-08-04 20:20:16"
     },
     {
-      "keyword": "spokane fires",
-      "score": 4200000,
+      "keyword": "tarik skubal",
+      "score": 4700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-04 15:14:37"
@@ -79,11 +79,11 @@
       "timestamp": "2026-08-03 20:26:35"
     },
     {
-      "keyword": "lindsay clancy",
-      "score": 3100000,
+      "keyword": "ariana grande",
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-01 04:10:48"
+      "timestamp": "2026-08-04 20:20:16"
     },
     {
       "keyword": "bryan kohberger",
@@ -93,11 +93,11 @@
       "timestamp": "2026-08-03 15:45:54"
     },
     {
-      "keyword": "ariana grande",
+      "keyword": "lindsay clancy",
       "score": 3000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-04 15:14:37"
+      "timestamp": "2026-08-01 04:10:48"
     },
     {
       "keyword": "jean grey",
@@ -108,10 +108,10 @@
     },
     {
       "keyword": "wicker movie",
-      "score": 2250000,
+      "score": 2450000,
       "traffic_numeric": 200000,
       "category": "娱乐/生活",
-      "timestamp": "2026-08-04 15:14:37"
+      "timestamp": "2026-08-04 20:20:16"
     },
     {
       "keyword": "vincent pastore",
@@ -122,7 +122,7 @@
     },
     {
       "keyword": "madison beer",
-      "score": 2050000,
+      "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-31 20:19:17"
@@ -135,18 +135,11 @@
       "timestamp": "2026-08-04 15:14:37"
     },
     {
-      "keyword": "david jonsson",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-29 14:59:54"
-    },
-    {
-      "keyword": "tmobile outage",
+      "keyword": "tom holland spider man movies",
       "score": 2000000,
       "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-29 14:59:54"
+      "category": "娱乐/生活",
+      "timestamp": "2026-08-04 20:20:16"
     },
     {
       "keyword": "jared leto",
@@ -154,6 +147,13 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-03 10:32:21"
+    },
+    {
+      "keyword": "samara weaving",
+      "score": 1770000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-04 20:20:16"
     },
     {
       "keyword": "red sox vs dodgers",
@@ -164,24 +164,10 @@
     },
     {
       "keyword": "yankees vs white sox",
-      "score": 1700000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-07-31 09:36:55"
-    },
-    {
-      "keyword": "cubs vs cardinals",
       "score": 1600000,
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-07-31 09:36:55"
-    },
-    {
-      "keyword": "samara weaving",
-      "score": 1570000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-04 15:14:37"
     },
     {
       "keyword": "yankees vs cubs",
@@ -198,11 +184,18 @@
       "timestamp": "2026-08-03 10:32:21"
     },
     {
-      "keyword": "japan earthquake",
+      "keyword": "cubs vs cardinals",
       "score": 1500000,
       "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-07-31 09:36:55"
+    },
+    {
+      "keyword": "david jonsson",
+      "score": 1500000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-07-30 15:09:26"
+      "timestamp": "2026-07-29 14:59:54"
     },
     {
       "keyword": "mariners vs dodgers",
@@ -210,14 +203,21 @@
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-07-31 15:11:29"
+    },
+    {
+      "keyword": "japan earthquake",
+      "score": 1400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-07-30 15:09:26"
     }
   ],
   "category_stats": {
-    "其他": 109,
+    "其他": 111,
     "体育": 39,
     "科技/AI": 8,
-    "娱乐/生活": 6,
-    "金融/商业": 5
+    "金融/商业": 6,
+    "娱乐/生活": 6
   },
   "insights": [
     {

@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-08-04 04:08:42",
+  "last_updated": "2026-08-04 09:41:27",
   "trends": [
     {
       "keyword": "spiderman brand new day",
-      "score": 57000000,
+      "score": 56900000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-08-03 20:26:35"
     },
     {
       "keyword": "glen hansard",
-      "score": 9450000,
+      "score": 9950000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-04 04:08:42"
+      "timestamp": "2026-08-04 09:41:27"
     },
     {
       "keyword": "fauci",
@@ -31,10 +31,10 @@
     },
     {
       "keyword": "ceuta",
-      "score": 5060000,
+      "score": 5560000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-04 04:08:42"
+      "timestamp": "2026-08-04 09:41:27"
     },
     {
       "keyword": "spider man brand new day",
@@ -44,6 +44,20 @@
       "timestamp": "2026-08-03 15:45:54"
     },
     {
+      "keyword": "tarik skubal",
+      "score": 4200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-04 09:41:27"
+    },
+    {
+      "keyword": "idaho murders",
+      "score": 4170000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-04 09:41:27"
+    },
+    {
       "keyword": "idaho shooting",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -51,11 +65,11 @@
       "timestamp": "2026-08-03 20:26:35"
     },
     {
-      "keyword": "tarik skubal",
+      "keyword": "spokane fires",
       "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-03 20:26:35"
+      "timestamp": "2026-08-04 09:41:27"
     },
     {
       "keyword": "sadie sink",
@@ -65,32 +79,11 @@
       "timestamp": "2026-08-03 20:26:35"
     },
     {
-      "keyword": "tmobile outage",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-07-29 14:59:54"
-    },
-    {
-      "keyword": "spokane fires",
-      "score": 3200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-04 04:08:42"
-    },
-    {
       "keyword": "lindsay clancy",
       "score": 3200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-01 04:10:48"
-    },
-    {
-      "keyword": "idaho murders",
-      "score": 3170000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-04 04:08:42"
     },
     {
       "keyword": "bryan kohberger",
@@ -100,9 +93,9 @@
       "timestamp": "2026-08-03 15:45:54"
     },
     {
-      "keyword": "david jonsson",
+      "keyword": "tmobile outage",
       "score": 3000000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-07-29 14:59:54"
     },
@@ -114,6 +107,27 @@
       "timestamp": "2026-08-03 20:26:35"
     },
     {
+      "keyword": "ariana grande",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-04 09:41:27"
+    },
+    {
+      "keyword": "david jonsson",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-29 14:59:54"
+    },
+    {
+      "keyword": "wicker movie",
+      "score": 2050000,
+      "traffic_numeric": 200000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-08-04 09:41:27"
+    },
+    {
       "keyword": "madison beer",
       "score": 2050000,
       "traffic_numeric": 200000,
@@ -121,25 +135,11 @@
       "timestamp": "2026-07-31 20:19:17"
     },
     {
-      "keyword": "ariana grande",
+      "keyword": "vincent pastore",
       "score": 2000000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-04 04:08:42"
-    },
-    {
-      "keyword": "seattle shooting",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-29 03:58:49"
-    },
-    {
-      "keyword": "ghost rider",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-29 03:58:49"
+      "timestamp": "2026-08-04 09:41:27"
     },
     {
       "keyword": "jared leto",
@@ -150,28 +150,7 @@
     },
     {
       "keyword": "yankees vs white sox",
-      "score": 1850000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-07-31 09:36:55"
-    },
-    {
-      "keyword": "wicker movie",
-      "score": 1850000,
-      "traffic_numeric": 200000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-08-04 04:08:42"
-    },
-    {
-      "keyword": "vincent pastore",
       "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-04 04:08:42"
-    },
-    {
-      "keyword": "cubs vs cardinals",
-      "score": 1750000,
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-07-31 09:36:55"
@@ -184,11 +163,25 @@
       "timestamp": "2026-08-03 15:45:54"
     },
     {
+      "keyword": "cubs vs cardinals",
+      "score": 1700000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-07-31 09:36:55"
+    },
+    {
       "keyword": "japan earthquake",
       "score": 1550000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-07-30 15:09:26"
+    },
+    {
+      "keyword": "summerslam 2026",
+      "score": 1550000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-03 10:32:21"
     },
     {
       "keyword": "yankees vs cubs",
@@ -198,11 +191,18 @@
       "timestamp": "2026-08-03 10:32:21"
     },
     {
-      "keyword": "summerslam 2026",
-      "score": 1550000,
+      "keyword": "seattle shooting",
+      "score": 1500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-03 10:32:21"
+      "timestamp": "2026-07-29 03:58:49"
+    },
+    {
+      "keyword": "ghost rider",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-29 03:58:49"
     },
     {
       "keyword": "mariners vs dodgers",
@@ -213,7 +213,7 @@
     }
   ],
   "category_stats": {
-    "其他": 104,
+    "其他": 107,
     "体育": 40,
     "科技/AI": 9,
     "娱乐/生活": 6,

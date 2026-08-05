@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04 20:20:16",
+  "last_updated": "2026-08-05 03:49:41",
   "trends": [
     {
       "keyword": "spiderman brand new day",
@@ -10,10 +10,10 @@
     },
     {
       "keyword": "glen hansard",
-      "score": 10950000,
+      "score": 11450000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-04 20:20:16"
+      "timestamp": "2026-08-05 03:49:41"
     },
     {
       "keyword": "fauci",
@@ -21,6 +21,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-03 20:26:35"
+    },
+    {
+      "keyword": "idaho murders",
+      "score": 6370000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-05 03:49:41"
     },
     {
       "keyword": "ceuta",
@@ -37,11 +44,18 @@
       "timestamp": "2026-07-31 15:11:29"
     },
     {
-      "keyword": "idaho murders",
-      "score": 5370000,
-      "traffic_numeric": 1000000,
+      "keyword": "spokane fires",
+      "score": 5200000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-04 20:20:16"
+      "timestamp": "2026-08-05 03:49:41"
+    },
+    {
+      "keyword": "tarik skubal",
+      "score": 5200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-05 03:49:41"
     },
     {
       "keyword": "spider man brand new day",
@@ -51,25 +65,18 @@
       "timestamp": "2026-08-03 15:45:54"
     },
     {
-      "keyword": "spokane fires",
-      "score": 4700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-04 20:20:16"
-    },
-    {
-      "keyword": "tarik skubal",
-      "score": 4700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-04 15:14:37"
-    },
-    {
       "keyword": "idaho shooting",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-08-03 20:26:35"
+    },
+    {
+      "keyword": "ariana grande",
+      "score": 4000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-05 03:49:41"
     },
     {
       "keyword": "sadie sink",
@@ -79,18 +86,18 @@
       "timestamp": "2026-08-03 20:26:35"
     },
     {
-      "keyword": "ariana grande",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-04 20:20:16"
-    },
-    {
       "keyword": "bryan kohberger",
       "score": 3050000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-03 15:45:54"
+    },
+    {
+      "keyword": "tom holland spider man movies",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-08-05 03:49:41"
     },
     {
       "keyword": "lindsay clancy",
@@ -108,10 +115,10 @@
     },
     {
       "keyword": "wicker movie",
-      "score": 2450000,
+      "score": 2650000,
       "traffic_numeric": 200000,
       "category": "娱乐/生活",
-      "timestamp": "2026-08-04 20:20:16"
+      "timestamp": "2026-08-05 03:49:41"
     },
     {
       "keyword": "vincent pastore",
@@ -135,11 +142,11 @@
       "timestamp": "2026-08-04 15:14:37"
     },
     {
-      "keyword": "tom holland spider man movies",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-08-04 20:20:16"
+      "keyword": "samara weaving",
+      "score": 1970000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-05 03:49:41"
     },
     {
       "keyword": "jared leto",
@@ -147,13 +154,6 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-03 10:32:21"
-    },
-    {
-      "keyword": "samara weaving",
-      "score": 1770000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-04 20:20:16"
     },
     {
       "keyword": "red sox vs dodgers",
@@ -170,17 +170,17 @@
       "timestamp": "2026-07-31 09:36:55"
     },
     {
-      "keyword": "yankees vs cubs",
-      "score": 1550000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-08-03 10:32:21"
-    },
-    {
       "keyword": "summerslam 2026",
       "score": 1550000,
       "traffic_numeric": 500000,
       "category": "其他",
+      "timestamp": "2026-08-03 10:32:21"
+    },
+    {
+      "keyword": "yankees vs cubs",
+      "score": 1550000,
+      "traffic_numeric": 200000,
+      "category": "体育",
       "timestamp": "2026-08-03 10:32:21"
     },
     {
@@ -198,23 +198,23 @@
       "timestamp": "2026-07-29 14:59:54"
     },
     {
+      "keyword": "dodgers vs cubs",
+      "score": 1500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-08-05 03:49:41"
+    },
+    {
       "keyword": "mariners vs dodgers",
       "score": 1450000,
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-07-31 15:11:29"
-    },
-    {
-      "keyword": "japan earthquake",
-      "score": 1400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-07-30 15:09:26"
     }
   ],
   "category_stats": {
-    "其他": 111,
-    "体育": 39,
+    "其他": 114,
+    "体育": 42,
     "科技/AI": 8,
     "金融/商业": 6,
     "娱乐/生活": 6

@@ -1,47 +1,40 @@
 {
-  "last_updated": "2026-08-06 09:31:18",
+  "last_updated": "2026-08-06 15:10:14",
   "trends": [
     {
       "keyword": "spiderman brand new day",
-      "score": 52500000,
+      "score": 52000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-08-03 20:26:35"
     },
     {
       "keyword": "glen hansard",
-      "score": 11400000,
+      "score": 11200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-05 09:30:26"
     },
     {
-      "keyword": "spokane fires",
-      "score": 8700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-06 09:31:18"
-    },
-    {
       "keyword": "perez hilton",
-      "score": 8500000,
+      "score": 10500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-08-06 09:31:18"
+      "timestamp": "2026-08-06 15:10:13"
     },
     {
-      "keyword": "fauci",
-      "score": 6800000,
-      "traffic_numeric": 500000,
+      "keyword": "spokane fires",
+      "score": 9700000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-03 20:26:35"
+      "timestamp": "2026-08-06 15:10:13"
     },
     {
       "keyword": "ariana grande",
-      "score": 6500000,
+      "score": 7000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-06 09:31:18"
+      "timestamp": "2026-08-06 15:10:13"
     },
     {
       "keyword": "idaho murders",
@@ -49,6 +42,13 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-08-05 03:49:41"
+    },
+    {
+      "keyword": "fauci",
+      "score": 6300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-03 20:26:35"
     },
     {
       "keyword": "tarik skubal",
@@ -94,10 +94,10 @@
     },
     {
       "keyword": "wicker movie",
-      "score": 3650000,
+      "score": 3850000,
       "traffic_numeric": 200000,
       "category": "娱乐/生活",
-      "timestamp": "2026-08-06 09:31:18"
+      "timestamp": "2026-08-06 15:10:13"
     },
     {
       "keyword": "sadie sink",
@@ -121,6 +121,13 @@
       "timestamp": "2026-08-05 20:24:39"
     },
     {
+      "keyword": "abdul el-sayed",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-06 15:10:13"
+    },
+    {
       "keyword": "jean grey",
       "score": 2850000,
       "traffic_numeric": 200000,
@@ -129,7 +136,7 @@
     },
     {
       "keyword": "bryan kohberger",
-      "score": 2800000,
+      "score": 2700000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-03 15:45:54"
@@ -140,13 +147,6 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-06 09:31:18"
-    },
-    {
-      "keyword": "tony romo",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-07-31 15:11:29"
     },
     {
       "keyword": "the punisher",
@@ -163,18 +163,18 @@
       "timestamp": "2026-08-04 15:14:37"
     },
     {
+      "keyword": "tony romo",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-07-31 15:11:29"
+    },
+    {
       "keyword": "lindsay clancy",
-      "score": 2200000,
+      "score": 2000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-01 04:10:48"
-    },
-    {
-      "keyword": "abdul el-sayed",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-06 09:31:18"
     },
     {
       "keyword": "red sox vs dodgers",
@@ -185,7 +185,7 @@
     },
     {
       "keyword": "jared leto",
-      "score": 1700000,
+      "score": 1600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-03 10:32:21"
@@ -214,10 +214,10 @@
   ],
   "category_stats": {
     "其他": 109,
-    "体育": 38,
-    "科技/AI": 8,
-    "金融/商业": 6,
-    "娱乐/生活": 5
+    "体育": 37,
+    "科技/AI": 7,
+    "娱乐/生活": 6,
+    "金融/商业": 5
   },
   "insights": [
     {

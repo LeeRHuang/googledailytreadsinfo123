@@ -1,30 +1,30 @@
 {
-  "last_updated": "2026-08-07 08:12:01",
+  "last_updated": "2026-08-07 13:59:31",
   "trends": [
     {
       "keyword": "spiderman brand new day",
-      "score": 49000000,
+      "score": 47000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-08-03 20:26:35"
     },
     {
       "keyword": "perez hilton",
-      "score": 16500000,
+      "score": 18500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-08-07 08:12:01"
+      "timestamp": "2026-08-07 13:59:31"
     },
     {
       "keyword": "spokane fires",
-      "score": 12700000,
+      "score": 13700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-07 08:12:01"
+      "timestamp": "2026-08-07 13:59:31"
     },
     {
       "keyword": "glen hansard",
-      "score": 10500000,
+      "score": 10000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-05 09:30:26"
@@ -35,6 +35,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-07 00:39:03"
+    },
+    {
+      "keyword": "abdul el-sayed",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-07 13:59:31"
     },
     {
       "keyword": "tarik skubal",
@@ -51,25 +58,11 @@
       "timestamp": "2026-08-05 03:49:41"
     },
     {
-      "keyword": "abdul el-sayed",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-07 08:12:01"
-    },
-    {
       "keyword": "ceuta",
-      "score": 6000000,
+      "score": 5900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-04 15:14:37"
-    },
-    {
-      "keyword": "fauci",
-      "score": 5300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-03 20:26:35"
     },
     {
       "keyword": "spider man brand new day",
@@ -77,6 +70,13 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-08-03 15:45:54"
+    },
+    {
+      "keyword": "fauci",
+      "score": 4800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-03 20:26:35"
     },
     {
       "keyword": "tom holland spider man movies",
@@ -107,18 +107,18 @@
       "timestamp": "2026-08-06 15:10:13"
     },
     {
-      "keyword": "sadie sink",
-      "score": 3300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-03 20:26:35"
-    },
-    {
       "keyword": "samara weaving",
-      "score": 3170000,
+      "score": 3370000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-07 08:12:01"
+      "timestamp": "2026-08-07 13:59:31"
+    },
+    {
+      "keyword": "nfl",
+      "score": 3200000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-08-07 13:59:31"
     },
     {
       "keyword": "dodgers vs cubs",
@@ -126,6 +126,13 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-08-06 09:31:18"
+    },
+    {
+      "keyword": "sadie sink",
+      "score": 3100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-03 20:26:35"
     },
     {
       "keyword": "michigan primary",
@@ -136,17 +143,10 @@
     },
     {
       "keyword": "jean grey",
-      "score": 2700000,
+      "score": 2600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-03 20:26:35"
-    },
-    {
-      "keyword": "bryan kohberger",
-      "score": 2500000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-03 15:45:54"
     },
     {
       "keyword": "the punisher",
@@ -156,25 +156,25 @@
       "timestamp": "2026-08-06 09:31:18"
     },
     {
+      "keyword": "bryan kohberger",
+      "score": 2400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-03 15:45:54"
+    },
+    {
+      "keyword": "leagues cup",
+      "score": 2300000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-07 13:59:31"
+    },
+    {
       "keyword": "vincent pastore",
       "score": 2200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-04 15:14:37"
-    },
-    {
-      "keyword": "nfl",
-      "score": 2200000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-08-07 08:12:01"
-    },
-    {
-      "keyword": "leagues cup",
-      "score": 1800000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-08-07 08:12:01"
     },
     {
       "keyword": "red sox vs dodgers",
@@ -198,23 +198,23 @@
       "timestamp": "2026-08-03 10:32:21"
     },
     {
-      "keyword": "jared leto",
-      "score": 1400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-03 10:32:21"
-    },
-    {
       "keyword": "mlb trades",
       "score": 1300000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-08-04 09:41:27"
+    },
+    {
+      "keyword": "jared leto",
+      "score": 1300000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-03 10:32:21"
     }
   ],
   "category_stats": {
-    "其他": 116,
-    "体育": 40,
+    "其他": 119,
+    "体育": 38,
     "科技/AI": 8,
     "金融/商业": 5,
     "娱乐/生活": 5

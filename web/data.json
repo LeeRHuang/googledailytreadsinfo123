@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-08-09 19:32:49",
+  "last_updated": "2026-08-10 03:05:31",
   "trends": [
     {
       "keyword": "perez hilton",
-      "score": 36500000,
+      "score": 38500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-08-09 19:32:49"
-    },
-    {
-      "keyword": "spiderman brand new day",
-      "score": 20000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-08-03 20:26:35"
+      "timestamp": "2026-08-10 03:05:31"
     },
     {
       "keyword": "spokane fires",
-      "score": 17400000,
+      "score": 17200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-08-08 19:28:49"
+    },
+    {
+      "keyword": "spiderman brand new day",
+      "score": 15000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-08-03 20:26:35"
     },
     {
       "keyword": "abdul el-sayed",
@@ -31,7 +31,7 @@
     },
     {
       "keyword": "ariana grande",
-      "score": 6900000,
+      "score": 6800000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-07 00:39:03"
@@ -42,13 +42,6 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-08-09 19:32:49"
-    },
-    {
-      "keyword": "glen hansard",
-      "score": 5500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-05 09:30:26"
     },
     {
       "keyword": "leagues cup",
@@ -65,6 +58,13 @@
       "timestamp": "2026-08-05 03:49:41"
     },
     {
+      "keyword": "glen hansard",
+      "score": 5000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-05 09:30:26"
+    },
+    {
       "keyword": "spider man brand new day",
       "score": 5000000,
       "traffic_numeric": 5000000,
@@ -73,10 +73,17 @@
     },
     {
       "keyword": "tarik skubal",
-      "score": 5000000,
+      "score": 4500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-05 15:08:53"
+    },
+    {
+      "keyword": "chris hansen",
+      "score": 4400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-10 03:05:31"
     },
     {
       "keyword": "tom holland spider man movies",
@@ -93,25 +100,25 @@
       "timestamp": "2026-08-05 20:24:39"
     },
     {
-      "keyword": "chris hansen",
-      "score": 3900000,
+      "keyword": "tommy detamore",
+      "score": 3920000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-10 03:05:31"
+    },
+    {
+      "keyword": "louisiana vibrio vulnificus outbreak",
+      "score": 3200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-09 19:32:49"
+      "timestamp": "2026-08-10 03:05:31"
     },
     {
       "keyword": "ceuta",
-      "score": 3700000,
+      "score": 3200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-04 15:14:37"
-    },
-    {
-      "keyword": "idaho shooting",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-03 20:26:35"
     },
     {
       "keyword": "dodgers vs cubs",
@@ -121,11 +128,11 @@
       "timestamp": "2026-08-06 09:31:18"
     },
     {
-      "keyword": "wicker movie",
-      "score": 3100000,
-      "traffic_numeric": 200000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-08-06 15:10:13"
+      "keyword": "michigan primary",
+      "score": 3050000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-05 20:24:39"
     },
     {
       "keyword": "haynes king",
@@ -135,25 +142,25 @@
       "timestamp": "2026-08-08 13:32:30"
     },
     {
-      "keyword": "michigan primary",
-      "score": 3050000,
+      "keyword": "enes kanter",
+      "score": 3010000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-10 03:05:31"
+    },
+    {
+      "keyword": "idaho shooting",
+      "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-05 20:24:39"
+      "timestamp": "2026-08-03 20:26:35"
     },
     {
-      "keyword": "tommy detamore",
-      "score": 2920000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-09 19:32:49"
-    },
-    {
-      "keyword": "louisiana vibrio vulnificus outbreak",
-      "score": 2700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-09 19:32:49"
+      "keyword": "wicker movie",
+      "score": 3000000,
+      "traffic_numeric": 200000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-08-06 15:10:13"
     },
     {
       "keyword": "samara weaving",
@@ -161,13 +168,6 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-07 13:59:31"
-    },
-    {
-      "keyword": "enes kanter",
-      "score": 2510000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-09 19:32:49"
     },
     {
       "keyword": "the punisher",
@@ -178,31 +178,31 @@
     },
     {
       "keyword": "kit connor",
-      "score": 1900000,
+      "score": 2100000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-09 13:47:51"
+      "timestamp": "2026-08-10 03:05:31"
+    },
+    {
+      "keyword": "the last house",
+      "score": 1950000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-10 03:05:31"
     },
     {
       "keyword": "vincent pastore",
-      "score": 1600000,
+      "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-04 15:14:37"
     },
     {
-      "keyword": "the last house",
-      "score": 1450000,
+      "keyword": "braves vs yankees",
+      "score": 1350000,
       "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-09 19:32:49"
-    },
-    {
-      "keyword": "sadie sink",
-      "score": 1300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-03 20:26:35"
+      "category": "体育",
+      "timestamp": "2026-08-10 03:05:31"
     },
     {
       "keyword": "mlb trades",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 116,
-    "体育": 53,
+    "其他": 120,
+    "体育": 50,
     "科技/AI": 10,
     "金融/商业": 4,
     "娱乐/生活": 4

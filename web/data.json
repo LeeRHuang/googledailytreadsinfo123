@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-08-11 03:02:21",
+  "last_updated": "2026-08-11 07:55:28",
   "trends": [
     {
       "keyword": "perez hilton",
-      "score": 46500000,
+      "score": 48500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-08-11 03:02:21"
+      "timestamp": "2026-08-11 07:55:28"
     },
     {
       "keyword": "spokane fires",
-      "score": 15200000,
+      "score": 14700000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-08-08 19:28:49"
@@ -38,14 +38,21 @@
     },
     {
       "keyword": "chris hansen",
-      "score": 6100000,
+      "score": 6600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-11 03:02:21"
+      "timestamp": "2026-08-11 07:55:28"
+    },
+    {
+      "keyword": "enes kanter",
+      "score": 5510000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-11 07:55:28"
     },
     {
       "keyword": "ariana grande",
-      "score": 6000000,
+      "score": 5500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-07 00:39:03"
@@ -58,25 +65,11 @@
       "timestamp": "2026-08-09 19:32:49"
     },
     {
-      "keyword": "enes kanter",
-      "score": 5010000,
+      "keyword": "the last house",
+      "score": 4450000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-11 03:02:21"
-    },
-    {
-      "keyword": "tom holland spider man movies",
-      "score": 4200000,
-      "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-08-06 03:54:31"
-    },
-    {
-      "keyword": "idaho murders",
-      "score": 4200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-05 03:49:41"
+      "timestamp": "2026-08-11 07:55:28"
     },
     {
       "keyword": "spiderman brand new day box office",
@@ -86,13 +79,6 @@
       "timestamp": "2026-08-05 20:24:39"
     },
     {
-      "keyword": "the last house",
-      "score": 3950000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-11 03:02:21"
-    },
-    {
       "keyword": "louisiana vibrio vulnificus outbreak",
       "score": 3700000,
       "traffic_numeric": 500000,
@@ -100,18 +86,18 @@
       "timestamp": "2026-08-10 14:19:19"
     },
     {
-      "keyword": "dodgers vs cubs",
-      "score": 3100000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-08-06 09:31:18"
-    },
-    {
-      "keyword": "michigan primary",
-      "score": 3050000,
+      "keyword": "idaho murders",
+      "score": 3200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-05 20:24:39"
+      "timestamp": "2026-08-05 03:49:41"
+    },
+    {
+      "keyword": "tom holland spider man movies",
+      "score": 3200000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-08-06 03:54:31"
     },
     {
       "keyword": "haynes king",
@@ -121,11 +107,11 @@
       "timestamp": "2026-08-08 13:32:30"
     },
     {
-      "keyword": "glen hansard",
-      "score": 3000000,
-      "traffic_numeric": 500000,
+      "keyword": "michigan primary",
+      "score": 3050000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-05 09:30:26"
+      "timestamp": "2026-08-05 20:24:39"
     },
     {
       "keyword": "tarik skubal",
@@ -135,18 +121,11 @@
       "timestamp": "2026-08-05 15:08:53"
     },
     {
-      "keyword": "samara weaving",
-      "score": 2200000,
-      "traffic_numeric": 200000,
+      "keyword": "glen hansard",
+      "score": 2500000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-07 13:59:31"
-    },
-    {
-      "keyword": "wicker movie",
-      "score": 2200000,
-      "traffic_numeric": 200000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-08-06 15:10:13"
+      "timestamp": "2026-08-05 09:30:26"
     },
     {
       "keyword": "kit connor",
@@ -156,6 +135,27 @@
       "timestamp": "2026-08-10 03:05:31"
     },
     {
+      "keyword": "samara weaving",
+      "score": 2100000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-07 13:59:31"
+    },
+    {
+      "keyword": "dodgers vs cubs",
+      "score": 2100000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-06 09:31:18"
+    },
+    {
+      "keyword": "joe biden",
+      "score": 2020000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-11 07:55:28"
+    },
+    {
       "keyword": "perez hilton live stream",
       "score": 2000000,
       "traffic_numeric": 1000000,
@@ -163,18 +163,18 @@
       "timestamp": "2026-08-11 03:02:21"
     },
     {
+      "keyword": "wicker movie",
+      "score": 2000000,
+      "traffic_numeric": 200000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-08-06 15:10:13"
+    },
+    {
       "keyword": "the punisher",
-      "score": 1900000,
+      "score": 1800000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-06 09:31:18"
-    },
-    {
-      "keyword": "joe biden",
-      "score": 1820000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-11 03:02:21"
     },
     {
       "keyword": "dodgers vs diamondbacks",
@@ -184,18 +184,18 @@
       "timestamp": "2026-08-10 14:19:19"
     },
     {
-      "keyword": "ceuta",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-04 15:14:37"
-    },
-    {
       "keyword": "singer",
       "score": 1500000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-08-11 03:02:21"
+    },
+    {
+      "keyword": "jamie komoroski",
+      "score": 1400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-11 07:55:28"
     },
     {
       "keyword": "braves vs yankees",
@@ -213,9 +213,9 @@
     }
   ],
   "category_stats": {
-    "其他": 115,
-    "体育": 51,
-    "科技/AI": 11,
+    "其他": 113,
+    "体育": 52,
+    "科技/AI": 12,
     "娱乐/生活": 6,
     "金融/商业": 4
   },

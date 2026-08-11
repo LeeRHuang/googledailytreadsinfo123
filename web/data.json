@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-08-10 19:54:16",
+  "last_updated": "2026-08-11 03:02:21",
   "trends": [
     {
       "keyword": "perez hilton",
-      "score": 44500000,
+      "score": 46500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-08-10 19:54:15"
+      "timestamp": "2026-08-11 03:02:21"
     },
     {
       "keyword": "spokane fires",
-      "score": 15700000,
+      "score": 15200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-08-08 19:28:49"
@@ -24,10 +24,10 @@
     },
     {
       "keyword": "tommy detamore",
-      "score": 6920000,
+      "score": 7920000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-10 19:54:15"
+      "timestamp": "2026-08-11 03:02:21"
     },
     {
       "keyword": "nfl",
@@ -37,18 +37,18 @@
       "timestamp": "2026-08-09 19:32:49"
     },
     {
+      "keyword": "chris hansen",
+      "score": 6100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-11 03:02:21"
+    },
+    {
       "keyword": "ariana grande",
-      "score": 6200000,
+      "score": 6000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-07 00:39:03"
-    },
-    {
-      "keyword": "chris hansen",
-      "score": 5600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-10 19:54:15"
     },
     {
       "keyword": "leagues cup",
@@ -58,25 +58,11 @@
       "timestamp": "2026-08-09 19:32:49"
     },
     {
-      "keyword": "spiderman brand new day",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-08-03 20:26:35"
-    },
-    {
       "keyword": "enes kanter",
-      "score": 4510000,
+      "score": 5010000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-10 19:54:15"
-    },
-    {
-      "keyword": "idaho murders",
-      "score": 4200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-05 03:49:41"
+      "timestamp": "2026-08-11 03:02:21"
     },
     {
       "keyword": "tom holland spider man movies",
@@ -86,6 +72,13 @@
       "timestamp": "2026-08-06 03:54:31"
     },
     {
+      "keyword": "idaho murders",
+      "score": 4200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-05 03:49:41"
+    },
+    {
       "keyword": "spiderman brand new day box office",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -93,25 +86,18 @@
       "timestamp": "2026-08-05 20:24:39"
     },
     {
+      "keyword": "the last house",
+      "score": 3950000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-11 03:02:21"
+    },
+    {
       "keyword": "louisiana vibrio vulnificus outbreak",
       "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-10 14:19:19"
-    },
-    {
-      "keyword": "glen hansard",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-05 09:30:26"
-    },
-    {
-      "keyword": "the last house",
-      "score": 3450000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-10 19:54:15"
     },
     {
       "keyword": "dodgers vs cubs",
@@ -135,25 +121,32 @@
       "timestamp": "2026-08-08 13:32:30"
     },
     {
-      "keyword": "tarik skubal",
+      "keyword": "glen hansard",
       "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-05 09:30:26"
+    },
+    {
+      "keyword": "tarik skubal",
+      "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-05 15:08:53"
     },
     {
-      "keyword": "wicker movie",
-      "score": 2400000,
-      "traffic_numeric": 200000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-08-06 15:10:13"
-    },
-    {
       "keyword": "samara weaving",
-      "score": 2300000,
+      "score": 2200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-07 13:59:31"
+    },
+    {
+      "keyword": "wicker movie",
+      "score": 2200000,
+      "traffic_numeric": 200000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-08-06 15:10:13"
     },
     {
       "keyword": "kit connor",
@@ -163,25 +156,25 @@
       "timestamp": "2026-08-10 03:05:31"
     },
     {
-      "keyword": "ceuta",
+      "keyword": "perez hilton live stream",
       "score": 2000000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-04 15:14:37"
+      "timestamp": "2026-08-11 03:02:21"
     },
     {
       "keyword": "the punisher",
-      "score": 2000000,
+      "score": 1900000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-06 09:31:18"
     },
     {
       "keyword": "joe biden",
-      "score": 1620000,
+      "score": 1820000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-10 19:54:15"
+      "timestamp": "2026-08-11 03:02:21"
     },
     {
       "keyword": "dodgers vs diamondbacks",
@@ -189,6 +182,20 @@
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-08-10 14:19:19"
+    },
+    {
+      "keyword": "ceuta",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-04 15:14:37"
+    },
+    {
+      "keyword": "singer",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-08-11 03:02:21"
     },
     {
       "keyword": "braves vs yankees",
@@ -203,19 +210,12 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-08 19:28:49"
-    },
-    {
-      "keyword": "adley rutschman",
-      "score": 1100000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-05 03:49:41"
     }
   ],
   "category_stats": {
-    "其他": 121,
-    "体育": 46,
-    "科技/AI": 12,
+    "其他": 115,
+    "体育": 51,
+    "科技/AI": 11,
     "娱乐/生活": 6,
     "金融/商业": 4
   },

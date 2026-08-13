@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-13 14:15:48",
+  "last_updated": "2026-08-13 19:58:13",
   "trends": [
     {
       "keyword": "perez hilton",
-      "score": 44000000,
+      "score": 42000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-08-11 19:58:03"
@@ -24,31 +24,24 @@
     },
     {
       "keyword": "enes kanter",
-      "score": 9510000,
+      "score": 10010000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-13 14:15:48"
-    },
-    {
-      "keyword": "spokane fires",
-      "score": 9200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-08 19:28:49"
+      "timestamp": "2026-08-13 19:58:13"
     },
     {
       "keyword": "the last house",
-      "score": 8950000,
+      "score": 9450000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-13 14:15:48"
+      "timestamp": "2026-08-13 19:58:13"
     },
     {
-      "keyword": "abdul el-sayed",
-      "score": 7000000,
+      "keyword": "spokane fires",
+      "score": 8200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-08 13:32:30"
+      "timestamp": "2026-08-08 19:28:49"
     },
     {
       "keyword": "nfl",
@@ -58,22 +51,29 @@
       "timestamp": "2026-08-09 19:32:49"
     },
     {
-      "keyword": "colombia earthquake",
-      "score": 5420000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-13 14:15:48"
-    },
-    {
       "keyword": "solar eclipse 2026",
-      "score": 5000000,
+      "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-13 14:15:48"
+      "timestamp": "2026-08-13 19:58:13"
+    },
+    {
+      "keyword": "abdul el-sayed",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-08 13:32:30"
+    },
+    {
+      "keyword": "colombia earthquake",
+      "score": 5920000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-13 19:58:13"
     },
     {
       "keyword": "leagues cup",
-      "score": 4600000,
+      "score": 4400000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-08-09 19:32:49"
@@ -84,6 +84,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-10 14:19:19"
+    },
+    {
+      "keyword": "josh kushner",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-13 19:58:13"
     },
     {
       "keyword": "joe biden",
@@ -100,10 +107,10 @@
       "timestamp": "2026-08-08 13:32:30"
     },
     {
-      "keyword": "josh kushner",
-      "score": 2500000,
+      "keyword": "meteor shower august 12",
+      "score": 2100000,
       "traffic_numeric": 1000000,
-      "category": "其他",
+      "category": "娱乐/生活",
       "timestamp": "2026-08-13 14:15:48"
     },
     {
@@ -114,18 +121,18 @@
       "timestamp": "2026-08-10 03:05:31"
     },
     {
-      "keyword": "meteor shower august 12",
-      "score": 2100000,
-      "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-08-13 14:15:48"
-    },
-    {
       "keyword": "perez hilton live stream",
       "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-08-11 03:02:21"
+    },
+    {
+      "keyword": "meteor shower",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-08-13 19:58:13"
     },
     {
       "keyword": "powerball",
@@ -149,6 +156,13 @@
       "timestamp": "2026-08-13 14:15:48"
     },
     {
+      "keyword": "royals vs dodgers",
+      "score": 1570000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-08-13 19:58:13"
+    },
+    {
       "keyword": "dodgers vs diamondbacks",
       "score": 1550000,
       "traffic_numeric": 200000,
@@ -170,13 +184,6 @@
       "timestamp": "2026-08-12 19:58:15"
     },
     {
-      "keyword": "royals vs dodgers",
-      "score": 1370000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-08-13 14:15:48"
-    },
-    {
       "keyword": "braves vs yankees",
       "score": 1350000,
       "traffic_numeric": 200000,
@@ -191,32 +198,25 @@
       "timestamp": "2026-08-12 19:58:15"
     },
     {
+      "keyword": "the end of oak street",
+      "score": 1300000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-13 19:58:13"
+    },
+    {
       "keyword": "sydney towle",
-      "score": 1220000,
+      "score": 1200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-08 19:28:49"
-    },
-    {
-      "keyword": "jorge messi",
-      "score": 1100000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-10 03:05:31"
-    },
-    {
-      "keyword": "the end of oak street",
-      "score": 1100000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-13 14:15:48"
     }
   ],
   "category_stats": {
-    "其他": 110,
+    "其他": 104,
     "体育": 54,
     "科技/AI": 13,
-    "娱乐/生活": 7,
+    "娱乐/生活": 6,
     "金融/商业": 1
   },
   "insights": [

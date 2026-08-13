@@ -1,19 +1,12 @@
 {
-  "last_updated": "2026-08-13 03:22:26",
+  "last_updated": "2026-08-13 08:13:17",
   "trends": [
     {
       "keyword": "perez hilton",
-      "score": 48000000,
+      "score": 46000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-08-11 19:58:03"
-    },
-    {
-      "keyword": "spokane fires",
-      "score": 11200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-08 19:28:49"
     },
     {
       "keyword": "tommy detamore",
@@ -21,6 +14,13 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-08-12 03:19:36"
+    },
+    {
+      "keyword": "spokane fires",
+      "score": 10200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-08 19:28:49"
     },
     {
       "keyword": "chris hansen",
@@ -37,18 +37,18 @@
       "timestamp": "2026-08-13 03:22:26"
     },
     {
+      "keyword": "the last house",
+      "score": 8450000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-13 08:13:17"
+    },
+    {
       "keyword": "abdul el-sayed",
-      "score": 9000000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-08-08 13:32:30"
-    },
-    {
-      "keyword": "the last house",
-      "score": 7950000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-13 03:22:26"
     },
     {
       "keyword": "nfl",
@@ -58,18 +58,25 @@
       "timestamp": "2026-08-09 19:32:49"
     },
     {
+      "keyword": "colombia earthquake",
+      "score": 4920000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-13 08:13:17"
+    },
+    {
       "keyword": "leagues cup",
-      "score": 5000000,
+      "score": 4800000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-08-09 19:32:49"
     },
     {
-      "keyword": "colombia earthquake",
-      "score": 4420000,
-      "traffic_numeric": 500000,
+      "keyword": "solar eclipse 2026",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-13 03:22:26"
+      "timestamp": "2026-08-13 08:13:17"
     },
     {
       "keyword": "louisiana vibrio vulnificus outbreak",
@@ -93,13 +100,6 @@
       "timestamp": "2026-08-08 13:32:30"
     },
     {
-      "keyword": "solar eclipse 2026",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-13 03:22:26"
-    },
-    {
       "keyword": "kit connor",
       "score": 2100000,
       "traffic_numeric": 200000,
@@ -112,13 +112,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-08-11 03:02:21"
-    },
-    {
-      "keyword": "ariana grande",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-07 00:39:03"
     },
     {
       "keyword": "jamie komoroski",
@@ -149,6 +142,20 @@
       "timestamp": "2026-08-12 19:58:15"
     },
     {
+      "keyword": "josh kushner",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-13 08:13:17"
+    },
+    {
+      "keyword": "ariana grande",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-07 00:39:03"
+    },
+    {
       "keyword": "dijonai carrington",
       "score": 1450000,
       "traffic_numeric": 200000,
@@ -177,11 +184,11 @@
       "timestamp": "2026-08-08 19:28:49"
     },
     {
-      "keyword": "jorge messi",
-      "score": 1100000,
+      "keyword": "royals vs dodgers",
+      "score": 1170000,
       "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-10 03:05:31"
+      "category": "体育",
+      "timestamp": "2026-08-13 08:13:17"
     },
     {
       "keyword": "meteor shower august 12",
@@ -191,31 +198,24 @@
       "timestamp": "2026-08-13 03:22:26"
     },
     {
-      "keyword": "josh kushner",
-      "score": 1000000,
-      "traffic_numeric": 500000,
+      "keyword": "jorge messi",
+      "score": 1100000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-13 03:22:26"
+      "timestamp": "2026-08-10 03:05:31"
     },
     {
-      "keyword": "dodgers vs cubs",
-      "score": 1000000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-08-06 09:31:18"
-    },
-    {
-      "keyword": "powerball drawing",
-      "score": 1000000,
+      "keyword": "david crowley",
+      "score": 1020000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-13 03:22:26"
+      "timestamp": "2026-08-13 08:13:17"
     }
   ],
   "category_stats": {
-    "其他": 106,
+    "其他": 107,
     "体育": 56,
-    "科技/AI": 11,
+    "科技/AI": 12,
     "娱乐/生活": 7,
     "金融/商业": 1
   },

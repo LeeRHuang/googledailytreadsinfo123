@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-08-14 08:14:21",
+  "last_updated": "2026-08-14 14:13:23",
   "trends": [
     {
       "keyword": "perez hilton",
-      "score": 36000000,
+      "score": 34000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-08-11 19:58:03"
     },
     {
       "keyword": "tommy detamore",
-      "score": 10920000,
+      "score": 10900000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-08-12 03:19:36"
@@ -24,7 +24,7 @@
     },
     {
       "keyword": "chris hansen",
-      "score": 9700000,
+      "score": 9500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-13 03:22:26"
@@ -38,10 +38,17 @@
     },
     {
       "keyword": "colombia earthquake",
-      "score": 6420000,
+      "score": 6920000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-14 03:22:55"
+      "timestamp": "2026-08-14 14:13:23"
+    },
+    {
+      "keyword": "josh kushner",
+      "score": 6500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-14 14:13:23"
     },
     {
       "keyword": "solar eclipse 2026",
@@ -51,25 +58,11 @@
       "timestamp": "2026-08-13 19:58:13"
     },
     {
-      "keyword": "josh kushner",
-      "score": 5500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-14 08:14:21"
-    },
-    {
       "keyword": "spokane fires",
-      "score": 5200000,
+      "score": 4200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-08-08 19:28:49"
-    },
-    {
-      "keyword": "nfl",
-      "score": 4700000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-08-14 03:22:55"
     },
     {
       "keyword": "meteor shower",
@@ -86,25 +79,32 @@
       "timestamp": "2026-08-10 14:19:19"
     },
     {
-      "keyword": "leagues cup",
-      "score": 3500000,
+      "keyword": "nfl",
+      "score": 3700000,
       "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-08-09 19:32:49"
+      "timestamp": "2026-08-14 03:22:55"
     },
     {
       "keyword": "joe biden",
-      "score": 3120000,
+      "score": 3320000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-12 19:58:15"
+      "timestamp": "2026-08-14 14:13:23"
     },
     {
-      "keyword": "abdul el-sayed",
+      "keyword": "powerball winner",
       "score": 3000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-08-08 13:32:30"
+      "timestamp": "2026-08-14 14:13:23"
+    },
+    {
+      "keyword": "leagues cup",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-09 19:32:49"
     },
     {
       "keyword": "haynes king",
@@ -128,6 +128,20 @@
       "timestamp": "2026-08-11 03:02:21"
     },
     {
+      "keyword": "abdul el-sayed",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-08 13:32:30"
+    },
+    {
+      "keyword": "karoline leavitt",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-14 14:13:23"
+    },
+    {
       "keyword": "powerball",
       "score": 2000000,
       "traffic_numeric": 1000000,
@@ -135,25 +149,25 @@
       "timestamp": "2026-08-13 14:15:48"
     },
     {
+      "keyword": "the end of oak street",
+      "score": 1900000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-14 14:13:23"
+    },
+    {
       "keyword": "jamie komoroski",
-      "score": 1800000,
+      "score": 1700000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-11 19:58:03"
     },
     {
       "keyword": "kit connor",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-10 03:05:31"
-    },
-    {
-      "keyword": "the end of oak street",
       "score": 1700000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-14 08:14:21"
+      "timestamp": "2026-08-10 03:05:31"
     },
     {
       "keyword": "dijonai carrington",
@@ -191,30 +205,16 @@
       "timestamp": "2026-08-12 19:58:15"
     },
     {
-      "keyword": "karoline leavitt",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-14 08:14:21"
-    },
-    {
-      "keyword": "braves vs yankees",
-      "score": 1350000,
+      "keyword": "russell westbrook",
+      "score": 1450000,
       "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-08-10 03:05:31"
-    },
-    {
-      "keyword": "wisconsin governor race",
-      "score": 1300000,
-      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-12 19:58:15"
+      "timestamp": "2026-08-14 14:13:23"
     }
   ],
   "category_stats": {
-    "其他": 108,
-    "体育": 51,
+    "其他": 106,
+    "体育": 48,
     "科技/AI": 13,
     "娱乐/生活": 5,
     "金融/商业": 1

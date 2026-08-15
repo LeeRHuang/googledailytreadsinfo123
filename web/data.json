@@ -1,47 +1,47 @@
 {
-  "last_updated": "2026-08-15 07:30:19",
+  "last_updated": "2026-08-15 13:24:21",
   "trends": [
     {
       "keyword": "perez hilton",
-      "score": 30000000,
+      "score": 28000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-08-11 19:58:03"
     },
     {
       "keyword": "tommy detamore",
-      "score": 10600000,
+      "score": 10400000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-08-12 03:19:36"
     },
     {
       "keyword": "enes kanter",
-      "score": 9800000,
+      "score": 9600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-13 19:58:13"
     },
     {
       "keyword": "the last house",
-      "score": 9300000,
+      "score": 9200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-13 19:58:13"
     },
     {
       "keyword": "chris hansen",
-      "score": 9100000,
+      "score": 8900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-13 03:22:26"
     },
     {
       "keyword": "josh kushner",
-      "score": 7500000,
+      "score": 8500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-14 19:41:16"
+      "timestamp": "2026-08-15 13:24:21"
     },
     {
       "keyword": "colombia earthquake",
@@ -65,6 +65,13 @@
       "timestamp": "2026-08-14 19:41:16"
     },
     {
+      "keyword": "karoline leavitt",
+      "score": 4000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-15 13:24:21"
+    },
+    {
       "keyword": "meteor shower",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -80,17 +87,17 @@
     },
     {
       "keyword": "joe biden",
-      "score": 3520000,
+      "score": 3500000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-14 19:41:16"
     },
     {
-      "keyword": "karoline leavitt",
-      "score": 3500000,
+      "keyword": "prichard colon",
+      "score": 2950000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-15 07:30:19"
+      "timestamp": "2026-08-15 13:24:21"
     },
     {
       "keyword": "nfl",
@@ -101,24 +108,10 @@
     },
     {
       "keyword": "leagues cup",
-      "score": 2600000,
+      "score": 2400000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-08-09 19:32:49"
-    },
-    {
-      "keyword": "prichard colon",
-      "score": 2450000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-15 07:30:19"
-    },
-    {
-      "keyword": "spokane fires",
-      "score": 2200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-08 19:28:49"
     },
     {
       "keyword": "meteor shower august 12",
@@ -135,6 +128,13 @@
       "timestamp": "2026-08-14 19:41:16"
     },
     {
+      "keyword": "perez hilton live stream",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-11 03:02:21"
+    },
+    {
       "keyword": "powerball",
       "score": 2000000,
       "traffic_numeric": 1000000,
@@ -142,11 +142,11 @@
       "timestamp": "2026-08-13 14:15:48"
     },
     {
-      "keyword": "perez hilton live stream",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
+      "keyword": "jenna ortega",
+      "score": 1720000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-11 03:02:21"
+      "timestamp": "2026-08-15 13:24:21"
     },
     {
       "keyword": "dijonai carrington",
@@ -163,11 +163,11 @@
       "timestamp": "2026-08-15 07:30:19"
     },
     {
-      "keyword": "jamie komoroski",
+      "keyword": "reacher season 4",
       "score": 1600000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-11 19:58:03"
+      "timestamp": "2026-08-15 13:24:21"
     },
     {
       "keyword": "royals vs dodgers",
@@ -175,13 +175,6 @@
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-08-13 19:58:13"
-    },
-    {
-      "keyword": "jenna ortega",
-      "score": 1520000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-15 07:30:19"
     },
     {
       "keyword": "singer",
@@ -198,24 +191,31 @@
       "timestamp": "2026-08-12 19:58:15"
     },
     {
-      "keyword": "dodgers vs diamondbacks",
+      "keyword": "jamie komoroski",
       "score": 1500000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-11 19:58:03"
+    },
+    {
+      "keyword": "dodgers vs diamondbacks",
+      "score": 1400000,
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-08-10 14:19:19"
     },
     {
-      "keyword": "haynes king",
-      "score": 1500000,
-      "traffic_numeric": 1000000,
+      "keyword": "wisconsin governor race",
+      "score": 1300000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-08 13:32:30"
+      "timestamp": "2026-08-12 19:58:15"
     }
   ],
   "category_stats": {
-    "其他": 115,
-    "体育": 54,
-    "科技/AI": 11,
+    "其他": 116,
+    "体育": 53,
+    "科技/AI": 12,
     "娱乐/生活": 5,
     "金融/商业": 1
   },

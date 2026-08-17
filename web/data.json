@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-17 02:11:20",
+  "last_updated": "2026-08-17 07:49:26",
   "trends": [
     {
       "keyword": "perez hilton",
-      "score": 16000000,
+      "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-08-11 19:58:03"
@@ -16,25 +16,18 @@
       "timestamp": "2026-08-15 13:24:21"
     },
     {
-      "keyword": "tommy detamore",
-      "score": 8000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-12 03:19:36"
-    },
-    {
       "keyword": "the last house",
-      "score": 8000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-13 19:58:13"
-    },
-    {
-      "keyword": "enes kanter",
       "score": 7500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-13 19:58:13"
+    },
+    {
+      "keyword": "karoline leavitt",
+      "score": 7500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-17 07:49:26"
     },
     {
       "keyword": "colombia earthquake",
@@ -51,18 +44,25 @@
       "timestamp": "2026-08-17 02:11:20"
     },
     {
-      "keyword": "karoline leavitt",
+      "keyword": "enes kanter",
       "score": 7000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-17 02:11:20"
+      "timestamp": "2026-08-13 19:58:13"
     },
     {
-      "keyword": "chris hansen",
-      "score": 6200000,
+      "keyword": "tommy detamore",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-12 03:19:36"
+    },
+    {
+      "keyword": "prichard colon",
+      "score": 6450000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-13 03:22:26"
+      "timestamp": "2026-08-17 07:49:26"
     },
     {
       "keyword": "solar eclipse 2026",
@@ -72,11 +72,11 @@
       "timestamp": "2026-08-13 19:58:13"
     },
     {
-      "keyword": "prichard colon",
-      "score": 5950000,
+      "keyword": "chris hansen",
+      "score": 5700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-17 02:11:20"
+      "timestamp": "2026-08-13 03:22:26"
     },
     {
       "keyword": "ufc 330",
@@ -84,6 +84,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-08-16 13:22:12"
+    },
+    {
+      "keyword": "hayden panettiere",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-08-17 07:49:26"
     },
     {
       "keyword": "powerball winner",
@@ -101,21 +108,35 @@
     },
     {
       "keyword": "jenna ortega",
-      "score": 2920000,
+      "score": 3120000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-17 02:11:20"
+      "timestamp": "2026-08-17 07:49:26"
     },
     {
       "keyword": "reacher season 4",
-      "score": 2800000,
+      "score": 3000000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-17 02:11:20"
+      "timestamp": "2026-08-17 07:49:26"
     },
     {
       "keyword": "joe biden",
-      "score": 2700000,
+      "score": 2500000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-14 19:41:16"
+    },
+    {
+      "keyword": "hurricane lala",
+      "score": 2200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-17 07:49:26"
+    },
+    {
+      "keyword": "the end of oak street",
+      "score": 2100000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-14 19:41:16"
@@ -128,18 +149,11 @@
       "timestamp": "2026-08-13 14:15:48"
     },
     {
-      "keyword": "the end of oak street",
-      "score": 2100000,
+      "keyword": "brewers vs dodgers",
+      "score": 2050000,
       "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-14 19:41:16"
-    },
-    {
-      "keyword": "powerball",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-13 14:15:48"
+      "category": "体育",
+      "timestamp": "2026-08-17 07:49:26"
     },
     {
       "keyword": "perez hilton live stream",
@@ -156,6 +170,13 @@
       "timestamp": "2026-08-16 19:03:59"
     },
     {
+      "keyword": "powerball",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-13 14:15:48"
+    },
+    {
       "keyword": "egg recall",
       "score": 1900000,
       "traffic_numeric": 200000,
@@ -163,11 +184,11 @@
       "timestamp": "2026-08-17 02:11:20"
     },
     {
-      "keyword": "brewers vs dodgers",
-      "score": 1850000,
+      "keyword": "camp rock 3",
+      "score": 1800000,
       "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-08-17 02:11:20"
+      "category": "其他",
+      "timestamp": "2026-08-17 07:49:26"
     },
     {
       "keyword": "cowboys",
@@ -177,32 +198,11 @@
       "timestamp": "2026-08-16 19:03:59"
     },
     {
-      "keyword": "hurricane lala",
-      "score": 1700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-17 02:11:20"
-    },
-    {
       "keyword": "russell westbrook",
       "score": 1650000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-15 07:30:19"
-    },
-    {
-      "keyword": "camp rock 3",
-      "score": 1600000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-17 02:11:20"
-    },
-    {
-      "keyword": "dijonai carrington",
-      "score": 1600000,
-      "traffic_numeric": 200000,
-      "category": "科技/AI",
-      "timestamp": "2026-08-13 14:15:48"
     },
     {
       "keyword": "royals vs dodgers",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 126,
-    "体育": 45,
+    "其他": 128,
+    "体育": 42,
     "科技/AI": 8,
     "娱乐/生活": 4
   },

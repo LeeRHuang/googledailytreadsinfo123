@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-16 19:03:59",
+  "last_updated": "2026-08-17 02:11:20",
   "trends": [
     {
       "keyword": "perez hilton",
-      "score": 18000000,
+      "score": 16000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-08-11 19:58:03"
@@ -17,21 +17,21 @@
     },
     {
       "keyword": "tommy detamore",
-      "score": 8500000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-08-12 03:19:36"
     },
     {
       "keyword": "the last house",
-      "score": 8200000,
+      "score": 8000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-13 19:58:13"
     },
     {
       "keyword": "enes kanter",
-      "score": 8000000,
+      "score": 7500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-13 19:58:13"
@@ -44,25 +44,25 @@
       "timestamp": "2026-08-15 02:12:27"
     },
     {
-      "keyword": "chris hansen",
-      "score": 6700000,
-      "traffic_numeric": 500000,
+      "keyword": "maya boyd",
+      "score": 7100000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-13 03:22:26"
+      "timestamp": "2026-08-17 02:11:20"
     },
     {
       "keyword": "karoline leavitt",
-      "score": 6500000,
+      "score": 7000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-16 19:03:59"
+      "timestamp": "2026-08-17 02:11:20"
     },
     {
-      "keyword": "maya boyd",
-      "score": 6100000,
-      "traffic_numeric": 1000000,
+      "keyword": "chris hansen",
+      "score": 6200000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-16 19:03:59"
+      "timestamp": "2026-08-13 03:22:26"
     },
     {
       "keyword": "solar eclipse 2026",
@@ -73,10 +73,10 @@
     },
     {
       "keyword": "prichard colon",
-      "score": 5450000,
+      "score": 5950000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-16 19:03:59"
+      "timestamp": "2026-08-17 02:11:20"
     },
     {
       "keyword": "ufc 330",
@@ -100,25 +100,25 @@
       "timestamp": "2026-08-14 08:14:21"
     },
     {
-      "keyword": "joe biden",
-      "score": 2900000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-14 19:41:16"
-    },
-    {
       "keyword": "jenna ortega",
-      "score": 2720000,
+      "score": 2920000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-16 19:03:59"
+      "timestamp": "2026-08-17 02:11:20"
     },
     {
       "keyword": "reacher season 4",
-      "score": 2600000,
+      "score": 2800000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-16 19:03:59"
+      "timestamp": "2026-08-17 02:11:20"
+    },
+    {
+      "keyword": "joe biden",
+      "score": 2700000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-14 19:41:16"
     },
     {
       "keyword": "meteor shower august 12",
@@ -142,13 +142,6 @@
       "timestamp": "2026-08-13 14:15:48"
     },
     {
-      "keyword": "islam makhachev",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-08-16 19:03:59"
-    },
-    {
       "keyword": "perez hilton live stream",
       "score": 2000000,
       "traffic_numeric": 1000000,
@@ -156,11 +149,25 @@
       "timestamp": "2026-08-11 03:02:21"
     },
     {
-      "keyword": "egg recall",
-      "score": 1700000,
-      "traffic_numeric": 200000,
+      "keyword": "islam makhachev",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-08-16 19:03:59"
+    },
+    {
+      "keyword": "egg recall",
+      "score": 1900000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-17 02:11:20"
+    },
+    {
+      "keyword": "brewers vs dodgers",
+      "score": 1850000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-08-17 02:11:20"
     },
     {
       "keyword": "cowboys",
@@ -170,11 +177,11 @@
       "timestamp": "2026-08-16 19:03:59"
     },
     {
-      "keyword": "brewers vs dodgers",
-      "score": 1650000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-08-16 13:22:12"
+      "keyword": "hurricane lala",
+      "score": 1700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-17 02:11:20"
     },
     {
       "keyword": "russell westbrook",
@@ -182,6 +189,13 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-15 07:30:19"
+    },
+    {
+      "keyword": "camp rock 3",
+      "score": 1600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-17 02:11:20"
     },
     {
       "keyword": "dijonai carrington",
@@ -196,25 +210,11 @@
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-08-13 19:58:13"
-    },
-    {
-      "keyword": "singer",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-08-11 03:02:21"
-    },
-    {
-      "keyword": "lindsay clancy case",
-      "score": 1500000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-12 19:58:15"
     }
   ],
   "category_stats": {
-    "其他": 122,
-    "体育": 52,
+    "其他": 126,
+    "体育": 45,
     "科技/AI": 8,
     "娱乐/生活": 4
   },

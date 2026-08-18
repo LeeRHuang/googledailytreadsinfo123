@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18 02:22:41",
+  "last_updated": "2026-08-18 07:37:43",
   "trends": [
     {
       "keyword": "karoline leavitt",
@@ -23,15 +23,8 @@
       "timestamp": "2026-08-17 13:28:30"
     },
     {
-      "keyword": "perez hilton",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-08-11 19:58:03"
-    },
-    {
       "keyword": "colombia earthquake",
-      "score": 7200000,
+      "score": 7000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-15 02:12:27"
@@ -44,6 +37,13 @@
       "timestamp": "2026-08-17 07:49:26"
     },
     {
+      "keyword": "perez hilton",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-08-11 19:58:03"
+    },
+    {
       "keyword": "solar eclipse 2026",
       "score": 6000000,
       "traffic_numeric": 1000000,
@@ -52,13 +52,6 @@
     },
     {
       "keyword": "the last house",
-      "score": 6000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-13 19:58:13"
-    },
-    {
-      "keyword": "enes kanter",
       "score": 5500000,
       "traffic_numeric": 500000,
       "category": "其他",
@@ -73,10 +66,17 @@
     },
     {
       "keyword": "hayden panettiere",
-      "score": 5000003,
+      "score": 5000004,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-08-18 02:22:41"
+      "timestamp": "2026-08-18 07:37:43"
+    },
+    {
+      "keyword": "enes kanter",
+      "score": 5000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-13 19:58:13"
     },
     {
       "keyword": "powerball winner",
@@ -86,18 +86,18 @@
       "timestamp": "2026-08-14 19:41:16"
     },
     {
-      "keyword": "chris hansen",
+      "keyword": "inde navarrette",
       "score": 4500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-18 07:37:43"
+    },
+    {
+      "keyword": "chris hansen",
+      "score": 4000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-13 03:22:26"
-    },
-    {
-      "keyword": "tommy detamore",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-12 03:19:36"
     },
     {
       "keyword": "meteor shower",
@@ -114,32 +114,39 @@
       "timestamp": "2026-08-18 02:22:41"
     },
     {
-      "keyword": "inde navarrette",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-18 02:22:41"
-    },
-    {
       "keyword": "hurricane lala",
-      "score": 3200000,
+      "score": 3700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-17 19:30:07"
-    },
-    {
-      "keyword": "reacher season 4",
-      "score": 3200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-18 02:22:41"
+      "timestamp": "2026-08-18 07:37:43"
     },
     {
       "keyword": "egg recall",
-      "score": 3100000,
+      "score": 3600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-18 02:22:41"
+      "timestamp": "2026-08-18 07:37:43"
+    },
+    {
+      "keyword": "reacher season 4",
+      "score": 3400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-18 07:37:43"
+    },
+    {
+      "keyword": "tommy detamore",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-12 03:19:36"
+    },
+    {
+      "keyword": "rebel creamery ice cream lawsuit",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-18 07:37:43"
     },
     {
       "keyword": "brewers vs dodgers",
@@ -156,27 +163,6 @@
       "timestamp": "2026-08-13 14:15:48"
     },
     {
-      "keyword": "powerball",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-13 14:15:48"
-    },
-    {
-      "keyword": "rebel creamery ice cream lawsuit",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-17 19:30:07"
-    },
-    {
-      "keyword": "the end of oak street",
-      "score": 2000000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-14 19:41:16"
-    },
-    {
       "keyword": "islam makhachev",
       "score": 2000000,
       "traffic_numeric": 2000000,
@@ -184,7 +170,21 @@
       "timestamp": "2026-08-16 19:03:59"
     },
     {
-      "keyword": "joe biden",
+      "keyword": "powerball",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-13 14:15:48"
+    },
+    {
+      "keyword": "frozen 3",
+      "score": 2000000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-18 07:37:43"
+    },
+    {
+      "keyword": "the end of oak street",
       "score": 1900000,
       "traffic_numeric": 200000,
       "category": "其他",
@@ -198,25 +198,25 @@
       "timestamp": "2026-08-17 07:49:26"
     },
     {
-      "keyword": "frozen 3",
-      "score": 1800000,
-      "traffic_numeric": 200000,
+      "keyword": "cowboys",
+      "score": 1700000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-18 02:22:41"
+      "timestamp": "2026-08-16 19:03:59"
     },
     {
-      "keyword": "jason arday",
+      "keyword": "von miller",
       "score": 1700000,
-      "traffic_numeric": 200000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-17 13:28:30"
+      "timestamp": "2026-08-18 07:37:43"
     }
   ],
   "category_stats": {
     "其他": 124,
-    "体育": 45,
+    "体育": 46,
     "科技/AI": 7,
-    "娱乐/生活": 3
+    "娱乐/生活": 2
   },
   "insights": [
     {

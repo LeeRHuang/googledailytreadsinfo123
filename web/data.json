@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19 13:45:45",
+  "last_updated": "2026-08-19 19:19:45",
   "trends": [
     {
       "keyword": "karoline leavitt",
@@ -10,10 +10,10 @@
     },
     {
       "keyword": "inde navarrette",
-      "score": 8500000,
+      "score": 8700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-19 13:45:45"
+      "timestamp": "2026-08-19 19:19:45"
     },
     {
       "keyword": "josh kushner",
@@ -38,17 +38,10 @@
     },
     {
       "keyword": "egg recall",
-      "score": 5600000,
+      "score": 6100000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-19 13:45:45"
-    },
-    {
-      "keyword": "solar eclipse 2026",
-      "score": 5500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-13 19:58:13"
+      "timestamp": "2026-08-19 19:19:45"
     },
     {
       "keyword": "ufc 330",
@@ -59,10 +52,10 @@
     },
     {
       "keyword": "hayden panettiere",
-      "score": 5000008,
+      "score": 5000009,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-08-19 13:45:45"
+      "timestamp": "2026-08-19 19:19:45"
     },
     {
       "keyword": "powerball winner",
@@ -72,6 +65,13 @@
       "timestamp": "2026-08-14 19:41:16"
     },
     {
+      "keyword": "solar eclipse 2026",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-13 19:58:13"
+    },
+    {
       "keyword": "hurricane lala",
       "score": 4700000,
       "traffic_numeric": 500000,
@@ -79,11 +79,11 @@
       "timestamp": "2026-08-19 07:34:28"
     },
     {
-      "keyword": "colombia earthquake",
-      "score": 4500000,
+      "keyword": "von miller",
+      "score": 4200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-15 02:12:27"
+      "timestamp": "2026-08-19 19:19:45"
     },
     {
       "keyword": "meteor shower",
@@ -93,15 +93,15 @@
       "timestamp": "2026-08-14 08:14:21"
     },
     {
-      "keyword": "von miller",
-      "score": 3700000,
+      "keyword": "colombia earthquake",
+      "score": 4000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-19 13:45:45"
+      "timestamp": "2026-08-15 02:12:27"
     },
     {
       "keyword": "jenna ortega",
-      "score": 3700000,
+      "score": 3650000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-18 02:22:41"
@@ -121,25 +121,18 @@
       "timestamp": "2026-08-18 13:43:51"
     },
     {
-      "keyword": "the last house",
-      "score": 3000000,
-      "traffic_numeric": 500000,
+      "keyword": "frozen 3",
+      "score": 2600000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-13 19:58:13"
+      "timestamp": "2026-08-19 19:19:45"
     },
     {
-      "keyword": "enes kanter",
+      "keyword": "the last house",
       "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-13 19:58:13"
-    },
-    {
-      "keyword": "frozen 3",
-      "score": 2400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-18 19:18:57"
     },
     {
       "keyword": "brewers vs dodgers",
@@ -149,11 +142,11 @@
       "timestamp": "2026-08-17 13:28:30"
     },
     {
-      "keyword": "powerball",
+      "keyword": "enes kanter",
       "score": 2000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-13 14:15:48"
+      "timestamp": "2026-08-13 19:58:13"
     },
     {
       "keyword": "islam makhachev",
@@ -163,15 +156,22 @@
       "timestamp": "2026-08-16 19:03:59"
     },
     {
-      "keyword": "meteor shower august 12",
-      "score": 1900000,
+      "keyword": "powerball",
+      "score": 2000000,
       "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
+      "category": "其他",
       "timestamp": "2026-08-13 14:15:48"
     },
     {
       "keyword": "jason arday",
       "score": 1900000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-18 13:43:51"
+    },
+    {
+      "keyword": "joshua baez",
+      "score": 1800000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-18 13:43:51"
@@ -184,11 +184,11 @@
       "timestamp": "2026-08-17 07:49:26"
     },
     {
-      "keyword": "joshua baez",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-18 13:43:51"
+      "keyword": "meteor shower august 12",
+      "score": 1700000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-08-13 14:15:48"
     },
     {
       "keyword": "cowboys",
@@ -213,11 +213,11 @@
     }
   ],
   "category_stats": {
-    "其他": 124,
-    "体育": 47,
+    "其他": 120,
+    "体育": 50,
     "科技/AI": 7,
     "娱乐/生活": 2,
-    "金融/商业": 1
+    "金融/商业": 2
   },
   "insights": [
     {

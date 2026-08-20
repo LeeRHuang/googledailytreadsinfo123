@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-08-20 02:21:28",
+  "last_updated": "2026-08-20 07:38:33",
   "trends": [
     {
+      "keyword": "inde navarrette",
+      "score": 9100000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-20 07:38:32"
+    },
+    {
       "keyword": "karoline leavitt",
-      "score": 9000000,
+      "score": 8800000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-18 02:22:41"
-    },
-    {
-      "keyword": "inde navarrette",
-      "score": 8900000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-20 02:21:28"
     },
     {
       "keyword": "maya boyd",
@@ -24,7 +24,7 @@
     },
     {
       "keyword": "josh kushner",
-      "score": 8000000,
+      "score": 7500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-08-15 13:24:21"
@@ -52,10 +52,10 @@
     },
     {
       "keyword": "hayden panettiere",
-      "score": 5000010,
+      "score": 5000011,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-08-20 02:21:28"
+      "timestamp": "2026-08-20 07:38:32"
     },
     {
       "keyword": "powerball winner",
@@ -79,13 +79,6 @@
       "timestamp": "2026-08-19 19:19:45"
     },
     {
-      "keyword": "solar eclipse 2026",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-13 19:58:13"
-    },
-    {
       "keyword": "meteor shower",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -94,21 +87,14 @@
     },
     {
       "keyword": "jenna ortega",
-      "score": 3600000,
+      "score": 3500000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-18 02:22:41"
     },
     {
-      "keyword": "colombia earthquake",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-15 02:12:27"
-    },
-    {
       "keyword": "reacher season 4",
-      "score": 3400000,
+      "score": 3300000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-18 07:37:43"
@@ -119,6 +105,20 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-18 13:43:51"
+    },
+    {
+      "keyword": "solar eclipse 2026",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-13 19:58:13"
+    },
+    {
+      "keyword": "colombia earthquake",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-15 02:12:27"
     },
     {
       "keyword": "frozen 3",
@@ -133,13 +133,6 @@
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-08-17 13:28:30"
-    },
-    {
-      "keyword": "the last house",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-13 19:58:13"
     },
     {
       "keyword": "powerball",
@@ -191,30 +184,37 @@
       "timestamp": "2026-08-19 07:34:28"
     },
     {
+      "keyword": "the last house",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-13 19:58:13"
+    },
+    {
       "keyword": "russell westbrook",
-      "score": 1600000,
+      "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-15 07:30:19"
     },
     {
-      "keyword": "the end of oak street",
-      "score": 1500000,
+      "keyword": "luigi mangione",
+      "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-14 19:41:16"
+      "timestamp": "2026-08-18 07:37:43"
     },
     {
-      "keyword": "meteor shower august 12",
-      "score": 1500000,
-      "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-08-13 14:15:48"
+      "keyword": "have i been flocked",
+      "score": 1400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-17 19:30:07"
     }
   ],
   "category_stats": {
-    "其他": 117,
-    "体育": 45,
+    "其他": 118,
+    "体育": 44,
     "科技/AI": 8,
     "娱乐/生活": 2,
     "金融/商业": 2

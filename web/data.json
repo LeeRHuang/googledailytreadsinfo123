@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19 19:19:45",
+  "last_updated": "2026-08-20 02:21:28",
   "trends": [
     {
       "keyword": "karoline leavitt",
@@ -10,17 +10,10 @@
     },
     {
       "keyword": "inde navarrette",
-      "score": 8700000,
+      "score": 8900000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-19 19:19:45"
-    },
-    {
-      "keyword": "josh kushner",
-      "score": 8500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-15 13:24:21"
+      "timestamp": "2026-08-20 02:21:28"
     },
     {
       "keyword": "maya boyd",
@@ -30,18 +23,25 @@
       "timestamp": "2026-08-17 13:28:30"
     },
     {
+      "keyword": "josh kushner",
+      "score": 8000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-15 13:24:21"
+    },
+    {
+      "keyword": "egg recall",
+      "score": 6600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-20 02:21:28"
+    },
+    {
       "keyword": "prichard colon",
       "score": 6450000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-17 07:49:26"
-    },
-    {
-      "keyword": "egg recall",
-      "score": 6100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-19 19:19:45"
     },
     {
       "keyword": "ufc 330",
@@ -52,10 +52,10 @@
     },
     {
       "keyword": "hayden panettiere",
-      "score": 5000009,
+      "score": 5000010,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-08-19 19:19:45"
+      "timestamp": "2026-08-20 02:21:28"
     },
     {
       "keyword": "powerball winner",
@@ -63,13 +63,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-08-14 19:41:16"
-    },
-    {
-      "keyword": "solar eclipse 2026",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-13 19:58:13"
     },
     {
       "keyword": "hurricane lala",
@@ -86,6 +79,13 @@
       "timestamp": "2026-08-19 19:19:45"
     },
     {
+      "keyword": "solar eclipse 2026",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-13 19:58:13"
+    },
+    {
       "keyword": "meteor shower",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -93,18 +93,18 @@
       "timestamp": "2026-08-14 08:14:21"
     },
     {
-      "keyword": "colombia earthquake",
-      "score": 4000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-15 02:12:27"
-    },
-    {
       "keyword": "jenna ortega",
-      "score": 3650000,
+      "score": 3600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-18 02:22:41"
+    },
+    {
+      "keyword": "colombia earthquake",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-15 02:12:27"
     },
     {
       "keyword": "reacher season 4",
@@ -122,17 +122,10 @@
     },
     {
       "keyword": "frozen 3",
-      "score": 2600000,
+      "score": 2800000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-19 19:19:45"
-    },
-    {
-      "keyword": "the last house",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-13 19:58:13"
+      "timestamp": "2026-08-20 02:21:28"
     },
     {
       "keyword": "brewers vs dodgers",
@@ -142,18 +135,11 @@
       "timestamp": "2026-08-17 13:28:30"
     },
     {
-      "keyword": "enes kanter",
+      "keyword": "the last house",
       "score": 2000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-13 19:58:13"
-    },
-    {
-      "keyword": "islam makhachev",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-08-16 19:03:59"
     },
     {
       "keyword": "powerball",
@@ -163,15 +149,15 @@
       "timestamp": "2026-08-13 14:15:48"
     },
     {
-      "keyword": "jason arday",
-      "score": 1900000,
-      "traffic_numeric": 200000,
+      "keyword": "islam makhachev",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-08-18 13:43:51"
+      "timestamp": "2026-08-16 19:03:59"
     },
     {
-      "keyword": "joshua baez",
-      "score": 1800000,
+      "keyword": "jason arday",
+      "score": 1900000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-18 13:43:51"
@@ -184,11 +170,11 @@
       "timestamp": "2026-08-17 07:49:26"
     },
     {
-      "keyword": "meteor shower august 12",
-      "score": 1700000,
-      "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-08-13 14:15:48"
+      "keyword": "joshua baez",
+      "score": 1800000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-18 13:43:51"
     },
     {
       "keyword": "cowboys",
@@ -198,24 +184,38 @@
       "timestamp": "2026-08-16 19:03:59"
     },
     {
+      "keyword": "natalie harp",
+      "score": 1600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-19 07:34:28"
+    },
+    {
       "keyword": "russell westbrook",
-      "score": 1650000,
+      "score": 1600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-15 07:30:19"
     },
     {
       "keyword": "the end of oak street",
-      "score": 1600000,
+      "score": 1500000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-14 19:41:16"
+    },
+    {
+      "keyword": "meteor shower august 12",
+      "score": 1500000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-08-13 14:15:48"
     }
   ],
   "category_stats": {
-    "其他": 120,
-    "体育": 50,
-    "科技/AI": 7,
+    "其他": 117,
+    "体育": 45,
+    "科技/AI": 8,
     "娱乐/生活": 2,
     "金融/商业": 2
   },

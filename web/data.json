@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-08-20 07:38:33",
+  "last_updated": "2026-08-20 13:35:39",
   "trends": [
     {
       "keyword": "inde navarrette",
-      "score": 9100000,
+      "score": 9300000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-20 07:38:32"
+      "timestamp": "2026-08-20 13:35:39"
     },
     {
       "keyword": "karoline leavitt",
-      "score": 8800000,
+      "score": 8600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-18 02:22:41"
@@ -23,18 +23,18 @@
       "timestamp": "2026-08-17 13:28:30"
     },
     {
+      "keyword": "egg recall",
+      "score": 7100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-20 13:35:39"
+    },
+    {
       "keyword": "josh kushner",
-      "score": 7500000,
+      "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-08-15 13:24:21"
-    },
-    {
-      "keyword": "egg recall",
-      "score": 6600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-20 02:21:28"
     },
     {
       "keyword": "prichard colon",
@@ -52,10 +52,10 @@
     },
     {
       "keyword": "hayden panettiere",
-      "score": 5000011,
+      "score": 5000012,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-08-20 07:38:32"
+      "timestamp": "2026-08-20 13:35:39"
     },
     {
       "keyword": "powerball winner",
@@ -65,6 +65,13 @@
       "timestamp": "2026-08-14 19:41:16"
     },
     {
+      "keyword": "von miller",
+      "score": 4700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-20 13:35:39"
+    },
+    {
       "keyword": "hurricane lala",
       "score": 4700000,
       "traffic_numeric": 500000,
@@ -72,32 +79,25 @@
       "timestamp": "2026-08-19 07:34:28"
     },
     {
-      "keyword": "von miller",
-      "score": 4200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-19 19:19:45"
-    },
-    {
-      "keyword": "meteor shower",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-08-14 08:14:21"
-    },
-    {
       "keyword": "jenna ortega",
-      "score": 3500000,
+      "score": 3400000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-18 02:22:41"
     },
     {
       "keyword": "reacher season 4",
-      "score": 3300000,
+      "score": 3200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-18 07:37:43"
+    },
+    {
+      "keyword": "meteor shower",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-08-14 08:14:21"
     },
     {
       "keyword": "rebel creamery ice cream lawsuit",
@@ -107,25 +107,18 @@
       "timestamp": "2026-08-18 13:43:51"
     },
     {
-      "keyword": "solar eclipse 2026",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-13 19:58:13"
-    },
-    {
-      "keyword": "colombia earthquake",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-15 02:12:27"
-    },
-    {
       "keyword": "frozen 3",
       "score": 2800000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-20 02:21:28"
+    },
+    {
+      "keyword": "colombia earthquake",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-15 02:12:27"
     },
     {
       "keyword": "brewers vs dodgers",
@@ -135,13 +128,6 @@
       "timestamp": "2026-08-17 13:28:30"
     },
     {
-      "keyword": "powerball",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-13 14:15:48"
-    },
-    {
       "keyword": "islam makhachev",
       "score": 2000000,
       "traffic_numeric": 2000000,
@@ -149,8 +135,22 @@
       "timestamp": "2026-08-16 19:03:59"
     },
     {
+      "keyword": "solar eclipse 2026",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-13 19:58:13"
+    },
+    {
       "keyword": "jason arday",
       "score": 1900000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-18 13:43:51"
+    },
+    {
+      "keyword": "joshua baez",
+      "score": 1800000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-18 13:43:51"
@@ -161,13 +161,6 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-17 07:49:26"
-    },
-    {
-      "keyword": "joshua baez",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-18 13:43:51"
     },
     {
       "keyword": "cowboys",
@@ -184,20 +177,6 @@
       "timestamp": "2026-08-19 07:34:28"
     },
     {
-      "keyword": "the last house",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-13 19:58:13"
-    },
-    {
-      "keyword": "russell westbrook",
-      "score": 1400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-15 07:30:19"
-    },
-    {
       "keyword": "luigi mangione",
       "score": 1400000,
       "traffic_numeric": 200000,
@@ -205,19 +184,40 @@
       "timestamp": "2026-08-18 07:37:43"
     },
     {
+      "keyword": "gta 6 august 27 presentation",
+      "score": 1400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-18 13:43:51"
+    },
+    {
+      "keyword": "end of oak street",
+      "score": 1400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-16 19:03:59"
+    },
+    {
       "keyword": "have i been flocked",
       "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-17 19:30:07"
+    },
+    {
+      "keyword": "dodgers vs rockies",
+      "score": 1350000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-08-20 13:35:39"
     }
   ],
   "category_stats": {
-    "其他": 118,
-    "体育": 44,
+    "其他": 120,
+    "体育": 42,
     "科技/AI": 8,
-    "娱乐/生活": 2,
-    "金融/商业": 2
+    "金融/商业": 3,
+    "娱乐/生活": 2
   },
   "insights": [
     {

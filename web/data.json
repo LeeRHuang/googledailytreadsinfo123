@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-08-20 19:21:45",
+  "last_updated": "2026-08-21 02:20:08",
   "trends": [
     {
       "keyword": "inde navarrette",
-      "score": 9500000,
+      "score": 9700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-20 19:21:44"
+      "timestamp": "2026-08-21 02:20:08"
     },
     {
       "keyword": "karoline leavitt",
-      "score": 8400000,
+      "score": 8200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-18 02:22:41"
@@ -31,17 +31,10 @@
     },
     {
       "keyword": "prichard colon",
-      "score": 6450000,
+      "score": 6400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-17 07:49:26"
-    },
-    {
-      "keyword": "josh kushner",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-15 13:24:21"
     },
     {
       "keyword": "ufc 330",
@@ -52,17 +45,17 @@
     },
     {
       "keyword": "hayden panettiere",
-      "score": 5000013,
+      "score": 5000014,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-08-20 19:21:44"
+      "timestamp": "2026-08-21 02:20:08"
     },
     {
-      "keyword": "powerball winner",
+      "keyword": "josh kushner",
       "score": 5000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-14 19:41:16"
+      "timestamp": "2026-08-15 13:24:21"
     },
     {
       "keyword": "von miller",
@@ -79,25 +72,32 @@
       "timestamp": "2026-08-19 07:34:28"
     },
     {
+      "keyword": "powerball winner",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-08-14 19:41:16"
+    },
+    {
       "keyword": "jenna ortega",
-      "score": 3300000,
+      "score": 3200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-18 02:22:41"
     },
     {
       "keyword": "reacher season 4",
-      "score": 3100000,
+      "score": 3000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-18 07:37:43"
     },
     {
-      "keyword": "meteor shower",
+      "keyword": "frozen 3",
       "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-08-14 08:14:21"
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-21 02:20:08"
     },
     {
       "keyword": "rebel creamery ice cream lawsuit",
@@ -107,25 +107,11 @@
       "timestamp": "2026-08-18 13:43:51"
     },
     {
-      "keyword": "frozen 3",
-      "score": 2800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-20 02:21:28"
-    },
-    {
       "keyword": "brewers vs dodgers",
       "score": 2250000,
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-08-17 13:28:30"
-    },
-    {
-      "keyword": "colombia earthquake",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-15 02:12:27"
     },
     {
       "keyword": "islam makhachev",
@@ -135,8 +121,22 @@
       "timestamp": "2026-08-16 19:03:59"
     },
     {
+      "keyword": "meteor shower",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-08-14 08:14:21"
+    },
+    {
       "keyword": "jason arday",
       "score": 1900000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-18 13:43:51"
+    },
+    {
+      "keyword": "joshua baez",
+      "score": 1800000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-18 13:43:51"
@@ -147,13 +147,6 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-17 07:49:26"
-    },
-    {
-      "keyword": "joshua baez",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-18 13:43:51"
     },
     {
       "keyword": "cowboys",
@@ -170,11 +163,18 @@
       "timestamp": "2026-08-19 07:34:28"
     },
     {
-      "keyword": "end of oak street",
-      "score": 1400000,
-      "traffic_numeric": 200000,
+      "keyword": "colombia earthquake",
+      "score": 1500000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-16 19:03:59"
+      "timestamp": "2026-08-15 02:12:27"
+    },
+    {
+      "keyword": "mariners vs brewers",
+      "score": 1500000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-08-21 02:20:08"
     },
     {
       "keyword": "gta 6 august 27 presentation",
@@ -184,11 +184,18 @@
       "timestamp": "2026-08-18 13:43:51"
     },
     {
-      "keyword": "have i been flocked",
+      "keyword": "end of oak street",
       "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-17 19:30:07"
+      "timestamp": "2026-08-16 19:03:59"
+    },
+    {
+      "keyword": "flock cameras",
+      "score": 1400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-21 02:20:08"
     },
     {
       "keyword": "luigi mangione",
@@ -198,32 +205,19 @@
       "timestamp": "2026-08-18 07:37:43"
     },
     {
-      "keyword": "dodgers vs rockies",
-      "score": 1350000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-08-20 13:35:39"
-    },
-    {
-      "keyword": "flock cameras",
-      "score": 1300000,
+      "keyword": "have i been flocked",
+      "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-20 19:21:44"
+      "timestamp": "2026-08-17 19:30:07"
     }
   ],
   "category_stats": {
-    "其他": 121,
-    "体育": 43,
+    "其他": 118,
+    "体育": 40,
     "科技/AI": 8,
     "金融/商业": 3,
     "娱乐/生活": 1
   },
-  "insights": [
-    {
-      "title": "季节性效率/计划应用",
-      "context": "新年计划相关关键词搜索量激增。",
-      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
-    }
-  ]
+  "insights": []
 }

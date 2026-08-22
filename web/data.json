@@ -1,47 +1,40 @@
 {
-  "last_updated": "2026-08-22 07:20:14",
+  "last_updated": "2026-08-22 13:25:08",
   "trends": [
     {
       "keyword": "inde navarrette",
-      "score": 10100000,
+      "score": 9600000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-08-22 02:19:28"
     },
     {
       "keyword": "maya boyd",
-      "score": 8100000,
+      "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-08-17 13:28:30"
     },
     {
       "keyword": "egg recall",
-      "score": 6800000,
+      "score": 6400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-20 13:35:39"
     },
     {
-      "keyword": "karoline leavitt",
-      "score": 6000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-18 02:22:41"
-    },
-    {
       "keyword": "ufc 330",
-      "score": 5400000,
+      "score": 5200000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-08-16 13:22:12"
     },
     {
       "keyword": "hayden panettiere",
-      "score": 5000019,
+      "score": 5000020,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-08-22 07:20:14"
+      "timestamp": "2026-08-22 13:25:08"
     },
     {
       "keyword": "hayden panettiere cause of death",
@@ -51,11 +44,11 @@
       "timestamp": "2026-08-21 13:35:57"
     },
     {
-      "keyword": "hurricane lala",
-      "score": 4700000,
+      "keyword": "karoline leavitt",
+      "score": 5000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-19 07:34:28"
+      "timestamp": "2026-08-18 02:22:41"
     },
     {
       "keyword": "von miller",
@@ -65,18 +58,25 @@
       "timestamp": "2026-08-20 13:35:39"
     },
     {
+      "keyword": "hurricane lala",
+      "score": 4600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-19 07:34:28"
+    },
+    {
       "keyword": "prichard colon",
-      "score": 4500000,
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-17 07:49:26"
     },
     {
-      "keyword": "rebel creamery ice cream lawsuit",
-      "score": 3000000,
+      "keyword": "gta 6 leaks",
+      "score": 3100000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-18 13:43:51"
+      "timestamp": "2026-08-22 13:25:08"
     },
     {
       "keyword": "frozen 3",
@@ -86,39 +86,32 @@
       "timestamp": "2026-08-21 02:20:08"
     },
     {
-      "keyword": "gta 6 leaks",
-      "score": 2600000,
+      "keyword": "rebel creamery ice cream lawsuit",
+      "score": 3000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-22 07:20:14"
-    },
-    {
-      "keyword": "jenna ortega",
-      "score": 2400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-18 02:22:41"
-    },
-    {
-      "keyword": "reacher season 4",
-      "score": 2200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-18 07:37:43"
+      "timestamp": "2026-08-18 13:43:51"
     },
     {
       "keyword": "moderna stock",
-      "score": 2100000,
+      "score": 2300000,
       "traffic_numeric": 200000,
       "category": "金融/商业",
-      "timestamp": "2026-08-22 07:20:14"
+      "timestamp": "2026-08-22 13:25:08"
     },
     {
       "keyword": "flock cameras",
+      "score": 2200000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-22 13:25:08"
+    },
+    {
+      "keyword": "jenna ortega",
       "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-22 07:20:14"
+      "timestamp": "2026-08-18 02:22:41"
     },
     {
       "keyword": "islam makhachev",
@@ -128,25 +121,18 @@
       "timestamp": "2026-08-16 19:03:59"
     },
     {
-      "keyword": "brewers vs dodgers",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-08-17 13:28:30"
-    },
-    {
-      "keyword": "jason arday",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-18 13:43:51"
-    },
-    {
       "keyword": "joshua baez",
       "score": 1800000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-18 13:43:51"
+    },
+    {
+      "keyword": "reacher season 4",
+      "score": 1800000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-18 07:37:43"
     },
     {
       "keyword": "cowboys",
@@ -168,6 +154,13 @@
       "traffic_numeric": 100000,
       "category": "其他",
       "timestamp": "2026-08-22 02:19:28"
+    },
+    {
+      "keyword": "aircraft pilot",
+      "score": 1500000,
+      "traffic_numeric": 200000,
+      "category": "科技/AI",
+      "timestamp": "2026-08-22 13:25:08"
     },
     {
       "keyword": "mariners vs brewers",
@@ -198,11 +191,18 @@
       "timestamp": "2026-08-18 13:43:51"
     },
     {
-      "keyword": "camp rock 3",
+      "keyword": "brewers vs dodgers",
+      "score": 1400000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-08-17 13:28:30"
+    },
+    {
+      "keyword": "jason arday",
       "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-17 07:49:26"
+      "timestamp": "2026-08-18 13:43:51"
     },
     {
       "keyword": "dodgers vs rockies",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 124,
-    "体育": 44,
+    "其他": 111,
+    "体育": 45,
     "科技/AI": 9,
     "金融/商业": 4
   },

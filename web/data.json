@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 02:19:28",
+  "last_updated": "2026-08-22 07:20:14",
   "trends": [
     {
       "keyword": "inde navarrette",
@@ -38,10 +38,10 @@
     },
     {
       "keyword": "hayden panettiere",
-      "score": 5000018,
+      "score": 5000019,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-08-22 02:19:28"
+      "timestamp": "2026-08-22 07:20:14"
     },
     {
       "keyword": "hayden panettiere cause of death",
@@ -72,6 +72,13 @@
       "timestamp": "2026-08-17 07:49:26"
     },
     {
+      "keyword": "rebel creamery ice cream lawsuit",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-18 13:43:51"
+    },
+    {
       "keyword": "frozen 3",
       "score": 3000000,
       "traffic_numeric": 200000,
@@ -79,11 +86,11 @@
       "timestamp": "2026-08-21 02:20:08"
     },
     {
-      "keyword": "rebel creamery ice cream lawsuit",
-      "score": 3000000,
+      "keyword": "gta 6 leaks",
+      "score": 2600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-18 13:43:51"
+      "timestamp": "2026-08-22 07:20:14"
     },
     {
       "keyword": "jenna ortega",
@@ -100,11 +107,18 @@
       "timestamp": "2026-08-18 07:37:43"
     },
     {
-      "keyword": "gta 6 leaks",
+      "keyword": "moderna stock",
       "score": 2100000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 200000,
+      "category": "金融/商业",
+      "timestamp": "2026-08-22 07:20:14"
+    },
+    {
+      "keyword": "flock cameras",
+      "score": 2000000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-22 02:19:28"
+      "timestamp": "2026-08-22 07:20:14"
     },
     {
       "keyword": "islam makhachev",
@@ -112,13 +126,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-08-16 19:03:59"
-    },
-    {
-      "keyword": "moderna stock",
-      "score": 1900000,
-      "traffic_numeric": 200000,
-      "category": "金融/商业",
-      "timestamp": "2026-08-22 02:19:28"
     },
     {
       "keyword": "brewers vs dodgers",
@@ -133,13 +140,6 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-18 13:43:51"
-    },
-    {
-      "keyword": "flock cameras",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-22 02:19:28"
     },
     {
       "keyword": "joshua baez",
@@ -170,18 +170,18 @@
       "timestamp": "2026-08-22 02:19:28"
     },
     {
-      "keyword": "penn state coke bust",
-      "score": 1500000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-22 02:19:28"
-    },
-    {
       "keyword": "mariners vs brewers",
       "score": 1500000,
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-08-21 02:20:08"
+    },
+    {
+      "keyword": "penn state coke bust",
+      "score": 1500000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-22 02:19:28"
     },
     {
       "keyword": "have i been flocked",
@@ -191,13 +191,6 @@
       "timestamp": "2026-08-17 19:30:07"
     },
     {
-      "keyword": "camp rock 3",
-      "score": 1400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-17 07:49:26"
-    },
-    {
       "keyword": "gta 6 august 27 presentation",
       "score": 1400000,
       "traffic_numeric": 200000,
@@ -205,18 +198,25 @@
       "timestamp": "2026-08-18 13:43:51"
     },
     {
-      "keyword": "yankees vs orioles",
+      "keyword": "camp rock 3",
+      "score": 1400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-17 07:49:26"
+    },
+    {
+      "keyword": "dodgers vs rockies",
       "score": 1350000,
       "traffic_numeric": 200000,
       "category": "体育",
-      "timestamp": "2026-08-21 13:35:57"
+      "timestamp": "2026-08-20 13:35:39"
     }
   ],
   "category_stats": {
-    "其他": 120,
-    "体育": 42,
+    "其他": 124,
+    "体育": 44,
     "科技/AI": 9,
-    "金融/商业": 3
+    "金融/商业": 4
   },
   "insights": []
 }

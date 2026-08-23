@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23 13:22:12",
+  "last_updated": "2026-08-23 19:15:24",
   "trends": [
     {
       "keyword": "inde navarrette",
@@ -10,17 +10,17 @@
     },
     {
       "keyword": "egg recall",
-      "score": 5600000,
+      "score": 5400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-20 13:35:39"
     },
     {
       "keyword": "hayden panettiere",
-      "score": 5000024,
+      "score": 5000025,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-08-23 13:22:12"
+      "timestamp": "2026-08-23 19:15:24"
     },
     {
       "keyword": "hayden panettiere cause of death",
@@ -38,10 +38,17 @@
     },
     {
       "keyword": "hurricane lala",
-      "score": 4000000,
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-19 07:34:28"
+    },
+    {
+      "keyword": "flock cameras",
+      "score": 3200000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-23 19:15:24"
     },
     {
       "keyword": "gta 6 leaks",
@@ -65,39 +72,25 @@
       "timestamp": "2026-08-18 13:43:51"
     },
     {
-      "keyword": "maya boyd",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-17 13:28:30"
-    },
-    {
       "keyword": "karoline leavitt",
-      "score": 3000000,
+      "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-18 02:22:41"
     },
     {
-      "keyword": "flock cameras",
-      "score": 3000000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-23 13:22:12"
-    },
-    {
       "keyword": "frozen 3",
-      "score": 2400000,
+      "score": 2200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-21 02:20:08"
     },
     {
-      "keyword": "islam makhachev",
+      "keyword": "maya boyd",
       "score": 2000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-16 19:03:59"
+      "timestamp": "2026-08-17 13:28:30"
     },
     {
       "keyword": "bitcoin price",
@@ -114,6 +107,20 @@
       "timestamp": "2026-08-19 07:34:28"
     },
     {
+      "keyword": "penn state coke bust",
+      "score": 1500000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-22 02:19:28"
+    },
+    {
+      "keyword": "mariners vs brewers",
+      "score": 1500000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-08-21 02:20:08"
+    },
+    {
       "keyword": "coco 2",
       "score": 1500000,
       "traffic_numeric": 100000,
@@ -128,27 +135,6 @@
       "timestamp": "2026-08-22 13:25:08"
     },
     {
-      "keyword": "mariners vs brewers",
-      "score": 1500000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-08-21 02:20:08"
-    },
-    {
-      "keyword": "prichard colon",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-17 07:49:26"
-    },
-    {
-      "keyword": "penn state coke bust",
-      "score": 1500000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-22 02:19:28"
-    },
-    {
       "keyword": "gta 6 august 27 presentation",
       "score": 1400000,
       "traffic_numeric": 200000,
@@ -156,11 +142,18 @@
       "timestamp": "2026-08-18 13:43:51"
     },
     {
-      "keyword": "joshua baez",
+      "keyword": "insidious",
       "score": 1400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-23 19:15:24"
+    },
+    {
+      "keyword": "boy left on mount fuji",
+      "score": 1350000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-18 13:43:51"
+      "timestamp": "2026-08-23 19:15:24"
     },
     {
       "keyword": "dodgers vs rockies",
@@ -177,6 +170,20 @@
       "timestamp": "2026-08-21 13:35:57"
     },
     {
+      "keyword": "cyberleek",
+      "score": 1300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-23 19:15:24"
+    },
+    {
+      "keyword": "blueberry recall",
+      "score": 1270000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-23 19:15:24"
+    },
+    {
       "keyword": "cardinals vs reds",
       "score": 1220000,
       "traffic_numeric": 200000,
@@ -184,25 +191,18 @@
       "timestamp": "2026-08-20 19:21:44"
     },
     {
-      "keyword": "jenna ortega",
+      "keyword": "joshua baez",
       "score": 1200000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-18 02:22:41"
+      "timestamp": "2026-08-18 13:43:51"
     },
     {
-      "keyword": "boy left on mount fuji",
-      "score": 1150000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-23 13:22:12"
-    },
-    {
-      "keyword": "cyberleek",
+      "keyword": "premier league",
       "score": 1100000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-23 13:22:12"
+      "category": "体育",
+      "timestamp": "2026-08-23 19:15:24"
     },
     {
       "keyword": "prince harry",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 115,
-    "体育": 50,
+    "其他": 113,
+    "体育": 49,
     "科技/AI": 9,
     "金融/商业": 4
   },

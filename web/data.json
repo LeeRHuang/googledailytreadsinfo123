@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24 13:42:43",
+  "last_updated": "2026-08-24 19:28:02",
   "trends": [
     {
       "keyword": "inde navarrette",
@@ -9,18 +9,18 @@
       "timestamp": "2026-08-22 02:19:28"
     },
     {
-      "keyword": "egg recall",
-      "score": 5000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-20 13:35:39"
-    },
-    {
       "keyword": "hayden panettiere cause of death",
       "score": 5000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-08-21 13:35:57"
+    },
+    {
+      "keyword": "egg recall",
+      "score": 5000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-20 13:35:39"
     },
     {
       "keyword": "von miller",
@@ -31,10 +31,10 @@
     },
     {
       "keyword": "moderna stock",
-      "score": 3500000,
+      "score": 3700000,
       "traffic_numeric": 200000,
       "category": "金融/商业",
-      "timestamp": "2026-08-24 13:42:43"
+      "timestamp": "2026-08-24 19:28:02"
     },
     {
       "keyword": "flock cameras",
@@ -51,6 +51,13 @@
       "timestamp": "2026-08-22 13:25:08"
     },
     {
+      "keyword": "bitcoin price",
+      "score": 2850000,
+      "traffic_numeric": 500000,
+      "category": "金融/商业",
+      "timestamp": "2026-08-24 19:28:02"
+    },
+    {
       "keyword": "insidious",
       "score": 2400000,
       "traffic_numeric": 500000,
@@ -58,11 +65,11 @@
       "timestamp": "2026-08-24 07:55:32"
     },
     {
-      "keyword": "bitcoin price",
-      "score": 2350000,
-      "traffic_numeric": 200000,
-      "category": "金融/商业",
-      "timestamp": "2026-08-24 13:42:43"
+      "keyword": "cyberleek",
+      "score": 2400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-24 19:28:02"
     },
     {
       "keyword": "hurricane lala",
@@ -72,18 +79,18 @@
       "timestamp": "2026-08-19 07:34:28"
     },
     {
-      "keyword": "cyberleek",
-      "score": 1900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-24 13:42:43"
-    },
-    {
       "keyword": "blueberry recall",
-      "score": 1670000,
+      "score": 1870000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-24 13:42:43"
+      "timestamp": "2026-08-24 19:28:02"
+    },
+    {
+      "keyword": "michael wright",
+      "score": 1770000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-24 19:28:02"
     },
     {
       "keyword": "frozen 3",
@@ -93,18 +100,11 @@
       "timestamp": "2026-08-21 02:20:08"
     },
     {
-      "keyword": "michael wright",
-      "score": 1570000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-24 13:42:43"
-    },
-    {
-      "keyword": "elche vs barcelona",
+      "keyword": "mariners vs brewers",
       "score": 1500000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 200000,
       "category": "体育",
-      "timestamp": "2026-08-24 13:42:43"
+      "timestamp": "2026-08-21 02:20:08"
     },
     {
       "keyword": "rebel creamery ice cream lawsuit",
@@ -114,11 +114,18 @@
       "timestamp": "2026-08-18 13:43:51"
     },
     {
-      "keyword": "mariners vs brewers",
+      "keyword": "penn state coke bust",
       "score": 1500000,
       "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-22 02:19:28"
+    },
+    {
+      "keyword": "elche vs barcelona",
+      "score": 1500000,
+      "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-08-21 02:20:08"
+      "timestamp": "2026-08-24 13:42:43"
     },
     {
       "keyword": "aircraft pilot",
@@ -128,11 +135,11 @@
       "timestamp": "2026-08-22 13:25:08"
     },
     {
-      "keyword": "penn state coke bust",
-      "score": 1500000,
+      "keyword": "bmw championship",
+      "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-22 02:19:28"
+      "timestamp": "2026-08-24 13:42:43"
     },
     {
       "keyword": "natalie harp",
@@ -142,18 +149,11 @@
       "timestamp": "2026-08-19 07:34:28"
     },
     {
-      "keyword": "bmw championship",
-      "score": 1400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-24 13:42:43"
-    },
-    {
-      "keyword": "boy left on mount fuji",
+      "keyword": "yankees vs orioles",
       "score": 1350000,
       "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-23 19:15:24"
+      "category": "体育",
+      "timestamp": "2026-08-21 13:35:57"
     },
     {
       "keyword": "dodgers vs rockies",
@@ -163,11 +163,11 @@
       "timestamp": "2026-08-20 13:35:39"
     },
     {
-      "keyword": "yankees vs orioles",
+      "keyword": "boy left on mount fuji",
       "score": 1350000,
       "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-08-21 13:35:57"
+      "category": "其他",
+      "timestamp": "2026-08-23 19:15:24"
     },
     {
       "keyword": "ed oliver",
@@ -175,6 +175,13 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-24 13:42:43"
+    },
+    {
+      "keyword": "fromm and oma's pride recalls",
+      "score": 1250000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-24 19:28:02"
     },
     {
       "keyword": "cardinals vs reds",
@@ -191,13 +198,6 @@
       "timestamp": "2026-08-22 02:19:28"
     },
     {
-      "keyword": "premier league",
-      "score": 1100000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-08-23 19:15:24"
-    },
-    {
       "keyword": "prince harry",
       "score": 1100000,
       "traffic_numeric": 200000,
@@ -205,16 +205,16 @@
       "timestamp": "2026-08-21 19:19:48"
     },
     {
-      "keyword": "cubs vs mariners",
-      "score": 1050000,
-      "traffic_numeric": 200000,
+      "keyword": "premier league",
+      "score": 1100000,
+      "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-08-24 13:42:43"
+      "timestamp": "2026-08-23 19:15:24"
     }
   ],
   "category_stats": {
-    "其他": 114,
-    "体育": 46,
+    "其他": 121,
+    "体育": 47,
     "科技/AI": 9,
     "金融/商业": 4
   },

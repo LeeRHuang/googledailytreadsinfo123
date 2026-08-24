@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24 07:55:32",
+  "last_updated": "2026-08-24 13:42:43",
   "trends": [
     {
       "keyword": "inde navarrette",
@@ -10,7 +10,7 @@
     },
     {
       "keyword": "egg recall",
-      "score": 5200000,
+      "score": 5000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-20 13:35:39"
@@ -24,17 +24,17 @@
     },
     {
       "keyword": "von miller",
-      "score": 4400000,
+      "score": 4200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-20 13:35:39"
     },
     {
       "keyword": "moderna stock",
-      "score": 3300000,
+      "score": 3500000,
       "traffic_numeric": 200000,
       "category": "金融/商业",
-      "timestamp": "2026-08-24 07:55:32"
+      "timestamp": "2026-08-24 13:42:43"
     },
     {
       "keyword": "flock cameras",
@@ -51,13 +51,6 @@
       "timestamp": "2026-08-22 13:25:08"
     },
     {
-      "keyword": "hurricane lala",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-19 07:34:28"
-    },
-    {
       "keyword": "insidious",
       "score": 2400000,
       "traffic_numeric": 500000,
@@ -66,38 +59,66 @@
     },
     {
       "keyword": "bitcoin price",
-      "score": 2150000,
+      "score": 2350000,
       "traffic_numeric": 200000,
       "category": "金融/商业",
-      "timestamp": "2026-08-24 07:55:32"
+      "timestamp": "2026-08-24 13:42:43"
     },
     {
-      "keyword": "rebel creamery ice cream lawsuit",
+      "keyword": "hurricane lala",
       "score": 2000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-18 13:43:51"
+      "timestamp": "2026-08-19 07:34:28"
+    },
+    {
+      "keyword": "cyberleek",
+      "score": 1900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-24 13:42:43"
+    },
+    {
+      "keyword": "blueberry recall",
+      "score": 1670000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-24 13:42:43"
     },
     {
       "keyword": "frozen 3",
-      "score": 1800000,
+      "score": 1600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-21 02:20:08"
     },
     {
-      "keyword": "cyberleek",
-      "score": 1700000,
-      "traffic_numeric": 500000,
+      "keyword": "michael wright",
+      "score": 1570000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-24 07:55:32"
+      "timestamp": "2026-08-24 13:42:43"
     },
     {
-      "keyword": "karoline leavitt",
+      "keyword": "elche vs barcelona",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-24 13:42:43"
+    },
+    {
+      "keyword": "rebel creamery ice cream lawsuit",
       "score": 1500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-18 02:22:41"
+      "timestamp": "2026-08-18 13:43:51"
+    },
+    {
+      "keyword": "mariners vs brewers",
+      "score": 1500000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-08-21 02:20:08"
     },
     {
       "keyword": "aircraft pilot",
@@ -114,32 +135,18 @@
       "timestamp": "2026-08-22 02:19:28"
     },
     {
-      "keyword": "mariners vs brewers",
-      "score": 1500000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-08-21 02:20:08"
-    },
-    {
       "keyword": "natalie harp",
-      "score": 1500000,
+      "score": 1400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-19 07:34:28"
     },
     {
-      "keyword": "blueberry recall",
-      "score": 1470000,
+      "keyword": "bmw championship",
+      "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-24 02:13:20"
-    },
-    {
-      "keyword": "michael wright",
-      "score": 1370000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-24 07:55:32"
+      "timestamp": "2026-08-24 13:42:43"
     },
     {
       "keyword": "boy left on mount fuji",
@@ -163,11 +170,11 @@
       "timestamp": "2026-08-21 13:35:57"
     },
     {
-      "keyword": "coco 2",
+      "keyword": "ed oliver",
       "score": 1300000,
-      "traffic_numeric": 100000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-22 02:19:28"
+      "timestamp": "2026-08-24 13:42:43"
     },
     {
       "keyword": "cardinals vs reds",
@@ -177,18 +184,11 @@
       "timestamp": "2026-08-20 19:21:44"
     },
     {
-      "keyword": "bmw championship",
+      "keyword": "coco 2",
       "score": 1200000,
-      "traffic_numeric": 200000,
+      "traffic_numeric": 100000,
       "category": "其他",
-      "timestamp": "2026-08-24 07:55:32"
-    },
-    {
-      "keyword": "ed oliver",
-      "score": 1100000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-24 02:13:20"
+      "timestamp": "2026-08-22 02:19:28"
     },
     {
       "keyword": "premier league",
@@ -205,16 +205,16 @@
       "timestamp": "2026-08-21 19:19:48"
     },
     {
-      "keyword": "white sox vs cubs",
+      "keyword": "cubs vs mariners",
       "score": 1050000,
       "traffic_numeric": 200000,
       "category": "体育",
-      "timestamp": "2026-08-20 02:21:28"
+      "timestamp": "2026-08-24 13:42:43"
     }
   ],
   "category_stats": {
-    "其他": 115,
-    "体育": 47,
+    "其他": 114,
+    "体育": 46,
     "科技/AI": 9,
     "金融/商业": 4
   },

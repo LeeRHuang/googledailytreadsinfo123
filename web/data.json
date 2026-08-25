@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25 07:39:52",
+  "last_updated": "2026-08-25 13:37:06",
   "trends": [
     {
       "keyword": "inde navarrette",
@@ -17,17 +17,24 @@
     },
     {
       "keyword": "bitcoin price",
-      "score": 3850000,
+      "score": 4350000,
       "traffic_numeric": 500000,
       "category": "金融/商业",
-      "timestamp": "2026-08-25 07:39:52"
+      "timestamp": "2026-08-25 13:37:05"
+    },
+    {
+      "keyword": "cyberleek",
+      "score": 3900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-25 13:37:05"
     },
     {
       "keyword": "moderna stock",
-      "score": 3700000,
+      "score": 3900000,
       "traffic_numeric": 200000,
       "category": "金融/商业",
-      "timestamp": "2026-08-24 19:28:02"
+      "timestamp": "2026-08-25 13:37:05"
     },
     {
       "keyword": "egg recall",
@@ -35,13 +42,6 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-20 13:35:39"
-    },
-    {
-      "keyword": "cyberleek",
-      "score": 3400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-25 07:39:52"
     },
     {
       "keyword": "flock cameras",
@@ -73,17 +73,38 @@
     },
     {
       "keyword": "michael wright",
-      "score": 2170000,
+      "score": 2370000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-25 07:39:52"
+      "timestamp": "2026-08-25 13:37:05"
     },
     {
       "keyword": "blueberry recall",
-      "score": 2070000,
+      "score": 2270000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-25 02:22:19"
+      "timestamp": "2026-08-25 13:37:05"
+    },
+    {
+      "keyword": "hawk fire",
+      "score": 1550000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-25 13:37:05"
+    },
+    {
+      "keyword": "aircraft pilot",
+      "score": 1500000,
+      "traffic_numeric": 200000,
+      "category": "科技/AI",
+      "timestamp": "2026-08-22 13:25:08"
+    },
+    {
+      "keyword": "elche vs barcelona",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-24 13:42:43"
     },
     {
       "keyword": "mariners vs brewers",
@@ -100,20 +121,6 @@
       "timestamp": "2026-08-22 02:19:28"
     },
     {
-      "keyword": "elche vs barcelona",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-08-24 13:42:43"
-    },
-    {
-      "keyword": "aircraft pilot",
-      "score": 1500000,
-      "traffic_numeric": 200000,
-      "category": "科技/AI",
-      "timestamp": "2026-08-22 13:25:08"
-    },
-    {
       "keyword": "bmw championship",
       "score": 1400000,
       "traffic_numeric": 200000,
@@ -121,18 +128,11 @@
       "timestamp": "2026-08-24 13:42:43"
     },
     {
-      "keyword": "hawk fire",
-      "score": 1350000,
+      "keyword": "ashton jeanty",
+      "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-25 07:39:52"
-    },
-    {
-      "keyword": "boy left on mount fuji",
-      "score": 1350000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-23 19:15:24"
+      "timestamp": "2026-08-25 13:37:05"
     },
     {
       "keyword": "yankees vs orioles",
@@ -140,6 +140,13 @@
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-08-21 13:35:57"
+    },
+    {
+      "keyword": "boy left on mount fuji",
+      "score": 1350000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-23 19:15:24"
     },
     {
       "keyword": "ed oliver",
@@ -156,11 +163,11 @@
       "timestamp": "2026-08-24 19:28:02"
     },
     {
-      "keyword": "ashton jeanty",
+      "keyword": "shelley fabares",
       "score": 1200000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-25 07:39:52"
+      "timestamp": "2026-08-25 13:37:05"
     },
     {
       "keyword": "dodgers vs rockies",
@@ -170,11 +177,18 @@
       "timestamp": "2026-08-20 13:35:39"
     },
     {
-      "keyword": "premier league",
+      "keyword": "sean grayson",
+      "score": 1150000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-25 13:37:05"
+    },
+    {
+      "keyword": "jed york",
       "score": 1100000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-08-23 19:15:24"
+      "category": "其他",
+      "timestamp": "2026-08-25 13:37:05"
     },
     {
       "keyword": "prince harry",
@@ -184,36 +198,22 @@
       "timestamp": "2026-08-21 19:19:48"
     },
     {
+      "keyword": "premier league",
+      "score": 1100000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-23 19:15:24"
+    },
+    {
       "keyword": "cubs vs mariners",
       "score": 1050000,
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-08-24 13:42:43"
-    },
-    {
-      "keyword": "hayden panettiere how did she die",
-      "score": 1000001,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-24 02:13:20"
-    },
-    {
-      "keyword": "cardinals vs reds",
-      "score": 1000000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-08-20 19:21:44"
-    },
-    {
-      "keyword": "hurricane lala",
-      "score": 1000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-19 07:34:28"
     }
   ],
   "category_stats": {
-    "其他": 114,
+    "其他": 120,
     "体育": 50,
     "科技/AI": 12,
     "金融/商业": 4,

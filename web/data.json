@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25 19:25:48",
+  "last_updated": "2026-08-26 02:27:53",
   "trends": [
     {
       "keyword": "hayden panettiere cause of death",
@@ -16,17 +16,17 @@
       "timestamp": "2026-08-25 13:37:05"
     },
     {
-      "keyword": "moderna stock",
-      "score": 3900000,
-      "traffic_numeric": 200000,
-      "category": "金融/商业",
-      "timestamp": "2026-08-25 13:37:05"
-    },
-    {
       "keyword": "cyberleek",
       "score": 3900000,
       "traffic_numeric": 500000,
       "category": "其他",
+      "timestamp": "2026-08-25 13:37:05"
+    },
+    {
+      "keyword": "moderna stock",
+      "score": 3900000,
+      "traffic_numeric": 200000,
+      "category": "金融/商业",
       "timestamp": "2026-08-25 13:37:05"
     },
     {
@@ -52,10 +52,10 @@
     },
     {
       "keyword": "michael wright",
-      "score": 2570000,
+      "score": 2770000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-25 19:25:48"
+      "timestamp": "2026-08-26 02:27:53"
     },
     {
       "keyword": "egg recall",
@@ -79,11 +79,18 @@
       "timestamp": "2026-08-25 13:37:05"
     },
     {
+      "keyword": "jed york",
+      "score": 2100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-26 02:27:53"
+    },
+    {
       "keyword": "dolly parton",
-      "score": 2000000,
+      "score": 2000001,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-08-25 19:25:48"
+      "timestamp": "2026-08-26 02:27:53"
     },
     {
       "keyword": "von miller",
@@ -94,31 +101,24 @@
     },
     {
       "keyword": "hawk fire",
-      "score": 1750000,
+      "score": 1950000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-25 19:25:48"
+      "timestamp": "2026-08-26 02:27:53"
     },
     {
       "keyword": "ashton jeanty",
+      "score": 1800000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-26 02:27:53"
+    },
+    {
+      "keyword": "shelley fabares",
       "score": 1600000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-25 19:25:48"
-    },
-    {
-      "keyword": "jed york",
-      "score": 1600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-25 19:25:48"
-    },
-    {
-      "keyword": "elche vs barcelona",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-08-24 13:42:43"
+      "timestamp": "2026-08-26 02:27:53"
     },
     {
       "keyword": "mariners vs brewers",
@@ -128,11 +128,11 @@
       "timestamp": "2026-08-21 02:20:08"
     },
     {
-      "keyword": "penn state coke bust",
+      "keyword": "elche vs barcelona",
       "score": 1500000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-22 02:19:28"
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-24 13:42:43"
     },
     {
       "keyword": "aircraft pilot",
@@ -142,25 +142,18 @@
       "timestamp": "2026-08-22 13:25:08"
     },
     {
+      "keyword": "penn state coke bust",
+      "score": 1500000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-22 02:19:28"
+    },
+    {
       "keyword": "bmw championship",
       "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-24 13:42:43"
-    },
-    {
-      "keyword": "shelley fabares",
-      "score": 1400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-25 19:25:48"
-    },
-    {
-      "keyword": "sean grayson",
-      "score": 1350000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-25 19:25:48"
     },
     {
       "keyword": "boy left on mount fuji",
@@ -175,6 +168,13 @@
       "traffic_numeric": 200000,
       "category": "体育",
       "timestamp": "2026-08-21 13:35:57"
+    },
+    {
+      "keyword": "sean grayson",
+      "score": 1350000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-25 19:25:48"
     },
     {
       "keyword": "ed oliver",
@@ -213,11 +213,17 @@
     }
   ],
   "category_stats": {
-    "其他": 116,
-    "体育": 51,
+    "其他": 121,
+    "体育": 57,
     "科技/AI": 9,
     "金融/商业": 5,
     "娱乐/生活": 1
   },
-  "insights": []
+  "insights": [
+    {
+      "title": "季节性效率/计划应用",
+      "context": "新年计划相关关键词搜索量激增。",
+      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
+    }
+  ]
 }

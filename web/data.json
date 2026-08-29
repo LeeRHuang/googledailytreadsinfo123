@@ -1,37 +1,44 @@
 {
-  "last_updated": "2026-08-28 22:49:39",
+  "last_updated": "2026-08-29 07:24:41",
   "trends": [
     {
       "keyword": "tim curry",
-      "score": 22000000,
+      "score": 27000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-08-28 22:49:38"
-    },
-    {
-      "keyword": "jed york",
-      "score": 5600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-28 22:49:38"
+      "timestamp": "2026-08-29 07:24:41"
     },
     {
       "keyword": "nepal",
-      "score": 5200000,
+      "score": 7200000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-08-28 22:49:38"
+      "timestamp": "2026-08-29 07:24:41"
+    },
+    {
+      "keyword": "jed york",
+      "score": 6100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-29 07:24:41"
     },
     {
       "keyword": "lunar eclipse",
-      "score": 4000000,
+      "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-08-28 22:49:38"
+      "timestamp": "2026-08-29 07:24:41"
+    },
+    {
+      "keyword": "shelley fabares",
+      "score": 4400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-29 07:24:41"
     },
     {
       "keyword": "michael wright",
-      "score": 3970000,
+      "score": 3950000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-28 12:23:37"
@@ -44,43 +51,43 @@
       "timestamp": "2026-08-25 13:37:05"
     },
     {
-      "keyword": "shelley fabares",
-      "score": 3900000,
-      "traffic_numeric": 500000,
+      "keyword": "carl dean",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-28 22:49:38"
+      "timestamp": "2026-08-29 07:24:41"
+    },
+    {
+      "keyword": "peter cullen",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-29 07:24:41"
     },
     {
       "keyword": "bitcoin price",
-      "score": 3600000,
+      "score": 3200000,
       "traffic_numeric": 500000,
       "category": "金融/商业",
       "timestamp": "2026-08-25 13:37:05"
     },
     {
-      "keyword": "social security cola 2027 announcement date",
-      "score": 2700000,
+      "keyword": "callaway golf ad",
+      "score": 2900000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-28 22:49:38"
+      "timestamp": "2026-08-29 07:24:41"
     },
     {
-      "keyword": "peter cullen",
-      "score": 2500000,
+      "keyword": "lake ontario",
+      "score": 2700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-28 22:49:38"
+      "timestamp": "2026-08-29 07:24:41"
     },
     {
-      "keyword": "carl dean",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-28 22:49:38"
-    },
-    {
-      "keyword": "callaway golf ad",
-      "score": 2400000,
+      "keyword": "social security cola 2027 announcement date",
+      "score": 2700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-28 22:49:38"
@@ -93,13 +100,6 @@
       "timestamp": "2026-08-24 07:55:32"
     },
     {
-      "keyword": "moderna stock",
-      "score": 2200000,
-      "traffic_numeric": 200000,
-      "category": "金融/商业",
-      "timestamp": "2026-08-25 13:37:05"
-    },
-    {
       "keyword": "hawk fire",
       "score": 2150000,
       "traffic_numeric": 200000,
@@ -108,16 +108,23 @@
     },
     {
       "keyword": "dolly parton",
-      "score": 2000008,
+      "score": 2000009,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-08-28 22:49:38"
+      "timestamp": "2026-08-29 07:24:41"
     },
     {
       "keyword": "blueberry recall",
       "score": 1900000,
       "traffic_numeric": 200000,
       "category": "其他",
+      "timestamp": "2026-08-25 13:37:05"
+    },
+    {
+      "keyword": "moderna stock",
+      "score": 1800000,
+      "traffic_numeric": 200000,
+      "category": "金融/商业",
       "timestamp": "2026-08-25 13:37:05"
     },
     {
@@ -128,32 +135,11 @@
       "timestamp": "2026-08-26 02:27:53"
     },
     {
-      "keyword": "lake ontario",
-      "score": 1700000,
+      "keyword": "lindsay clancy verdict",
+      "score": 1500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-28 22:49:38"
-    },
-    {
-      "keyword": "gta 6 leaks",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-22 13:25:08"
-    },
-    {
-      "keyword": "full moon august 2026",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-27 10:42:36"
-    },
-    {
-      "keyword": "flock cameras",
-      "score": 1500000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-23 19:15:24"
+      "timestamp": "2026-08-29 07:24:41"
     },
     {
       "keyword": "lunar eclipse august 2026",
@@ -161,6 +147,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-27 22:38:46"
+    },
+    {
+      "keyword": "full moon august 2026",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-27 10:42:36"
     },
     {
       "keyword": "elche vs barcelona",
@@ -177,13 +170,6 @@
       "timestamp": "2026-08-26 07:38:15"
     },
     {
-      "keyword": "boy left on mount fuji",
-      "score": 1350000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-23 19:15:24"
-    },
-    {
       "keyword": "sean grayson",
       "score": 1350000,
       "traffic_numeric": 200000,
@@ -198,24 +184,38 @@
       "timestamp": "2026-08-24 13:42:43"
     },
     {
-      "keyword": "bmw championship",
-      "score": 1300000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-24 13:42:43"
-    },
-    {
       "keyword": "fromm and oma's pride recalls",
       "score": 1250000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-24 19:28:02"
+    },
+    {
+      "keyword": "bmw championship",
+      "score": 1200000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-24 13:42:43"
+    },
+    {
+      "keyword": "us open",
+      "score": 1200000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-27 10:42:36"
+    },
+    {
+      "keyword": "flock cameras",
+      "score": 1200000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-23 19:15:24"
     }
   ],
   "category_stats": {
-    "其他": 120,
-    "体育": 43,
-    "科技/AI": 6,
+    "其他": 119,
+    "体育": 46,
+    "科技/AI": 5,
     "金融/商业": 5,
     "娱乐/生活": 2
   },

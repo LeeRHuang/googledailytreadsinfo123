@@ -1,19 +1,40 @@
 {
-  "last_updated": "2026-08-30 17:10:26",
+  "last_updated": "2026-08-30 21:39:12",
   "trends": [
     {
       "keyword": "tim curry",
-      "score": 52000000,
+      "score": 57000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-08-30 17:10:26"
+      "timestamp": "2026-08-30 21:39:12"
     },
     {
       "keyword": "nepal",
-      "score": 17200000,
+      "score": 19200000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-08-30 17:10:26"
+      "timestamp": "2026-08-30 21:39:12"
+    },
+    {
+      "keyword": "carl dean",
+      "score": 10500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-08-30 21:39:12"
+    },
+    {
+      "keyword": "peter cullen",
+      "score": 9500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-30 21:39:12"
+    },
+    {
+      "keyword": "lake ontario",
+      "score": 8700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-30 21:39:12"
     },
     {
       "keyword": "jed york",
@@ -23,37 +44,16 @@
       "timestamp": "2026-08-30 17:10:26"
     },
     {
-      "keyword": "peter cullen",
-      "score": 8500000,
+      "keyword": "lindsay clancy verdict",
+      "score": 7500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-30 17:10:26"
-    },
-    {
-      "keyword": "carl dean",
-      "score": 8500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-30 17:10:26"
-    },
-    {
-      "keyword": "lake ontario",
-      "score": 7700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-30 17:10:26"
+      "timestamp": "2026-08-30 21:39:12"
     },
     {
       "keyword": "shelley fabares",
       "score": 6900000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-30 17:10:26"
-    },
-    {
-      "keyword": "lindsay clancy verdict",
-      "score": 6500000,
-      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-08-30 17:10:26"
     },
@@ -73,17 +73,17 @@
     },
     {
       "keyword": "michael wright",
-      "score": 3200000,
+      "score": 3000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-28 12:23:37"
     },
     {
-      "keyword": "cyberleek",
-      "score": 2800000,
+      "keyword": "mica miller",
+      "score": 3000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-25 13:37:05"
+      "timestamp": "2026-08-30 21:39:12"
     },
     {
       "keyword": "social security cola 2027 announcement date",
@@ -100,18 +100,18 @@
       "timestamp": "2026-08-25 13:37:05"
     },
     {
-      "keyword": "mica miller",
-      "score": 2500000,
+      "keyword": "cyberleek",
+      "score": 2600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-30 17:10:26"
+      "timestamp": "2026-08-25 13:37:05"
     },
     {
-      "keyword": "hawk fire",
-      "score": 2100000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-26 07:38:15"
+      "keyword": "college football today",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-30 21:39:12"
     },
     {
       "keyword": "jelly roll",
@@ -122,17 +122,31 @@
     },
     {
       "keyword": "dolly parton",
-      "score": 2000014,
+      "score": 2000015,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-08-30 17:10:26"
+      "timestamp": "2026-08-30 21:39:12"
     },
     {
-      "keyword": "college football today",
+      "keyword": "dolly parton cause of death",
+      "score": 2000001,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-30 21:39:12"
+    },
+    {
+      "keyword": "hawk fire",
       "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-08-30 17:10:26"
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-26 07:38:15"
+    },
+    {
+      "keyword": "samuel monroe jr",
+      "score": 1900000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-30 21:39:12"
     },
     {
       "keyword": "college football",
@@ -149,11 +163,18 @@
       "timestamp": "2026-08-26 02:27:53"
     },
     {
-      "keyword": "samuel monroe jr",
-      "score": 1700000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-30 17:10:26"
+      "keyword": "red sox vs yankees",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-30 21:39:12"
+    },
+    {
+      "keyword": "elche vs barcelona",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-24 13:42:43"
     },
     {
       "keyword": "lunar eclipse august 2026",
@@ -168,20 +189,6 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-26 07:38:15"
-    },
-    {
-      "keyword": "insidious",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-24 07:55:32"
-    },
-    {
-      "keyword": "elche vs barcelona",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-08-24 13:42:43"
     },
     {
       "keyword": "full moon august 2026",
@@ -203,18 +210,11 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-25 19:25:48"
-    },
-    {
-      "keyword": "blueberry recall",
-      "score": 1200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-25 13:37:05"
     }
   ],
   "category_stats": {
-    "其他": 106,
-    "体育": 47,
+    "其他": 104,
+    "体育": 44,
     "金融/商业": 5,
     "科技/AI": 4,
     "娱乐/生活": 3

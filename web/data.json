@@ -1,40 +1,54 @@
 {
-  "last_updated": "2026-08-30 06:04:37",
+  "last_updated": "2026-08-30 12:19:29",
   "trends": [
     {
       "keyword": "tim curry",
-      "score": 42000000,
+      "score": 47000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-08-30 06:04:37"
+      "timestamp": "2026-08-30 12:19:29"
     },
     {
       "keyword": "nepal",
-      "score": 13200000,
+      "score": 15200000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-08-30 06:04:37"
+      "timestamp": "2026-08-30 12:19:29"
     },
     {
       "keyword": "jed york",
-      "score": 7600000,
+      "score": 8100000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-30 06:04:37"
-    },
-    {
-      "keyword": "peter cullen",
-      "score": 6500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-30 06:04:37"
+      "timestamp": "2026-08-30 12:19:29"
     },
     {
       "keyword": "carl dean",
-      "score": 6500000,
+      "score": 7500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-30 06:04:37"
+      "timestamp": "2026-08-30 12:19:29"
+    },
+    {
+      "keyword": "peter cullen",
+      "score": 7500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-30 12:19:29"
+    },
+    {
+      "keyword": "lake ontario",
+      "score": 6700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-08-30 12:19:29"
+    },
+    {
+      "keyword": "shelley fabares",
+      "score": 6400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-30 12:19:29"
     },
     {
       "keyword": "lunar eclipse",
@@ -44,50 +58,36 @@
       "timestamp": "2026-08-29 07:24:41"
     },
     {
-      "keyword": "shelley fabares",
-      "score": 5900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-30 06:04:37"
-    },
-    {
-      "keyword": "lake ontario",
-      "score": 5700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-08-30 06:04:37"
-    },
-    {
       "keyword": "lindsay clancy verdict",
-      "score": 4500000,
+      "score": 5500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-08-30 06:04:37"
+      "timestamp": "2026-08-30 12:19:29"
     },
     {
       "keyword": "callaway golf ad",
-      "score": 3900000,
+      "score": 4400000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-29 21:14:55"
+      "timestamp": "2026-08-30 12:19:29"
     },
     {
       "keyword": "michael wright",
-      "score": 3600000,
+      "score": 3400000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-28 12:23:37"
     },
     {
       "keyword": "cyberleek",
-      "score": 3200000,
+      "score": 3000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-25 13:37:05"
     },
     {
       "keyword": "bitcoin price",
-      "score": 3000000,
+      "score": 2800000,
       "traffic_numeric": 500000,
       "category": "金融/商业",
       "timestamp": "2026-08-25 13:37:05"
@@ -101,24 +101,31 @@
     },
     {
       "keyword": "hawk fire",
-      "score": 2150000,
+      "score": 2100000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-26 07:38:15"
     },
     {
       "keyword": "dolly parton",
-      "score": 2000012,
+      "score": 2000013,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-08-30 06:04:37"
+      "timestamp": "2026-08-30 12:19:29"
     },
     {
-      "keyword": "insidious",
+      "keyword": "mica miller",
       "score": 2000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-24 07:55:32"
+      "timestamp": "2026-08-30 12:19:29"
+    },
+    {
+      "keyword": "jelly roll",
+      "score": 1870000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-30 12:19:29"
     },
     {
       "keyword": "ashton jeanty",
@@ -128,25 +135,11 @@
       "timestamp": "2026-08-26 02:27:53"
     },
     {
-      "keyword": "jelly roll",
-      "score": 1670000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-30 06:04:37"
-    },
-    {
       "keyword": "lunar eclipse august 2026",
       "score": 1500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-27 22:38:46"
-    },
-    {
-      "keyword": "mica miller",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-30 06:04:37"
     },
     {
       "keyword": "elche vs barcelona",
@@ -163,11 +156,32 @@
       "timestamp": "2026-08-27 10:42:36"
     },
     {
+      "keyword": "samuel monroe jr",
+      "score": 1500000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-30 12:19:29"
+    },
+    {
       "keyword": "natasha cloud",
       "score": 1500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-26 07:38:15"
+    },
+    {
+      "keyword": "college football today",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-30 12:19:29"
+    },
+    {
+      "keyword": "insidious",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-24 07:55:32"
     },
     {
       "keyword": "yayoi kusama",
@@ -177,11 +191,11 @@
       "timestamp": "2026-08-30 06:04:37"
     },
     {
-      "keyword": "blueberry recall",
+      "keyword": "college football",
       "score": 1400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-25 13:37:05"
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-30 12:19:29"
     },
     {
       "keyword": "sean grayson",
@@ -191,30 +205,16 @@
       "timestamp": "2026-08-25 19:25:48"
     },
     {
-      "keyword": "samuel monroe jr",
+      "keyword": "blueberry recall",
       "score": 1300000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-30 06:04:37"
-    },
-    {
-      "keyword": "fromm and oma's pride recalls",
-      "score": 1200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-24 19:28:02"
-    },
-    {
-      "keyword": "us open",
-      "score": 1200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-08-27 10:42:36"
+      "timestamp": "2026-08-25 13:37:05"
     }
   ],
   "category_stats": {
-    "其他": 112,
-    "体育": 46,
+    "其他": 108,
+    "体育": 48,
     "金融/商业": 5,
     "科技/AI": 4,
     "娱乐/生活": 3

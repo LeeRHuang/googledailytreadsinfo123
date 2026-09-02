@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-02 05:17:34",
+  "last_updated": "2026-09-02 11:45:24",
   "trends": [
     {
       "keyword": "tim curry",
-      "score": 97000000,
+      "score": 102000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-09-02 05:17:34"
+      "timestamp": "2026-09-02 11:45:24"
     },
     {
       "keyword": "nepal",
@@ -17,17 +17,17 @@
     },
     {
       "keyword": "lindsay clancy verdict",
-      "score": 17500000,
+      "score": 19500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-09-02 05:17:34"
+      "timestamp": "2026-09-02 11:45:24"
     },
     {
       "keyword": "peter cullen",
-      "score": 17500000,
-      "traffic_numeric": 1000000,
+      "score": 19500000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-09-02 05:17:34"
+      "timestamp": "2026-09-02 11:45:24"
     },
     {
       "keyword": "lake ontario",
@@ -44,25 +44,18 @@
       "timestamp": "2026-09-01 12:04:00"
     },
     {
+      "keyword": "mica miller",
+      "score": 8000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-02 11:45:24"
+    },
+    {
       "keyword": "dolly parton cause of death",
       "score": 7000001,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-01 12:04:00"
-    },
-    {
-      "keyword": "mica miller",
-      "score": 7000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-02 05:17:34"
-    },
-    {
-      "keyword": "jed york",
-      "score": 6500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-30 17:10:26"
     },
     {
       "keyword": "lunar eclipse",
@@ -72,22 +65,29 @@
       "timestamp": "2026-08-29 07:24:41"
     },
     {
+      "keyword": "jed york",
+      "score": 6000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-30 17:10:26"
+    },
+    {
       "keyword": "shelley fabares",
-      "score": 5300000,
+      "score": 5100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-30 17:10:26"
     },
     {
       "keyword": "josh jacobs",
-      "score": 4500000,
+      "score": 5000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-02 05:17:34"
+      "timestamp": "2026-09-02 11:45:24"
     },
     {
       "keyword": "callaway golf ad",
-      "score": 4200000,
+      "score": 4100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-30 12:19:29"
@@ -101,10 +101,17 @@
     },
     {
       "keyword": "jelly roll",
-      "score": 2650000,
+      "score": 2600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-31 23:05:42"
+    },
+    {
+      "keyword": "milo yiannopoulos",
+      "score": 2600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-02 11:45:24"
     },
     {
       "keyword": "college football today",
@@ -121,32 +128,32 @@
       "timestamp": "2026-08-31 14:32:40"
     },
     {
-      "keyword": "milo yiannopoulos",
-      "score": 2400000,
-      "traffic_numeric": 200000,
+      "keyword": "us open",
+      "score": 2300000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-02 05:17:34"
+      "timestamp": "2026-09-02 11:45:24"
+    },
+    {
+      "keyword": "tropical storm edouard",
+      "score": 2200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-02 11:45:24"
     },
     {
       "keyword": "social security cola 2027 announcement date",
-      "score": 2300000,
+      "score": 2100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-28 22:49:38"
     },
     {
-      "keyword": "us open",
-      "score": 2000000,
-      "traffic_numeric": 500000,
+      "keyword": "daejon love",
+      "score": 2020000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-02 05:17:34"
-    },
-    {
-      "keyword": "college football",
-      "score": 1900000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-08-30 17:10:26"
+      "timestamp": "2026-09-02 11:45:24"
     },
     {
       "keyword": "samuel monroe jr",
@@ -156,18 +163,18 @@
       "timestamp": "2026-08-30 21:39:12"
     },
     {
-      "keyword": "daejon love",
-      "score": 1820000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-02 05:17:34"
+      "keyword": "college football",
+      "score": 1900000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-30 17:10:26"
     },
     {
-      "keyword": "tropical storm edouard",
-      "score": 1700000,
-      "traffic_numeric": 500000,
+      "keyword": "grand canyon flooding",
+      "score": 1600000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-02 05:17:34"
+      "timestamp": "2026-09-02 11:45:24"
     },
     {
       "keyword": "lunar eclipse august 2026",
@@ -184,13 +191,6 @@
       "timestamp": "2026-08-30 06:04:37"
     },
     {
-      "keyword": "grand canyon flooding",
-      "score": 1400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-02 05:17:34"
-    },
-    {
       "keyword": "barcelona vs rayo vallecano",
       "score": 1400000,
       "traffic_numeric": 500000,
@@ -198,23 +198,23 @@
       "timestamp": "2026-09-01 17:01:05"
     },
     {
-      "keyword": "novak djokovic",
-      "score": 1200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-31 23:05:42"
-    },
-    {
-      "keyword": "michael wright",
-      "score": 1200000,
+      "keyword": "lionel richie",
+      "score": 1250000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-28 12:23:37"
+      "timestamp": "2026-09-02 11:45:24"
+    },
+    {
+      "keyword": "dodgers vs tigers",
+      "score": 1200000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-08-31 06:26:19"
     }
   ],
   "category_stats": {
-    "其他": 90,
-    "体育": 40,
+    "其他": 87,
+    "体育": 41,
     "科技/AI": 3,
     "娱乐/生活": 2
   },

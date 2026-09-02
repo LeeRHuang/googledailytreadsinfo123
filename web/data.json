@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02 11:45:24",
+  "last_updated": "2026-09-02 17:05:53",
   "trends": [
     {
       "keyword": "tim curry",
@@ -16,18 +16,18 @@
       "timestamp": "2026-09-02 05:17:34"
     },
     {
-      "keyword": "lindsay clancy verdict",
-      "score": 19500000,
+      "keyword": "peter cullen",
+      "score": 21500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-09-02 11:45:24"
+      "timestamp": "2026-09-02 17:05:53"
     },
     {
-      "keyword": "peter cullen",
-      "score": 19500000,
+      "keyword": "lindsay clancy verdict",
+      "score": 20500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-09-02 11:45:24"
+      "timestamp": "2026-09-02 17:05:53"
     },
     {
       "keyword": "lake ontario",
@@ -66,14 +66,7 @@
     },
     {
       "keyword": "jed york",
-      "score": 6000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-30 17:10:26"
-    },
-    {
-      "keyword": "shelley fabares",
-      "score": 5100000,
+      "score": 5500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-30 17:10:26"
@@ -86,8 +79,15 @@
       "timestamp": "2026-09-02 11:45:24"
     },
     {
+      "keyword": "shelley fabares",
+      "score": 4900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-30 17:10:26"
+    },
+    {
       "keyword": "callaway golf ad",
-      "score": 4100000,
+      "score": 3900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-30 12:19:29"
@@ -100,18 +100,18 @@
       "timestamp": "2026-09-01 17:01:05"
     },
     {
-      "keyword": "jelly roll",
-      "score": 2600000,
+      "keyword": "milo yiannopoulos",
+      "score": 2800000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-08-31 23:05:42"
+      "timestamp": "2026-09-02 17:05:53"
     },
     {
-      "keyword": "milo yiannopoulos",
-      "score": 2600000,
-      "traffic_numeric": 200000,
+      "keyword": "tropical storm edouard",
+      "score": 2700000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-02 11:45:24"
+      "timestamp": "2026-09-02 17:05:53"
     },
     {
       "keyword": "college football today",
@@ -128,39 +128,25 @@
       "timestamp": "2026-08-31 14:32:40"
     },
     {
-      "keyword": "us open",
-      "score": 2300000,
-      "traffic_numeric": 500000,
+      "keyword": "jelly roll",
+      "score": 2500000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-02 11:45:24"
-    },
-    {
-      "keyword": "tropical storm edouard",
-      "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-02 11:45:24"
-    },
-    {
-      "keyword": "social security cola 2027 announcement date",
-      "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-28 22:49:38"
+      "timestamp": "2026-08-31 23:05:42"
     },
     {
       "keyword": "daejon love",
-      "score": 2020000,
+      "score": 2220000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-02 11:45:24"
+      "timestamp": "2026-09-02 17:05:53"
     },
     {
-      "keyword": "samuel monroe jr",
-      "score": 1900000,
-      "traffic_numeric": 200000,
+      "keyword": "us open",
+      "score": 2100000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-30 21:39:12"
+      "timestamp": "2026-09-02 11:45:24"
     },
     {
       "keyword": "college football",
@@ -170,18 +156,39 @@
       "timestamp": "2026-08-30 17:10:26"
     },
     {
-      "keyword": "grand canyon flooding",
-      "score": 1600000,
-      "traffic_numeric": 200000,
+      "keyword": "social security cola 2027 announcement date",
+      "score": 1900000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-02 11:45:24"
+      "timestamp": "2026-08-28 22:49:38"
     },
     {
-      "keyword": "lunar eclipse august 2026",
+      "keyword": "samuel monroe jr",
+      "score": 1900000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-08-30 21:39:12"
+    },
+    {
+      "keyword": "grand canyon flooding",
+      "score": 1800000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-02 17:05:53"
+    },
+    {
+      "keyword": "mapquest",
       "score": 1500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-27 22:38:46"
+      "timestamp": "2026-09-02 17:05:53"
+    },
+    {
+      "keyword": "lionel richie",
+      "score": 1450000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-02 17:05:53"
     },
     {
       "keyword": "yayoi kusama",
@@ -198,25 +205,18 @@
       "timestamp": "2026-09-01 17:01:05"
     },
     {
-      "keyword": "lionel richie",
-      "score": 1250000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-02 11:45:24"
-    },
-    {
-      "keyword": "dodgers vs tigers",
+      "keyword": "novak djokovic",
       "score": 1200000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-08-31 06:26:19"
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-31 23:05:42"
     }
   ],
   "category_stats": {
-    "其他": 87,
-    "体育": 41,
-    "科技/AI": 3,
-    "娱乐/生活": 2
+    "其他": 83,
+    "体育": 43,
+    "娱乐/生活": 3,
+    "科技/AI": 3
   },
   "insights": [
     {

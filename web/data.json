@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-09-03 05:18:53",
+  "last_updated": "2026-09-03 11:56:32",
   "trends": [
     {
       "keyword": "tim curry",
-      "score": 100000000,
+      "score": 95000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-02 11:45:24"
     },
     {
       "keyword": "nepal",
-      "score": 35000000,
+      "score": 34000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-02 05:17:34"
@@ -24,10 +24,10 @@
     },
     {
       "keyword": "lindsay clancy verdict",
-      "score": 22500000,
+      "score": 23500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-09-03 05:18:53"
+      "timestamp": "2026-09-03 11:56:32"
     },
     {
       "keyword": "lake ontario",
@@ -73,31 +73,38 @@
     },
     {
       "keyword": "jed york",
-      "score": 5000000,
+      "score": 4500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-30 17:10:26"
     },
     {
       "keyword": "shelley fabares",
-      "score": 4700000,
+      "score": 4500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-30 17:10:26"
     },
     {
       "keyword": "callaway golf ad",
-      "score": 3700000,
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-30 12:19:29"
     },
     {
       "keyword": "milo yiannopoulos",
-      "score": 3200000,
+      "score": 3400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-03 05:18:53"
+      "timestamp": "2026-09-03 11:56:32"
+    },
+    {
+      "keyword": "mapquest",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-03 11:56:32"
     },
     {
       "keyword": "aaron donald",
@@ -107,6 +114,13 @@
       "timestamp": "2026-09-01 17:01:05"
     },
     {
+      "keyword": "daejon love",
+      "score": 2820000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-03 11:56:32"
+    },
+    {
       "keyword": "tropical storm edouard",
       "score": 2700000,
       "traffic_numeric": 500000,
@@ -114,18 +128,11 @@
       "timestamp": "2026-09-02 17:05:53"
     },
     {
-      "keyword": "daejon love",
-      "score": 2620000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-03 05:18:53"
-    },
-    {
-      "keyword": "red sox vs yankees",
-      "score": 2500000,
+      "keyword": "erin piacenti",
+      "score": 2700000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-08-31 14:32:40"
+      "category": "其他",
+      "timestamp": "2026-09-03 11:56:32"
     },
     {
       "keyword": "college football today",
@@ -135,11 +142,11 @@
       "timestamp": "2026-08-30 21:39:12"
     },
     {
-      "keyword": "mapquest",
+      "keyword": "red sox vs yankees",
       "score": 2500000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-03 05:18:53"
+      "category": "体育",
+      "timestamp": "2026-08-31 14:32:40"
     },
     {
       "keyword": "jelly roll",
@@ -149,13 +156,6 @@
       "timestamp": "2026-08-31 23:05:42"
     },
     {
-      "keyword": "erin piacenti",
-      "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-03 05:18:53"
-    },
-    {
       "keyword": "grand canyon flooding",
       "score": 2200000,
       "traffic_numeric": 200000,
@@ -163,11 +163,11 @@
       "timestamp": "2026-09-03 05:18:53"
     },
     {
-      "keyword": "college football",
-      "score": 1900000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-08-30 17:10:26"
+      "keyword": "lionel richie",
+      "score": 2050000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-03 11:56:32"
     },
     {
       "keyword": "samuel monroe jr",
@@ -177,46 +177,46 @@
       "timestamp": "2026-08-30 21:39:12"
     },
     {
-      "keyword": "us open",
+      "keyword": "college football",
       "score": 1900000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-30 17:10:26"
+    },
+    {
+      "keyword": "us open",
+      "score": 1700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-02 11:45:24"
     },
     {
-      "keyword": "lionel richie",
-      "score": 1850000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-03 05:18:53"
-    },
-    {
       "keyword": "social security cola 2027 announcement date",
-      "score": 1700000,
+      "score": 1500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-28 22:49:38"
     },
     {
       "keyword": "yayoi kusama",
-      "score": 1450000,
+      "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-08-30 06:04:37"
     },
     {
-      "keyword": "barcelona vs rayo vallecano",
+      "keyword": "dancing with the stars 2026 cast",
       "score": 1400000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-01 17:01:05"
+      "category": "娱乐/生活",
+      "timestamp": "2026-09-03 11:56:32"
     }
   ],
   "category_stats": {
-    "其他": 87,
-    "体育": 42,
+    "其他": 86,
+    "体育": 38,
     "娱乐/生活": 3,
-    "科技/AI": 3
+    "科技/AI": 2
   },
   "insights": [
     {

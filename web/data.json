@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02 21:28:33",
+  "last_updated": "2026-09-03 05:18:53",
   "trends": [
     {
       "keyword": "tim curry",
@@ -17,17 +17,17 @@
     },
     {
       "keyword": "peter cullen",
-      "score": 23500000,
+      "score": 25500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-09-02 21:28:33"
+      "timestamp": "2026-09-03 05:18:53"
     },
     {
       "keyword": "lindsay clancy verdict",
-      "score": 21500000,
+      "score": 22500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-09-02 21:28:33"
+      "timestamp": "2026-09-03 05:18:53"
     },
     {
       "keyword": "lake ontario",
@@ -94,10 +94,10 @@
     },
     {
       "keyword": "milo yiannopoulos",
-      "score": 3000000,
+      "score": 3200000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-02 21:28:33"
+      "timestamp": "2026-09-03 05:18:53"
     },
     {
       "keyword": "aaron donald",
@@ -114,11 +114,11 @@
       "timestamp": "2026-09-02 17:05:53"
     },
     {
-      "keyword": "college football today",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-08-30 21:39:12"
+      "keyword": "daejon love",
+      "score": 2620000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-03 05:18:53"
     },
     {
       "keyword": "red sox vs yankees",
@@ -128,11 +128,18 @@
       "timestamp": "2026-08-31 14:32:40"
     },
     {
-      "keyword": "daejon love",
-      "score": 2420000,
-      "traffic_numeric": 200000,
+      "keyword": "college football today",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-30 21:39:12"
+    },
+    {
+      "keyword": "mapquest",
+      "score": 2500000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-02 21:28:33"
+      "timestamp": "2026-09-03 05:18:53"
     },
     {
       "keyword": "jelly roll",
@@ -142,18 +149,25 @@
       "timestamp": "2026-08-31 23:05:42"
     },
     {
-      "keyword": "grand canyon flooding",
-      "score": 2000000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-02 21:28:33"
-    },
-    {
-      "keyword": "mapquest",
-      "score": 2000000,
+      "keyword": "erin piacenti",
+      "score": 2200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-02 21:28:33"
+      "timestamp": "2026-09-03 05:18:53"
+    },
+    {
+      "keyword": "grand canyon flooding",
+      "score": 2200000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-03 05:18:53"
+    },
+    {
+      "keyword": "college football",
+      "score": 1900000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-30 17:10:26"
     },
     {
       "keyword": "samuel monroe jr",
@@ -170,18 +184,11 @@
       "timestamp": "2026-09-02 11:45:24"
     },
     {
-      "keyword": "college football",
-      "score": 1900000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-08-30 17:10:26"
-    },
-    {
-      "keyword": "erin piacenti",
-      "score": 1700000,
-      "traffic_numeric": 500000,
+      "keyword": "lionel richie",
+      "score": 1850000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-02 21:28:33"
+      "timestamp": "2026-09-03 05:18:53"
     },
     {
       "keyword": "social security cola 2027 announcement date",
@@ -189,13 +196,6 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-28 22:49:38"
-    },
-    {
-      "keyword": "lionel richie",
-      "score": 1650000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-02 21:28:33"
     },
     {
       "keyword": "yayoi kusama",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 81,
-    "体育": 40,
+    "其他": 87,
+    "体育": 42,
     "娱乐/生活": 3,
     "科技/AI": 3
   },

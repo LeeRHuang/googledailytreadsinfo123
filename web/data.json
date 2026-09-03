@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03 16:51:20",
+  "last_updated": "2026-09-03 21:32:30",
   "trends": [
     {
       "keyword": "tim curry",
@@ -86,18 +86,25 @@
       "timestamp": "2026-08-30 17:10:26"
     },
     {
+      "keyword": "erin piacenti",
+      "score": 3700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-03 21:32:30"
+    },
+    {
+      "keyword": "mapquest",
+      "score": 3700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-03 21:32:30"
+    },
+    {
       "keyword": "callaway golf ad",
       "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-30 12:19:29"
-    },
-    {
-      "keyword": "mapquest",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-03 16:51:20"
     },
     {
       "keyword": "milo yiannopoulos",
@@ -107,18 +114,18 @@
       "timestamp": "2026-09-03 11:56:32"
     },
     {
-      "keyword": "erin piacenti",
-      "score": 3200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-03 16:51:20"
-    },
-    {
       "keyword": "daejon love",
-      "score": 3020000,
+      "score": 3220000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-03 16:51:20"
+      "timestamp": "2026-09-03 21:32:30"
+    },
+    {
+      "keyword": "carla jeffery",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-03 21:32:30"
     },
     {
       "keyword": "aaron donald",
@@ -126,6 +133,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-01 17:01:05"
+    },
+    {
+      "keyword": "lionel richie",
+      "score": 2750000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-03 21:32:30"
     },
     {
       "keyword": "tropical storm edouard",
@@ -149,6 +163,13 @@
       "timestamp": "2026-08-30 21:39:12"
     },
     {
+      "keyword": "dancing with the stars 2026 cast",
+      "score": 2400000,
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-09-03 21:32:30"
+    },
+    {
       "keyword": "jelly roll",
       "score": 2400000,
       "traffic_numeric": 200000,
@@ -156,25 +177,11 @@
       "timestamp": "2026-08-31 23:05:42"
     },
     {
-      "keyword": "lionel richie",
-      "score": 2250000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-03 16:51:20"
-    },
-    {
       "keyword": "grand canyon flooding",
       "score": 2200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-03 05:18:53"
-    },
-    {
-      "keyword": "carla jeffery",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-03 16:51:20"
     },
     {
       "keyword": "samuel monroe jr",
@@ -191,13 +198,6 @@
       "timestamp": "2026-08-30 17:10:26"
     },
     {
-      "keyword": "dancing with the stars 2026 cast",
-      "score": 1900000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-09-03 16:51:20"
-    },
-    {
       "keyword": "us open",
       "score": 1700000,
       "traffic_numeric": 500000,
@@ -205,15 +205,15 @@
       "timestamp": "2026-09-02 11:45:24"
     },
     {
-      "keyword": "social security cola 2027 announcement date",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-28 22:49:38"
+      "keyword": "brewers vs cubs",
+      "score": 1600000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-09-03 21:32:30"
     }
   ],
   "category_stats": {
-    "其他": 89,
+    "其他": 93,
     "体育": 40,
     "科技/AI": 3,
     "娱乐/生活": 3

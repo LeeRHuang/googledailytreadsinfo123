@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04 05:20:43",
+  "last_updated": "2026-09-04 11:57:15",
   "trends": [
     {
       "keyword": "tim curry",
@@ -65,6 +65,13 @@
       "timestamp": "2026-08-29 07:24:41"
     },
     {
+      "keyword": "carla jeffery",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-04 11:57:15"
+    },
+    {
       "keyword": "josh jacobs",
       "score": 5000000,
       "traffic_numeric": 500000,
@@ -73,17 +80,10 @@
     },
     {
       "keyword": "erin piacenti",
-      "score": 4200000,
+      "score": 4700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-04 05:20:43"
-    },
-    {
-      "keyword": "shelley fabares",
-      "score": 4000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-30 17:10:26"
+      "timestamp": "2026-09-04 11:57:15"
     },
     {
       "keyword": "jed york",
@@ -93,11 +93,18 @@
       "timestamp": "2026-08-30 17:10:26"
     },
     {
-      "keyword": "carla jeffery",
+      "keyword": "shelley fabares",
       "score": 4000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-04 05:20:43"
+      "timestamp": "2026-08-30 17:10:26"
+    },
+    {
+      "keyword": "lionel richie",
+      "score": 3750000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-04 11:57:15"
     },
     {
       "keyword": "mapquest",
@@ -108,17 +115,17 @@
     },
     {
       "keyword": "milo yiannopoulos",
-      "score": 3400000,
+      "score": 3600000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-03 11:56:32"
+      "timestamp": "2026-09-04 11:57:15"
     },
     {
-      "keyword": "lionel richie",
-      "score": 3250000,
+      "keyword": "dancing with the stars 2026 cast",
+      "score": 3400000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-04 05:20:43"
+      "category": "娱乐/生活",
+      "timestamp": "2026-09-04 11:57:15"
     },
     {
       "keyword": "daejon love",
@@ -142,25 +149,11 @@
       "timestamp": "2026-09-01 17:01:05"
     },
     {
-      "keyword": "dancing with the stars 2026 cast",
-      "score": 2900000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-09-04 05:20:43"
-    },
-    {
       "keyword": "tropical storm edouard",
       "score": 2700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-02 17:05:53"
-    },
-    {
-      "keyword": "red sox vs yankees",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-08-31 14:32:40"
     },
     {
       "keyword": "college football today",
@@ -170,11 +163,11 @@
       "timestamp": "2026-08-30 21:39:12"
     },
     {
-      "keyword": "grand canyon flooding",
-      "score": 2200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-03 05:18:53"
+      "keyword": "red sox vs yankees",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-31 14:32:40"
     },
     {
       "keyword": "jelly roll",
@@ -184,18 +177,25 @@
       "timestamp": "2026-08-31 23:05:42"
     },
     {
+      "keyword": "grand canyon flooding",
+      "score": 2200000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-03 05:18:53"
+    },
+    {
+      "keyword": "brewers vs cubs",
+      "score": 2000000,
+      "traffic_numeric": 200000,
+      "category": "体育",
+      "timestamp": "2026-09-04 11:57:15"
+    },
+    {
       "keyword": "college football",
       "score": 1900000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-08-30 17:10:26"
-    },
-    {
-      "keyword": "brewers vs cubs",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-09-04 05:20:43"
     },
     {
       "keyword": "samuel monroe jr",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 96,
-    "体育": 43,
+    "其他": 97,
+    "体育": 45,
     "科技/AI": 4,
     "娱乐/生活": 2
   },

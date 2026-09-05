@@ -1,58 +1,58 @@
 {
-  "last_updated": "2026-09-05 04:59:58",
+  "last_updated": "2026-09-05 11:01:54",
   "trends": [
     {
       "keyword": "tim curry",
-      "score": 80000000,
+      "score": 75000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-02 11:45:24"
     },
     {
       "keyword": "nepal",
-      "score": 30000000,
+      "score": 28000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-02 05:17:34"
     },
     {
       "keyword": "peter cullen",
-      "score": 23000000,
+      "score": 22000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-03 05:18:53"
     },
     {
       "keyword": "lindsay clancy verdict",
-      "score": 23000000,
+      "score": 22000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-03 11:56:32"
     },
     {
       "keyword": "lake ontario",
-      "score": 11000000,
+      "score": 10000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-01 05:54:28"
     },
     {
+      "keyword": "carla jeffery",
+      "score": 9000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-05 11:01:54"
+    },
+    {
       "keyword": "carl dean",
-      "score": 9500000,
+      "score": 8500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-01 12:04:00"
     },
     {
-      "keyword": "carla jeffery",
-      "score": 8000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-05 04:59:58"
-    },
-    {
       "keyword": "mica miller",
-      "score": 7600000,
+      "score": 7400000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-02 11:45:24"
@@ -66,10 +66,10 @@
     },
     {
       "keyword": "lionel richie",
-      "score": 5250000,
+      "score": 5750000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-05 04:59:58"
+      "timestamp": "2026-09-05 11:01:54"
     },
     {
       "keyword": "josh jacobs",
@@ -86,6 +86,13 @@
       "timestamp": "2026-09-04 11:57:15"
     },
     {
+      "keyword": "what does a mistrial mean",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-05 11:01:54"
+    },
+    {
       "keyword": "mapquest",
       "score": 3700000,
       "traffic_numeric": 500000,
@@ -93,8 +100,15 @@
       "timestamp": "2026-09-03 21:32:30"
     },
     {
+      "keyword": "gloria steinem",
+      "score": 3450000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-05 11:01:54"
+    },
+    {
       "keyword": "milo yiannopoulos",
-      "score": 3500000,
+      "score": 3400000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-04 11:57:15"
@@ -108,17 +122,17 @@
     },
     {
       "keyword": "daejon love",
-      "score": 3220000,
+      "score": 3200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-03 21:32:30"
     },
     {
-      "keyword": "jed york",
+      "keyword": "colorado football",
       "score": 3000000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-30 17:10:26"
+      "category": "体育",
+      "timestamp": "2026-09-05 11:01:54"
     },
     {
       "keyword": "lindsay clancy",
@@ -126,20 +140,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-04 21:09:15"
-    },
-    {
-      "keyword": "shelley fabares",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-08-30 17:10:26"
-    },
-    {
-      "keyword": "gloria steinem",
-      "score": 2950000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-05 04:59:58"
     },
     {
       "keyword": "aaron donald",
@@ -156,18 +156,11 @@
       "timestamp": "2026-09-02 17:05:53"
     },
     {
-      "keyword": "red sox vs yankees",
+      "keyword": "shelley fabares",
       "score": 2500000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-08-31 14:32:40"
-    },
-    {
-      "keyword": "colorado football",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-05 04:59:58"
+      "category": "其他",
+      "timestamp": "2026-08-30 17:10:26"
     },
     {
       "keyword": "college football today",
@@ -175,6 +168,20 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-08-30 21:39:12"
+    },
+    {
+      "keyword": "jed york",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-08-30 17:10:26"
+    },
+    {
+      "keyword": "red sox vs yankees",
+      "score": 2400000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-31 14:32:40"
     },
     {
       "keyword": "grand canyon flooding",
@@ -191,30 +198,23 @@
       "timestamp": "2026-09-04 11:57:15"
     },
     {
-      "keyword": "callaway golf ad",
-      "score": 2000000,
+      "keyword": "college football",
+      "score": 1900000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-08-30 17:10:26"
+    },
+    {
+      "keyword": "us open",
+      "score": 1700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-08-30 12:19:29"
-    },
-    {
-      "keyword": "what does a mistrial mean",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-05 04:59:58"
-    },
-    {
-      "keyword": "lunar eclipse",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-08-29 07:24:41"
+      "timestamp": "2026-09-02 11:45:24"
     }
   ],
   "category_stats": {
     "其他": 98,
-    "体育": 52,
+    "体育": 54,
     "科技/AI": 4,
     "娱乐/生活": 2
   },

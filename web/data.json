@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05 11:01:54",
+  "last_updated": "2026-09-05 15:47:48",
   "trends": [
     {
       "keyword": "tim curry",
@@ -30,18 +30,18 @@
       "timestamp": "2026-09-03 11:56:32"
     },
     {
+      "keyword": "carla jeffery",
+      "score": 10000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-05 15:47:48"
+    },
+    {
       "keyword": "lake ontario",
       "score": 10000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-01 05:54:28"
-    },
-    {
-      "keyword": "carla jeffery",
-      "score": 9000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-05 11:01:54"
     },
     {
       "keyword": "carl dean",
@@ -66,10 +66,17 @@
     },
     {
       "keyword": "lionel richie",
-      "score": 5750000,
+      "score": 6250000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-05 11:01:54"
+      "timestamp": "2026-09-05 15:47:48"
+    },
+    {
+      "keyword": "what does a mistrial mean",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-05 15:47:48"
     },
     {
       "keyword": "josh jacobs",
@@ -86,11 +93,11 @@
       "timestamp": "2026-09-04 11:57:15"
     },
     {
-      "keyword": "what does a mistrial mean",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
+      "keyword": "gloria steinem",
+      "score": 3950000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-05 11:01:54"
+      "timestamp": "2026-09-05 15:47:48"
     },
     {
       "keyword": "mapquest",
@@ -100,11 +107,11 @@
       "timestamp": "2026-09-03 21:32:30"
     },
     {
-      "keyword": "gloria steinem",
-      "score": 3450000,
+      "keyword": "colorado football",
+      "score": 3500000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-05 11:01:54"
+      "category": "体育",
+      "timestamp": "2026-09-05 15:47:48"
     },
     {
       "keyword": "milo yiannopoulos",
@@ -128,13 +135,6 @@
       "timestamp": "2026-09-03 21:32:30"
     },
     {
-      "keyword": "colorado football",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-05 11:01:54"
-    },
-    {
       "keyword": "lindsay clancy",
       "score": 3000000,
       "traffic_numeric": 2000000,
@@ -156,18 +156,18 @@
       "timestamp": "2026-09-02 17:05:53"
     },
     {
+      "keyword": "college football today",
+      "score": 2600000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-09-05 15:47:48"
+    },
+    {
       "keyword": "shelley fabares",
       "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-08-30 17:10:26"
-    },
-    {
-      "keyword": "college football today",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-08-30 21:39:12"
     },
     {
       "keyword": "jed york",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 98,
-    "体育": 54,
+    "其他": 100,
+    "体育": 58,
     "科技/AI": 4,
     "娱乐/生活": 2
   },

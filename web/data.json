@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-07 05:22:20",
+  "last_updated": "2026-09-07 13:06:13",
   "trends": [
     {
       "keyword": "tim curry",
-      "score": 45000000,
+      "score": 40000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-02 11:45:24"
@@ -17,31 +17,38 @@
     },
     {
       "keyword": "lindsay clancy verdict",
-      "score": 16000000,
+      "score": 15000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-03 11:56:32"
     },
     {
-      "keyword": "nepal",
-      "score": 16000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-02 05:17:34"
-    },
-    {
       "keyword": "peter cullen",
-      "score": 16000000,
+      "score": 15000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-03 05:18:53"
     },
     {
+      "keyword": "nepal",
+      "score": 14000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-02 05:17:34"
+    },
+    {
       "keyword": "lsu football",
-      "score": 10300000,
+      "score": 12300000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-09-07 05:22:19"
+      "timestamp": "2026-09-07 13:06:13"
+    },
+    {
+      "keyword": "michigan football",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-07 13:06:13"
     },
     {
       "keyword": "lionel richie",
@@ -52,17 +59,10 @@
     },
     {
       "keyword": "gloria steinem",
-      "score": 6950000,
+      "score": 7450000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-07 05:22:19"
-    },
-    {
-      "keyword": "michigan football",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-07 05:22:19"
+      "timestamp": "2026-09-07 13:06:13"
     },
     {
       "keyword": "what does a mistrial mean",
@@ -79,20 +79,6 @@
       "timestamp": "2026-09-06 15:50:04"
     },
     {
-      "keyword": "dolly parton cause of death",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-01 12:04:00"
-    },
-    {
-      "keyword": "mica miller",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-02 11:45:24"
-    },
-    {
       "keyword": "erin piacenti",
       "score": 4700000,
       "traffic_numeric": 500000,
@@ -100,18 +86,25 @@
       "timestamp": "2026-09-04 11:57:15"
     },
     {
-      "keyword": "josh jacobs",
+      "keyword": "mica miller",
       "score": 4500000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-02 11:45:24"
     },
     {
-      "keyword": "lake ontario",
+      "keyword": "dolly parton cause of death",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-01 05:54:28"
+      "timestamp": "2026-09-01 12:04:00"
+    },
+    {
+      "keyword": "josh jacobs",
+      "score": 4000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-02 11:45:24"
     },
     {
       "keyword": "mapquest",
@@ -128,6 +121,13 @@
       "timestamp": "2026-09-04 11:57:15"
     },
     {
+      "keyword": "lake ontario",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-01 05:54:28"
+    },
+    {
       "keyword": "lindsay clancy",
       "score": 3000000,
       "traffic_numeric": 2000000,
@@ -135,11 +135,18 @@
       "timestamp": "2026-09-04 21:09:15"
     },
     {
-      "keyword": "daejon love",
-      "score": 2800000,
+      "keyword": "oregon football",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-09-07 13:06:13"
+    },
+    {
+      "keyword": "maria bartiromo",
+      "score": 2750000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-03 21:32:30"
+      "timestamp": "2026-09-07 13:06:13"
     },
     {
       "keyword": "tropical storm edouard",
@@ -149,46 +156,46 @@
       "timestamp": "2026-09-02 17:05:53"
     },
     {
-      "keyword": "aaron donald",
+      "keyword": "daejon love",
       "score": 2700000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-03 21:32:30"
+    },
+    {
+      "keyword": "aaron donald",
+      "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-01 17:01:05"
     },
     {
-      "keyword": "maria bartiromo",
-      "score": 2550000,
+      "keyword": "jim thornton",
+      "score": 2300000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-07 05:22:19"
-    },
-    {
-      "keyword": "oregon football",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-07 05:22:19"
+      "timestamp": "2026-09-07 13:06:13"
     },
     {
       "keyword": "milo yiannopoulos",
-      "score": 2400000,
+      "score": 2200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-04 11:57:15"
     },
     {
-      "keyword": "grand canyon flooding",
+      "keyword": "notre dame football",
       "score": 2200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-03 05:18:53"
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-07 13:06:13"
     },
     {
-      "keyword": "jim thornton",
+      "keyword": "grand canyon flooding",
       "score": 2100000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-07 05:22:19"
+      "timestamp": "2026-09-03 05:18:53"
     },
     {
       "keyword": "brewers vs cubs",
@@ -198,18 +205,11 @@
       "timestamp": "2026-09-04 11:57:15"
     },
     {
-      "keyword": "us open",
-      "score": 1700000,
+      "keyword": "college football scores",
+      "score": 2000000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-02 11:45:24"
-    },
-    {
-      "keyword": "kawhi leonard",
-      "score": 1600000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-04 21:09:15"
+      "category": "体育",
+      "timestamp": "2026-09-07 13:06:13"
     }
   ],
   "category_stats": {

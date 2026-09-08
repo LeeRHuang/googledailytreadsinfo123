@@ -1,13 +1,6 @@
 {
-  "last_updated": "2026-09-08 11:53:11",
+  "last_updated": "2026-09-08 17:02:37",
   "trends": [
-    {
-      "keyword": "tim curry",
-      "score": 25000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-09-02 11:45:24"
-    },
     {
       "keyword": "carla jeffery",
       "score": 18000000,
@@ -17,24 +10,24 @@
     },
     {
       "keyword": "lsu football",
-      "score": 16300000,
+      "score": 16800000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-09-08 11:53:11"
+      "timestamp": "2026-09-08 17:02:37"
     },
     {
-      "keyword": "lindsay clancy verdict",
-      "score": 12000000,
-      "traffic_numeric": 2000000,
+      "keyword": "tim curry",
+      "score": 15000000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-09-03 11:56:32"
+      "timestamp": "2026-09-02 11:45:24"
     },
     {
-      "keyword": "peter cullen",
-      "score": 12000000,
-      "traffic_numeric": 2000000,
+      "keyword": "labor day",
+      "score": 12200000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-09-03 05:18:53"
+      "timestamp": "2026-09-08 17:02:37"
     },
     {
       "keyword": "michigan football",
@@ -44,32 +37,32 @@
       "timestamp": "2026-09-08 11:53:11"
     },
     {
-      "keyword": "gloria steinem",
-      "score": 8950000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-08 11:53:11"
-    },
-    {
-      "keyword": "nepal",
-      "score": 8000000,
+      "keyword": "peter cullen",
+      "score": 10000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-09-02 05:17:34"
+      "timestamp": "2026-09-03 05:18:53"
+    },
+    {
+      "keyword": "lindsay clancy verdict",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-03 11:56:32"
+    },
+    {
+      "keyword": "gloria steinem",
+      "score": 9450000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-08 17:02:37"
     },
     {
       "keyword": "lionel richie",
-      "score": 7500000,
+      "score": 7100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-06 21:00:23"
-    },
-    {
-      "keyword": "labor day",
-      "score": 7200000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-08 11:53:11"
     },
     {
       "keyword": "what does a mistrial mean",
@@ -87,7 +80,7 @@
     },
     {
       "keyword": "erin piacenti",
-      "score": 4700000,
+      "score": 4600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-04 11:57:15"
@@ -100,11 +93,11 @@
       "timestamp": "2026-09-08 11:53:11"
     },
     {
-      "keyword": "oregon football",
-      "score": 3700000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-08 05:26:49"
+      "keyword": "nepal",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-02 05:17:34"
     },
     {
       "keyword": "mapquest",
@@ -114,11 +107,25 @@
       "timestamp": "2026-09-03 21:32:30"
     },
     {
+      "keyword": "oregon football",
+      "score": 3700000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-09-08 05:26:49"
+    },
+    {
       "keyword": "dancing with the stars 2026 cast",
       "score": 3400000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-09-04 11:57:15"
+    },
+    {
+      "keyword": "clemson football",
+      "score": 3400000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-08 17:02:37"
     },
     {
       "keyword": "maria bartiromo",
@@ -128,6 +135,13 @@
       "timestamp": "2026-09-08 11:53:11"
     },
     {
+      "keyword": "ole miss football",
+      "score": 3100000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-09-08 17:02:37"
+    },
+    {
       "keyword": "lindsay clancy",
       "score": 3000000,
       "traffic_numeric": 2000000,
@@ -135,53 +149,32 @@
       "timestamp": "2026-09-04 21:09:15"
     },
     {
-      "keyword": "mica miller",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-02 11:45:24"
-    },
-    {
-      "keyword": "tropical storm edouard",
-      "score": 2700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-02 17:05:53"
-    },
-    {
       "keyword": "jim thornton",
-      "score": 2700000,
+      "score": 2900000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-08 11:53:11"
+      "timestamp": "2026-09-08 17:02:37"
     },
     {
-      "keyword": "ole miss football",
-      "score": 2600000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-08 11:53:11"
-    },
-    {
-      "keyword": "josh jacobs",
+      "keyword": "smu vs florida state",
       "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-08 17:02:37"
+    },
+    {
+      "keyword": "amazon plane crash",
+      "score": 2100000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-02 11:45:24"
+      "timestamp": "2026-09-08 17:02:37"
     },
     {
-      "keyword": "clemson football",
-      "score": 2400000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-08 11:53:11"
-    },
-    {
-      "keyword": "daejon love",
-      "score": 2200000,
-      "traffic_numeric": 200000,
+      "keyword": "elizabeth holmes",
+      "score": 2000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-03 21:32:30"
+      "timestamp": "2026-09-08 17:02:37"
     },
     {
       "keyword": "college football scores",
@@ -191,18 +184,25 @@
       "timestamp": "2026-09-07 13:06:13"
     },
     {
-      "keyword": "brewers vs cubs",
-      "score": 1900000,
-      "traffic_numeric": 200000,
-      "category": "体育",
-      "timestamp": "2026-09-04 11:57:15"
+      "keyword": "tropical storm edouard",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-02 17:05:53"
     },
     {
-      "keyword": "milo yiannopoulos",
+      "keyword": "mica miller",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-02 11:45:24"
+    },
+    {
+      "keyword": "daejon love",
       "score": 1800000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-04 11:57:15"
+      "timestamp": "2026-09-03 21:32:30"
     },
     {
       "keyword": "dyson toothbrush",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 100,
-    "体育": 79,
+    "其他": 98,
+    "体育": 80,
     "科技/AI": 5,
     "娱乐/生活": 1
   },

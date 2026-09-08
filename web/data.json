@@ -1,47 +1,54 @@
 {
-  "last_updated": "2026-09-07 21:57:42",
+  "last_updated": "2026-09-08 05:26:49",
   "trends": [
     {
       "keyword": "tim curry",
-      "score": 35000000,
+      "score": 30000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-02 11:45:24"
     },
     {
       "keyword": "carla jeffery",
-      "score": 17000000,
+      "score": 18000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-07 21:57:42"
+      "timestamp": "2026-09-08 05:26:49"
     },
     {
-      "keyword": "lindsay clancy verdict",
-      "score": 14000000,
+      "keyword": "lsu football",
+      "score": 14300000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-03 11:56:32"
+      "category": "体育",
+      "timestamp": "2026-09-08 05:26:49"
     },
     {
       "keyword": "peter cullen",
-      "score": 14000000,
+      "score": 13000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-03 05:18:53"
     },
     {
-      "keyword": "lsu football",
-      "score": 12300000,
+      "keyword": "lindsay clancy verdict",
+      "score": 13000000,
       "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-07 13:06:13"
+      "category": "其他",
+      "timestamp": "2026-09-03 11:56:32"
     },
     {
       "keyword": "nepal",
-      "score": 12000000,
+      "score": 10000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-02 05:17:34"
+    },
+    {
+      "keyword": "gloria steinem",
+      "score": 8450000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-08 05:26:49"
     },
     {
       "keyword": "michigan football",
@@ -51,15 +58,8 @@
       "timestamp": "2026-09-07 13:06:13"
     },
     {
-      "keyword": "gloria steinem",
-      "score": 7950000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-07 21:57:42"
-    },
-    {
       "keyword": "lionel richie",
-      "score": 7750000,
+      "score": 7700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-06 21:00:23"
@@ -70,6 +70,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-05 15:47:48"
+    },
+    {
+      "keyword": "labor day",
+      "score": 5200000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-08 05:26:49"
     },
     {
       "keyword": "colorado football",
@@ -86,11 +93,11 @@
       "timestamp": "2026-09-04 11:57:15"
     },
     {
-      "keyword": "mica miller",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-02 11:45:24"
+      "keyword": "oregon football",
+      "score": 3700000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-09-08 05:26:49"
     },
     {
       "keyword": "mapquest",
@@ -100,18 +107,11 @@
       "timestamp": "2026-09-03 21:32:30"
     },
     {
-      "keyword": "josh jacobs",
+      "keyword": "mica miller",
       "score": 3500000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-02 11:45:24"
-    },
-    {
-      "keyword": "oregon football",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-07 21:57:42"
     },
     {
       "keyword": "dancing with the stars 2026 cast",
@@ -121,13 +121,6 @@
       "timestamp": "2026-09-04 11:57:15"
     },
     {
-      "keyword": "labor day",
-      "score": 3200000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-07 21:57:42"
-    },
-    {
       "keyword": "notre dame football",
       "score": 3200000,
       "traffic_numeric": 1000000,
@@ -135,18 +128,18 @@
       "timestamp": "2026-09-07 21:57:42"
     },
     {
+      "keyword": "josh jacobs",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-02 11:45:24"
+    },
+    {
       "keyword": "lindsay clancy",
       "score": 3000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-04 21:09:15"
-    },
-    {
-      "keyword": "dolly parton cause of death",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-01 12:04:00"
     },
     {
       "keyword": "maria bartiromo",
@@ -163,18 +156,18 @@
       "timestamp": "2026-09-02 17:05:53"
     },
     {
+      "keyword": "jim thornton",
+      "score": 2500000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-08 05:26:49"
+    },
+    {
       "keyword": "daejon love",
-      "score": 2600000,
+      "score": 2400000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-03 21:32:30"
-    },
-    {
-      "keyword": "jim thornton",
-      "score": 2300000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-07 13:06:13"
     },
     {
       "keyword": "clemson football",
@@ -184,6 +177,13 @@
       "timestamp": "2026-09-07 21:57:42"
     },
     {
+      "keyword": "ole miss football",
+      "score": 2100000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-09-08 05:26:49"
+    },
+    {
       "keyword": "milo yiannopoulos",
       "score": 2000000,
       "traffic_numeric": 200000,
@@ -191,18 +191,18 @@
       "timestamp": "2026-09-04 11:57:15"
     },
     {
+      "keyword": "dolly parton cause of death",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-01 12:04:00"
+    },
+    {
       "keyword": "college football scores",
       "score": 2000000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-09-07 13:06:13"
-    },
-    {
-      "keyword": "lake ontario",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-01 05:54:28"
     },
     {
       "keyword": "brewers vs cubs",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 101,
-    "体育": 76,
+    "其他": 99,
+    "体育": 79,
     "科技/AI": 5,
     "娱乐/生活": 1
   },

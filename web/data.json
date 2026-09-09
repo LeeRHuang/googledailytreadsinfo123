@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08 21:31:02",
+  "last_updated": "2026-09-09 05:20:42",
   "trends": [
     {
       "keyword": "lsu football",
@@ -30,39 +30,32 @@
       "timestamp": "2026-09-08 21:31:02"
     },
     {
-      "keyword": "tim curry",
-      "score": 10000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-09-02 11:45:24"
-    },
-    {
       "keyword": "gloria steinem",
-      "score": 9950000,
+      "score": 10450000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-08 21:31:02"
+      "timestamp": "2026-09-09 05:20:42"
     },
     {
       "keyword": "peter cullen",
-      "score": 9000000,
+      "score": 8000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-03 05:18:53"
     },
     {
-      "keyword": "lindsay clancy verdict",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-03 11:56:32"
-    },
-    {
       "keyword": "lionel richie",
-      "score": 6900000,
+      "score": 6700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-06 21:00:23"
+    },
+    {
+      "keyword": "lindsay clancy verdict",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-03 11:56:32"
     },
     {
       "keyword": "what does a mistrial mean",
@@ -79,11 +72,11 @@
       "timestamp": "2026-09-06 15:50:04"
     },
     {
-      "keyword": "erin piacenti",
-      "score": 4400000,
-      "traffic_numeric": 500000,
+      "keyword": "tim curry",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-09-04 11:57:15"
+      "timestamp": "2026-09-02 11:45:24"
     },
     {
       "keyword": "notre dame football",
@@ -91,6 +84,20 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-09-08 11:53:11"
+    },
+    {
+      "keyword": "erin piacenti",
+      "score": 4200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-04 11:57:15"
+    },
+    {
+      "keyword": "elizabeth holmes",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-09 05:20:42"
     },
     {
       "keyword": "oregon football",
@@ -156,13 +163,6 @@
       "timestamp": "2026-09-04 21:09:15"
     },
     {
-      "keyword": "elizabeth holmes",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-08 21:31:02"
-    },
-    {
       "keyword": "amazon plane crash",
       "score": 2600000,
       "traffic_numeric": 500000,
@@ -170,11 +170,11 @@
       "timestamp": "2026-09-08 21:31:02"
     },
     {
-      "keyword": "nepal",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-02 05:17:34"
+      "keyword": "college football rankings",
+      "score": 2300000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-09 05:20:42"
     },
     {
       "keyword": "college football scores",
@@ -191,31 +191,31 @@
       "timestamp": "2026-09-08 21:31:02"
     },
     {
-      "keyword": "college football rankings",
-      "score": 1800000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-08 21:31:02"
-    },
-    {
       "keyword": "dyson toothbrush",
-      "score": 1750000,
+      "score": 1700000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-08 05:26:49"
     },
     {
-      "keyword": "brewers vs cubs",
+      "keyword": "kawhi leonard",
       "score": 1600000,
       "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-04 21:09:15"
+    },
+    {
+      "keyword": "real madrid vs inter",
+      "score": 1500000,
+      "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-09-04 11:57:15"
+      "timestamp": "2026-09-09 05:20:42"
     }
   ],
   "category_stats": {
-    "其他": 100,
-    "体育": 81,
-    "科技/AI": 5,
+    "其他": 103,
+    "体育": 85,
+    "科技/AI": 6,
     "娱乐/生活": 1
   },
   "insights": [

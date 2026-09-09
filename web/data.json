@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-09 12:05:26",
+  "last_updated": "2026-09-09 16:59:02",
   "trends": [
     {
       "keyword": "lsu football",
-      "score": 19300000,
+      "score": 19800000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-09-09 12:05:26"
+      "timestamp": "2026-09-09 16:59:02"
     },
     {
       "keyword": "carla jeffery",
@@ -16,6 +16,13 @@
       "timestamp": "2026-09-08 05:26:49"
     },
     {
+      "keyword": "labor day",
+      "score": 17200000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-09-09 16:59:02"
+    },
+    {
       "keyword": "michigan football",
       "score": 14000000,
       "traffic_numeric": 2000000,
@@ -23,18 +30,11 @@
       "timestamp": "2026-09-09 12:05:26"
     },
     {
-      "keyword": "labor day",
-      "score": 12200000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-09-08 17:02:37"
-    },
-    {
       "keyword": "gloria steinem",
-      "score": 10950000,
+      "score": 11450000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-09 12:05:26"
+      "timestamp": "2026-09-09 16:59:02"
     },
     {
       "keyword": "lionel richie",
@@ -58,18 +58,18 @@
       "timestamp": "2026-09-05 15:47:48"
     },
     {
+      "keyword": "elizabeth holmes",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-09 16:59:02"
+    },
+    {
       "keyword": "colorado football",
       "score": 5200000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-09-06 15:50:04"
-    },
-    {
-      "keyword": "elizabeth holmes",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-09 12:05:26"
     },
     {
       "keyword": "notre dame football",
@@ -91,6 +91,13 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-03 11:56:32"
+    },
+    {
+      "keyword": "college football rankings",
+      "score": 3800000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-09 16:59:02"
     },
     {
       "keyword": "oregon football",
@@ -128,18 +135,11 @@
       "timestamp": "2026-09-04 11:57:15"
     },
     {
-      "keyword": "college football rankings",
-      "score": 3300000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-09 12:05:26"
-    },
-    {
-      "keyword": "ole miss football",
+      "keyword": "amazon plane crash",
       "score": 3100000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-08 17:02:37"
+      "category": "其他",
+      "timestamp": "2026-09-09 12:05:26"
     },
     {
       "keyword": "jim thornton",
@@ -149,11 +149,11 @@
       "timestamp": "2026-09-08 21:31:02"
     },
     {
-      "keyword": "amazon plane crash",
+      "keyword": "ole miss football",
       "score": 3100000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-09 12:05:26"
+      "category": "体育",
+      "timestamp": "2026-09-08 17:02:37"
     },
     {
       "keyword": "lindsay clancy",
@@ -184,6 +184,20 @@
       "timestamp": "2026-09-08 21:31:02"
     },
     {
+      "keyword": "apple event",
+      "score": 1900000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-09-09 16:59:02"
+    },
+    {
+      "keyword": "champions league",
+      "score": 1800000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-09 16:59:02"
+    },
+    {
       "keyword": "dyson toothbrush",
       "score": 1650000,
       "traffic_numeric": 200000,
@@ -196,27 +210,14 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-04 21:09:15"
-    },
-    {
-      "keyword": "auburn football",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-06 15:50:04"
-    },
-    {
-      "keyword": "alabama football",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-06 15:50:04"
     }
   ],
   "category_stats": {
-    "其他": 100,
-    "体育": 86,
-    "科技/AI": 5,
-    "娱乐/生活": 1
+    "其他": 107,
+    "体育": 87,
+    "科技/AI": 6,
+    "娱乐/生活": 1,
+    "金融/商业": 1
   },
   "insights": [
     {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10 05:31:08",
+  "last_updated": "2026-09-10 11:58:21",
   "trends": [
     {
       "keyword": "lsu football",
@@ -9,18 +9,18 @@
       "timestamp": "2026-09-09 16:59:02"
     },
     {
-      "keyword": "carla jeffery",
-      "score": 17500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-08 05:26:49"
-    },
-    {
       "keyword": "labor day",
       "score": 17200000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-09 16:59:02"
+    },
+    {
+      "keyword": "carla jeffery",
+      "score": 17000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-08 05:26:49"
     },
     {
       "keyword": "michigan football",
@@ -31,17 +31,17 @@
     },
     {
       "keyword": "gloria steinem",
-      "score": 11950000,
+      "score": 11900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-10 05:31:08"
     },
     {
       "keyword": "elizabeth holmes",
-      "score": 8000000,
+      "score": 9000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-10 05:31:08"
+      "timestamp": "2026-09-10 11:58:21"
     },
     {
       "keyword": "what does a mistrial mean",
@@ -52,7 +52,7 @@
     },
     {
       "keyword": "lionel richie",
-      "score": 5900000,
+      "score": 5700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-06 21:00:23"
@@ -63,6 +63,20 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-09-06 15:50:04"
+    },
+    {
+      "keyword": "iphone duo",
+      "score": 5000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-10 11:58:21"
+    },
+    {
+      "keyword": "patriots vs seahawks",
+      "score": 4270000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-10 11:58:21"
     },
     {
       "keyword": "notre dame football",
@@ -79,18 +93,18 @@
       "timestamp": "2026-09-09 16:59:02"
     },
     {
+      "keyword": "maria bartiromo",
+      "score": 3750000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-10 11:58:21"
+    },
+    {
       "keyword": "oregon football",
       "score": 3700000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-09-08 05:26:49"
-    },
-    {
-      "keyword": "maria bartiromo",
-      "score": 3550000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-09 12:05:26"
     },
     {
       "keyword": "smu vs florida state",
@@ -107,18 +121,11 @@
       "timestamp": "2026-09-08 17:02:37"
     },
     {
-      "keyword": "ole miss football",
-      "score": 3100000,
-      "traffic_numeric": 500000,
+      "keyword": "champions league",
+      "score": 3300000,
+      "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-09-08 17:02:37"
-    },
-    {
-      "keyword": "jim thornton",
-      "score": 3100000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-08 21:31:02"
+      "timestamp": "2026-09-10 11:58:21"
     },
     {
       "keyword": "amazon plane crash",
@@ -128,11 +135,25 @@
       "timestamp": "2026-09-09 12:05:26"
     },
     {
-      "keyword": "iphone duo",
+      "keyword": "jim thornton",
+      "score": 3100000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-08 21:31:02"
+    },
+    {
+      "keyword": "ole miss football",
+      "score": 3100000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-09-08 17:02:37"
+    },
+    {
+      "keyword": "sam darnold",
       "score": 3000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-09-10 05:31:08"
+      "timestamp": "2026-09-10 11:58:21"
     },
     {
       "keyword": "lindsay clancy",
@@ -142,32 +163,25 @@
       "timestamp": "2026-09-04 21:09:15"
     },
     {
-      "keyword": "champions league",
-      "score": 2800000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-10 05:31:08"
-    },
-    {
       "keyword": "dancing with the stars 2026 cast",
-      "score": 2500000,
+      "score": 2000000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-09-04 11:57:15"
     },
     {
       "keyword": "erin piacenti",
-      "score": 2500000,
+      "score": 2000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-04 11:57:15"
     },
     {
-      "keyword": "patriots vs seahawks",
-      "score": 2270000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-10 05:31:08"
+      "keyword": "alix earle",
+      "score": 2000000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-10 11:58:21"
     },
     {
       "keyword": "college football scores",
@@ -175,6 +189,13 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-09-07 13:06:13"
+    },
+    {
+      "keyword": "iphone 18",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-10 11:58:21"
     },
     {
       "keyword": "hurricane lowell",
@@ -189,41 +210,14 @@
       "traffic_numeric": 500000,
       "category": "科技/AI",
       "timestamp": "2026-09-09 16:59:02"
-    },
-    {
-      "keyword": "alix earle",
-      "score": 1800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-10 05:31:08"
-    },
-    {
-      "keyword": "alcaraz vs shelton",
-      "score": 1700000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-09 21:25:11"
-    },
-    {
-      "keyword": "dyson toothbrush",
-      "score": 1500000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-08 05:26:49"
     }
   ],
   "category_stats": {
-    "其他": 106,
-    "体育": 88,
+    "其他": 107,
+    "体育": 89,
     "科技/AI": 7,
     "娱乐/生活": 1,
     "金融/商业": 1
   },
-  "insights": [
-    {
-      "title": "季节性效率/计划应用",
-      "context": "新年计划相关关键词搜索量激增。",
-      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
-    }
-  ]
+  "insights": []
 }

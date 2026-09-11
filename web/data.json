@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11 05:19:06",
+  "last_updated": "2026-09-11 11:53:26",
   "trends": [
     {
       "keyword": "lsu football",
@@ -16,13 +16,6 @@
       "timestamp": "2026-09-09 16:59:02"
     },
     {
-      "keyword": "carla jeffery",
-      "score": 15000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-08 05:26:49"
-    },
-    {
       "keyword": "michigan football",
       "score": 14000000,
       "traffic_numeric": 2000000,
@@ -30,39 +23,60 @@
       "timestamp": "2026-09-09 12:05:26"
     },
     {
-      "keyword": "elizabeth holmes",
-      "score": 12000000,
+      "keyword": "carla jeffery",
+      "score": 14000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-11 05:19:06"
+      "timestamp": "2026-09-08 05:26:49"
+    },
+    {
+      "keyword": "elizabeth holmes",
+      "score": 13000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-11 11:53:26"
+    },
+    {
+      "keyword": "iphone duo",
+      "score": 13000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-11 11:53:26"
+    },
+    {
+      "keyword": "patriots vs seahawks",
+      "score": 11270000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-11 11:53:26"
     },
     {
       "keyword": "gloria steinem",
-      "score": 11500000,
+      "score": 11000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-10 05:31:08"
     },
     {
-      "keyword": "iphone duo",
-      "score": 11000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-11 05:19:06"
-    },
-    {
-      "keyword": "patriots vs seahawks",
-      "score": 9270000,
-      "traffic_numeric": 2000000,
+      "keyword": "49ers vs rams",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-09-11 05:19:06"
+      "timestamp": "2026-09-11 11:53:26"
     },
     {
       "keyword": "iphone 18",
-      "score": 7000000,
+      "score": 9000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-09-11 05:19:06"
+      "timestamp": "2026-09-11 11:53:26"
+    },
+    {
+      "keyword": "sam darnold",
+      "score": 6500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-11 11:53:26"
     },
     {
       "keyword": "what does a mistrial mean",
@@ -72,29 +86,15 @@
       "timestamp": "2026-09-05 15:47:48"
     },
     {
-      "keyword": "sam darnold",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-11 05:19:06"
-    },
-    {
       "keyword": "colorado football",
-      "score": 5200000,
+      "score": 4700000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-09-06 15:50:04"
     },
     {
-      "keyword": "49ers vs rams",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-09-11 05:19:06"
-    },
-    {
       "keyword": "lionel richie",
-      "score": 5000000,
+      "score": 4500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-06 21:00:23"
@@ -129,7 +129,7 @@
     },
     {
       "keyword": "maria bartiromo",
-      "score": 3700000,
+      "score": 3600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-10 11:58:21"
@@ -149,13 +149,6 @@
       "timestamp": "2026-09-08 17:02:37"
     },
     {
-      "keyword": "amazon plane crash",
-      "score": 3100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-09 12:05:26"
-    },
-    {
       "keyword": "jim thornton",
       "score": 3100000,
       "traffic_numeric": 200000,
@@ -170,6 +163,13 @@
       "timestamp": "2026-09-08 17:02:37"
     },
     {
+      "keyword": "amazon plane crash",
+      "score": 3100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-09 12:05:26"
+    },
+    {
       "keyword": "lindsay clancy",
       "score": 3000000,
       "traffic_numeric": 2000000,
@@ -182,6 +182,13 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-11 05:19:06"
+    },
+    {
+      "keyword": "charlie kirk",
+      "score": 2150000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-11 11:53:26"
     },
     {
       "keyword": "college football scores",
@@ -203,19 +210,12 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-08 21:31:02"
-    },
-    {
-      "keyword": "charlie kirk",
-      "score": 1750000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-11 05:19:06"
     }
   ],
   "category_stats": {
-    "其他": 110,
-    "体育": 92,
-    "科技/AI": 7,
+    "其他": 115,
+    "体育": 91,
+    "科技/AI": 8,
     "金融/商业": 2,
     "娱乐/生活": 1
   },

@@ -1,26 +1,40 @@
 {
-  "last_updated": "2026-09-12 11:24:47",
+  "last_updated": "2026-09-12 15:51:51",
   "trends": [
     {
       "keyword": "iphone duo",
-      "score": 24000000,
+      "score": 26000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-09-12 11:24:47"
+      "timestamp": "2026-09-12 15:51:51"
+    },
+    {
+      "keyword": "49ers vs rams",
+      "score": 20000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-09-12 15:51:51"
     },
     {
       "keyword": "lsu football",
-      "score": 19800000,
+      "score": 19700000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-09-09 16:59:02"
     },
     {
-      "keyword": "49ers vs rams",
+      "keyword": "iphone 18",
       "score": 19000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-09-12 11:24:47"
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-12 15:51:51"
+    },
+    {
+      "keyword": "elizabeth holmes",
+      "score": 18000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-12 15:51:51"
     },
     {
       "keyword": "labor day",
@@ -28,20 +42,6 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-09 16:59:02"
-    },
-    {
-      "keyword": "elizabeth holmes",
-      "score": 17000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-12 11:24:47"
-    },
-    {
-      "keyword": "iphone 18",
-      "score": 17000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-12 11:24:47"
     },
     {
       "keyword": "michigan football",
@@ -58,25 +58,25 @@
       "timestamp": "2026-09-11 21:32:02"
     },
     {
-      "keyword": "carla jeffery",
-      "score": 9000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-08 05:26:49"
-    },
-    {
       "keyword": "sam darnold",
-      "score": 9000000,
+      "score": 9500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-09-12 11:24:47"
+      "timestamp": "2026-09-12 15:51:51"
     },
     {
       "keyword": "gloria steinem",
-      "score": 8500000,
+      "score": 8000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-10 05:31:08"
+    },
+    {
+      "keyword": "carla jeffery",
+      "score": 8000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-08 05:26:49"
     },
     {
       "keyword": "champions league",
@@ -91,6 +91,13 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-09-08 11:53:11"
+    },
+    {
+      "keyword": "9/11",
+      "score": 4100000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-12 15:51:51"
     },
     {
       "keyword": "college football rankings",
@@ -121,11 +128,11 @@
       "timestamp": "2026-09-08 17:02:37"
     },
     {
-      "keyword": "aj brown",
+      "keyword": "nintendo",
       "score": 3300000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-12 11:24:47"
+      "timestamp": "2026-09-12 15:51:51"
     },
     {
       "keyword": "country musician brian duckworth passes",
@@ -135,16 +142,9 @@
       "timestamp": "2026-09-12 11:24:47"
     },
     {
-      "keyword": "amazon plane crash",
-      "score": 3100000,
+      "keyword": "aj brown",
+      "score": 3300000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-09 12:05:26"
-    },
-    {
-      "keyword": "9/11",
-      "score": 3100000,
-      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-12 11:24:47"
     },
@@ -156,11 +156,11 @@
       "timestamp": "2026-09-08 17:02:37"
     },
     {
-      "keyword": "nintendo",
-      "score": 2800000,
+      "keyword": "amazon plane crash",
+      "score": 3100000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-12 11:24:47"
+      "timestamp": "2026-09-09 12:05:26"
     },
     {
       "keyword": "alix earle",
@@ -171,17 +171,17 @@
     },
     {
       "keyword": "maria bartiromo",
-      "score": 2600000,
+      "score": 2400000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-10 11:58:21"
     },
     {
-      "keyword": "jim thornton",
-      "score": 2400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-08 21:31:02"
+      "keyword": "lil durk trial update",
+      "score": 2370000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-09-12 15:51:51"
     },
     {
       "keyword": "rams vs 49ers",
@@ -191,11 +191,11 @@
       "timestamp": "2026-09-12 11:24:47"
     },
     {
-      "keyword": "colorado football",
+      "keyword": "jim thornton",
       "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-06 15:50:04"
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-08 21:31:02"
     },
     {
       "keyword": "charlie kirk",
@@ -205,16 +205,16 @@
       "timestamp": "2026-09-11 11:53:26"
     },
     {
-      "keyword": "lil durk",
+      "keyword": "college football scores",
       "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-12 11:24:47"
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-09-07 13:06:13"
     }
   ],
   "category_stats": {
-    "其他": 110,
-    "体育": 90,
+    "其他": 109,
+    "体育": 91,
     "科技/AI": 7,
     "金融/商业": 2
   },

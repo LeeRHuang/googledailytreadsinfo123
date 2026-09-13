@@ -1,19 +1,26 @@
 {
-  "last_updated": "2026-09-13 16:43:59",
+  "last_updated": "2026-09-13 21:08:09",
   "trends": [
     {
       "keyword": "iphone duo",
-      "score": 40000000,
+      "score": 45000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-09-13 16:43:59"
+      "timestamp": "2026-09-13 21:08:08"
     },
     {
       "keyword": "iphone 18",
-      "score": 27000000,
+      "score": 29000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-09-13 16:43:59"
+      "timestamp": "2026-09-13 21:08:08"
+    },
+    {
+      "keyword": "elizabeth holmes",
+      "score": 23000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-13 21:08:08"
     },
     {
       "keyword": "49ers vs rams",
@@ -23,24 +30,10 @@
       "timestamp": "2026-09-12 20:57:58"
     },
     {
-      "keyword": "elizabeth holmes",
-      "score": 22000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-13 16:43:59"
-    },
-    {
       "keyword": "labor day",
       "score": 17200000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-09-09 16:59:02"
-    },
-    {
-      "keyword": "lsu football",
-      "score": 13500000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
       "timestamp": "2026-09-09 16:59:02"
     },
     {
@@ -51,18 +44,32 @@
       "timestamp": "2026-09-11 21:32:02"
     },
     {
+      "keyword": "sam darnold",
+      "score": 11500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-13 21:08:08"
+    },
+    {
+      "keyword": "lsu football",
+      "score": 11500000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-09 16:59:02"
+    },
+    {
       "keyword": "michigan football",
-      "score": 11000000,
+      "score": 10000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-09-09 12:05:26"
     },
     {
-      "keyword": "sam darnold",
-      "score": 10500000,
+      "keyword": "ohio state vs texas",
+      "score": 8150000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-13 16:43:59"
+      "category": "体育",
+      "timestamp": "2026-09-13 21:08:08"
     },
     {
       "keyword": "9/11",
@@ -72,15 +79,8 @@
       "timestamp": "2026-09-13 16:43:59"
     },
     {
-      "keyword": "ohio state vs texas",
-      "score": 6150000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-13 16:43:59"
-    },
-    {
       "keyword": "gloria steinem",
-      "score": 6000000,
+      "score": 5500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-10 05:31:08"
@@ -94,17 +94,10 @@
     },
     {
       "keyword": "notre dame football",
-      "score": 4100000,
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-09-08 11:53:11"
-    },
-    {
-      "keyword": "carla jeffery",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-08 05:26:49"
     },
     {
       "keyword": "college football rankings",
@@ -114,18 +107,18 @@
       "timestamp": "2026-09-09 16:59:02"
     },
     {
-      "keyword": "nintendo",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-13 05:24:00"
-    },
-    {
       "keyword": "smu vs florida state",
       "score": 3500000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-09-08 21:31:02"
+    },
+    {
+      "keyword": "nintendo",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-13 05:24:00"
     },
     {
       "keyword": "clemson football",
@@ -142,14 +135,14 @@
       "timestamp": "2026-09-12 20:57:58"
     },
     {
-      "keyword": "aj brown",
+      "keyword": "country musician brian duckworth passes",
       "score": 3300000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-12 11:24:47"
     },
     {
-      "keyword": "country musician brian duckworth passes",
+      "keyword": "aj brown",
       "score": 3300000,
       "traffic_numeric": 500000,
       "category": "其他",
@@ -161,13 +154,6 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-09 12:05:26"
-    },
-    {
-      "keyword": "ole miss football",
-      "score": 3100000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-08 17:02:37"
     },
     {
       "keyword": "oklahoma vs michigan",
@@ -184,6 +170,20 @@
       "timestamp": "2026-09-13 16:43:59"
     },
     {
+      "keyword": "ole miss football",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-09-08 17:02:37"
+    },
+    {
+      "keyword": "carla jeffery",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-08 05:26:49"
+    },
+    {
       "keyword": "lady gaga",
       "score": 2600000,
       "traffic_numeric": 500000,
@@ -198,25 +198,26 @@
       "timestamp": "2026-09-11 05:19:06"
     },
     {
+      "keyword": "nfl scores",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-13 21:08:08"
+    },
+    {
       "keyword": "rams vs 49ers",
       "score": 2350000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-09-12 11:24:47"
-    },
-    {
-      "keyword": "oregon football",
-      "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-08 05:26:49"
     }
   ],
   "category_stats": {
     "其他": 114,
-    "体育": 82,
-    "科技/AI": 10,
-    "金融/商业": 2
+    "体育": 77,
+    "科技/AI": 11,
+    "金融/商业": 2,
+    "娱乐/生活": 1
   },
   "insights": []
 }

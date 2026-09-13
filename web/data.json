@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-09-13 12:22:47",
+  "last_updated": "2026-09-13 16:43:59",
   "trends": [
     {
       "keyword": "iphone duo",
-      "score": 35000000,
+      "score": 40000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-09-13 12:22:47"
+      "timestamp": "2026-09-13 16:43:59"
     },
     {
       "keyword": "iphone 18",
-      "score": 25000000,
+      "score": 27000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-09-13 12:22:47"
+      "timestamp": "2026-09-13 16:43:59"
     },
     {
       "keyword": "49ers vs rams",
@@ -24,10 +24,10 @@
     },
     {
       "keyword": "elizabeth holmes",
-      "score": 21000000,
+      "score": 22000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-13 12:22:47"
+      "timestamp": "2026-09-13 16:43:59"
     },
     {
       "keyword": "labor day",
@@ -38,7 +38,7 @@
     },
     {
       "keyword": "lsu football",
-      "score": 15500000,
+      "score": 13500000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-09-09 16:59:02"
@@ -52,38 +52,38 @@
     },
     {
       "keyword": "michigan football",
-      "score": 12000000,
+      "score": 11000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-09-09 12:05:26"
     },
     {
       "keyword": "sam darnold",
-      "score": 10000000,
+      "score": 10500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-09-12 20:57:58"
-    },
-    {
-      "keyword": "gloria steinem",
-      "score": 6500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-10 05:31:08"
+      "timestamp": "2026-09-13 16:43:59"
     },
     {
       "keyword": "9/11",
-      "score": 6100000,
+      "score": 6600000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-13 12:22:47"
+      "timestamp": "2026-09-13 16:43:59"
     },
     {
-      "keyword": "carla jeffery",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
+      "keyword": "ohio state vs texas",
+      "score": 6150000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-13 16:43:59"
+    },
+    {
+      "keyword": "gloria steinem",
+      "score": 6000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-08 05:26:49"
+      "timestamp": "2026-09-10 05:31:08"
     },
     {
       "keyword": "champions league",
@@ -94,17 +94,17 @@
     },
     {
       "keyword": "notre dame football",
-      "score": 4200000,
+      "score": 4100000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-09-08 11:53:11"
     },
     {
-      "keyword": "ohio state vs texas",
-      "score": 4150000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-13 12:22:47"
+      "keyword": "carla jeffery",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-08 05:26:49"
     },
     {
       "keyword": "college football rankings",
@@ -142,14 +142,14 @@
       "timestamp": "2026-09-12 20:57:58"
     },
     {
-      "keyword": "country musician brian duckworth passes",
+      "keyword": "aj brown",
       "score": 3300000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-12 11:24:47"
     },
     {
-      "keyword": "aj brown",
+      "keyword": "country musician brian duckworth passes",
       "score": 3300000,
       "traffic_numeric": 500000,
       "category": "其他",
@@ -177,11 +177,18 @@
       "timestamp": "2026-09-13 12:22:47"
     },
     {
-      "keyword": "oregon football",
-      "score": 2700000,
+      "keyword": "ryan garcia",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-13 16:43:59"
+    },
+    {
+      "keyword": "lady gaga",
+      "score": 2600000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-08 05:26:49"
+      "category": "其他",
+      "timestamp": "2026-09-13 16:43:59"
     },
     {
       "keyword": "alix earle",
@@ -198,24 +205,17 @@
       "timestamp": "2026-09-12 11:24:47"
     },
     {
-      "keyword": "lady gaga",
-      "score": 2100000,
+      "keyword": "oregon football",
+      "score": 2200000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-13 12:22:47"
-    },
-    {
-      "keyword": "charlie kirk",
-      "score": 2050000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-11 11:53:26"
+      "category": "体育",
+      "timestamp": "2026-09-08 05:26:49"
     }
   ],
   "category_stats": {
-    "其他": 111,
-    "体育": 83,
-    "科技/AI": 9,
+    "其他": 114,
+    "体育": 82,
+    "科技/AI": 10,
     "金融/商业": 2
   },
   "insights": []

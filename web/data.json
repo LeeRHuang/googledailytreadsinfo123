@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-09-14 05:38:49",
+  "last_updated": "2026-09-14 13:29:11",
   "trends": [
     {
       "keyword": "iphone duo",
-      "score": 50000000,
+      "score": 52000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-09-14 05:38:49"
+      "timestamp": "2026-09-14 13:29:11"
     },
     {
       "keyword": "iphone 18",
-      "score": 29000000,
+      "score": 31000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-09-13 21:08:08"
+      "timestamp": "2026-09-14 13:29:11"
     },
     {
       "keyword": "elizabeth holmes",
-      "score": 22900000,
+      "score": 22700000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-13 21:08:08"
@@ -31,7 +31,7 @@
     },
     {
       "keyword": "labor day",
-      "score": 17000000,
+      "score": 16000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-09 16:59:02"
@@ -51,36 +51,36 @@
       "timestamp": "2026-09-14 05:38:49"
     },
     {
+      "keyword": "ohio state vs texas",
+      "score": 10150000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 13:29:11"
+    },
+    {
+      "keyword": "9/11",
+      "score": 7600000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-14 13:29:11"
+    },
+    {
       "keyword": "lsu football",
-      "score": 9500000,
+      "score": 7500000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-09-09 16:59:02"
     },
     {
-      "keyword": "ohio state vs texas",
-      "score": 8150000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-13 21:08:08"
-    },
-    {
       "keyword": "michigan football",
-      "score": 8000000,
+      "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-09-09 12:05:26"
     },
     {
-      "keyword": "9/11",
-      "score": 7100000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-14 05:38:49"
-    },
-    {
       "keyword": "gloria steinem",
-      "score": 5000000,
+      "score": 4500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-10 05:31:08"
@@ -93,11 +93,32 @@
       "timestamp": "2026-09-10 21:22:51"
     },
     {
+      "keyword": "cowboys vs giants",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 13:29:11"
+    },
+    {
+      "keyword": "falcons vs steelers",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 13:29:11"
+    },
+    {
       "keyword": "college football rankings",
       "score": 3800000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-09-09 16:59:02"
+    },
+    {
+      "keyword": "lady gaga",
+      "score": 3600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-14 13:29:11"
     },
     {
       "keyword": "smu vs florida state",
@@ -112,13 +133,6 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-13 05:24:00"
-    },
-    {
-      "keyword": "clemson football",
-      "score": 3400000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-08 17:02:37"
     },
     {
       "keyword": "lil durk trial update",
@@ -142,11 +156,25 @@
       "timestamp": "2026-09-12 11:24:47"
     },
     {
-      "keyword": "lady gaga",
+      "keyword": "clemson football",
+      "score": 3200000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-08 17:02:37"
+    },
+    {
+      "keyword": "saints vs lions",
       "score": 3100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-14 05:38:49"
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-09-14 13:29:11"
+    },
+    {
+      "keyword": "bills vs texans",
+      "score": 3050000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 13:29:11"
     },
     {
       "keyword": "oklahoma vs michigan",
@@ -163,58 +191,30 @@
       "timestamp": "2026-09-13 16:43:59"
     },
     {
-      "keyword": "notre dame football",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-08 11:53:11"
-    },
-    {
-      "keyword": "falcons vs steelers",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-14 05:38:49"
+      "keyword": "income",
+      "score": 2800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-14 13:29:11"
     },
     {
       "keyword": "amazon plane crash",
-      "score": 2900000,
+      "score": 2700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-09 12:05:26"
     },
     {
-      "keyword": "ole miss football",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-08 17:02:37"
-    },
-    {
-      "keyword": "alix earle",
-      "score": 2500000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-11 05:19:06"
-    },
-    {
-      "keyword": "nfl scores",
-      "score": 2500000,
+      "keyword": "bears vs panthers",
+      "score": 2600000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-09-13 21:08:08"
-    },
-    {
-      "keyword": "rams vs 49ers",
-      "score": 2350000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-12 11:24:47"
+      "timestamp": "2026-09-14 13:29:11"
     }
   ],
   "category_stats": {
-    "其他": 121,
-    "体育": 79,
+    "其他": 120,
+    "体育": 77,
     "科技/AI": 11,
     "金融/商业": 2,
     "娱乐/生活": 1

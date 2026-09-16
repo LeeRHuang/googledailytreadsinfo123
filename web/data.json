@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16 12:09:59",
+  "last_updated": "2026-09-16 17:23:08",
   "trends": [
     {
       "keyword": "iphone duo",
@@ -24,7 +24,7 @@
     },
     {
       "keyword": "elizabeth holmes",
-      "score": 18000000,
+      "score": 17000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-13 21:08:08"
@@ -38,10 +38,17 @@
     },
     {
       "keyword": "patriots vs seahawks",
-      "score": 13250000,
+      "score": 13200000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-09-11 21:32:02"
+    },
+    {
+      "keyword": "how do i register to vote",
+      "score": 11000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-09-16 17:23:08"
     },
     {
       "keyword": "ohio state vs texas",
@@ -59,10 +66,10 @@
     },
     {
       "keyword": "sydney sweeney sports ad",
-      "score": 8200000,
+      "score": 9200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-16 12:09:59"
+      "timestamp": "2026-09-16 17:23:08"
     },
     {
       "keyword": "9/11",
@@ -79,18 +86,18 @@
       "timestamp": "2026-09-16 12:09:59"
     },
     {
-      "keyword": "how do i register to vote",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
+      "keyword": "widows bay",
+      "score": 5700000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-16 12:09:59"
+      "timestamp": "2026-09-16 17:23:08"
     },
     {
       "keyword": "bloodhound q50",
-      "score": 5200000,
+      "score": 5700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-16 12:09:59"
+      "timestamp": "2026-09-16 17:23:08"
     },
     {
       "keyword": "saints vs lions",
@@ -100,25 +107,18 @@
       "timestamp": "2026-09-15 12:16:25"
     },
     {
-      "keyword": "labor day",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-09-09 16:59:02"
-    },
-    {
-      "keyword": "widows bay",
-      "score": 4700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-16 12:09:59"
-    },
-    {
       "keyword": "lady gaga",
       "score": 4100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-14 22:10:01"
+    },
+    {
+      "keyword": "kansas city chiefs",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-16 17:23:08"
     },
     {
       "keyword": "falcons vs steelers",
@@ -157,17 +157,10 @@
     },
     {
       "keyword": "lil durk trial update",
-      "score": 3370000,
+      "score": 3350000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-09-12 20:57:58"
-    },
-    {
-      "keyword": "nintendo",
-      "score": 3300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-14 22:10:01"
     },
     {
       "keyword": "aj brown",
@@ -182,6 +175,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-12 11:24:47"
+    },
+    {
+      "keyword": "nintendo",
+      "score": 3300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-14 22:10:01"
     },
     {
       "keyword": "oklahoma vs michigan",
@@ -205,19 +205,19 @@
       "timestamp": "2026-09-15 12:16:25"
     },
     {
-      "keyword": "champions league",
+      "keyword": "ryan garcia",
       "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-10 21:22:51"
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-13 16:43:59"
     }
   ],
   "category_stats": {
-    "其他": 120,
+    "其他": 114,
     "体育": 75,
-    "科技/AI": 9,
+    "科技/AI": 8,
     "娱乐/生活": 3,
-    "金融/商业": 2
+    "金融/商业": 1
   },
   "insights": []
 }

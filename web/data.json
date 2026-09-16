@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15 21:48:08",
+  "last_updated": "2026-09-16 05:20:12",
   "trends": [
     {
       "keyword": "iphone duo",
@@ -66,10 +66,10 @@
     },
     {
       "keyword": "sydney sweeney sports ad",
-      "score": 6200000,
+      "score": 7200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-15 21:48:08"
+      "timestamp": "2026-09-16 05:20:12"
     },
     {
       "keyword": "saints vs lions",
@@ -79,13 +79,6 @@
       "timestamp": "2026-09-15 12:16:25"
     },
     {
-      "keyword": "labor day",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-09-09 16:59:02"
-    },
-    {
       "keyword": "broncos vs chiefs",
       "score": 5000000,
       "traffic_numeric": 2000000,
@@ -93,11 +86,18 @@
       "timestamp": "2026-09-15 21:48:08"
     },
     {
+      "keyword": "labor day",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-09-09 16:59:02"
+    },
+    {
       "keyword": "bloodhound q50",
-      "score": 4200000,
+      "score": 4700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-15 21:48:08"
+      "timestamp": "2026-09-16 05:20:12"
     },
     {
       "keyword": "lady gaga",
@@ -107,11 +107,11 @@
       "timestamp": "2026-09-14 22:10:01"
     },
     {
-      "keyword": "falcons vs steelers",
+      "keyword": "how do i register to vote",
       "score": 4000000,
       "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-14 13:29:11"
+      "category": "其他",
+      "timestamp": "2026-09-16 05:20:12"
     },
     {
       "keyword": "chiefs",
@@ -128,18 +128,25 @@
       "timestamp": "2026-09-10 21:22:51"
     },
     {
+      "keyword": "falcons vs steelers",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 13:29:11"
+    },
+    {
+      "keyword": "widows bay",
+      "score": 3700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-16 05:20:12"
+    },
+    {
       "keyword": "bears vs panthers",
       "score": 3600000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-09-14 22:10:01"
-    },
-    {
-      "keyword": "country musician brian duckworth",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-15 21:48:08"
     },
     {
       "keyword": "nintendo",
@@ -154,6 +161,13 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-09-14 22:10:01"
+    },
+    {
+      "keyword": "country musician brian duckworth",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-15 21:48:08"
     },
     {
       "keyword": "lil durk trial update",
@@ -177,13 +191,6 @@
       "timestamp": "2026-09-12 11:24:47"
     },
     {
-      "keyword": "oklahoma vs michigan",
-      "score": 3050000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-13 12:22:47"
-    },
-    {
       "keyword": "bills vs texans",
       "score": 3050000,
       "traffic_numeric": 1000000,
@@ -191,11 +198,11 @@
       "timestamp": "2026-09-14 13:29:11"
     },
     {
-      "keyword": "ios 27 release date",
-      "score": 3000000,
+      "keyword": "oklahoma vs michigan",
+      "score": 3050000,
       "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-15 12:16:25"
+      "category": "体育",
+      "timestamp": "2026-09-13 12:22:47"
     },
     {
       "keyword": "ryan garcia",
@@ -203,20 +210,13 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-13 16:43:59"
-    },
-    {
-      "keyword": "income",
-      "score": 2800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-14 13:29:11"
     }
   ],
   "category_stats": {
-    "其他": 121,
-    "体育": 75,
+    "其他": 125,
+    "体育": 77,
     "科技/AI": 10,
-    "娱乐/生活": 2,
+    "娱乐/生活": 3,
     "金融/商业": 2
   },
   "insights": []

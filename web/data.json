@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-09-16 17:23:08",
+  "last_updated": "2026-09-16 21:44:23",
   "trends": [
     {
       "keyword": "iphone duo",
-      "score": 62000000,
+      "score": 61000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-15 21:48:08"
     },
     {
       "keyword": "iphone 18",
-      "score": 31000000,
+      "score": 30500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-14 13:29:11"
@@ -23,8 +23,15 @@
       "timestamp": "2026-09-12 20:57:58"
     },
     {
+      "keyword": "how do i register to vote",
+      "score": 16000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-09-16 21:44:22"
+    },
+    {
       "keyword": "elizabeth holmes",
-      "score": 17000000,
+      "score": 16000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-13 21:08:08"
@@ -38,17 +45,17 @@
     },
     {
       "keyword": "patriots vs seahawks",
-      "score": 13200000,
+      "score": 13000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-09-11 21:32:02"
     },
     {
-      "keyword": "how do i register to vote",
-      "score": 11000000,
-      "traffic_numeric": 5000000,
+      "keyword": "sydney sweeney sports ad",
+      "score": 10200000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-16 17:23:08"
+      "timestamp": "2026-09-16 21:44:22"
     },
     {
       "keyword": "ohio state vs texas",
@@ -63,13 +70,6 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-09-15 12:16:25"
-    },
-    {
-      "keyword": "sydney sweeney sports ad",
-      "score": 9200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-16 17:23:08"
     },
     {
       "keyword": "9/11",
@@ -87,17 +87,17 @@
     },
     {
       "keyword": "widows bay",
-      "score": 5700000,
+      "score": 6700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-16 17:23:08"
+      "timestamp": "2026-09-16 21:44:22"
     },
     {
       "keyword": "bloodhound q50",
-      "score": 5700000,
+      "score": 6200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-16 17:23:08"
+      "timestamp": "2026-09-16 21:44:22"
     },
     {
       "keyword": "saints vs lions",
@@ -114,6 +114,13 @@
       "timestamp": "2026-09-14 22:10:01"
     },
     {
+      "keyword": "chiefs",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-15 17:17:52"
+    },
+    {
       "keyword": "kansas city chiefs",
       "score": 4000000,
       "traffic_numeric": 2000000,
@@ -126,13 +133,6 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-09-14 13:29:11"
-    },
-    {
-      "keyword": "chiefs",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-15 17:17:52"
     },
     {
       "keyword": "bears vs panthers",
@@ -156,20 +156,6 @@
       "timestamp": "2026-09-14 22:10:01"
     },
     {
-      "keyword": "lil durk trial update",
-      "score": 3350000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-09-12 20:57:58"
-    },
-    {
-      "keyword": "aj brown",
-      "score": 3300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-12 11:24:47"
-    },
-    {
       "keyword": "country musician brian duckworth passes",
       "score": 3300000,
       "traffic_numeric": 500000,
@@ -177,11 +163,25 @@
       "timestamp": "2026-09-12 11:24:47"
     },
     {
+      "keyword": "lil durk trial update",
+      "score": 3300000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-09-12 20:57:58"
+    },
+    {
       "keyword": "nintendo",
       "score": 3300000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-14 22:10:01"
+    },
+    {
+      "keyword": "aj brown",
+      "score": 3300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-12 11:24:47"
     },
     {
       "keyword": "oklahoma vs michigan",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 114,
-    "体育": 75,
+    "其他": 111,
+    "体育": 71,
     "科技/AI": 8,
     "娱乐/生活": 3,
     "金融/商业": 1

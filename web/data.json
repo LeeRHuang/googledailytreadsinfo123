@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16 21:44:23",
+  "last_updated": "2026-09-17 05:28:00",
   "trends": [
     {
       "keyword": "iphone duo",
@@ -24,10 +24,10 @@
     },
     {
       "keyword": "how do i register to vote",
-      "score": 16000000,
+      "score": 21000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-09-16 21:44:22"
+      "timestamp": "2026-09-17 05:27:59"
     },
     {
       "keyword": "elizabeth holmes",
@@ -72,6 +72,13 @@
       "timestamp": "2026-09-15 12:16:25"
     },
     {
+      "keyword": "widows bay",
+      "score": 7700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-17 05:27:59"
+    },
+    {
       "keyword": "9/11",
       "score": 7600000,
       "traffic_numeric": 1000000,
@@ -79,25 +86,18 @@
       "timestamp": "2026-09-14 13:29:11"
     },
     {
+      "keyword": "bloodhound q50",
+      "score": 7200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-17 05:27:59"
+    },
+    {
       "keyword": "broncos vs chiefs",
       "score": 7000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-09-16 12:09:59"
-    },
-    {
-      "keyword": "widows bay",
-      "score": 6700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-16 21:44:22"
-    },
-    {
-      "keyword": "bloodhound q50",
-      "score": 6200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-16 21:44:22"
     },
     {
       "keyword": "saints vs lions",
@@ -114,13 +114,6 @@
       "timestamp": "2026-09-14 22:10:01"
     },
     {
-      "keyword": "chiefs",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-15 17:17:52"
-    },
-    {
       "keyword": "kansas city chiefs",
       "score": 4000000,
       "traffic_numeric": 2000000,
@@ -135,8 +128,29 @@
       "timestamp": "2026-09-14 13:29:11"
     },
     {
+      "keyword": "chiefs",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-15 17:17:52"
+    },
+    {
+      "keyword": "ed sheeran",
+      "score": 3700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-17 05:27:59"
+    },
+    {
       "keyword": "bears vs panthers",
       "score": 3600000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 22:10:01"
+    },
+    {
+      "keyword": "packers vs vikings",
+      "score": 3500000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-09-14 22:10:01"
@@ -149,11 +163,11 @@
       "timestamp": "2026-09-15 21:48:08"
     },
     {
-      "keyword": "packers vs vikings",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-14 22:10:01"
+      "keyword": "aj brown",
+      "score": 3300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-12 11:24:47"
     },
     {
       "keyword": "country musician brian duckworth passes",
@@ -177,11 +191,11 @@
       "timestamp": "2026-09-14 22:10:01"
     },
     {
-      "keyword": "aj brown",
-      "score": 3300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-12 11:24:47"
+      "keyword": "bills vs texans",
+      "score": 3050000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 13:29:11"
     },
     {
       "keyword": "oklahoma vs michigan",
@@ -191,30 +205,16 @@
       "timestamp": "2026-09-13 12:22:47"
     },
     {
-      "keyword": "bills vs texans",
-      "score": 3050000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-14 13:29:11"
-    },
-    {
       "keyword": "ios 27 release date",
       "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-15 12:16:25"
-    },
-    {
-      "keyword": "ryan garcia",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-13 16:43:59"
     }
   ],
   "category_stats": {
-    "其他": 111,
-    "体育": 71,
+    "其他": 116,
+    "体育": 73,
     "科技/AI": 8,
     "娱乐/生活": 3,
     "金融/商业": 1

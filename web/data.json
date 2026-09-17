@@ -1,19 +1,26 @@
 {
-  "last_updated": "2026-09-17 05:28:00",
+  "last_updated": "2026-09-17 12:08:17",
   "trends": [
     {
       "keyword": "iphone duo",
-      "score": 61000000,
+      "score": 57000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-15 21:48:08"
     },
     {
       "keyword": "iphone 18",
-      "score": 30500000,
+      "score": 29000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-14 13:29:11"
+    },
+    {
+      "keyword": "how do i register to vote",
+      "score": 26000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-09-17 12:08:17"
     },
     {
       "keyword": "49ers vs rams",
@@ -23,32 +30,18 @@
       "timestamp": "2026-09-12 20:57:58"
     },
     {
-      "keyword": "how do i register to vote",
-      "score": 21000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-09-17 05:27:59"
-    },
-    {
       "keyword": "elizabeth holmes",
-      "score": 16000000,
+      "score": 14000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-13 21:08:08"
     },
     {
       "keyword": "sam darnold",
-      "score": 13500000,
+      "score": 10500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-14 22:10:01"
-    },
-    {
-      "keyword": "patriots vs seahawks",
-      "score": 13000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-11 21:32:02"
     },
     {
       "keyword": "sydney sweeney sports ad",
@@ -72,11 +65,25 @@
       "timestamp": "2026-09-15 12:16:25"
     },
     {
+      "keyword": "patriots vs seahawks",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-11 21:32:02"
+    },
+    {
       "keyword": "widows bay",
-      "score": 7700000,
+      "score": 8700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-17 05:27:59"
+      "timestamp": "2026-09-17 12:08:17"
+    },
+    {
+      "keyword": "bloodhound q50",
+      "score": 8200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-17 12:08:17"
     },
     {
       "keyword": "9/11",
@@ -84,13 +91,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-14 13:29:11"
-    },
-    {
-      "keyword": "bloodhound q50",
-      "score": 7200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-17 05:27:59"
     },
     {
       "keyword": "broncos vs chiefs",
@@ -105,6 +105,13 @@
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-09-15 12:16:25"
+    },
+    {
+      "keyword": "ed sheeran",
+      "score": 4700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-17 12:08:17"
     },
     {
       "keyword": "lady gaga",
@@ -135,13 +142,6 @@
       "timestamp": "2026-09-15 17:17:52"
     },
     {
-      "keyword": "ed sheeran",
-      "score": 3700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-17 05:27:59"
-    },
-    {
       "keyword": "bears vs panthers",
       "score": 3600000,
       "traffic_numeric": 1000000,
@@ -163,13 +163,6 @@
       "timestamp": "2026-09-15 21:48:08"
     },
     {
-      "keyword": "aj brown",
-      "score": 3300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-12 11:24:47"
-    },
-    {
       "keyword": "country musician brian duckworth passes",
       "score": 3300000,
       "traffic_numeric": 500000,
@@ -178,14 +171,14 @@
     },
     {
       "keyword": "lil durk trial update",
-      "score": 3300000,
+      "score": 3200000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-09-12 20:57:58"
     },
     {
       "keyword": "nintendo",
-      "score": 3300000,
+      "score": 3100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-14 22:10:01"
@@ -210,14 +203,21 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-15 12:16:25"
+    },
+    {
+      "keyword": "dancing with the stars",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-09-17 12:08:17"
     }
   ],
   "category_stats": {
-    "其他": 116,
-    "体育": 73,
-    "科技/AI": 8,
+    "其他": 111,
+    "体育": 71,
+    "科技/AI": 9,
     "娱乐/生活": 3,
-    "金融/商业": 1
+    "金融/商业": 2
   },
   "insights": []
 }

@@ -1,47 +1,40 @@
 {
-  "last_updated": "2026-09-18 05:22:23",
+  "last_updated": "2026-09-18 11:59:09",
   "trends": [
     {
       "keyword": "iphone duo",
-      "score": 51000000,
+      "score": 49000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-15 21:48:08"
     },
     {
       "keyword": "how do i register to vote",
-      "score": 41000000,
+      "score": 46000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-09-18 05:22:23"
+      "timestamp": "2026-09-18 11:59:09"
     },
     {
       "keyword": "iphone 18",
-      "score": 24000000,
+      "score": 22000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-14 13:29:11"
     },
     {
+      "keyword": "bloodhound q50",
+      "score": 12200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-18 11:59:09"
+    },
+    {
       "keyword": "49ers vs rams",
-      "score": 17000000,
+      "score": 12000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-09-12 20:57:58"
-    },
-    {
-      "keyword": "bloodhound q50",
-      "score": 11200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-18 05:22:23"
-    },
-    {
-      "keyword": "elizabeth holmes",
-      "score": 11000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-13 21:08:08"
     },
     {
       "keyword": "widows bay",
@@ -72,25 +65,32 @@
       "timestamp": "2026-09-15 12:16:25"
     },
     {
-      "keyword": "ed sheeran",
-      "score": 7700000,
+      "keyword": "elizabeth holmes",
+      "score": 10000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-18 05:22:23"
+      "timestamp": "2026-09-13 21:08:08"
     },
     {
-      "keyword": "sam darnold",
-      "score": 7500000,
+      "keyword": "ed sheeran",
+      "score": 8700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-14 22:10:01"
+      "timestamp": "2026-09-18 11:59:09"
     },
     {
       "keyword": "9/11",
-      "score": 7400000,
+      "score": 7200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-14 13:29:11"
+    },
+    {
+      "keyword": "sam darnold",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-14 22:10:01"
     },
     {
       "keyword": "broncos vs chiefs",
@@ -114,25 +114,18 @@
       "timestamp": "2026-09-14 22:10:01"
     },
     {
-      "keyword": "kansas city chiefs",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-16 17:23:08"
-    },
-    {
-      "keyword": "patriots vs seahawks",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-11 21:32:02"
-    },
-    {
       "keyword": "chiefs",
       "score": 4000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-15 17:17:52"
+    },
+    {
+      "keyword": "kansas city chiefs",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-16 17:23:08"
     },
     {
       "keyword": "falcons vs steelers",
@@ -149,6 +142,13 @@
       "timestamp": "2026-09-14 22:10:01"
     },
     {
+      "keyword": "packers vs vikings",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 22:10:01"
+    },
+    {
       "keyword": "country musician brian duckworth",
       "score": 3500000,
       "traffic_numeric": 500000,
@@ -156,11 +156,11 @@
       "timestamp": "2026-09-15 21:48:08"
     },
     {
-      "keyword": "packers vs vikings",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-14 22:10:01"
+      "keyword": "wow forever",
+      "score": 3100000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-18 11:59:09"
     },
     {
       "keyword": "bills vs texans",
@@ -177,11 +177,11 @@
       "timestamp": "2026-09-13 12:22:47"
     },
     {
-      "keyword": "dancing with the stars",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-09-17 12:08:17"
+      "keyword": "lions vs bills",
+      "score": 3050000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-18 11:59:09"
     },
     {
       "keyword": "ios 27 release date",
@@ -198,11 +198,11 @@
       "timestamp": "2026-09-13 16:43:59"
     },
     {
-      "keyword": "wow forever",
-      "score": 2900000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-18 05:22:23"
+      "keyword": "dancing with the stars",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-09-17 12:08:17"
     },
     {
       "keyword": "nintendo",
@@ -213,8 +213,8 @@
     }
   ],
   "category_stats": {
-    "其他": 117,
-    "体育": 69,
+    "其他": 115,
+    "体育": 68,
     "科技/AI": 9,
     "娱乐/生活": 5,
     "金融/商业": 2

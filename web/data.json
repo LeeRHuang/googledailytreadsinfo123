@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-09-18 11:59:09",
+  "last_updated": "2026-09-18 16:47:48",
   "trends": [
+    {
+      "keyword": "how do i register to vote",
+      "score": 51000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-09-18 16:47:48"
+    },
     {
       "keyword": "iphone duo",
       "score": 49000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-15 21:48:08"
-    },
-    {
-      "keyword": "how do i register to vote",
-      "score": 46000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-09-18 11:59:09"
     },
     {
       "keyword": "iphone 18",
@@ -73,10 +73,10 @@
     },
     {
       "keyword": "ed sheeran",
-      "score": 8700000,
+      "score": 9700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-18 11:59:09"
+      "timestamp": "2026-09-18 16:47:48"
     },
     {
       "keyword": "9/11",
@@ -107,6 +107,13 @@
       "timestamp": "2026-09-15 12:16:25"
     },
     {
+      "keyword": "lions vs bills",
+      "score": 5050000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-18 16:47:48"
+    },
+    {
       "keyword": "lady gaga",
       "score": 4100000,
       "traffic_numeric": 500000,
@@ -121,13 +128,6 @@
       "timestamp": "2026-09-15 17:17:52"
     },
     {
-      "keyword": "kansas city chiefs",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-16 17:23:08"
-    },
-    {
       "keyword": "falcons vs steelers",
       "score": 4000000,
       "traffic_numeric": 2000000,
@@ -135,15 +135,15 @@
       "timestamp": "2026-09-14 13:29:11"
     },
     {
-      "keyword": "bears vs panthers",
-      "score": 3600000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-14 22:10:01"
+      "keyword": "kansas city chiefs",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-16 17:23:08"
     },
     {
-      "keyword": "packers vs vikings",
-      "score": 3500000,
+      "keyword": "bears vs panthers",
+      "score": 3600000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-09-14 22:10:01"
@@ -156,18 +156,18 @@
       "timestamp": "2026-09-15 21:48:08"
     },
     {
-      "keyword": "wow forever",
-      "score": 3100000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-18 11:59:09"
-    },
-    {
-      "keyword": "bills vs texans",
-      "score": 3050000,
+      "keyword": "packers vs vikings",
+      "score": 3500000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-09-14 13:29:11"
+      "timestamp": "2026-09-14 22:10:01"
+    },
+    {
+      "keyword": "wow forever",
+      "score": 3300000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-18 16:47:48"
     },
     {
       "keyword": "oklahoma vs michigan",
@@ -177,18 +177,18 @@
       "timestamp": "2026-09-13 12:22:47"
     },
     {
-      "keyword": "lions vs bills",
+      "keyword": "bills vs texans",
       "score": 3050000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-09-18 11:59:09"
+      "timestamp": "2026-09-14 13:29:11"
     },
     {
-      "keyword": "ios 27 release date",
+      "keyword": "dancing with the stars",
       "score": 3000000,
       "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-15 12:16:25"
+      "category": "娱乐/生活",
+      "timestamp": "2026-09-17 12:08:17"
     },
     {
       "keyword": "ryan garcia",
@@ -198,11 +198,11 @@
       "timestamp": "2026-09-13 16:43:59"
     },
     {
-      "keyword": "dancing with the stars",
+      "keyword": "ios 27 release date",
       "score": 3000000,
       "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-09-17 12:08:17"
+      "category": "其他",
+      "timestamp": "2026-09-15 12:16:25"
     },
     {
       "keyword": "nintendo",
@@ -213,9 +213,9 @@
     }
   ],
   "category_stats": {
-    "其他": 115,
+    "其他": 122,
     "体育": 68,
-    "科技/AI": 9,
+    "科技/AI": 12,
     "娱乐/生活": 5,
     "金融/商业": 2
   },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19 16:06:13",
+  "last_updated": "2026-09-19 21:12:46",
   "trends": [
     {
       "keyword": "how do i register to vote",
@@ -10,10 +10,17 @@
     },
     {
       "keyword": "iphone duo",
-      "score": 36000000,
+      "score": 34000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-15 21:48:08"
+    },
+    {
+      "keyword": "ed sheeran",
+      "score": 14700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-19 21:12:46"
     },
     {
       "keyword": "bloodhound q50",
@@ -21,20 +28,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-19 05:13:21"
-    },
-    {
-      "keyword": "ed sheeran",
-      "score": 13700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-19 16:06:13"
-    },
-    {
-      "keyword": "iphone 18",
-      "score": 12000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-14 13:29:11"
     },
     {
       "keyword": "widows bay",
@@ -51,18 +44,25 @@
       "timestamp": "2026-09-16 21:44:22"
     },
     {
-      "keyword": "ohio state vs texas",
-      "score": 10100000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-14 13:29:11"
-    },
-    {
       "keyword": "cowboys vs giants",
       "score": 10000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-09-15 12:16:25"
+    },
+    {
+      "keyword": "ohio state vs texas",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 13:29:11"
+    },
+    {
+      "keyword": "iphone 18",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-14 13:29:11"
     },
     {
       "keyword": "lions vs bills",
@@ -86,32 +86,11 @@
       "timestamp": "2026-09-15 12:16:25"
     },
     {
-      "keyword": "elizabeth holmes",
+      "keyword": "lizzie borden",
       "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-13 21:08:08"
-    },
-    {
-      "keyword": "falcons vs steelers",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-14 13:29:11"
-    },
-    {
-      "keyword": "chiefs",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-15 17:17:52"
-    },
-    {
-      "keyword": "sam darnold",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-14 22:10:01"
+      "timestamp": "2026-09-19 21:12:46"
     },
     {
       "keyword": "kansas city chiefs",
@@ -121,11 +100,25 @@
       "timestamp": "2026-09-16 17:23:08"
     },
     {
-      "keyword": "lizzie borden",
+      "keyword": "falcons vs steelers",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 13:29:11"
+    },
+    {
+      "keyword": "elizabeth holmes",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-19 16:06:13"
+      "timestamp": "2026-09-13 21:08:08"
+    },
+    {
+      "keyword": "chiefs",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-15 17:17:52"
     },
     {
       "keyword": "wow forever",
@@ -142,25 +135,11 @@
       "timestamp": "2026-09-14 22:10:01"
     },
     {
-      "keyword": "packers vs vikings",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-14 22:10:01"
-    },
-    {
-      "keyword": "lady gaga",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-14 22:10:01"
-    },
-    {
-      "keyword": "9/11",
+      "keyword": "sam darnold",
       "score": 3500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-14 13:29:11"
+      "timestamp": "2026-09-14 22:10:01"
     },
     {
       "keyword": "country musician brian duckworth",
@@ -170,6 +149,20 @@
       "timestamp": "2026-09-15 21:48:08"
     },
     {
+      "keyword": "packers vs vikings",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 22:10:01"
+    },
+    {
+      "keyword": "resident evil movie",
+      "score": 3400000,
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-09-19 21:12:46"
+    },
+    {
       "keyword": "bills vs texans",
       "score": 3050000,
       "traffic_numeric": 1000000,
@@ -177,11 +170,11 @@
       "timestamp": "2026-09-14 13:29:11"
     },
     {
-      "keyword": "oklahoma vs michigan",
+      "keyword": "lady gaga",
       "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-13 12:22:47"
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-14 22:10:01"
     },
     {
       "keyword": "ios 27 release date",
@@ -198,6 +191,13 @@
       "timestamp": "2026-09-17 12:08:17"
     },
     {
+      "keyword": "9/11",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-14 13:29:11"
+    },
+    {
       "keyword": "ryan garcia",
       "score": 3000000,
       "traffic_numeric": 1000000,
@@ -205,17 +205,17 @@
       "timestamp": "2026-09-13 16:43:59"
     },
     {
-      "keyword": "resident evil movie",
-      "score": 2900000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-09-19 16:06:13"
+      "keyword": "mitch mcconnell",
+      "score": 2850000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-18 11:59:09"
     }
   ],
   "category_stats": {
-    "其他": 119,
-    "体育": 69,
-    "科技/AI": 12,
+    "其他": 120,
+    "体育": 62,
+    "科技/AI": 11,
     "娱乐/生活": 5,
     "金融/商业": 1
   },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18 21:25:10",
+  "last_updated": "2026-09-19 05:13:21",
   "trends": [
     {
       "keyword": "how do i register to vote",
@@ -10,24 +10,31 @@
     },
     {
       "keyword": "iphone duo",
-      "score": 47000000,
+      "score": 45000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-15 21:48:08"
     },
     {
       "keyword": "iphone 18",
-      "score": 20000000,
+      "score": 18000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-14 13:29:11"
     },
     {
       "keyword": "bloodhound q50",
-      "score": 13200000,
+      "score": 14200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-18 21:25:10"
+      "timestamp": "2026-09-19 05:13:21"
+    },
+    {
+      "keyword": "ed sheeran",
+      "score": 11700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-19 05:13:21"
     },
     {
       "keyword": "widows bay",
@@ -35,13 +42,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-18 05:22:23"
-    },
-    {
-      "keyword": "ed sheeran",
-      "score": 10700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-18 21:25:10"
     },
     {
       "keyword": "sydney sweeney sports ad",
@@ -66,7 +66,7 @@
     },
     {
       "keyword": "elizabeth holmes",
-      "score": 9000000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-13 21:08:08"
@@ -79,13 +79,6 @@
       "timestamp": "2026-09-18 21:25:10"
     },
     {
-      "keyword": "49ers vs rams",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-12 20:57:58"
-    },
-    {
       "keyword": "broncos vs chiefs",
       "score": 7000000,
       "traffic_numeric": 2000000,
@@ -94,14 +87,21 @@
     },
     {
       "keyword": "9/11",
-      "score": 6700000,
+      "score": 6500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-14 13:29:11"
     },
     {
+      "keyword": "49ers vs rams",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-12 20:57:58"
+    },
+    {
       "keyword": "sam darnold",
-      "score": 6500000,
+      "score": 5500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-14 22:10:01"
@@ -121,18 +121,18 @@
       "timestamp": "2026-09-14 22:10:01"
     },
     {
-      "keyword": "kansas city chiefs",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-16 17:23:08"
-    },
-    {
       "keyword": "chiefs",
       "score": 4000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-15 17:17:52"
+    },
+    {
+      "keyword": "kansas city chiefs",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-16 17:23:08"
     },
     {
       "keyword": "falcons vs steelers",
@@ -149,6 +149,13 @@
       "timestamp": "2026-09-14 22:10:01"
     },
     {
+      "keyword": "wow forever",
+      "score": 3500000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-18 21:25:10"
+    },
+    {
       "keyword": "packers vs vikings",
       "score": 3500000,
       "traffic_numeric": 1000000,
@@ -163,11 +170,11 @@
       "timestamp": "2026-09-15 21:48:08"
     },
     {
-      "keyword": "wow forever",
-      "score": 3500000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-18 21:25:10"
+      "keyword": "bills vs texans",
+      "score": 3050000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 13:29:11"
     },
     {
       "keyword": "oklahoma vs michigan",
@@ -175,13 +182,6 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-09-13 12:22:47"
-    },
-    {
-      "keyword": "bills vs texans",
-      "score": 3050000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-14 13:29:11"
     },
     {
       "keyword": "ryan garcia",
@@ -213,9 +213,9 @@
     }
   ],
   "category_stats": {
-    "其他": 120,
-    "体育": 70,
-    "科技/AI": 11,
+    "其他": 118,
+    "体育": 75,
+    "科技/AI": 12,
     "娱乐/生活": 5,
     "金融/商业": 2
   },

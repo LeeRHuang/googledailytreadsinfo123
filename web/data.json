@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-09-19 21:12:46",
+  "last_updated": "2026-09-20 05:28:52",
   "trends": [
     {
       "keyword": "how do i register to vote",
-      "score": 66000000,
+      "score": 71000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-09-19 16:06:13"
+      "timestamp": "2026-09-20 05:28:52"
     },
     {
       "keyword": "iphone duo",
-      "score": 34000000,
+      "score": 29000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-15 21:48:08"
     },
     {
       "keyword": "ed sheeran",
-      "score": 14700000,
+      "score": 15700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-19 21:12:46"
+      "timestamp": "2026-09-20 05:28:52"
     },
     {
       "keyword": "bloodhound q50",
@@ -38,7 +38,7 @@
     },
     {
       "keyword": "sydney sweeney sports ad",
-      "score": 10100000,
+      "score": 10000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-16 21:44:22"
@@ -51,25 +51,25 @@
       "timestamp": "2026-09-15 12:16:25"
     },
     {
+      "keyword": "lions vs bills",
+      "score": 9050000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-19 11:37:57"
+    },
+    {
       "keyword": "ohio state vs texas",
-      "score": 10000000,
+      "score": 8000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-09-14 13:29:11"
     },
     {
       "keyword": "iphone 18",
-      "score": 10000000,
+      "score": 8000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-14 13:29:11"
-    },
-    {
-      "keyword": "lions vs bills",
-      "score": 9050000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-19 11:37:57"
     },
     {
       "keyword": "broncos vs chiefs",
@@ -79,25 +79,18 @@
       "timestamp": "2026-09-16 12:09:59"
     },
     {
+      "keyword": "lizzie borden",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-20 05:28:52"
+    },
+    {
       "keyword": "saints vs lions",
       "score": 5100000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-09-15 12:16:25"
-    },
-    {
-      "keyword": "lizzie borden",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-19 21:12:46"
-    },
-    {
-      "keyword": "kansas city chiefs",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-16 17:23:08"
     },
     {
       "keyword": "falcons vs steelers",
@@ -107,13 +100,6 @@
       "timestamp": "2026-09-14 13:29:11"
     },
     {
-      "keyword": "elizabeth holmes",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-13 21:08:08"
-    },
-    {
       "keyword": "chiefs",
       "score": 4000000,
       "traffic_numeric": 2000000,
@@ -121,8 +107,22 @@
       "timestamp": "2026-09-15 17:17:52"
     },
     {
+      "keyword": "kansas city chiefs",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-16 17:23:08"
+    },
+    {
+      "keyword": "resident evil movie",
+      "score": 3900000,
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-09-20 05:28:52"
+    },
+    {
       "keyword": "wow forever",
-      "score": 3700000,
+      "score": 3600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-19 16:06:13"
@@ -142,13 +142,6 @@
       "timestamp": "2026-09-14 22:10:01"
     },
     {
-      "keyword": "country musician brian duckworth",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-15 21:48:08"
-    },
-    {
       "keyword": "packers vs vikings",
       "score": 3500000,
       "traffic_numeric": 1000000,
@@ -156,11 +149,11 @@
       "timestamp": "2026-09-14 22:10:01"
     },
     {
-      "keyword": "resident evil movie",
-      "score": 3400000,
+      "keyword": "country musician brian duckworth",
+      "score": 3500000,
       "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-09-19 21:12:46"
+      "category": "其他",
+      "timestamp": "2026-09-15 21:48:08"
     },
     {
       "keyword": "bills vs texans",
@@ -170,11 +163,11 @@
       "timestamp": "2026-09-14 13:29:11"
     },
     {
-      "keyword": "lady gaga",
+      "keyword": "dancing with the stars",
       "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-14 22:10:01"
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-09-17 12:08:17"
     },
     {
       "keyword": "ios 27 release date",
@@ -184,25 +177,11 @@
       "timestamp": "2026-09-15 12:16:25"
     },
     {
-      "keyword": "dancing with the stars",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-09-17 12:08:17"
-    },
-    {
-      "keyword": "9/11",
+      "keyword": "elizabeth holmes",
       "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-14 13:29:11"
-    },
-    {
-      "keyword": "ryan garcia",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-13 16:43:59"
+      "timestamp": "2026-09-13 21:08:08"
     },
     {
       "keyword": "mitch mcconnell",
@@ -210,13 +189,34 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-18 11:59:09"
+    },
+    {
+      "keyword": "lady gaga",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-14 22:10:01"
+    },
+    {
+      "keyword": "income",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-14 13:29:11"
+    },
+    {
+      "keyword": "commanders vs eagles",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 13:29:11"
     }
   ],
   "category_stats": {
-    "其他": 120,
-    "体育": 62,
+    "其他": 123,
+    "体育": 64,
     "科技/AI": 11,
-    "娱乐/生活": 5,
+    "娱乐/生活": 6,
     "金融/商业": 1
   },
   "insights": []

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20 16:43:24",
+  "last_updated": "2026-09-20 21:13:10",
   "trends": [
     {
       "keyword": "how do i register to vote",
@@ -9,22 +9,22 @@
       "timestamp": "2026-09-20 16:43:24"
     },
     {
+      "keyword": "ed sheeran",
+      "score": 18700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-20 21:13:10"
+    },
+    {
       "keyword": "iphone duo",
-      "score": 27000000,
+      "score": 17000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-15 21:48:08"
     },
     {
-      "keyword": "ed sheeran",
-      "score": 17700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-20 16:43:24"
-    },
-    {
       "keyword": "bloodhound q50",
-      "score": 14200000,
+      "score": 13500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-19 05:13:21"
@@ -45,7 +45,7 @@
     },
     {
       "keyword": "sydney sweeney sports ad",
-      "score": 9900000,
+      "score": 9500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-16 21:44:22"
@@ -59,10 +59,10 @@
     },
     {
       "keyword": "lizzie borden",
-      "score": 8000000,
+      "score": 9000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-20 16:43:24"
+      "timestamp": "2026-09-20 21:13:10"
     },
     {
       "keyword": "broncos vs chiefs",
@@ -72,46 +72,11 @@
       "timestamp": "2026-09-16 12:09:59"
     },
     {
-      "keyword": "iphone 18",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-14 13:29:11"
-    },
-    {
-      "keyword": "ohio state vs texas",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-14 13:29:11"
-    },
-    {
-      "keyword": "saints vs lions",
-      "score": 5100000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-09-15 12:16:25"
-    },
-    {
       "keyword": "resident evil movie",
-      "score": 4900000,
+      "score": 5400000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
-      "timestamp": "2026-09-20 16:43:24"
-    },
-    {
-      "keyword": "chiefs",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-15 17:17:52"
-    },
-    {
-      "keyword": "falcons vs steelers",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-14 13:29:11"
+      "timestamp": "2026-09-20 21:13:10"
     },
     {
       "keyword": "kansas city chiefs",
@@ -121,11 +86,18 @@
       "timestamp": "2026-09-16 17:23:08"
     },
     {
-      "keyword": "bears vs panthers",
-      "score": 3600000,
+      "keyword": "chiefs",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-15 17:17:52"
+    },
+    {
+      "keyword": "saints vs lions",
+      "score": 4000000,
       "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-14 22:10:01"
+      "category": "科技/AI",
+      "timestamp": "2026-09-15 12:16:25"
     },
     {
       "keyword": "country musician brian duckworth",
@@ -136,31 +108,10 @@
     },
     {
       "keyword": "wow forever",
-      "score": 3500000,
+      "score": 3400000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-19 16:06:13"
-    },
-    {
-      "keyword": "packers vs vikings",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-14 22:10:01"
-    },
-    {
-      "keyword": "sam darnold",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-14 22:10:01"
-    },
-    {
-      "keyword": "bills vs texans",
-      "score": 3050000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-14 13:29:11"
     },
     {
       "keyword": "dancing with the stars",
@@ -177,18 +128,25 @@
       "timestamp": "2026-09-15 12:16:25"
     },
     {
+      "keyword": "packers vs vikings",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 22:10:01"
+    },
+    {
+      "keyword": "bears vs panthers",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 22:10:01"
+    },
+    {
       "keyword": "mitch mcconnell",
       "score": 2850000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-18 11:59:09"
-    },
-    {
-      "keyword": "commanders vs eagles",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-14 13:29:11"
     },
     {
       "keyword": "kyler murray",
@@ -205,16 +163,58 @@
       "timestamp": "2026-09-16 21:44:22"
     },
     {
-      "keyword": "elizabeth holmes",
+      "keyword": "lsu vs ole miss",
+      "score": 2090000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-09-20 21:13:10"
+    },
+    {
+      "keyword": "bills vs texans",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 13:29:11"
+    },
+    {
+      "keyword": "falcons vs steelers",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 13:29:11"
+    },
+    {
+      "keyword": "commanders vs eagles",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 13:29:11"
+    },
+    {
+      "keyword": "bears game",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-09-20 21:13:10"
+    },
+    {
+      "keyword": "sam darnold",
       "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-13 21:08:08"
+      "timestamp": "2026-09-14 22:10:01"
+    },
+    {
+      "keyword": "ohio state vs texas",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-14 13:29:11"
     }
   ],
   "category_stats": {
-    "其他": 132,
-    "体育": 61,
+    "其他": 134,
+    "体育": 57,
     "科技/AI": 9,
     "娱乐/生活": 7,
     "金融/商业": 2

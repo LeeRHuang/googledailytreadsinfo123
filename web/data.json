@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-09-21 05:41:48",
+  "last_updated": "2026-09-21 13:27:19",
   "trends": [
     {
       "keyword": "how do i register to vote",
-      "score": 81000000,
+      "score": 86000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-09-20 16:43:24"
+      "timestamp": "2026-09-21 13:27:19"
     },
     {
       "keyword": "ed sheeran",
-      "score": 19700000,
+      "score": 20700000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-21 05:41:48"
+      "timestamp": "2026-09-21 13:27:19"
     },
     {
       "keyword": "bloodhound q50",
@@ -30,18 +30,18 @@
       "timestamp": "2026-09-15 21:48:08"
     },
     {
+      "keyword": "lizzie borden",
+      "score": 11000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-21 13:27:19"
+    },
+    {
       "keyword": "widows bay",
       "score": 10700000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-18 05:22:23"
-    },
-    {
-      "keyword": "lizzie borden",
-      "score": 10000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-21 05:41:48"
     },
     {
       "keyword": "lions vs bills",
@@ -79,18 +79,18 @@
       "timestamp": "2026-09-21 05:41:48"
     },
     {
-      "keyword": "kansas city chiefs",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-16 17:23:08"
-    },
-    {
       "keyword": "chiefs",
       "score": 4000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-09-15 17:17:52"
+    },
+    {
+      "keyword": "kansas city chiefs",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-16 17:23:08"
     },
     {
       "keyword": "wow forever",
@@ -100,18 +100,18 @@
       "timestamp": "2026-09-19 16:06:13"
     },
     {
+      "keyword": "dancing with the stars",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-09-17 12:08:17"
+    },
+    {
       "keyword": "country musician brian duckworth",
       "score": 3000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-15 21:48:08"
-    },
-    {
-      "keyword": "saints vs lions",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-09-15 12:16:25"
     },
     {
       "keyword": "ios 27 release date",
@@ -121,11 +121,11 @@
       "timestamp": "2026-09-15 12:16:25"
     },
     {
-      "keyword": "dancing with the stars",
+      "keyword": "saints vs lions",
       "score": 3000000,
       "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-09-17 12:08:17"
+      "category": "科技/AI",
+      "timestamp": "2026-09-15 12:16:25"
     },
     {
       "keyword": "mitch mcconnell",
@@ -142,18 +142,18 @@
       "timestamp": "2026-09-16 12:09:59"
     },
     {
-      "keyword": "social security cola 2027 forecast",
-      "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-16 21:44:22"
-    },
-    {
       "keyword": "duncan sheik",
       "score": 2100000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-21 05:41:48"
+    },
+    {
+      "keyword": "social security cola 2027 forecast",
+      "score": 2100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-16 21:44:22"
     },
     {
       "keyword": "lsu vs ole miss",
@@ -170,11 +170,11 @@
       "timestamp": "2026-09-14 13:29:11"
     },
     {
-      "keyword": "bears game",
+      "keyword": "ohio state vs texas",
       "score": 2000000,
       "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-09-20 21:13:10"
+      "category": "体育",
+      "timestamp": "2026-09-14 13:29:11"
     },
     {
       "keyword": "bears vs panthers",
@@ -184,18 +184,18 @@
       "timestamp": "2026-09-14 22:10:01"
     },
     {
+      "keyword": "bears game",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-09-20 21:13:10"
+    },
+    {
       "keyword": "packers vs vikings",
       "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-09-14 22:10:01"
-    },
-    {
-      "keyword": "ohio state vs texas",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-14 13:29:11"
     },
     {
       "keyword": "bob mackie",
@@ -213,9 +213,9 @@
     }
   ],
   "category_stats": {
-    "其他": 140,
+    "其他": 144,
     "体育": 56,
-    "科技/AI": 9,
+    "科技/AI": 10,
     "娱乐/生活": 7,
     "金融/商业": 2
   },

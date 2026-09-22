@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21 22:20:23",
+  "last_updated": "2026-09-22 05:36:51",
   "trends": [
     {
       "keyword": "how do i register to vote",
@@ -17,21 +17,21 @@
     },
     {
       "keyword": "lizzie borden",
-      "score": 12000000,
+      "score": 13000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-21 22:20:23"
+      "timestamp": "2026-09-22 05:36:51"
     },
     {
       "keyword": "bloodhound q50",
-      "score": 12000000,
+      "score": 11500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-19 05:13:21"
     },
     {
       "keyword": "widows bay",
-      "score": 10700000,
+      "score": 10500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-18 05:22:23"
@@ -44,25 +44,18 @@
       "timestamp": "2026-09-19 11:37:57"
     },
     {
-      "keyword": "iphone duo",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-15 21:48:08"
-    },
-    {
       "keyword": "sydney sweeney sports ad",
-      "score": 8000000,
+      "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-16 21:44:22"
     },
     {
-      "keyword": "broncos vs chiefs",
-      "score": 7000000,
+      "keyword": "iphone duo",
+      "score": 6000000,
       "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-16 12:09:59"
+      "category": "其他",
+      "timestamp": "2026-09-15 21:48:08"
     },
     {
       "keyword": "resident evil movie",
@@ -72,11 +65,11 @@
       "timestamp": "2026-09-21 05:41:48"
     },
     {
-      "keyword": "kansas city chiefs",
-      "score": 4000000,
+      "keyword": "broncos vs chiefs",
+      "score": 5000000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-16 17:23:08"
+      "category": "体育",
+      "timestamp": "2026-09-16 12:09:59"
     },
     {
       "keyword": "chiefs",
@@ -86,18 +79,11 @@
       "timestamp": "2026-09-15 17:17:52"
     },
     {
-      "keyword": "cowboys vs giants",
+      "keyword": "kansas city chiefs",
       "score": 4000000,
       "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-15 12:16:25"
-    },
-    {
-      "keyword": "wow forever",
-      "score": 3200000,
-      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-19 16:06:13"
+      "timestamp": "2026-09-16 17:23:08"
     },
     {
       "keyword": "dancing with the stars",
@@ -107,8 +93,15 @@
       "timestamp": "2026-09-17 12:08:17"
     },
     {
+      "keyword": "wow forever",
+      "score": 3000000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-19 16:06:13"
+    },
+    {
       "keyword": "mitch mcconnell",
-      "score": 2800000,
+      "score": 2600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-18 11:59:09"
@@ -121,18 +114,18 @@
       "timestamp": "2026-09-21 22:20:23"
     },
     {
+      "keyword": "caleb williams",
+      "score": 2200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-22 05:36:51"
+    },
+    {
       "keyword": "lsu vs ole miss",
       "score": 2090000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-09-20 21:13:10"
-    },
-    {
-      "keyword": "ios 27 release date",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-15 12:16:25"
     },
     {
       "keyword": "bears game",
@@ -142,53 +135,60 @@
       "timestamp": "2026-09-20 21:13:10"
     },
     {
-      "keyword": "country musician brian duckworth",
+      "keyword": "cowboys vs giants",
       "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-15 21:48:08"
-    },
-    {
-      "keyword": "social security cola 2027 forecast",
-      "score": 1900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-16 21:44:22"
-    },
-    {
-      "keyword": "kyler murray",
-      "score": 1800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-16 12:09:59"
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-15 12:16:25"
     },
     {
       "keyword": "joanna wietrzyk",
-      "score": 1700000,
+      "score": 1650000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-19 05:13:21"
     },
     {
-      "keyword": "caleb williams",
-      "score": 1700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-21 22:20:23"
-    },
-    {
       "keyword": "bob mackie",
-      "score": 1700000,
+      "score": 1600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-17 12:08:17"
     },
     {
-      "keyword": "travis kelce",
+      "keyword": "kyler murray",
       "score": 1600000,
       "traffic_numeric": 500000,
       "category": "其他",
+      "timestamp": "2026-09-16 12:09:59"
+    },
+    {
+      "keyword": "travis kelce",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
       "timestamp": "2026-09-17 12:08:17"
+    },
+    {
+      "keyword": "resident evil",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-22 05:36:51"
+    },
+    {
+      "keyword": "new cat species",
+      "score": 1500000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-21 13:27:19"
+    },
+    {
+      "keyword": "country musician brian duckworth",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-15 21:48:08"
     },
     {
       "keyword": "eliana moreno",
@@ -205,16 +205,16 @@
       "timestamp": "2026-09-20 16:43:24"
     },
     {
-      "keyword": "new cat species",
-      "score": 1500000,
+      "keyword": "social security cola 2027 forecast",
+      "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-21 13:27:19"
+      "timestamp": "2026-09-16 21:44:22"
     }
   ],
   "category_stats": {
-    "其他": 138,
-    "体育": 49,
+    "其他": 142,
+    "体育": 50,
     "科技/AI": 9,
     "娱乐/生活": 8,
     "金融/商业": 2

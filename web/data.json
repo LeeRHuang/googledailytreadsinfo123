@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-09-23 12:13:03",
+  "last_updated": "2026-09-23 17:41:00",
   "trends": [
     {
       "keyword": "how do i register to vote",
-      "score": 80000000,
+      "score": 75000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-21 13:27:19"
     },
     {
       "keyword": "ed sheeran",
-      "score": 19500000,
+      "score": 19000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-21 13:27:19"
@@ -31,17 +31,10 @@
     },
     {
       "keyword": "bloodhound q50",
-      "score": 9000000,
+      "score": 8500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-19 05:13:21"
-    },
-    {
-      "keyword": "widows bay",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-18 05:22:23"
     },
     {
       "keyword": "resident evil movie",
@@ -51,11 +44,25 @@
       "timestamp": "2026-09-21 05:41:48"
     },
     {
+      "keyword": "widows bay",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-18 05:22:23"
+    },
+    {
       "keyword": "caleb williams",
       "score": 2900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-23 12:13:03"
+    },
+    {
+      "keyword": "presley gerber",
+      "score": 2750000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-23 17:41:00"
     },
     {
       "keyword": "duncan sheik",
@@ -65,24 +72,31 @@
       "timestamp": "2026-09-21 22:20:23"
     },
     {
-      "keyword": "presley gerber",
-      "score": 2250000,
+      "keyword": "jaxson dart",
+      "score": 2200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-23 12:13:03"
-    },
-    {
-      "keyword": "wow forever",
-      "score": 2200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-19 16:06:13"
+      "timestamp": "2026-09-23 17:41:00"
     },
     {
       "keyword": "lsu vs ole miss",
       "score": 2090000,
       "traffic_numeric": 500000,
       "category": "体育",
+      "timestamp": "2026-09-20 21:13:10"
+    },
+    {
+      "keyword": "wow forever",
+      "score": 2000000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-19 16:06:13"
+    },
+    {
+      "keyword": "bears game",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
       "timestamp": "2026-09-20 21:13:10"
     },
     {
@@ -93,46 +107,11 @@
       "timestamp": "2026-09-17 12:08:17"
     },
     {
-      "keyword": "sydney sweeney sports ad",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
+      "keyword": "converse ad",
+      "score": 1520000,
+      "traffic_numeric": 100000,
       "category": "其他",
-      "timestamp": "2026-09-16 21:44:22"
-    },
-    {
-      "keyword": "kansas city chiefs",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-16 17:23:08"
-    },
-    {
-      "keyword": "bears game",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-09-20 21:13:10"
-    },
-    {
-      "keyword": "jaxson dart",
-      "score": 1700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-23 12:13:03"
-    },
-    {
-      "keyword": "mitch mcconnell",
-      "score": 1600000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-18 11:59:09"
-    },
-    {
-      "keyword": "resident evil",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-22 05:36:51"
+      "timestamp": "2026-09-23 17:41:00"
     },
     {
       "keyword": "30th anniversary pokemon",
@@ -142,6 +121,20 @@
       "timestamp": "2026-09-20 16:43:24"
     },
     {
+      "keyword": "caleb williams injury",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-23 17:41:00"
+    },
+    {
+      "keyword": "resident evil",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-22 05:36:51"
+    },
+    {
       "keyword": "new cat species",
       "score": 1500000,
       "traffic_numeric": 200000,
@@ -149,11 +142,18 @@
       "timestamp": "2026-09-21 13:27:19"
     },
     {
-      "keyword": "converse ad",
-      "score": 1420000,
+      "keyword": "aileen wuornos",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-09-23 17:41:00"
+    },
+    {
+      "keyword": "carrot top",
+      "score": 1440000,
       "traffic_numeric": 100000,
       "category": "其他",
-      "timestamp": "2026-09-23 12:13:03"
+      "timestamp": "2026-09-23 17:41:00"
     },
     {
       "keyword": "joanna wietrzyk",
@@ -163,18 +163,25 @@
       "timestamp": "2026-09-19 05:13:21"
     },
     {
+      "keyword": "trump tv",
+      "score": 1400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-23 17:41:00"
+    },
+    {
+      "keyword": "mitch mcconnell",
+      "score": 1400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-18 11:59:09"
+    },
+    {
       "keyword": "gable steveson",
       "score": 1350000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-22 12:11:46"
-    },
-    {
-      "keyword": "carrot top",
-      "score": 1340000,
-      "traffic_numeric": 100000,
-      "category": "其他",
-      "timestamp": "2026-09-23 12:13:03"
     },
     {
       "keyword": "greenland",
@@ -184,18 +191,11 @@
       "timestamp": "2026-09-23 12:13:03"
     },
     {
-      "keyword": "eliana moreno",
-      "score": 1200000,
+      "keyword": "jayden daniels injury",
+      "score": 1100000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-18 05:22:23"
-    },
-    {
-      "keyword": "trump tv",
-      "score": 1200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-23 12:13:03"
+      "timestamp": "2026-09-23 17:41:00"
     },
     {
       "keyword": "matthew rhys",
@@ -205,15 +205,15 @@
       "timestamp": "2026-09-19 05:13:21"
     },
     {
-      "keyword": "caleb williams injury",
+      "keyword": "jaxson dart injury",
       "score": 1000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-22 21:45:42"
+      "timestamp": "2026-09-23 05:14:37"
     }
   ],
   "category_stats": {
-    "其他": 142,
+    "其他": 148,
     "体育": 53,
     "科技/AI": 9,
     "娱乐/生活": 7,

@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-09-22 21:45:42",
+  "last_updated": "2026-09-23 05:14:37",
   "trends": [
     {
       "keyword": "how do i register to vote",
-      "score": 85000000,
+      "score": 84000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-21 13:27:19"
     },
     {
       "keyword": "ed sheeran",
-      "score": 20700000,
+      "score": 20500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-21 13:27:19"
@@ -24,7 +24,7 @@
     },
     {
       "keyword": "bloodhound q50",
-      "score": 10500000,
+      "score": 10000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-19 05:13:21"
@@ -38,7 +38,7 @@
     },
     {
       "keyword": "widows bay",
-      "score": 9000000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-18 05:22:23"
@@ -52,17 +52,10 @@
     },
     {
       "keyword": "sydney sweeney sports ad",
-      "score": 5000000,
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-16 21:44:22"
-    },
-    {
-      "keyword": "kansas city chiefs",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-16 17:23:08"
     },
     {
       "keyword": "dancing with the stars",
@@ -72,25 +65,18 @@
       "timestamp": "2026-09-17 12:08:17"
     },
     {
-      "keyword": "broncos vs chiefs",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-16 12:09:59"
-    },
-    {
-      "keyword": "wow forever",
-      "score": 2800000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-19 16:06:13"
-    },
-    {
       "keyword": "caleb williams",
       "score": 2700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-22 12:11:46"
+    },
+    {
+      "keyword": "wow forever",
+      "score": 2600000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-19 16:06:13"
     },
     {
       "keyword": "duncan sheik",
@@ -100,13 +86,6 @@
       "timestamp": "2026-09-21 22:20:23"
     },
     {
-      "keyword": "mitch mcconnell",
-      "score": 2200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-18 11:59:09"
-    },
-    {
       "keyword": "lsu vs ole miss",
       "score": 2090000,
       "traffic_numeric": 500000,
@@ -114,11 +93,11 @@
       "timestamp": "2026-09-20 21:13:10"
     },
     {
-      "keyword": "iphone duo",
+      "keyword": "kansas city chiefs",
       "score": 2000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-09-15 21:48:08"
+      "timestamp": "2026-09-16 17:23:08"
     },
     {
       "keyword": "bears game",
@@ -128,25 +107,25 @@
       "timestamp": "2026-09-20 21:13:10"
     },
     {
-      "keyword": "joanna wietrzyk",
-      "score": 1500000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-19 05:13:21"
+      "keyword": "broncos vs chiefs",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-16 12:09:59"
     },
     {
-      "keyword": "eliana moreno",
-      "score": 1500000,
+      "keyword": "mitch mcconnell",
+      "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-18 05:22:23"
+      "timestamp": "2026-09-18 11:59:09"
     },
     {
-      "keyword": "new cat species",
-      "score": 1500000,
-      "traffic_numeric": 200000,
+      "keyword": "presley gerber",
+      "score": 1750000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-21 13:27:19"
+      "timestamp": "2026-09-23 05:14:37"
     },
     {
       "keyword": "resident evil",
@@ -156,11 +135,32 @@
       "timestamp": "2026-09-22 05:36:51"
     },
     {
+      "keyword": "new cat species",
+      "score": 1500000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-21 13:27:19"
+    },
+    {
+      "keyword": "eliana moreno",
+      "score": 1500000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-18 05:22:23"
+    },
+    {
       "keyword": "30th anniversary pokemon",
       "score": 1500000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-20 16:43:24"
+    },
+    {
+      "keyword": "joanna wietrzyk",
+      "score": 1400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-19 05:13:21"
     },
     {
       "keyword": "gable steveson",
@@ -170,18 +170,32 @@
       "timestamp": "2026-09-22 12:11:46"
     },
     {
-      "keyword": "presley gerber",
-      "score": 1250000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-22 21:45:42"
-    },
-    {
       "keyword": "converse ad",
-      "score": 1220000,
+      "score": 1320000,
       "traffic_numeric": 100000,
       "category": "其他",
-      "timestamp": "2026-09-22 21:45:42"
+      "timestamp": "2026-09-23 05:14:37"
+    },
+    {
+      "keyword": "carrot top",
+      "score": 1240000,
+      "traffic_numeric": 100000,
+      "category": "其他",
+      "timestamp": "2026-09-23 05:14:37"
+    },
+    {
+      "keyword": "greenland",
+      "score": 1200000,
+      "traffic_numeric": 100000,
+      "category": "其他",
+      "timestamp": "2026-09-23 05:14:37"
+    },
+    {
+      "keyword": "travis kelce",
+      "score": 1200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-17 12:08:17"
     },
     {
       "keyword": "jaxson dart",
@@ -191,32 +205,18 @@
       "timestamp": "2026-09-22 21:45:42"
     },
     {
-      "keyword": "kyler murray",
-      "score": 1200000,
-      "traffic_numeric": 500000,
+      "keyword": "matthew rhys",
+      "score": 1100000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-16 12:09:59"
-    },
-    {
-      "keyword": "bob mackie",
-      "score": 1200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-17 12:08:17"
-    },
-    {
-      "keyword": "travis kelce",
-      "score": 1200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-17 12:08:17"
+      "timestamp": "2026-09-19 05:13:21"
     }
   ],
   "category_stats": {
-    "其他": 148,
-    "体育": 50,
-    "娱乐/生活": 8,
-    "科技/AI": 8,
+    "其他": 146,
+    "体育": 56,
+    "科技/AI": 9,
+    "娱乐/生活": 7,
     "金融/商业": 3
   },
   "insights": []

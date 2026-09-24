@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-09-24 05:38:22",
+  "last_updated": "2026-09-24 12:22:58",
   "trends": [
     {
       "keyword": "how do i register to vote",
-      "score": 65000000,
+      "score": 60000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-21 13:27:19"
     },
     {
       "keyword": "ed sheeran",
-      "score": 17000000,
+      "score": 16000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-21 13:27:19"
@@ -31,7 +31,7 @@
     },
     {
       "keyword": "bloodhound q50",
-      "score": 7000000,
+      "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-19 05:13:21"
@@ -45,24 +45,17 @@
     },
     {
       "keyword": "presley gerber",
-      "score": 3750000,
+      "score": 4250000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-24 05:38:22"
+      "timestamp": "2026-09-24 12:22:58"
     },
     {
       "keyword": "aileen wuornos",
-      "score": 3000000,
+      "score": 3500000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
-      "timestamp": "2026-09-24 05:38:22"
-    },
-    {
-      "keyword": "widows bay",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-18 05:22:23"
+      "timestamp": "2026-09-24 12:22:58"
     },
     {
       "keyword": "caleb williams",
@@ -70,6 +63,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-23 12:13:03"
+    },
+    {
+      "keyword": "jaxson dart injury",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-24 12:22:58"
     },
     {
       "keyword": "duncan sheik",
@@ -93,11 +93,11 @@
       "timestamp": "2026-09-20 21:13:10"
     },
     {
-      "keyword": "jaxson dart injury",
-      "score": 2000000,
-      "traffic_numeric": 500000,
+      "keyword": "converse ad",
+      "score": 2020000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-24 05:38:22"
+      "timestamp": "2026-09-24 12:22:58"
     },
     {
       "keyword": "bears game",
@@ -107,32 +107,32 @@
       "timestamp": "2026-09-20 21:13:10"
     },
     {
-      "keyword": "converse ad",
-      "score": 1820000,
+      "keyword": "trump tv",
+      "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-24 05:38:22"
+      "timestamp": "2026-09-24 12:22:58"
     },
     {
-      "keyword": "trump tv",
-      "score": 1800000,
-      "traffic_numeric": 200000,
+      "keyword": "widows bay",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-24 05:38:22"
+      "timestamp": "2026-09-18 05:22:23"
+    },
+    {
+      "keyword": "latin pop",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-24 12:22:58"
     },
     {
       "keyword": "carrot top",
-      "score": 1640000,
+      "score": 1740000,
       "traffic_numeric": 100000,
       "category": "其他",
-      "timestamp": "2026-09-24 05:38:22"
-    },
-    {
-      "keyword": "wow forever",
-      "score": 1600000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-19 16:06:13"
+      "timestamp": "2026-09-24 12:22:58"
     },
     {
       "keyword": "resident evil",
@@ -142,13 +142,6 @@
       "timestamp": "2026-09-22 05:36:51"
     },
     {
-      "keyword": "new cat species",
-      "score": 1500000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-21 13:27:19"
-    },
-    {
       "keyword": "caleb williams injury",
       "score": 1500000,
       "traffic_numeric": 500000,
@@ -156,11 +149,11 @@
       "timestamp": "2026-09-23 17:41:00"
     },
     {
-      "keyword": "30th anniversary pokemon",
-      "score": 1400000,
+      "keyword": "new cat species",
+      "score": 1500000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-20 16:43:24"
+      "timestamp": "2026-09-21 13:27:19"
     },
     {
       "keyword": "joanna wietrzyk",
@@ -168,6 +161,20 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-19 05:13:21"
+    },
+    {
+      "keyword": "wow forever",
+      "score": 1400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-19 16:06:13"
+    },
+    {
+      "keyword": "30th anniversary pokemon",
+      "score": 1400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-20 16:43:24"
     },
     {
       "keyword": "gable steveson",
@@ -191,33 +198,26 @@
       "timestamp": "2026-09-23 12:13:03"
     },
     {
-      "keyword": "matthew rhys",
-      "score": 1100000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-19 05:13:21"
-    },
-    {
-      "keyword": "mitch mcconnell",
-      "score": 1000000,
+      "keyword": "hurricane polo",
+      "score": 1140000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-18 11:59:09"
+      "timestamp": "2026-09-24 12:22:58"
     },
     {
-      "keyword": "dancing with the stars",
-      "score": 1000000,
-      "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-09-17 12:08:17"
+      "keyword": "kratom",
+      "score": 1100005,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-24 12:22:58"
     }
   ],
   "category_stats": {
-    "其他": 142,
-    "体育": 48,
+    "其他": 139,
+    "体育": 47,
     "科技/AI": 10,
-    "娱乐/生活": 7,
-    "金融/商业": 3
+    "娱乐/生活": 6,
+    "金融/商业": 2
   },
   "insights": []
 }

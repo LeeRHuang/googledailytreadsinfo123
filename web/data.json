@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-24 17:36:49",
+  "last_updated": "2026-09-24 22:00:20",
   "trends": [
     {
       "keyword": "how do i register to vote",
-      "score": 55000000,
+      "score": 50000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-21 13:27:19"
@@ -17,38 +17,38 @@
     },
     {
       "keyword": "ed sheeran",
-      "score": 15000000,
+      "score": 14000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-21 13:27:19"
     },
     {
       "keyword": "lions vs bills",
-      "score": 9050000,
+      "score": 9000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-09-19 11:37:57"
     },
     {
+      "keyword": "latin pop",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-24 22:00:20"
+    },
+    {
       "keyword": "resident evil movie",
-      "score": 5800000,
+      "score": 5600000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-09-21 05:41:48"
     },
     {
-      "keyword": "bloodhound q50",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-19 05:13:21"
-    },
-    {
       "keyword": "presley gerber",
-      "score": 4750000,
+      "score": 5250000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-24 17:36:49"
+      "timestamp": "2026-09-24 22:00:20"
     },
     {
       "keyword": "aileen wuornos",
@@ -58,11 +58,11 @@
       "timestamp": "2026-09-24 17:36:49"
     },
     {
-      "keyword": "latin pop",
+      "keyword": "bloodhound q50",
       "score": 4000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-24 17:36:49"
+      "timestamp": "2026-09-19 05:13:21"
     },
     {
       "keyword": "caleb williams",
@@ -79,18 +79,18 @@
       "timestamp": "2026-09-24 12:22:58"
     },
     {
+      "keyword": "converse ad",
+      "score": 2420000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-24 22:00:20"
+    },
+    {
       "keyword": "duncan sheik",
       "score": 2300000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-21 22:20:23"
-    },
-    {
-      "keyword": "converse ad",
-      "score": 2220000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-24 17:36:49"
     },
     {
       "keyword": "jaxson dart",
@@ -100,25 +100,18 @@
       "timestamp": "2026-09-23 17:41:00"
     },
     {
+      "keyword": "kratom",
+      "score": 2100005,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-24 22:00:20"
+    },
+    {
       "keyword": "lsu vs ole miss",
       "score": 2090000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-09-20 21:13:10"
-    },
-    {
-      "keyword": "bears game",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-09-20 21:13:10"
-    },
-    {
-      "keyword": "widows bay",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-18 05:22:23"
     },
     {
       "keyword": "trump tv",
@@ -128,25 +121,25 @@
       "timestamp": "2026-09-24 12:22:58"
     },
     {
+      "keyword": "bears game",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-09-20 21:13:10"
+    },
+    {
       "keyword": "carrot top",
-      "score": 1840000,
+      "score": 1940000,
       "traffic_numeric": 100000,
       "category": "其他",
-      "timestamp": "2026-09-24 17:36:49"
+      "timestamp": "2026-09-24 22:00:20"
     },
     {
-      "keyword": "kratom",
-      "score": 1600005,
-      "traffic_numeric": 500000,
+      "keyword": "hurricane polo",
+      "score": 1540000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-24 17:36:49"
-    },
-    {
-      "keyword": "resident evil",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-22 05:36:51"
+      "timestamp": "2026-09-24 22:00:20"
     },
     {
       "keyword": "new cat species",
@@ -154,6 +147,13 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-21 13:27:19"
+    },
+    {
+      "keyword": "resident evil",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-22 05:36:51"
     },
     {
       "keyword": "caleb williams injury",
@@ -168,13 +168,6 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-22 12:11:46"
-    },
-    {
-      "keyword": "hurricane polo",
-      "score": 1340000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-24 17:36:49"
     },
     {
       "keyword": "jayden daniels injury",
@@ -192,30 +185,37 @@
     },
     {
       "keyword": "30th anniversary pokemon",
-      "score": 1300000,
+      "score": 1200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-20 16:43:24"
     },
     {
+      "keyword": "matthew rhys",
+      "score": 1100000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-19 05:13:21"
+    },
+    {
       "keyword": "joanna wietrzyk",
-      "score": 1200000,
+      "score": 1000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-19 05:13:21"
     },
     {
-      "keyword": "wow forever",
-      "score": 1200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-19 16:06:13"
+      "keyword": "bills vs lions",
+      "score": 1000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-18 11:59:09"
     }
   ],
   "category_stats": {
     "其他": 139,
-    "体育": 50,
-    "科技/AI": 9,
+    "体育": 47,
+    "科技/AI": 8,
     "娱乐/生活": 6,
     "金融/商业": 2
   },

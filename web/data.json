@@ -1,54 +1,54 @@
 {
-  "last_updated": "2026-09-25 17:45:03",
+  "last_updated": "2026-09-25 22:01:38",
   "trends": [
     {
       "keyword": "how do i register to vote",
-      "score": 35000000,
+      "score": 30000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-21 13:27:19"
     },
     {
       "keyword": "lizzie borden",
-      "score": 15500000,
+      "score": 15000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-22 21:45:42"
     },
     {
       "keyword": "latin pop",
-      "score": 12000000,
+      "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-09-25 17:45:03"
+      "timestamp": "2026-09-25 22:01:38"
     },
     {
       "keyword": "ed sheeran",
-      "score": 11000000,
+      "score": 10000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-21 13:27:19"
     },
     {
       "keyword": "presley gerber",
-      "score": 6750000,
+      "score": 7250000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-25 17:45:03"
+      "timestamp": "2026-09-25 22:01:38"
     },
     {
       "keyword": "resident evil movie",
-      "score": 5000000,
+      "score": 4500000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-09-21 05:41:48"
     },
     {
-      "keyword": "lions vs bills",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-19 11:37:57"
+      "keyword": "kratom",
+      "score": 4100005,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-25 22:01:38"
     },
     {
       "keyword": "aileen wuornos",
@@ -58,11 +58,11 @@
       "timestamp": "2026-09-24 17:36:49"
     },
     {
-      "keyword": "kratom",
-      "score": 3600005,
+      "keyword": "hurricane polo",
+      "score": 2940000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-25 17:45:03"
+      "timestamp": "2026-09-25 22:01:38"
     },
     {
       "keyword": "caleb williams",
@@ -73,10 +73,17 @@
     },
     {
       "keyword": "carrot top",
-      "score": 2540000,
+      "score": 2740000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-25 17:45:03"
+      "timestamp": "2026-09-25 22:01:38"
+    },
+    {
+      "keyword": "noreaster",
+      "score": 2700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-25 22:01:38"
     },
     {
       "keyword": "jaxson dart injury",
@@ -86,15 +93,8 @@
       "timestamp": "2026-09-24 12:22:58"
     },
     {
-      "keyword": "hurricane polo",
-      "score": 2440000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-25 17:45:03"
-    },
-    {
       "keyword": "converse ad",
-      "score": 2420000,
+      "score": 2400000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-24 22:00:20"
@@ -107,20 +107,6 @@
       "timestamp": "2026-09-23 17:41:00"
     },
     {
-      "keyword": "noreaster",
-      "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-25 17:45:03"
-    },
-    {
-      "keyword": "duncan sheik",
-      "score": 2200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-21 22:20:23"
-    },
-    {
       "keyword": "lsu vs ole miss",
       "score": 2090000,
       "traffic_numeric": 500000,
@@ -128,11 +114,11 @@
       "timestamp": "2026-09-20 21:13:10"
     },
     {
-      "keyword": "bloodhound q50",
+      "keyword": "matt lafleur",
       "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-19 05:13:21"
+      "timestamp": "2026-09-25 22:01:38"
     },
     {
       "keyword": "bears game",
@@ -142,11 +128,32 @@
       "timestamp": "2026-09-20 21:13:10"
     },
     {
+      "keyword": "duncan sheik",
+      "score": 2000000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-21 22:20:23"
+    },
+    {
+      "keyword": "lions vs bills",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-19 11:37:57"
+    },
+    {
       "keyword": "trump tv",
       "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-24 12:22:58"
+    },
+    {
+      "keyword": "the love hypothesis",
+      "score": 1970000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-25 22:01:38"
     },
     {
       "keyword": "falcons",
@@ -156,11 +163,11 @@
       "timestamp": "2026-09-25 12:27:57"
     },
     {
-      "keyword": "falcons vs packers",
+      "keyword": "resident evil",
       "score": 1500000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-25 17:45:03"
+      "category": "其他",
+      "timestamp": "2026-09-22 05:36:51"
     },
     {
       "keyword": "caleb williams injury",
@@ -170,17 +177,10 @@
       "timestamp": "2026-09-23 17:41:00"
     },
     {
-      "keyword": "resident evil",
+      "keyword": "falcons vs packers",
       "score": 1500000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-22 05:36:51"
-    },
-    {
-      "keyword": "the love hypothesis",
-      "score": 1470000,
-      "traffic_numeric": 200000,
-      "category": "其他",
+      "category": "体育",
       "timestamp": "2026-09-25 17:45:03"
     },
     {
@@ -198,24 +198,24 @@
       "timestamp": "2026-09-23 12:13:03"
     },
     {
-      "keyword": "new cat species",
-      "score": 1300000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-21 13:27:19"
-    },
-    {
       "keyword": "jayden daniels injury",
       "score": 1300000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-23 21:58:29"
+    },
+    {
+      "keyword": "clavicular",
+      "score": 1280005,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-25 12:27:57"
     }
   ],
   "category_stats": {
-    "其他": 134,
+    "其他": 132,
     "体育": 49,
-    "科技/AI": 7,
+    "科技/AI": 6,
     "娱乐/生活": 6,
     "金融/商业": 2
   },

@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-26 11:55:27",
+  "last_updated": "2026-09-26 16:52:23",
   "trends": [
     {
       "keyword": "how do i register to vote",
-      "score": 25000000,
+      "score": 20000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-21 13:27:19"
@@ -17,31 +17,45 @@
     },
     {
       "keyword": "lizzie borden",
-      "score": 13000000,
+      "score": 12000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-22 21:45:42"
     },
     {
       "keyword": "presley gerber",
-      "score": 8250000,
+      "score": 8750000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-26 11:55:27"
+      "timestamp": "2026-09-26 16:52:23"
     },
     {
       "keyword": "ed sheeran",
-      "score": 8000000,
+      "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-21 13:27:19"
     },
     {
       "keyword": "kratom",
-      "score": 5100005,
+      "score": 5600005,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-26 11:55:27"
+      "timestamp": "2026-09-26 16:52:23"
+    },
+    {
+      "keyword": "hurricane polo",
+      "score": 4440000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-26 16:52:23"
+    },
+    {
+      "keyword": "noreaster",
+      "score": 4200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-26 16:52:23"
     },
     {
       "keyword": "aileen wuornos",
@@ -51,25 +65,18 @@
       "timestamp": "2026-09-24 17:36:49"
     },
     {
-      "keyword": "hurricane polo",
-      "score": 3940000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-26 11:55:27"
-    },
-    {
-      "keyword": "noreaster",
-      "score": 3700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-26 11:55:27"
-    },
-    {
       "keyword": "resident evil movie",
-      "score": 3500000,
+      "score": 3000000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-09-21 05:41:48"
+    },
+    {
+      "keyword": "the love hypothesis",
+      "score": 2970000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-26 16:52:23"
     },
     {
       "keyword": "caleb williams",
@@ -80,7 +87,7 @@
     },
     {
       "keyword": "carrot top",
-      "score": 2720000,
+      "score": 2700000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-25 22:01:38"
@@ -93,15 +100,8 @@
       "timestamp": "2026-09-24 12:22:58"
     },
     {
-      "keyword": "the love hypothesis",
-      "score": 2470000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-26 05:34:46"
-    },
-    {
       "keyword": "converse ad",
-      "score": 2300000,
+      "score": 2250000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-24 22:00:20"
@@ -115,24 +115,10 @@
     },
     {
       "keyword": "lsu vs ole miss",
-      "score": 2070000,
+      "score": 2050000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-09-20 21:13:10"
-    },
-    {
-      "keyword": "bears game",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-09-20 21:13:10"
-    },
-    {
-      "keyword": "trump tv",
-      "score": 2000000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-24 12:22:58"
     },
     {
       "keyword": "matt lafleur",
@@ -142,11 +128,18 @@
       "timestamp": "2026-09-25 22:01:38"
     },
     {
-      "keyword": "duncan sheik",
-      "score": 1600000,
+      "keyword": "trump tv",
+      "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-21 22:20:23"
+      "timestamp": "2026-09-24 12:22:58"
+    },
+    {
+      "keyword": "bears game",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-09-20 21:13:10"
     },
     {
       "keyword": "falcons",
@@ -156,11 +149,11 @@
       "timestamp": "2026-09-25 12:27:57"
     },
     {
-      "keyword": "resident evil",
-      "score": 1500000,
-      "traffic_numeric": 500000,
+      "keyword": "nolan wells",
+      "score": 1540000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-22 05:36:51"
+      "timestamp": "2026-09-26 16:52:23"
     },
     {
       "keyword": "falcons vs packers",
@@ -170,11 +163,25 @@
       "timestamp": "2026-09-25 17:45:03"
     },
     {
+      "keyword": "presidents cup",
+      "score": 1500000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-26 16:52:23"
+    },
+    {
       "keyword": "caleb williams injury",
       "score": 1500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-23 17:41:00"
+    },
+    {
+      "keyword": "resident evil",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-22 05:36:51"
     },
     {
       "keyword": "clavicular",
@@ -184,39 +191,32 @@
       "timestamp": "2026-09-26 05:34:46"
     },
     {
-      "keyword": "gable steveson",
-      "score": 1350000,
+      "keyword": "primetime",
+      "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-22 12:11:46"
+      "timestamp": "2026-09-26 16:52:23"
     },
     {
-      "keyword": "nolan wells",
-      "score": 1340000,
+      "keyword": "duncan sheik",
+      "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-26 11:55:27"
+      "timestamp": "2026-09-21 22:20:23"
     },
     {
-      "keyword": "jayden daniels injury",
-      "score": 1300000,
+      "keyword": "caleb flynn",
+      "score": 1370000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-23 21:58:29"
-    },
-    {
-      "keyword": "presidents cup",
-      "score": 1300000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-26 11:55:27"
+      "timestamp": "2026-09-26 16:52:23"
     }
   ],
   "category_stats": {
     "其他": 132,
-    "体育": 50,
+    "体育": 53,
     "娱乐/生活": 7,
-    "科技/AI": 6,
+    "科技/AI": 5,
     "金融/商业": 2
   },
   "insights": []

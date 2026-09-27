@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27 05:54:42",
+  "last_updated": "2026-09-27 12:40:21",
   "trends": [
     {
       "keyword": "latin pop",
@@ -9,50 +9,57 @@
       "timestamp": "2026-09-26 11:55:27"
     },
     {
+      "keyword": "presley gerber",
+      "score": 10250000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-27 12:40:21"
+    },
+    {
       "keyword": "how do i register to vote",
-      "score": 15000000,
+      "score": 10000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-09-21 13:27:19"
     },
     {
       "keyword": "lizzie borden",
-      "score": 10000000,
+      "score": 9000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-22 21:45:42"
     },
     {
-      "keyword": "presley gerber",
-      "score": 9750000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-27 05:54:42"
-    },
-    {
       "keyword": "kratom",
-      "score": 6100005,
+      "score": 6600005,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-26 21:37:40"
+      "timestamp": "2026-09-27 12:40:21"
     },
     {
       "keyword": "hurricane polo",
-      "score": 5440000,
+      "score": 5940000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-27 05:54:42"
+      "timestamp": "2026-09-27 12:40:21"
     },
     {
       "keyword": "noreaster",
-      "score": 5200000,
+      "score": 5700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-27 05:54:42"
+      "timestamp": "2026-09-27 12:40:21"
+    },
+    {
+      "keyword": "the love hypothesis",
+      "score": 4470000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-27 12:40:21"
     },
     {
       "keyword": "ed sheeran",
-      "score": 5000000,
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-21 13:27:19"
@@ -65,13 +72,6 @@
       "timestamp": "2026-09-24 17:36:49"
     },
     {
-      "keyword": "the love hypothesis",
-      "score": 3970000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-27 05:54:42"
-    },
-    {
       "keyword": "caleb williams",
       "score": 2900000,
       "traffic_numeric": 500000,
@@ -79,11 +79,11 @@
       "timestamp": "2026-09-23 12:13:03"
     },
     {
-      "keyword": "carrot top",
-      "score": 2600000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-25 22:01:38"
+      "keyword": "nations league",
+      "score": 2550000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-09-27 12:40:21"
     },
     {
       "keyword": "jaxson dart injury",
@@ -93,6 +93,13 @@
       "timestamp": "2026-09-24 12:22:58"
     },
     {
+      "keyword": "carrot top",
+      "score": 2500000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-25 22:01:38"
+    },
+    {
       "keyword": "jaxson dart",
       "score": 2200000,
       "traffic_numeric": 500000,
@@ -100,32 +107,25 @@
       "timestamp": "2026-09-23 17:41:00"
     },
     {
+      "keyword": "nolan wells",
+      "score": 2140000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-27 12:40:21"
+    },
+    {
       "keyword": "converse ad",
-      "score": 2150000,
+      "score": 2100000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-24 22:00:20"
     },
     {
-      "keyword": "nations league",
-      "score": 2050000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-27 05:54:42"
-    },
-    {
-      "keyword": "matt lafleur",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
+      "keyword": "presidents cup",
+      "score": 2100000,
+      "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-25 22:01:38"
-    },
-    {
-      "keyword": "bears game",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-09-20 21:13:10"
+      "timestamp": "2026-09-27 12:40:21"
     },
     {
       "keyword": "trump tv",
@@ -135,39 +135,32 @@
       "timestamp": "2026-09-24 12:22:58"
     },
     {
-      "keyword": "resident evil movie",
+      "keyword": "matt lafleur",
       "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-09-21 05:41:48"
-    },
-    {
-      "keyword": "nolan wells",
-      "score": 1940000,
-      "traffic_numeric": 200000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-27 05:54:42"
-    },
-    {
-      "keyword": "presidents cup",
-      "score": 1900000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-27 05:54:42"
+      "timestamp": "2026-09-25 22:01:38"
     },
     {
       "keyword": "primetime",
-      "score": 1800000,
+      "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-27 05:54:42"
+      "timestamp": "2026-09-27 12:40:21"
+    },
+    {
+      "keyword": "bears game",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-09-20 21:13:10"
     },
     {
       "keyword": "caleb flynn",
-      "score": 1570000,
+      "score": 1750000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-27 05:54:42"
+      "timestamp": "2026-09-27 12:40:21"
     },
     {
       "keyword": "falcons",
@@ -184,13 +177,6 @@
       "timestamp": "2026-09-25 17:45:03"
     },
     {
-      "keyword": "resident evil",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-22 05:36:51"
-    },
-    {
       "keyword": "caleb williams injury",
       "score": 1500000,
       "traffic_numeric": 500000,
@@ -198,11 +184,18 @@
       "timestamp": "2026-09-23 17:41:00"
     },
     {
-      "keyword": "lsu vs ole miss",
+      "keyword": "resident evil movie",
       "score": 1500000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-20 21:13:10"
+      "category": "娱乐/生活",
+      "timestamp": "2026-09-21 05:41:48"
+    },
+    {
+      "keyword": "resident evil",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-22 05:36:51"
     },
     {
       "keyword": "clavicular",
@@ -210,11 +203,18 @@
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-26 05:34:46"
+    },
+    {
+      "keyword": "full moon september 2026",
+      "score": 1400000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-27 12:40:21"
     }
   ],
   "category_stats": {
-    "其他": 126,
-    "体育": 60,
+    "其他": 123,
+    "体育": 57,
     "娱乐/生活": 7,
     "科技/AI": 5,
     "金融/商业": 2

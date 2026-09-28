@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27 21:51:26",
+  "last_updated": "2026-09-28 06:03:34",
   "trends": [
     {
       "keyword": "latin pop",
@@ -10,10 +10,17 @@
     },
     {
       "keyword": "presley gerber",
-      "score": 10750000,
+      "score": 10700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-27 17:30:47"
+    },
+    {
+      "keyword": "hurricane polo",
+      "score": 7440000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-28 06:03:34"
     },
     {
       "keyword": "kratom",
@@ -23,20 +30,6 @@
       "timestamp": "2026-09-27 17:30:47"
     },
     {
-      "keyword": "lizzie borden",
-      "score": 7000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-22 21:45:42"
-    },
-    {
-      "keyword": "hurricane polo",
-      "score": 6940000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-27 21:51:26"
-    },
-    {
       "keyword": "noreaster",
       "score": 6200000,
       "traffic_numeric": 500000,
@@ -44,11 +37,18 @@
       "timestamp": "2026-09-27 17:30:47"
     },
     {
+      "keyword": "lizzie borden",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-22 21:45:42"
+    },
+    {
       "keyword": "the love hypothesis",
-      "score": 5470000,
+      "score": 5970000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-27 21:51:26"
+      "timestamp": "2026-09-28 06:03:34"
     },
     {
       "keyword": "how do i register to vote",
@@ -66,31 +66,38 @@
     },
     {
       "keyword": "dante moore",
-      "score": 3000000,
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-27 21:51:26"
-    },
-    {
-      "keyword": "primetime",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-27 21:51:26"
+      "timestamp": "2026-09-28 06:03:34"
     },
     {
       "keyword": "nations league",
-      "score": 2950000,
+      "score": 3450000,
       "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-09-27 21:51:26"
+      "timestamp": "2026-09-28 06:03:34"
     },
     {
       "keyword": "presidents cup",
-      "score": 2800000,
+      "score": 3300000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-27 21:51:26"
+      "timestamp": "2026-09-28 06:03:34"
+    },
+    {
+      "keyword": "primetime",
+      "score": 3200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-28 06:03:34"
+    },
+    {
+      "keyword": "nolan wells",
+      "score": 2540000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-28 06:03:34"
     },
     {
       "keyword": "jaxson dart injury",
@@ -100,27 +107,6 @@
       "timestamp": "2026-09-24 12:22:58"
     },
     {
-      "keyword": "caleb williams",
-      "score": 2400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-23 12:13:03"
-    },
-    {
-      "keyword": "nolan wells",
-      "score": 2340000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-27 17:30:47"
-    },
-    {
-      "keyword": "carrot top",
-      "score": 2300000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-25 22:01:38"
-    },
-    {
       "keyword": "jaxson dart",
       "score": 2200000,
       "traffic_numeric": 500000,
@@ -128,11 +114,18 @@
       "timestamp": "2026-09-23 17:41:00"
     },
     {
-      "keyword": "mexico vs colombia",
-      "score": 2000000,
+      "keyword": "carrot top",
+      "score": 2200000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-25 22:01:38"
+    },
+    {
+      "keyword": "caleb williams",
+      "score": 2200000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-27 21:51:26"
+      "category": "其他",
+      "timestamp": "2026-09-23 12:13:03"
     },
     {
       "keyword": "matt lafleur",
@@ -142,11 +135,11 @@
       "timestamp": "2026-09-25 22:01:38"
     },
     {
-      "keyword": "ed sheeran",
+      "keyword": "mexico vs colombia",
       "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-21 13:27:19"
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-09-27 21:51:26"
     },
     {
       "keyword": "trump tv",
@@ -157,7 +150,7 @@
     },
     {
       "keyword": "converse ad",
-      "score": 1900000,
+      "score": 1800000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-24 22:00:20"
@@ -170,11 +163,11 @@
       "timestamp": "2026-09-27 12:40:21"
     },
     {
-      "keyword": "caleb williams injury",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-23 17:41:00"
+      "keyword": "seahawks vs commanders",
+      "score": 1600000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-28 06:03:34"
     },
     {
       "keyword": "falcons",
@@ -184,6 +177,13 @@
       "timestamp": "2026-09-25 12:27:57"
     },
     {
+      "keyword": "falcons vs packers",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-09-25 17:45:03"
+    },
+    {
       "keyword": "resident evil",
       "score": 1500000,
       "traffic_numeric": 500000,
@@ -191,11 +191,11 @@
       "timestamp": "2026-09-22 05:36:51"
     },
     {
-      "keyword": "falcons vs packers",
+      "keyword": "caleb williams injury",
       "score": 1500000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-25 17:45:03"
+      "category": "其他",
+      "timestamp": "2026-09-23 17:41:00"
     },
     {
       "keyword": "clavicular",
@@ -213,7 +213,7 @@
     }
   ],
   "category_stats": {
-    "其他": 108,
+    "其他": 111,
     "体育": 66,
     "科技/AI": 6,
     "娱乐/生活": 5,

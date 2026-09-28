@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28 14:43:33",
+  "last_updated": "2026-09-28 23:37:38",
   "trends": [
     {
       "keyword": "latin pop",
@@ -10,17 +10,17 @@
     },
     {
       "keyword": "presley gerber",
-      "score": 10500000,
+      "score": 10300000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-27 17:30:47"
     },
     {
       "keyword": "hurricane polo",
-      "score": 7940000,
+      "score": 8440000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-28 14:43:33"
+      "timestamp": "2026-09-28 23:37:38"
     },
     {
       "keyword": "kratom",
@@ -38,24 +38,31 @@
     },
     {
       "keyword": "the love hypothesis",
-      "score": 5970000,
+      "score": 6470000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-28 06:03:34"
+      "timestamp": "2026-09-28 23:37:38"
     },
     {
       "keyword": "dante moore",
-      "score": 5000000,
+      "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-28 14:43:33"
+      "timestamp": "2026-09-28 23:37:38"
     },
     {
-      "keyword": "lizzie borden",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
+      "keyword": "primetime",
+      "score": 4200000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-22 21:45:42"
+      "timestamp": "2026-09-28 23:37:38"
+    },
+    {
+      "keyword": "nations league",
+      "score": 4150000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-09-28 23:37:38"
     },
     {
       "keyword": "aileen wuornos",
@@ -65,6 +72,13 @@
       "timestamp": "2026-09-24 17:36:49"
     },
     {
+      "keyword": "lizzie borden",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-22 21:45:42"
+    },
+    {
       "keyword": "presidents cup",
       "score": 3800000,
       "traffic_numeric": 500000,
@@ -72,25 +86,32 @@
       "timestamp": "2026-09-28 14:43:33"
     },
     {
-      "keyword": "primetime",
-      "score": 3700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-28 14:43:33"
-    },
-    {
-      "keyword": "nations league",
-      "score": 3650000,
-      "traffic_numeric": 500000,
+      "keyword": "ravens vs cowboys",
+      "score": 3200000,
+      "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-09-28 14:43:33"
+      "timestamp": "2026-09-28 23:37:38"
     },
     {
       "keyword": "nolan wells",
-      "score": 2740000,
+      "score": 2940000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-28 14:43:33"
+      "timestamp": "2026-09-28 23:37:38"
+    },
+    {
+      "keyword": "seahawks vs commanders",
+      "score": 2600000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-28 23:37:38"
+    },
+    {
+      "keyword": "rams vs broncos",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-28 23:37:38"
     },
     {
       "keyword": "jaxson dart injury",
@@ -98,13 +119,6 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-24 12:22:58"
-    },
-    {
-      "keyword": "ravens vs cowboys",
-      "score": 2200000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-28 14:43:33"
     },
     {
       "keyword": "jaxson dart",
@@ -115,17 +129,10 @@
     },
     {
       "keyword": "carrot top",
-      "score": 2100000,
+      "score": 2000000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-25 22:01:38"
-    },
-    {
-      "keyword": "mexico vs colombia",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-27 21:51:26"
     },
     {
       "keyword": "matt lafleur",
@@ -142,6 +149,20 @@
       "timestamp": "2026-09-24 12:22:58"
     },
     {
+      "keyword": "mexico vs colombia",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-09-27 21:51:26"
+    },
+    {
+      "keyword": "madonna",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-28 23:37:38"
+    },
+    {
       "keyword": "caleb flynn",
       "score": 1750000,
       "traffic_numeric": 200000,
@@ -149,25 +170,25 @@
       "timestamp": "2026-09-27 12:40:21"
     },
     {
-      "keyword": "converse ad",
+      "keyword": "raiders vs saints",
       "score": 1700000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-09-28 23:37:38"
+    },
+    {
+      "keyword": "chiefs vs dolphins",
+      "score": 1700000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-09-28 23:37:38"
+    },
+    {
+      "keyword": "converse ad",
+      "score": 1600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-24 22:00:20"
-    },
-    {
-      "keyword": "caleb williams",
-      "score": 1700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-23 12:13:03"
-    },
-    {
-      "keyword": "seahawks vs commanders",
-      "score": 1600000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-28 06:03:34"
     },
     {
       "keyword": "falcons vs packers",
@@ -184,39 +205,18 @@
       "timestamp": "2026-09-25 12:27:57"
     },
     {
-      "keyword": "caleb williams injury",
+      "keyword": "kate upton",
       "score": 1500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-23 17:41:00"
-    },
-    {
-      "keyword": "rams vs broncos",
-      "score": 1500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-28 14:43:33"
-    },
-    {
-      "keyword": "clavicular",
-      "score": 1480005,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-26 05:34:46"
-    },
-    {
-      "keyword": "full moon september 2026",
-      "score": 1400000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-09-27 12:40:21"
+      "timestamp": "2026-09-28 23:37:38"
     }
   ],
   "category_stats": {
     "其他": 113,
     "体育": 65,
     "科技/AI": 6,
-    "娱乐/生活": 5,
+    "娱乐/生活": 4,
     "金融/商业": 1
   },
   "insights": []

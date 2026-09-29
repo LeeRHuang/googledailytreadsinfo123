@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29 13:28:20",
+  "last_updated": "2026-09-29 22:42:18",
   "trends": [
     {
       "keyword": "latin pop",
@@ -10,21 +10,21 @@
     },
     {
       "keyword": "presley gerber",
-      "score": 9900000,
+      "score": 9500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-27 17:30:47"
     },
     {
       "keyword": "hurricane polo",
-      "score": 8440000,
+      "score": 8400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-28 23:37:38"
     },
     {
       "keyword": "kratom",
-      "score": 7100005,
+      "score": 7100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-27 17:30:47"
@@ -51,6 +51,13 @@
       "timestamp": "2026-09-28 23:37:38"
     },
     {
+      "keyword": "madonna",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-29 22:42:18"
+    },
+    {
       "keyword": "primetime",
       "score": 4700000,
       "traffic_numeric": 500000,
@@ -63,13 +70,6 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-09-29 06:23:14"
-    },
-    {
-      "keyword": "madonna",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-29 13:28:20"
     },
     {
       "keyword": "aileen wuornos",
@@ -100,11 +100,32 @@
       "timestamp": "2026-09-29 13:28:20"
     },
     {
+      "keyword": "case keenum",
+      "score": 3100000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-29 22:42:18"
+    },
+    {
+      "keyword": "kate upton",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-29 22:42:18"
+    },
+    {
       "keyword": "nolan wells",
-      "score": 2940000,
+      "score": 2920000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-28 23:37:38"
+    },
+    {
+      "keyword": "cornell university",
+      "score": 2650000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-29 22:42:18"
     },
     {
       "keyword": "seahawks vs commanders",
@@ -121,20 +142,6 @@
       "timestamp": "2026-09-28 23:37:38"
     },
     {
-      "keyword": "jaxson dart injury",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-24 12:22:58"
-    },
-    {
-      "keyword": "kate upton",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-29 13:28:20"
-    },
-    {
       "keyword": "pac",
       "score": 2200000,
       "traffic_numeric": 500000,
@@ -142,18 +149,11 @@
       "timestamp": "2026-09-29 13:28:20"
     },
     {
-      "keyword": "matt lafleur",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-25 22:01:38"
-    },
-    {
-      "keyword": "lizzie borden",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-22 21:45:42"
+      "keyword": "wnba playoffs",
+      "score": 2200000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-29 22:42:18"
     },
     {
       "keyword": "mexico vs colombia",
@@ -163,25 +163,32 @@
       "timestamp": "2026-09-27 21:51:26"
     },
     {
-      "keyword": "carrot top",
-      "score": 1800000,
-      "traffic_numeric": 200000,
+      "keyword": "matt lafleur",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-25 22:01:38"
     },
     {
-      "keyword": "caleb flynn",
-      "score": 1750000,
-      "traffic_numeric": 200000,
+      "keyword": "jaxson dart injury",
+      "score": 2000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-27 12:40:21"
+      "timestamp": "2026-09-24 12:22:58"
     },
     {
-      "keyword": "chiefs vs dolphins",
-      "score": 1700000,
+      "keyword": "unabomber",
+      "score": 2000000,
       "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-28 23:37:38"
+      "category": "其他",
+      "timestamp": "2026-09-29 22:42:18"
+    },
+    {
+      "keyword": "caleb flynn",
+      "score": 1950000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-09-29 22:42:18"
     },
     {
       "keyword": "raiders vs saints",
@@ -191,31 +198,24 @@
       "timestamp": "2026-09-28 23:37:38"
     },
     {
-      "keyword": "cornell university",
-      "score": 1650000,
+      "keyword": "chiefs vs dolphins",
+      "score": 1700000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-29 13:28:20"
+      "category": "体育",
+      "timestamp": "2026-09-28 23:37:38"
     },
     {
-      "keyword": "trump tv",
+      "keyword": "carrot top",
       "score": 1600000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-09-24 12:22:58"
-    },
-    {
-      "keyword": "unabomber",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-29 06:23:14"
+      "timestamp": "2026-09-25 22:01:38"
     }
   ],
   "category_stats": {
-    "其他": 115,
-    "体育": 68,
-    "科技/AI": 6,
+    "其他": 108,
+    "体育": 72,
+    "科技/AI": 7,
     "娱乐/生活": 4,
     "金融/商业": 1
   },

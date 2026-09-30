@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30 13:13:02",
+  "last_updated": "2026-09-30 22:44:47",
   "trends": [
     {
       "keyword": "latin pop",
@@ -10,24 +10,24 @@
     },
     {
       "keyword": "wnba playoffs",
-      "score": 9200000,
+      "score": 14200000,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-09-30 13:13:02"
-    },
-    {
-      "keyword": "presley gerber",
-      "score": 8500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-27 17:30:47"
+      "timestamp": "2026-09-30 22:44:47"
     },
     {
       "keyword": "hurricane polo",
-      "score": 8100000,
+      "score": 7700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-28 23:37:38"
+    },
+    {
+      "keyword": "presley gerber",
+      "score": 7500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-27 17:30:47"
     },
     {
       "keyword": "case keenum",
@@ -38,24 +38,31 @@
     },
     {
       "keyword": "the love hypothesis",
-      "score": 6970000,
+      "score": 6900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-29 06:23:14"
     },
     {
       "keyword": "kratom",
-      "score": 6800000,
+      "score": 6400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-27 17:30:47"
     },
     {
       "keyword": "noreaster",
-      "score": 6700000,
+      "score": 6300000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-28 14:43:33"
+    },
+    {
+      "keyword": "madonna",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-30 06:06:49"
     },
     {
       "keyword": "dante moore",
@@ -65,11 +72,11 @@
       "timestamp": "2026-09-28 23:37:38"
     },
     {
-      "keyword": "madonna",
-      "score": 6000000,
+      "keyword": "cornell university",
+      "score": 5650000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-30 06:06:49"
+      "timestamp": "2026-09-30 22:44:47"
     },
     {
       "keyword": "primetime",
@@ -84,13 +91,6 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-09-29 06:23:14"
-    },
-    {
-      "keyword": "cornell university",
-      "score": 4650000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-30 13:13:02"
     },
     {
       "keyword": "kate upton",
@@ -121,15 +121,15 @@
       "timestamp": "2026-09-29 13:28:20"
     },
     {
-      "keyword": "aileen wuornos",
+      "keyword": "unabomber",
       "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-09-24 17:36:49"
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-30 22:44:47"
     },
     {
       "keyword": "nolan wells",
-      "score": 2850000,
+      "score": 2750000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-28 23:37:38"
@@ -142,13 +142,6 @@
       "timestamp": "2026-09-28 23:37:38"
     },
     {
-      "keyword": "unabomber",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-30 06:06:49"
-    },
-    {
       "keyword": "rams vs broncos",
       "score": 2500000,
       "traffic_numeric": 1000000,
@@ -156,11 +149,32 @@
       "timestamp": "2026-09-28 23:37:38"
     },
     {
+      "keyword": "jj mccarthy",
+      "score": 2300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-30 22:44:47"
+    },
+    {
       "keyword": "pac",
       "score": 2200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-29 13:28:20"
+    },
+    {
+      "keyword": "mlb",
+      "score": 2100000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-30 22:44:47"
+    },
+    {
+      "keyword": "aileen wuornos",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-09-24 17:36:49"
     },
     {
       "keyword": "matt lafleur",
@@ -184,13 +198,6 @@
       "timestamp": "2026-09-29 22:42:18"
     },
     {
-      "keyword": "jj mccarthy",
-      "score": 1800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-30 13:13:02"
-    },
-    {
       "keyword": "chiefs vs dolphins",
       "score": 1700000,
       "traffic_numeric": 500000,
@@ -203,20 +210,14 @@
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-09-28 23:37:38"
-    },
-    {
-      "keyword": "jaxson dart injury",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-24 12:22:58"
     }
   ],
   "category_stats": {
-    "其他": 109,
-    "体育": 75,
-    "科技/AI": 8,
-    "娱乐/生活": 4
+    "其他": 108,
+    "体育": 72,
+    "科技/AI": 9,
+    "娱乐/生活": 4,
+    "金融/商业": 1
   },
   "insights": []
 }

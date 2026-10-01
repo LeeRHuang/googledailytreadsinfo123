@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-09-30 22:44:47",
+  "last_updated": "2026-10-01 06:39:36",
   "trends": [
+    {
+      "keyword": "wnba playoffs",
+      "score": 19200000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-10-01 06:39:36"
+    },
     {
       "keyword": "latin pop",
       "score": 16000000,
@@ -9,25 +16,11 @@
       "timestamp": "2026-09-26 11:55:27"
     },
     {
-      "keyword": "wnba playoffs",
-      "score": 14200000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-09-30 22:44:47"
-    },
-    {
       "keyword": "hurricane polo",
-      "score": 7700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-28 23:37:38"
-    },
-    {
-      "keyword": "presley gerber",
       "score": 7500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-09-27 17:30:47"
+      "timestamp": "2026-09-28 23:37:38"
     },
     {
       "keyword": "case keenum",
@@ -37,18 +30,25 @@
       "timestamp": "2026-09-30 13:13:02"
     },
     {
+      "keyword": "presley gerber",
+      "score": 7000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-27 17:30:47"
+    },
+    {
       "keyword": "the love hypothesis",
-      "score": 6900000,
+      "score": 6700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-29 06:23:14"
     },
     {
-      "keyword": "kratom",
-      "score": 6400000,
-      "traffic_numeric": 500000,
+      "keyword": "cornell university",
+      "score": 6650000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-27 17:30:47"
+      "timestamp": "2026-10-01 06:39:36"
     },
     {
       "keyword": "noreaster",
@@ -56,6 +56,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-28 14:43:33"
+    },
+    {
+      "keyword": "kratom",
+      "score": 6200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-27 17:30:47"
     },
     {
       "keyword": "madonna",
@@ -70,13 +77,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-28 23:37:38"
-    },
-    {
-      "keyword": "cornell university",
-      "score": 5650000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-30 22:44:47"
     },
     {
       "keyword": "primetime",
@@ -107,11 +107,32 @@
       "timestamp": "2026-09-28 14:43:33"
     },
     {
+      "keyword": "christa pike",
+      "score": 3600000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-10-01 06:39:36"
+    },
+    {
+      "keyword": "unabomber",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-01 06:39:36"
+    },
+    {
       "keyword": "ravens vs cowboys",
       "score": 3200000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-09-28 23:37:38"
+    },
+    {
+      "keyword": "mlb",
+      "score": 3100000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-01 06:39:36"
     },
     {
       "keyword": "eagles vs bears",
@@ -121,15 +142,8 @@
       "timestamp": "2026-09-29 13:28:20"
     },
     {
-      "keyword": "unabomber",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-30 22:44:47"
-    },
-    {
       "keyword": "nolan wells",
-      "score": 2750000,
+      "score": 2700000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-09-28 23:37:38"
@@ -156,25 +170,18 @@
       "timestamp": "2026-09-30 22:44:47"
     },
     {
+      "keyword": "red sox vs yankees",
+      "score": 2200000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-01 06:39:36"
+    },
+    {
       "keyword": "pac",
       "score": 2200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-09-29 13:28:20"
-    },
-    {
-      "keyword": "mlb",
-      "score": 2100000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-30 22:44:47"
-    },
-    {
-      "keyword": "aileen wuornos",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-09-24 17:36:49"
     },
     {
       "keyword": "matt lafleur",
@@ -198,13 +205,6 @@
       "timestamp": "2026-09-29 22:42:18"
     },
     {
-      "keyword": "chiefs vs dolphins",
-      "score": 1700000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-28 23:37:38"
-    },
-    {
       "keyword": "raiders vs saints",
       "score": 1700000,
       "traffic_numeric": 1000000,
@@ -214,7 +214,7 @@
   ],
   "category_stats": {
     "其他": 108,
-    "体育": 72,
+    "体育": 75,
     "科技/AI": 9,
     "娱乐/生活": 4,
     "金融/商业": 1

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-03 21:47:16",
+  "last_updated": "2026-10-04 06:28:08",
   "trends": [
     {
       "keyword": "christa pike",
-      "score": 36600000,
+      "score": 41600000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-10-03 21:47:16"
+      "timestamp": "2026-10-04 06:28:08"
     },
     {
       "keyword": "wnba playoffs",
@@ -31,10 +31,10 @@
     },
     {
       "keyword": "chad lowe",
-      "score": 8250000,
+      "score": 9250000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-03 21:47:16"
+      "timestamp": "2026-10-04 06:28:08"
     },
     {
       "keyword": "case keenum",
@@ -44,18 +44,18 @@
       "timestamp": "2026-09-30 13:13:02"
     },
     {
-      "keyword": "dante moore",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-09-28 23:37:38"
-    },
-    {
       "keyword": "madonna",
       "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-09-30 06:06:49"
+    },
+    {
+      "keyword": "dante moore",
+      "score": 5500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-28 23:37:38"
     },
     {
       "keyword": "phillies vs braves",
@@ -73,7 +73,7 @@
     },
     {
       "keyword": "unabomber",
-      "score": 4300000,
+      "score": 4200000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-10-02 06:20:33"
@@ -93,32 +93,11 @@
       "timestamp": "2026-09-30 13:13:02"
     },
     {
-      "keyword": "hurricane polo",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-28 23:37:38"
-    },
-    {
-      "keyword": "the love hypothesis",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-29 06:23:14"
-    },
-    {
       "keyword": "ravens vs cowboys",
       "score": 3200000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-09-28 23:37:38"
-    },
-    {
-      "keyword": "primetime",
-      "score": 3100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-29 06:23:14"
     },
     {
       "keyword": "mlb",
@@ -135,10 +114,38 @@
       "timestamp": "2026-09-29 13:28:20"
     },
     {
-      "keyword": "nations league",
-      "score": 2800000,
+      "keyword": "hurricane polo",
+      "score": 3000000,
       "traffic_numeric": 500000,
-      "category": "体育",
+      "category": "其他",
+      "timestamp": "2026-09-28 23:37:38"
+    },
+    {
+      "keyword": "cornell 7 case",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-04 06:28:08"
+    },
+    {
+      "keyword": "gypsy rose",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-04 06:28:08"
+    },
+    {
+      "keyword": "the love hypothesis",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-29 06:23:14"
+    },
+    {
+      "keyword": "primetime",
+      "score": 2900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
       "timestamp": "2026-09-29 06:23:14"
     },
     {
@@ -156,11 +163,11 @@
       "timestamp": "2026-09-28 23:37:38"
     },
     {
-      "keyword": "cornell 7 case",
-      "score": 2500000,
+      "keyword": "nations league",
+      "score": 2600000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-03 21:47:16"
+      "category": "体育",
+      "timestamp": "2026-09-29 06:23:14"
     },
     {
       "keyword": "rams vs broncos",
@@ -184,11 +191,11 @@
       "timestamp": "2026-09-29 13:28:20"
     },
     {
-      "keyword": "presidents cup",
-      "score": 2100000,
+      "keyword": "verity movie",
+      "score": 2200000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-28 14:43:33"
+      "category": "娱乐/生活",
+      "timestamp": "2026-10-04 06:28:08"
     },
     {
       "keyword": "jackie chan",
@@ -203,21 +210,14 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-10-01 23:05:15"
-    },
-    {
-      "keyword": "noreaster",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-28 14:43:33"
     }
   ],
   "category_stats": {
-    "其他": 109,
-    "体育": 77,
+    "其他": 113,
+    "体育": 84,
     "科技/AI": 13,
-    "娱乐/生活": 3,
-    "金融/商业": 2
+    "金融/商业": 2,
+    "娱乐/生活": 2
   },
   "insights": []
 }

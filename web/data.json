@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-10-04 13:04:04",
+  "last_updated": "2026-10-04 22:04:48",
   "trends": [
     {
       "keyword": "christa pike",
-      "score": 46600000,
+      "score": 51600000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-10-04 13:04:04"
+      "timestamp": "2026-10-04 22:04:48"
     },
     {
       "keyword": "wnba playoffs",
-      "score": 24200009,
+      "score": 29200009,
       "traffic_numeric": 5000000,
       "category": "体育",
-      "timestamp": "2026-10-04 13:04:04"
+      "timestamp": "2026-10-04 22:04:48"
     },
     {
       "keyword": "cornell university",
-      "score": 13650000,
+      "score": 13600000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-10-02 13:16:16"
     },
     {
       "keyword": "chad lowe",
-      "score": 10250000,
+      "score": 11250000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-04 13:04:04"
+      "timestamp": "2026-10-04 22:04:48"
     },
     {
       "keyword": "steelers vs browns",
@@ -58,11 +58,11 @@
       "timestamp": "2026-10-02 13:16:16"
     },
     {
-      "keyword": "dante moore",
+      "keyword": "gypsy rose",
       "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-09-28 23:37:38"
+      "timestamp": "2026-10-04 22:04:48"
     },
     {
       "keyword": "ken urker",
@@ -79,11 +79,11 @@
       "timestamp": "2026-10-01 14:07:51"
     },
     {
-      "keyword": "unabomber",
-      "score": 4100000,
+      "keyword": "cornell 7 case",
+      "score": 4000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-10-02 06:20:33"
+      "timestamp": "2026-10-04 22:04:48"
     },
     {
       "keyword": "kate upton",
@@ -93,32 +93,18 @@
       "timestamp": "2026-09-30 13:13:02"
     },
     {
-      "keyword": "gypsy rose",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-04 13:04:04"
-    },
-    {
-      "keyword": "cornell 7 case",
-      "score": 3500000,
+      "keyword": "unabomber",
+      "score": 3900000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-10-04 13:04:04"
+      "timestamp": "2026-10-02 06:20:33"
     },
     {
-      "keyword": "ravens vs cowboys",
+      "keyword": "verity movie",
       "score": 3200000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-28 23:37:38"
-    },
-    {
-      "keyword": "eagles vs bears",
-      "score": 3100000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-09-29 13:28:20"
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-10-04 22:04:48"
     },
     {
       "keyword": "mlb",
@@ -128,6 +114,27 @@
       "timestamp": "2026-10-01 06:39:36"
     },
     {
+      "keyword": "eagles vs bears",
+      "score": 3100000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-09-29 13:28:20"
+    },
+    {
+      "keyword": "dante moore",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-09-28 23:37:38"
+    },
+    {
+      "keyword": "ravens vs cowboys",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-28 23:37:38"
+    },
+    {
       "keyword": "cubs vs padres",
       "score": 2700000,
       "traffic_numeric": 1000000,
@@ -135,46 +142,18 @@
       "timestamp": "2026-10-01 14:07:51"
     },
     {
-      "keyword": "primetime",
-      "score": 2700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-29 06:23:14"
-    },
-    {
-      "keyword": "verity movie",
-      "score": 2700000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-10-04 13:04:04"
-    },
-    {
-      "keyword": "seahawks vs commanders",
-      "score": 2600000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-09-28 23:37:38"
-    },
-    {
-      "keyword": "the love hypothesis",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-29 06:23:14"
-    },
-    {
-      "keyword": "hurricane polo",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-28 23:37:38"
-    },
-    {
       "keyword": "rams vs broncos",
       "score": 2500000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-09-28 23:37:38"
+    },
+    {
+      "keyword": "usa vs mexico",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-04 22:04:48"
     },
     {
       "keyword": "jj mccarthy",
@@ -191,13 +170,6 @@
       "timestamp": "2026-09-29 13:28:20"
     },
     {
-      "keyword": "nations league",
-      "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-09-29 06:23:14"
-    },
-    {
       "keyword": "jackie chan",
       "score": 2100000,
       "traffic_numeric": 200000,
@@ -210,11 +182,39 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-10-01 23:05:15"
+    },
+    {
+      "keyword": "seahawks vs commanders",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-09-28 23:37:38"
+    },
+    {
+      "keyword": "braves vs dodgers",
+      "score": 1800000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-04 22:04:48"
+    },
+    {
+      "keyword": "east of eden",
+      "score": 1750000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-10-04 22:04:48"
+    },
+    {
+      "keyword": "primetime",
+      "score": 1700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-09-29 06:23:14"
     }
   ],
   "category_stats": {
-    "其他": 112,
-    "体育": 78,
+    "其他": 107,
+    "体育": 81,
     "科技/AI": 13,
     "金融/商业": 2,
     "娱乐/生活": 2

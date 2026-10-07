@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-10-07 13:58:15",
+  "last_updated": "2026-10-07 23:24:28",
   "trends": [
     {
       "keyword": "christa pike",
-      "score": 61000000,
+      "score": 60000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-10-05 15:19:19"
     },
     {
       "keyword": "wnba playoffs",
-      "score": 30000009,
+      "score": 25000009,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-10-06 00:34:24"
@@ -24,7 +24,7 @@
     },
     {
       "keyword": "chad lowe",
-      "score": 14000000,
+      "score": 13500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-06 06:54:07"
@@ -38,7 +38,7 @@
     },
     {
       "keyword": "cornell university",
-      "score": 9000000,
+      "score": 8000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-10-02 13:16:16"
@@ -80,17 +80,17 @@
     },
     {
       "keyword": "phillies vs braves",
-      "score": 4500000,
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-10-02 13:16:16"
     },
     {
-      "keyword": "red sox vs yankees",
-      "score": 3200000,
-      "traffic_numeric": 2000000,
+      "keyword": "argentina vs benin",
+      "score": 3350000,
+      "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-10-01 14:07:51"
+      "timestamp": "2026-10-07 23:24:28"
     },
     {
       "keyword": "verity movie",
@@ -100,6 +100,20 @@
       "timestamp": "2026-10-04 22:04:48"
     },
     {
+      "keyword": "cowboys vs texans",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-05 15:19:19"
+    },
+    {
+      "keyword": "red sox vs yankees",
+      "score": 3000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-01 14:07:51"
+    },
+    {
       "keyword": "patriots vs bills",
       "score": 3000000,
       "traffic_numeric": 1000000,
@@ -107,11 +121,11 @@
       "timestamp": "2026-10-05 15:19:19"
     },
     {
-      "keyword": "cowboys vs texans",
-      "score": 3000000,
+      "keyword": "amazon prime days",
+      "score": 2900000,
       "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-05 15:19:19"
+      "category": "其他",
+      "timestamp": "2026-10-07 23:24:28"
     },
     {
       "keyword": "lions vs panthers",
@@ -142,32 +156,11 @@
       "timestamp": "2026-10-04 22:04:48"
     },
     {
-      "keyword": "argentina vs benin",
-      "score": 2350000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-07 13:58:15"
-    },
-    {
       "keyword": "yankees vs rays",
-      "score": 2300000,
+      "score": 2500000,
       "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-10-07 13:58:15"
-    },
-    {
-      "keyword": "mlb",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-01 06:39:36"
-    },
-    {
-      "keyword": "unabomber",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-02 06:20:33"
+      "timestamp": "2026-10-07 23:24:28"
     },
     {
       "keyword": "cubs vs padres",
@@ -177,11 +170,11 @@
       "timestamp": "2026-10-01 14:07:51"
     },
     {
-      "keyword": "amazon prime days",
-      "score": 1900000,
+      "keyword": "russian plague",
+      "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-07 13:58:15"
+      "timestamp": "2026-10-07 23:24:28"
     },
     {
       "keyword": "pneumonic plague",
@@ -210,14 +203,21 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-10-05 06:21:25"
+    },
+    {
+      "keyword": "nba",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-10-07 23:24:28"
     }
   ],
   "category_stats": {
-    "其他": 113,
-    "体育": 74,
+    "其他": 116,
+    "体育": 75,
     "科技/AI": 14,
-    "金融/商业": 2,
-    "娱乐/生活": 2
+    "娱乐/生活": 3,
+    "金融/商业": 1
   },
   "insights": []
 }

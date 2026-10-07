@@ -1,40 +1,33 @@
 {
-  "last_updated": "2026-10-06 22:54:42",
+  "last_updated": "2026-10-07 06:33:49",
   "trends": [
     {
       "keyword": "christa pike",
-      "score": 61400000,
+      "score": 61200000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-10-05 15:19:19"
     },
     {
       "keyword": "wnba playoffs",
-      "score": 37000009,
+      "score": 35000009,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-10-06 00:34:24"
     },
     {
       "keyword": "gypsy rose",
-      "score": 17000000,
+      "score": 19000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-06 22:54:42"
+      "timestamp": "2026-10-07 06:33:49"
     },
     {
       "keyword": "chad lowe",
-      "score": 14250000,
+      "score": 14200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-06 06:54:07"
-    },
-    {
-      "keyword": "cornell university",
-      "score": 11000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-02 13:16:16"
     },
     {
       "keyword": "steelers vs browns",
@@ -44,31 +37,38 @@
       "timestamp": "2026-10-03 12:11:04"
     },
     {
+      "keyword": "cornell university",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-10-02 13:16:16"
+    },
+    {
       "keyword": "cornell 7 case",
-      "score": 6100000,
+      "score": 6300000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-10-06 22:54:42"
+      "timestamp": "2026-10-07 06:33:49"
+    },
+    {
+      "keyword": "braves vs dodgers",
+      "score": 5800000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-07 06:33:49"
+    },
+    {
+      "keyword": "east of eden",
+      "score": 5250000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-07 06:33:49"
     },
     {
       "keyword": "falcons vs saints",
       "score": 5200000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
-      "timestamp": "2026-10-06 22:54:42"
-    },
-    {
-      "keyword": "braves vs dodgers",
-      "score": 4800000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-06 22:54:42"
-    },
-    {
-      "keyword": "east of eden",
-      "score": 4750000,
-      "traffic_numeric": 500000,
-      "category": "其他",
       "timestamp": "2026-10-06 22:54:42"
     },
     {
@@ -87,17 +87,10 @@
     },
     {
       "keyword": "red sox vs yankees",
-      "score": 4200000,
+      "score": 3700000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-10-01 14:07:51"
-    },
-    {
-      "keyword": "case keenum",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-09-30 13:13:02"
     },
     {
       "keyword": "verity movie",
@@ -107,20 +100,6 @@
       "timestamp": "2026-10-04 22:04:48"
     },
     {
-      "keyword": "cowboys vs texans",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-05 15:19:19"
-    },
-    {
-      "keyword": "mlb",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-01 06:39:36"
-    },
-    {
       "keyword": "patriots vs bills",
       "score": 3000000,
       "traffic_numeric": 1000000,
@@ -128,11 +107,11 @@
       "timestamp": "2026-10-05 15:19:19"
     },
     {
-      "keyword": "cubs vs padres",
-      "score": 2700000,
+      "keyword": "cowboys vs texans",
+      "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-10-01 14:07:51"
+      "timestamp": "2026-10-05 15:19:19"
     },
     {
       "keyword": "chiefs vs raiders",
@@ -142,6 +121,13 @@
       "timestamp": "2026-10-05 15:19:19"
     },
     {
+      "keyword": "cubs vs padres",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-01 14:07:51"
+    },
+    {
       "keyword": "broncos vs 49ers",
       "score": 2500000,
       "traffic_numeric": 1000000,
@@ -149,11 +135,18 @@
       "timestamp": "2026-10-05 15:19:19"
     },
     {
-      "keyword": "unabomber",
+      "keyword": "lions vs panthers",
       "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-02 06:20:33"
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-06 00:34:24"
+    },
+    {
+      "keyword": "mlb",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-01 06:39:36"
     },
     {
       "keyword": "usa vs mexico",
@@ -163,11 +156,32 @@
       "timestamp": "2026-10-04 22:04:48"
     },
     {
-      "keyword": "lions vs panthers",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
+      "keyword": "yankees vs rays",
+      "score": 2100000,
+      "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-10-06 00:34:24"
+      "timestamp": "2026-10-07 06:33:49"
+    },
+    {
+      "keyword": "unabomber",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-02 06:20:33"
+    },
+    {
+      "keyword": "case keenum",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-09-30 13:13:02"
+    },
+    {
+      "keyword": "pneumonic plague",
+      "score": 1900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-07 06:33:49"
     },
     {
       "keyword": "padres vs brewers",
@@ -184,38 +198,24 @@
       "timestamp": "2026-10-05 06:21:25"
     },
     {
-      "keyword": "yankees vs rays",
-      "score": 1600000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-10-06 22:54:42"
-    },
-    {
-      "keyword": "mlb playoffs",
-      "score": 1600000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-10-01 23:05:15"
-    },
-    {
-      "keyword": "jj mccarthy",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-09-30 22:44:47"
-    },
-    {
       "keyword": "penn state vs northwestern",
       "score": 1500000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-10-03 16:47:39"
+    },
+    {
+      "keyword": "white sox vs guardians",
+      "score": 1500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-06 00:34:24"
     }
   ],
   "category_stats": {
-    "其他": 117,
-    "体育": 75,
-    "科技/AI": 14,
+    "其他": 115,
+    "体育": 77,
+    "科技/AI": 16,
     "金融/商业": 2,
     "娱乐/生活": 1
   },

@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-10-08 14:08:26",
+  "last_updated": "2026-10-08 23:41:39",
   "trends": [
     {
       "keyword": "christa pike",
-      "score": 56000000,
+      "score": 54000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-10-05 15:19:19"
     },
     {
       "keyword": "wnba playoffs",
-      "score": 20000008,
+      "score": 20000007,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-10-06 00:34:24"
@@ -24,14 +24,14 @@
     },
     {
       "keyword": "chad lowe",
-      "score": 12500000,
+      "score": 12000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-06 06:54:07"
     },
     {
       "keyword": "steelers vs browns",
-      "score": 10050000,
+      "score": 10000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-10-03 12:11:04"
@@ -51,15 +51,15 @@
       "timestamp": "2026-10-07 06:33:49"
     },
     {
-      "keyword": "cornell university",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
+      "keyword": "amazon prime days",
+      "score": 5900000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-02 13:16:16"
+      "timestamp": "2026-10-08 23:41:39"
     },
     {
       "keyword": "east of eden",
-      "score": 5750000,
+      "score": 5700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-10-07 13:58:15"
@@ -72,10 +72,24 @@
       "timestamp": "2026-10-06 22:54:42"
     },
     {
-      "keyword": "amazon prime days",
-      "score": 4900000,
+      "keyword": "hurricane isaias",
+      "score": 5000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-10-08 23:41:39"
+    },
+    {
+      "keyword": "russian plague",
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
+      "timestamp": "2026-10-08 23:41:39"
+    },
+    {
+      "keyword": "yankees vs rays",
+      "score": 4500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
       "timestamp": "2026-10-08 14:08:26"
     },
     {
@@ -86,18 +100,11 @@
       "timestamp": "2026-10-03 12:11:04"
     },
     {
-      "keyword": "yankees vs rays",
-      "score": 4500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-08 14:08:26"
-    },
-    {
-      "keyword": "russian plague",
+      "keyword": "cornell university",
       "score": 4000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-08 14:08:26"
+      "timestamp": "2026-10-02 13:16:16"
     },
     {
       "keyword": "argentina vs benin",
@@ -107,25 +114,18 @@
       "timestamp": "2026-10-07 23:24:28"
     },
     {
+      "keyword": "world space week 2026",
+      "score": 3300000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-08 23:41:39"
+    },
+    {
       "keyword": "verity movie",
       "score": 3200000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-10-04 22:04:48"
-    },
-    {
-      "keyword": "hurricane isaias",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-10-08 14:08:26"
-    },
-    {
-      "keyword": "cowboys vs texans",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-05 15:19:19"
     },
     {
       "keyword": "patriots vs bills",
@@ -135,31 +135,17 @@
       "timestamp": "2026-10-05 15:19:19"
     },
     {
-      "keyword": "phillies vs braves",
+      "keyword": "guardians vs white sox",
       "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-10-02 13:16:16"
+      "timestamp": "2026-10-08 23:41:39"
     },
     {
-      "keyword": "usa vs mexico",
-      "score": 2500000,
+      "keyword": "cowboys vs texans",
+      "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-10-04 22:04:48"
-    },
-    {
-      "keyword": "lions vs panthers",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-06 00:34:24"
-    },
-    {
-      "keyword": "chiefs vs raiders",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
       "timestamp": "2026-10-05 15:19:19"
     },
     {
@@ -170,11 +156,46 @@
       "timestamp": "2026-10-05 15:19:19"
     },
     {
-      "keyword": "world space week 2026",
-      "score": 2300000,
+      "keyword": "usa vs mexico",
+      "score": 2500000,
       "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-04 22:04:48"
+    },
+    {
+      "keyword": "chiefs vs raiders",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-10-05 15:19:19"
+    },
+    {
+      "keyword": "lions vs panthers",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-06 00:34:24"
+    },
+    {
+      "keyword": "freddie jackson",
+      "score": 2400000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-10-08 14:08:26"
+      "timestamp": "2026-10-08 23:41:39"
+    },
+    {
+      "keyword": "why did i get $90 from social security",
+      "score": 2200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-08 23:41:39"
+    },
+    {
+      "keyword": "nba",
+      "score": 2200000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-10-08 23:41:39"
     },
     {
       "keyword": "steve gleason",
@@ -184,39 +205,18 @@
       "timestamp": "2026-10-08 06:45:24"
     },
     {
-      "keyword": "guardians vs white sox",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-08 14:08:26"
-    },
-    {
-      "keyword": "nba",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-10-08 06:45:24"
-    },
-    {
       "keyword": "brewers vs padres",
       "score": 2000000,
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-10-08 14:08:26"
-    },
-    {
-      "keyword": "freddie jackson",
-      "score": 1900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-08 14:08:26"
     }
   ],
   "category_stats": {
-    "其他": 110,
-    "体育": 67,
-    "科技/AI": 15,
-    "娱乐/生活": 3,
+    "其他": 107,
+    "体育": 66,
+    "科技/AI": 16,
+    "娱乐/生活": 4,
     "金融/商业": 1
   },
   "insights": [

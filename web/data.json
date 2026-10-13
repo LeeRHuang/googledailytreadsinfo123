@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-10-12 16:13:01",
+  "last_updated": "2026-10-13 01:04:13",
   "trends": [
     {
       "keyword": "hurricane isaias",
-      "score": 54000000,
+      "score": 59000000,
       "traffic_numeric": 5000000,
       "category": "科技/AI",
-      "timestamp": "2026-10-12 16:13:01"
+      "timestamp": "2026-10-13 01:04:13"
     },
     {
       "keyword": "susan dell",
-      "score": 10920000,
+      "score": 11920000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-12 16:13:01"
+      "timestamp": "2026-10-13 01:04:13"
     },
     {
       "keyword": "buccaneers vs cowboys",
@@ -23,18 +23,18 @@
       "timestamp": "2026-10-10 13:14:08"
     },
     {
-      "keyword": "gypsy rose",
+      "keyword": "mike ditka",
       "score": 10000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-13 01:04:13"
+    },
+    {
+      "keyword": "gypsy rose",
+      "score": 8000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-10-07 06:33:49"
-    },
-    {
-      "keyword": "mike ditka",
-      "score": 9000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-12 16:13:01"
     },
     {
       "keyword": "guardians vs white sox",
@@ -51,6 +51,13 @@
       "timestamp": "2026-10-10 06:33:43"
     },
     {
+      "keyword": "carrie tv show",
+      "score": 6520000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-10-13 01:04:13"
+    },
+    {
       "keyword": "nidal hasan",
       "score": 6350000,
       "traffic_numeric": 1000000,
@@ -63,13 +70,6 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-10-12 16:13:01"
-    },
-    {
-      "keyword": "braves vs dodgers",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-08 14:08:26"
     },
     {
       "keyword": "russian plague",
@@ -93,11 +93,11 @@
       "timestamp": "2026-10-08 23:41:39"
     },
     {
-      "keyword": "carrie tv show",
-      "score": 5520000,
+      "keyword": "braves vs dodgers",
+      "score": 5500000,
       "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-10-12 16:13:01"
+      "category": "体育",
+      "timestamp": "2026-10-08 14:08:26"
     },
     {
       "keyword": "georgia vs alabama",
@@ -108,24 +108,10 @@
     },
     {
       "keyword": "falcons vs saints",
-      "score": 5200000,
+      "score": 5000000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-10-06 22:54:42"
-    },
-    {
-      "keyword": "wnba playoffs",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-10-06 00:34:24"
-    },
-    {
-      "keyword": "alabama vs georgia",
-      "score": 4500000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-12 16:13:01"
     },
     {
       "keyword": "texas vs oklahoma",
@@ -135,8 +121,15 @@
       "timestamp": "2026-10-11 22:41:29"
     },
     {
+      "keyword": "alabama vs georgia",
+      "score": 4500000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-12 16:13:01"
+    },
+    {
       "keyword": "yankees vs rays",
-      "score": 4100000,
+      "score": 3900000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-10-08 14:08:26"
@@ -149,25 +142,32 @@
       "timestamp": "2026-10-07 23:24:28"
     },
     {
-      "keyword": "nba",
-      "score": 3100000,
-      "traffic_numeric": 500000,
+      "keyword": "49ers vs seahawks",
+      "score": 3200000,
+      "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-10-09 13:50:17"
-    },
-    {
-      "keyword": "east of eden",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-07 13:58:15"
+      "timestamp": "2026-10-13 01:04:13"
     },
     {
       "keyword": "marvin harrison jr",
-      "score": 2700000,
+      "score": 3200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-10-12 16:13:01"
+      "timestamp": "2026-10-13 01:04:13"
+    },
+    {
+      "keyword": "bears vs packers",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-13 01:04:13"
+    },
+    {
+      "keyword": "nba",
+      "score": 2900000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-10-09 13:50:17"
     },
     {
       "keyword": "why did i get $90 from social security",
@@ -177,18 +177,32 @@
       "timestamp": "2026-10-09 13:50:17"
     },
     {
+      "keyword": "dodgers vs brewers",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-13 01:04:13"
+    },
+    {
+      "keyword": "ravens vs falcons",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-13 01:04:13"
+    },
+    {
+      "keyword": "east of eden",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-07 13:58:15"
+    },
+    {
       "keyword": "steve gleason",
-      "score": 2200000,
+      "score": 2100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-10-08 06:45:24"
-    },
-    {
-      "keyword": "49ers vs seahawks",
-      "score": 2200000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-12 16:13:01"
     },
     {
       "keyword": "brewers vs padres",
@@ -196,25 +210,11 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-10-08 14:08:26"
-    },
-    {
-      "keyword": "dodgers vs brewers",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-12 16:13:01"
-    },
-    {
-      "keyword": "tropical storm rachel",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-12 06:43:59"
     }
   ],
   "category_stats": {
     "其他": 91,
-    "体育": 44,
+    "体育": 42,
     "科技/AI": 12,
     "娱乐/生活": 4
   },

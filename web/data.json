@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13 14:46:39",
+  "last_updated": "2026-10-13 23:18:33",
   "trends": [
     {
       "keyword": "hurricane isaias",
@@ -10,17 +10,17 @@
     },
     {
       "keyword": "susan dell",
-      "score": 12920000,
+      "score": 13920000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-13 14:46:39"
+      "timestamp": "2026-10-13 23:18:33"
     },
     {
       "keyword": "mike ditka",
-      "score": 11000000,
+      "score": 12000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-13 14:46:39"
+      "timestamp": "2026-10-13 23:18:33"
     },
     {
       "keyword": "buccaneers vs cowboys",
@@ -31,10 +31,10 @@
     },
     {
       "keyword": "carrie tv show",
-      "score": 7520000,
+      "score": 8520000,
       "traffic_numeric": 1000000,
       "category": "娱乐/生活",
-      "timestamp": "2026-10-13 14:46:39"
+      "timestamp": "2026-10-13 23:18:33"
     },
     {
       "keyword": "guardians vs white sox",
@@ -45,7 +45,7 @@
     },
     {
       "keyword": "world space week 2026",
-      "score": 7300000,
+      "score": 6900000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-10 06:33:43"
@@ -65,39 +65,32 @@
       "timestamp": "2026-10-12 16:13:01"
     },
     {
-      "keyword": "gypsy rose",
+      "keyword": "rj mitte",
       "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-07 06:33:49"
-    },
-    {
-      "keyword": "russian plague",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-09 13:50:17"
+      "timestamp": "2026-10-13 23:18:33"
     },
     {
       "keyword": "freddie jackson",
-      "score": 5900000,
+      "score": 5600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-10-11 06:38:41"
     },
     {
+      "keyword": "russian plague",
+      "score": 5500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-09 13:50:17"
+    },
+    {
       "keyword": "amazon prime days",
-      "score": 5900000,
+      "score": 5500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-08 23:41:39"
-    },
-    {
-      "keyword": "braves vs dodgers",
-      "score": 5500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-08 14:08:26"
     },
     {
       "keyword": "georgia vs alabama",
@@ -114,6 +107,13 @@
       "timestamp": "2026-10-12 16:13:01"
     },
     {
+      "keyword": "dodgers vs brewers",
+      "score": 4500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-13 23:18:33"
+    },
+    {
       "keyword": "texas vs oklahoma",
       "score": 4500000,
       "traffic_numeric": 2000000,
@@ -121,52 +121,38 @@
       "timestamp": "2026-10-11 22:41:29"
     },
     {
-      "keyword": "falcons vs saints",
+      "keyword": "post-tropical cyclone isaias",
       "score": 4000000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
-      "timestamp": "2026-10-06 22:54:42"
+      "timestamp": "2026-10-13 23:18:33"
     },
     {
-      "keyword": "rj mitte",
+      "keyword": "braves vs dodgers",
       "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-13 14:46:39"
-    },
-    {
-      "keyword": "dodgers vs brewers",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-13 14:46:39"
-    },
-    {
-      "keyword": "yankees vs rays",
-      "score": 3400000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-10-08 14:08:26"
     },
     {
-      "keyword": "argentina vs benin",
-      "score": 3300000,
-      "traffic_numeric": 1000000,
+      "keyword": "bills vs rams",
+      "score": 3500000,
+      "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-10-07 23:24:28"
-    },
-    {
-      "keyword": "marvin harrison jr",
-      "score": 3200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-13 01:04:13"
+      "timestamp": "2026-10-13 23:18:33"
     },
     {
       "keyword": "49ers vs seahawks",
       "score": 3200000,
       "traffic_numeric": 1000000,
       "category": "体育",
+      "timestamp": "2026-10-13 01:04:13"
+    },
+    {
+      "keyword": "marvin harrison jr",
+      "score": 3200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
       "timestamp": "2026-10-13 01:04:13"
     },
     {
@@ -177,11 +163,32 @@
       "timestamp": "2026-10-13 01:04:13"
     },
     {
-      "keyword": "why did i get $90 from social security",
-      "score": 2700000,
+      "keyword": "argentina vs benin",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-07 23:24:28"
+    },
+    {
+      "keyword": "yankees vs rays",
+      "score": 2900000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-08 14:08:26"
+    },
+    {
+      "keyword": "below netflix",
+      "score": 2600000,
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-10-13 23:18:33"
+    },
+    {
+      "keyword": "katie zacharia",
+      "score": 2600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-10-09 13:50:17"
+      "timestamp": "2026-10-13 23:18:33"
     },
     {
       "keyword": "ravens vs falcons",
@@ -191,11 +198,11 @@
       "timestamp": "2026-10-13 01:04:13"
     },
     {
-      "keyword": "bills vs rams",
-      "score": 2500000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-13 14:46:39"
+      "keyword": "why did i get $90 from social security",
+      "score": 2400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-09 13:50:17"
     },
     {
       "keyword": "nba",
@@ -203,19 +210,12 @@
       "traffic_numeric": 500000,
       "category": "体育",
       "timestamp": "2026-10-09 13:50:17"
-    },
-    {
-      "keyword": "katie zacharia",
-      "score": 2100000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-10-13 14:46:39"
     }
   ],
   "category_stats": {
-    "其他": 86,
-    "体育": 43,
-    "科技/AI": 14,
+    "其他": 80,
+    "体育": 46,
+    "科技/AI": 13,
     "娱乐/生活": 4
   },
   "insights": [

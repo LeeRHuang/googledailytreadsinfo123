@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-10-15 05:23:00",
+  "last_updated": "2026-10-15 12:14:43",
   "trends": [
     {
       "keyword": "hurricane isaias",
-      "score": 60000000,
+      "score": 59000000,
       "traffic_numeric": 5000000,
       "category": "科技/AI",
       "timestamp": "2026-10-13 14:46:39"
     },
     {
       "keyword": "mike ditka",
-      "score": 17000000,
+      "score": 18000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-15 05:23:00"
+      "timestamp": "2026-10-15 12:14:43"
     },
     {
       "keyword": "rj mitte",
-      "score": 16000000,
+      "score": 18000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-15 05:23:00"
+      "timestamp": "2026-10-15 12:14:43"
     },
     {
       "keyword": "susan dell",
-      "score": 15900000,
+      "score": 15700000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-14 12:29:59"
     },
     {
       "keyword": "dodgers vs brewers",
-      "score": 10500000,
+      "score": 12500000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-10-15 05:23:00"
+      "timestamp": "2026-10-15 12:14:43"
     },
     {
       "keyword": "buccaneers vs cowboys",
@@ -45,17 +45,31 @@
     },
     {
       "keyword": "carrie tv show",
-      "score": 9500000,
+      "score": 9400000,
       "traffic_numeric": 1000000,
       "category": "娱乐/生活",
       "timestamp": "2026-10-14 05:36:10"
     },
     {
       "keyword": "post-tropical cyclone isaias",
-      "score": 8000000,
+      "score": 8500000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
-      "timestamp": "2026-10-14 22:09:46"
+      "timestamp": "2026-10-15 12:14:43"
+    },
+    {
+      "keyword": "selma blair",
+      "score": 7700000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-10-15 12:14:43"
+    },
+    {
+      "keyword": "katie zacharia",
+      "score": 7600000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-15 12:14:43"
     },
     {
       "keyword": "bills vs rams",
@@ -65,32 +79,18 @@
       "timestamp": "2026-10-14 22:09:46"
     },
     {
+      "keyword": "six flags death",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-15 12:14:43"
+    },
+    {
       "keyword": "guardians vs white sox",
-      "score": 6900000,
+      "score": 6400000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-10-11 13:38:30"
-    },
-    {
-      "keyword": "selma blair",
-      "score": 6700000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-10-15 05:23:00"
-    },
-    {
-      "keyword": "katie zacharia",
-      "score": 6600000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-15 05:23:00"
-    },
-    {
-      "keyword": "world space week 2026",
-      "score": 6500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-10 06:33:43"
     },
     {
       "keyword": "eagles vs jaguars",
@@ -100,18 +100,18 @@
       "timestamp": "2026-10-12 16:13:01"
     },
     {
-      "keyword": "nidal hasan",
+      "keyword": "world space week 2026",
       "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-10 06:33:43"
+    },
+    {
+      "keyword": "nidal hasan",
+      "score": 5900000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-12 16:13:01"
-    },
-    {
-      "keyword": "six flags death",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-15 05:23:00"
     },
     {
       "keyword": "georgia vs alabama",
@@ -121,18 +121,18 @@
       "timestamp": "2026-10-12 16:13:01"
     },
     {
-      "keyword": "freddie jackson",
-      "score": 5000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-11 06:38:41"
-    },
-    {
       "keyword": "texas vs oklahoma",
       "score": 4500000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-10-11 22:41:29"
+    },
+    {
+      "keyword": "freddie jackson",
+      "score": 4500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-11 06:38:41"
     },
     {
       "keyword": "alabama vs georgia",
@@ -149,11 +149,11 @@
       "timestamp": "2026-10-14 05:36:10"
     },
     {
-      "keyword": "russian plague",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
+      "keyword": "shane gillis",
+      "score": 4100000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-10-09 13:50:17"
+      "timestamp": "2026-10-15 12:14:43"
     },
     {
       "keyword": "below netflix",
@@ -163,18 +163,18 @@
       "timestamp": "2026-10-15 05:23:00"
     },
     {
+      "keyword": "champions league",
+      "score": 3800000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-15 12:14:43"
+    },
+    {
       "keyword": "kimberly guilfoyle",
       "score": 3650000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-10-14 17:41:06"
-    },
-    {
-      "keyword": "shane gillis",
-      "score": 3600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-15 05:23:00"
     },
     {
       "keyword": "marvin harrison jr",
@@ -184,6 +184,13 @@
       "timestamp": "2026-10-13 01:04:13"
     },
     {
+      "keyword": "russian plague",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-09 13:50:17"
+    },
+    {
       "keyword": "bears vs packers",
       "score": 3000000,
       "traffic_numeric": 1000000,
@@ -191,31 +198,24 @@
       "timestamp": "2026-10-13 01:04:13"
     },
     {
-      "keyword": "amazon prime days",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-08 23:41:39"
-    },
-    {
-      "keyword": "champions league",
-      "score": 2800000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-15 05:23:00"
-    },
-    {
       "keyword": "art of play brooklyn",
       "score": 2650000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-10-14 22:09:46"
+    },
+    {
+      "keyword": "harrison mevis",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-15 12:14:43"
     }
   ],
   "category_stats": {
-    "其他": 80,
-    "体育": 45,
-    "科技/AI": 12,
+    "其他": 79,
+    "体育": 46,
+    "科技/AI": 11,
     "娱乐/生活": 3
   },
   "insights": [

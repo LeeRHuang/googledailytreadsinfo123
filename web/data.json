@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15 17:33:54",
+  "last_updated": "2026-10-15 21:53:31",
   "trends": [
     {
       "keyword": "hurricane isaias",
@@ -10,10 +10,10 @@
     },
     {
       "keyword": "rj mitte",
-      "score": 20000000,
+      "score": 22000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-15 17:33:54"
+      "timestamp": "2026-10-15 21:53:31"
     },
     {
       "keyword": "mike ditka",
@@ -23,18 +23,18 @@
       "timestamp": "2026-10-15 12:14:43"
     },
     {
+      "keyword": "dodgers vs brewers",
+      "score": 16500000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-15 21:53:31"
+    },
+    {
       "keyword": "susan dell",
       "score": 15500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-14 12:29:59"
-    },
-    {
-      "keyword": "dodgers vs brewers",
-      "score": 14500000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-15 17:33:54"
     },
     {
       "keyword": "buccaneers vs cowboys",
@@ -44,6 +44,20 @@
       "timestamp": "2026-10-10 13:14:08"
     },
     {
+      "keyword": "selma blair",
+      "score": 9700000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-10-15 21:53:31"
+    },
+    {
+      "keyword": "katie zacharia",
+      "score": 9600000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-15 21:53:31"
+    },
+    {
       "keyword": "carrie tv show",
       "score": 9300000,
       "traffic_numeric": 1000000,
@@ -51,32 +65,18 @@
       "timestamp": "2026-10-14 05:36:10"
     },
     {
-      "keyword": "selma blair",
-      "score": 8700000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-10-15 17:33:54"
-    },
-    {
-      "keyword": "katie zacharia",
-      "score": 8600000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-15 17:33:54"
-    },
-    {
       "keyword": "post-tropical cyclone isaias",
-      "score": 8500000,
+      "score": 9000000,
       "traffic_numeric": 2000000,
       "category": "科技/AI",
-      "timestamp": "2026-10-15 12:14:43"
+      "timestamp": "2026-10-15 21:53:31"
     },
     {
       "keyword": "six flags death",
-      "score": 8000000,
+      "score": 9000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-15 17:33:54"
+      "timestamp": "2026-10-15 21:53:31"
     },
     {
       "keyword": "bills vs rams",
@@ -114,6 +114,13 @@
       "timestamp": "2026-10-11 13:38:30"
     },
     {
+      "keyword": "shane gillis",
+      "score": 5100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-15 21:53:31"
+    },
+    {
       "keyword": "world space week 2026",
       "score": 5000000,
       "traffic_numeric": 1000000,
@@ -128,11 +135,11 @@
       "timestamp": "2026-10-15 17:33:54"
     },
     {
-      "keyword": "shane gillis",
-      "score": 4600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-15 17:33:54"
+      "keyword": "texas vs oklahoma",
+      "score": 4500000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-11 22:41:29"
     },
     {
       "keyword": "alabama vs georgia",
@@ -140,13 +147,6 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-10-12 16:13:01"
-    },
-    {
-      "keyword": "texas vs oklahoma",
-      "score": 4500000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-11 22:41:29"
     },
     {
       "keyword": "49ers vs seahawks",
@@ -185,10 +185,10 @@
     },
     {
       "keyword": "guardians vs rays",
-      "score": 3000000,
+      "score": 3200000,
       "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-10-15 17:33:54"
+      "timestamp": "2026-10-15 21:53:31"
     },
     {
       "keyword": "bears vs packers",
@@ -199,10 +199,10 @@
     },
     {
       "keyword": "harrison mevis",
-      "score": 2700000,
+      "score": 2900000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-15 17:33:54"
+      "timestamp": "2026-10-15 21:53:31"
     },
     {
       "keyword": "art of play brooklyn",
@@ -213,10 +213,10 @@
     }
   ],
   "category_stats": {
-    "其他": 76,
+    "其他": 78,
     "体育": 44,
     "科技/AI": 10,
-    "娱乐/生活": 3
+    "娱乐/生活": 4
   },
   "insights": [
     {

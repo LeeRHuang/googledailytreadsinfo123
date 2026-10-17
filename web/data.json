@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-17 16:11:07",
+  "last_updated": "2026-10-17 21:07:05",
   "trends": [
     {
       "keyword": "rj mitte",
-      "score": 45000000,
+      "score": 50000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-10-17 16:11:07"
+      "timestamp": "2026-10-17 21:07:05"
     },
     {
       "keyword": "hurricane isaias",
@@ -24,10 +24,10 @@
     },
     {
       "keyword": "selma blair",
-      "score": 16700000,
+      "score": 17700000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
-      "timestamp": "2026-10-17 16:11:07"
+      "timestamp": "2026-10-17 21:07:05"
     },
     {
       "keyword": "dodgers vs brewers",
@@ -58,6 +58,13 @@
       "timestamp": "2026-10-16 21:47:58"
     },
     {
+      "keyword": "tesla roadster",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-10-17 21:07:05"
+    },
+    {
       "keyword": "susan dell",
       "score": 11000000,
       "traffic_numeric": 1000000,
@@ -65,8 +72,22 @@
       "timestamp": "2026-10-14 12:29:59"
     },
     {
-      "keyword": "tesla roadster",
+      "keyword": "seahawks vs broncos",
       "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-17 21:07:05"
+    },
+    {
+      "keyword": "shane gillis",
+      "score": 9100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-17 21:07:05"
+    },
+    {
+      "keyword": "oregon school shooting",
+      "score": 9000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-10-17 16:11:07"
@@ -77,27 +98,6 @@
       "traffic_numeric": 2000000,
       "category": "科技/AI",
       "timestamp": "2026-10-15 21:53:31"
-    },
-    {
-      "keyword": "seahawks vs broncos",
-      "score": 9000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-17 16:11:07"
-    },
-    {
-      "keyword": "oregon school shooting",
-      "score": 9000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-17 16:11:07"
-    },
-    {
-      "keyword": "shane gillis",
-      "score": 8600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-17 16:11:07"
     },
     {
       "keyword": "carrie tv show",
@@ -114,18 +114,18 @@
       "timestamp": "2026-10-14 22:09:46"
     },
     {
+      "keyword": "ilhan omar",
+      "score": 6250000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-17 21:07:05"
+    },
+    {
       "keyword": "eagles vs jaguars",
       "score": 6200000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-10-12 16:13:01"
-    },
-    {
-      "keyword": "ilhan omar",
-      "score": 5750000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-17 16:11:07"
     },
     {
       "keyword": "guardians vs rays",
@@ -156,11 +156,11 @@
       "timestamp": "2026-10-11 22:41:29"
     },
     {
-      "keyword": "alabama vs georgia",
-      "score": 4200000,
-      "traffic_numeric": 2000000,
+      "keyword": "rays vs guardians",
+      "score": 4500000,
+      "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-10-12 16:13:01"
+      "timestamp": "2026-10-17 21:07:05"
     },
     {
       "keyword": "49ers vs seahawks",
@@ -170,6 +170,20 @@
       "timestamp": "2026-10-14 05:36:10"
     },
     {
+      "keyword": "alabama vs georgia",
+      "score": 4200000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-12 16:13:01"
+    },
+    {
+      "keyword": "press secretary",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-17 21:07:05"
+    },
+    {
       "keyword": "harrison mevis",
       "score": 3700000,
       "traffic_numeric": 1000000,
@@ -177,11 +191,11 @@
       "timestamp": "2026-10-16 21:47:58"
     },
     {
-      "keyword": "rays vs guardians",
-      "score": 3500000,
+      "keyword": "you can see everything",
+      "score": 3600000,
       "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-17 16:11:07"
+      "category": "其他",
+      "timestamp": "2026-10-17 21:07:05"
     },
     {
       "keyword": "nidal hasan",
@@ -196,25 +210,11 @@
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-10-15 05:23:00"
-    },
-    {
-      "keyword": "marvin harrison jr",
-      "score": 3200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-13 01:04:13"
-    },
-    {
-      "keyword": "kimberly guilfoyle",
-      "score": 3100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-14 17:41:06"
     }
   ],
   "category_stats": {
-    "其他": 73,
-    "体育": 43,
+    "其他": 75,
+    "体育": 50,
     "科技/AI": 8,
     "娱乐/生活": 5
   },

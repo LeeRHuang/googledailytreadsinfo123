@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-18 16:16:22",
+  "last_updated": "2026-10-18 21:06:56",
   "trends": [
     {
       "keyword": "rj mitte",
-      "score": 65000000,
+      "score": 70000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-10-18 16:16:22"
+      "timestamp": "2026-10-18 21:06:56"
     },
     {
       "keyword": "hurricane isaias",
@@ -31,10 +31,10 @@
     },
     {
       "keyword": "tesla roadster",
-      "score": 18000000,
+      "score": 20000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-18 16:16:22"
+      "timestamp": "2026-10-18 21:06:56"
     },
     {
       "keyword": "dodgers vs brewers",
@@ -66,10 +66,17 @@
     },
     {
       "keyword": "seahawks vs broncos",
-      "score": 10000000,
+      "score": 11000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-10-17 21:07:05"
+      "timestamp": "2026-10-18 21:06:56"
+    },
+    {
+      "keyword": "oregon school shooting",
+      "score": 11000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-10-18 21:06:56"
     },
     {
       "keyword": "shane gillis",
@@ -86,18 +93,18 @@
       "timestamp": "2026-10-15 21:53:31"
     },
     {
-      "keyword": "oregon school shooting",
-      "score": 9000000,
+      "keyword": "wnba finals",
+      "score": 8900000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-17 16:11:07"
+      "category": "体育",
+      "timestamp": "2026-10-18 21:06:56"
     },
     {
-      "keyword": "susan dell",
-      "score": 8000000,
-      "traffic_numeric": 1000000,
+      "keyword": "ilhan omar",
+      "score": 8250000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-10-14 12:29:59"
+      "timestamp": "2026-10-18 21:06:56"
     },
     {
       "keyword": "oregon shooting",
@@ -107,11 +114,25 @@
       "timestamp": "2026-10-18 16:16:22"
     },
     {
-      "keyword": "ilhan omar",
-      "score": 7750000,
-      "traffic_numeric": 500000,
+      "keyword": "susan dell",
+      "score": 8000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-18 16:16:22"
+      "timestamp": "2026-10-14 12:29:59"
+    },
+    {
+      "keyword": "you can see everything",
+      "score": 7600000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-18 21:06:56"
+    },
+    {
+      "keyword": "rays vs guardians",
+      "score": 7500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-18 21:06:56"
     },
     {
       "keyword": "bills vs rams",
@@ -135,32 +156,11 @@
       "timestamp": "2026-10-18 16:16:22"
     },
     {
-      "keyword": "rays vs guardians",
-      "score": 7000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-18 16:16:22"
-    },
-    {
-      "keyword": "wnba finals",
-      "score": 6900000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-18 16:16:22"
-    },
-    {
-      "keyword": "you can see everything",
-      "score": 6600000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-18 16:16:22"
-    },
-    {
       "keyword": "guardians vs rays",
-      "score": 6200000,
+      "score": 6700000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-10-18 16:16:22"
+      "timestamp": "2026-10-18 21:06:56"
     },
     {
       "keyword": "eagles vs jaguars",
@@ -184,6 +184,13 @@
       "timestamp": "2026-10-14 05:36:10"
     },
     {
+      "keyword": "alabama vs tennessee",
+      "score": 4200000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-18 21:06:56"
+    },
+    {
       "keyword": "alabama vs georgia",
       "score": 4000000,
       "traffic_numeric": 2000000,
@@ -198,24 +205,17 @@
       "timestamp": "2026-10-16 21:47:58"
     },
     {
-      "keyword": "alabama vs tennessee",
-      "score": 3200000,
+      "keyword": "ohio state vs indiana",
+      "score": 3600000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-10-18 16:16:22"
-    },
-    {
-      "keyword": "auburn vs georgia",
-      "score": 3100000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-18 16:16:22"
+      "timestamp": "2026-10-18 21:06:56"
     }
   ],
   "category_stats": {
-    "其他": 70,
-    "体育": 46,
-    "科技/AI": 8,
+    "其他": 71,
+    "体育": 55,
+    "科技/AI": 10,
     "娱乐/生活": 5
   },
   "insights": []

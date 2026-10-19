@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-10-19 05:33:53",
+  "last_updated": "2026-10-19 14:10:33",
   "trends": [
     {
       "keyword": "rj mitte",
-      "score": 75000000,
+      "score": 80000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-10-19 05:33:53"
+      "timestamp": "2026-10-19 14:10:33"
     },
     {
       "keyword": "tesla roadster",
-      "score": 22000000,
+      "score": 24000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-19 05:33:53"
+      "timestamp": "2026-10-19 14:10:33"
     },
     {
       "keyword": "brewers vs dodgers",
@@ -30,15 +30,8 @@
       "timestamp": "2026-10-18 16:16:22"
     },
     {
-      "keyword": "hurricane isaias",
-      "score": 17000000,
-      "traffic_numeric": 5000000,
-      "category": "科技/AI",
-      "timestamp": "2026-10-13 14:46:39"
-    },
-    {
       "keyword": "dodgers vs brewers",
-      "score": 16500000,
+      "score": 15500000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-10-15 21:53:31"
@@ -51,25 +44,46 @@
       "timestamp": "2026-10-17 05:14:35"
     },
     {
+      "keyword": "wnba finals",
+      "score": 12900000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-19 14:10:33"
+    },
+    {
       "keyword": "katie zacharia",
-      "score": 12300000,
+      "score": 12100000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-16 21:47:58"
     },
     {
-      "keyword": "mike ditka",
+      "keyword": "oregon shooting",
       "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-10-19 14:10:33"
+    },
+    {
+      "keyword": "hurricane isaias",
+      "score": 12000000,
+      "traffic_numeric": 5000000,
+      "category": "科技/AI",
+      "timestamp": "2026-10-13 14:46:39"
+    },
+    {
+      "keyword": "you can see everything",
+      "score": 11600000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-10-19 14:10:33"
+    },
+    {
+      "keyword": "mike ditka",
+      "score": 11000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-16 05:06:41"
-    },
-    {
-      "keyword": "seahawks vs broncos",
-      "score": 11000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-18 21:06:56"
     },
     {
       "keyword": "oregon school shooting",
@@ -79,25 +93,11 @@
       "timestamp": "2026-10-18 21:06:56"
     },
     {
-      "keyword": "wnba finals",
-      "score": 10900000,
+      "keyword": "seahawks vs broncos",
+      "score": 11000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-10-19 05:33:53"
-    },
-    {
-      "keyword": "oregon shooting",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-19 05:33:53"
-    },
-    {
-      "keyword": "you can see everything",
-      "score": 9600000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-19 05:33:53"
+      "timestamp": "2026-10-18 21:06:56"
     },
     {
       "keyword": "shane gillis",
@@ -105,6 +105,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-10-17 21:07:05"
+    },
+    {
+      "keyword": "rays vs guardians",
+      "score": 9000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-19 14:10:33"
     },
     {
       "keyword": "post-tropical cyclone isaias",
@@ -121,11 +128,11 @@
       "timestamp": "2026-10-19 05:33:53"
     },
     {
-      "keyword": "rays vs guardians",
-      "score": 8500000,
+      "keyword": "guardians vs rays",
+      "score": 7700000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-10-19 05:33:53"
+      "timestamp": "2026-10-19 14:10:33"
     },
     {
       "keyword": "bills vs rams",
@@ -143,21 +150,21 @@
     },
     {
       "keyword": "susan dell",
-      "score": 7000000,
+      "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-14 12:29:59"
     },
     {
-      "keyword": "guardians vs rays",
-      "score": 6700000,
+      "keyword": "alabama vs tennessee",
+      "score": 5200000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-10-18 21:06:56"
+      "timestamp": "2026-10-19 14:10:33"
     },
     {
       "keyword": "carrie tv show",
-      "score": 6000000,
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "娱乐/生活",
       "timestamp": "2026-10-14 05:36:10"
@@ -170,25 +177,11 @@
       "timestamp": "2026-10-15 17:33:54"
     },
     {
-      "keyword": "alabama vs tennessee",
-      "score": 4200000,
+      "keyword": "auburn vs georgia",
+      "score": 4100000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-10-18 21:06:56"
-    },
-    {
-      "keyword": "eagles vs jaguars",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-12 16:13:01"
-    },
-    {
-      "keyword": "49ers vs seahawks",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-14 05:36:10"
+      "timestamp": "2026-10-19 14:10:33"
     },
     {
       "keyword": "harrison mevis",
@@ -205,17 +198,24 @@
       "timestamp": "2026-10-18 21:06:56"
     },
     {
-      "keyword": "auburn vs georgia",
-      "score": 3100000,
-      "traffic_numeric": 1000000,
+      "keyword": "jimmy carter nashville broadcaster passes away",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-17 16:11:07"
+    },
+    {
+      "keyword": "cowboys vs packers",
+      "score": 3000000,
+      "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-10-18 16:16:22"
+      "timestamp": "2026-10-19 14:10:33"
     }
   ],
   "category_stats": {
-    "其他": 72,
-    "体育": 53,
-    "科技/AI": 10,
+    "其他": 71,
+    "体育": 51,
+    "科技/AI": 9,
     "娱乐/生活": 6
   },
   "insights": []

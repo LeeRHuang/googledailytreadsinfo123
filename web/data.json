@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-10-18 21:06:56",
+  "last_updated": "2026-10-19 05:33:53",
   "trends": [
     {
       "keyword": "rj mitte",
-      "score": 70000000,
+      "score": 75000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-10-18 21:06:56"
+      "timestamp": "2026-10-19 05:33:53"
     },
     {
-      "keyword": "hurricane isaias",
+      "keyword": "tesla roadster",
       "score": 22000000,
-      "traffic_numeric": 5000000,
-      "category": "科技/AI",
-      "timestamp": "2026-10-13 14:46:39"
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-10-19 05:33:53"
     },
     {
       "keyword": "brewers vs dodgers",
@@ -30,11 +30,11 @@
       "timestamp": "2026-10-18 16:16:22"
     },
     {
-      "keyword": "tesla roadster",
-      "score": 20000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-18 21:06:56"
+      "keyword": "hurricane isaias",
+      "score": 17000000,
+      "traffic_numeric": 5000000,
+      "category": "科技/AI",
+      "timestamp": "2026-10-13 14:46:39"
     },
     {
       "keyword": "dodgers vs brewers",
@@ -51,18 +51,18 @@
       "timestamp": "2026-10-17 05:14:35"
     },
     {
-      "keyword": "mike ditka",
-      "score": 13000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-16 05:06:41"
-    },
-    {
       "keyword": "katie zacharia",
-      "score": 12500000,
+      "score": 12300000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-16 21:47:58"
+    },
+    {
+      "keyword": "mike ditka",
+      "score": 12000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-16 05:06:41"
     },
     {
       "keyword": "seahawks vs broncos",
@@ -79,6 +79,27 @@
       "timestamp": "2026-10-18 21:06:56"
     },
     {
+      "keyword": "wnba finals",
+      "score": 10900000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-19 05:33:53"
+    },
+    {
+      "keyword": "oregon shooting",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-10-19 05:33:53"
+    },
+    {
+      "keyword": "you can see everything",
+      "score": 9600000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-10-19 05:33:53"
+    },
+    {
       "keyword": "shane gillis",
       "score": 9100000,
       "traffic_numeric": 500000,
@@ -93,46 +114,18 @@
       "timestamp": "2026-10-15 21:53:31"
     },
     {
-      "keyword": "wnba finals",
-      "score": 8900000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-18 21:06:56"
-    },
-    {
       "keyword": "ilhan omar",
-      "score": 8250000,
+      "score": 8750000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-10-18 21:06:56"
-    },
-    {
-      "keyword": "oregon shooting",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-18 16:16:22"
-    },
-    {
-      "keyword": "susan dell",
-      "score": 8000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-14 12:29:59"
-    },
-    {
-      "keyword": "you can see everything",
-      "score": 7600000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-18 21:06:56"
+      "timestamp": "2026-10-19 05:33:53"
     },
     {
       "keyword": "rays vs guardians",
-      "score": 7500000,
+      "score": 8500000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-10-18 21:06:56"
+      "timestamp": "2026-10-19 05:33:53"
     },
     {
       "keyword": "bills vs rams",
@@ -142,18 +135,18 @@
       "timestamp": "2026-10-14 22:09:46"
     },
     {
-      "keyword": "carrie tv show",
-      "score": 7000000,
-      "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-10-14 05:36:10"
-    },
-    {
       "keyword": "press secretary",
       "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-18 16:16:22"
+    },
+    {
+      "keyword": "susan dell",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-14 12:29:59"
     },
     {
       "keyword": "guardians vs rays",
@@ -163,11 +156,11 @@
       "timestamp": "2026-10-18 21:06:56"
     },
     {
-      "keyword": "eagles vs jaguars",
+      "keyword": "carrie tv show",
       "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-12 16:13:01"
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-10-14 05:36:10"
     },
     {
       "keyword": "champions league",
@@ -177,13 +170,6 @@
       "timestamp": "2026-10-15 17:33:54"
     },
     {
-      "keyword": "49ers vs seahawks",
-      "score": 4200000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-14 05:36:10"
-    },
-    {
       "keyword": "alabama vs tennessee",
       "score": 4200000,
       "traffic_numeric": 1000000,
@@ -191,11 +177,18 @@
       "timestamp": "2026-10-18 21:06:56"
     },
     {
-      "keyword": "alabama vs georgia",
+      "keyword": "eagles vs jaguars",
       "score": 4000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-10-12 16:13:01"
+    },
+    {
+      "keyword": "49ers vs seahawks",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-14 05:36:10"
     },
     {
       "keyword": "harrison mevis",
@@ -210,13 +203,20 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-10-18 21:06:56"
+    },
+    {
+      "keyword": "auburn vs georgia",
+      "score": 3100000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-18 16:16:22"
     }
   ],
   "category_stats": {
-    "其他": 71,
-    "体育": 55,
+    "其他": 72,
+    "体育": 53,
     "科技/AI": 10,
-    "娱乐/生活": 5
+    "娱乐/生活": 6
   },
   "insights": []
 }

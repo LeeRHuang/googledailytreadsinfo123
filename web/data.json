@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20 17:44:04",
+  "last_updated": "2026-10-20 22:07:40",
   "trends": [
     {
       "keyword": "rj mitte",
@@ -10,10 +10,10 @@
     },
     {
       "keyword": "tesla roadster",
-      "score": 32000000,
+      "score": 34000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-20 17:44:04"
+      "timestamp": "2026-10-20 22:07:40"
     },
     {
       "keyword": "wnba finals",
@@ -21,6 +21,13 @@
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-10-20 12:27:01"
+    },
+    {
+      "keyword": "you can see everything",
+      "score": 21600000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-10-20 22:07:40"
     },
     {
       "keyword": "brewers vs dodgers",
@@ -35,13 +42,6 @@
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-10-18 16:16:22"
-    },
-    {
-      "keyword": "you can see everything",
-      "score": 19600000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-20 17:44:04"
     },
     {
       "keyword": "oregon shooting",
@@ -65,6 +65,13 @@
       "timestamp": "2026-10-15 21:53:31"
     },
     {
+      "keyword": "cowboys vs packers",
+      "score": 13000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-20 22:07:40"
+    },
+    {
       "keyword": "katie zacharia",
       "score": 11500000,
       "traffic_numeric": 1000000,
@@ -77,13 +84,6 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-10-18 21:06:56"
-    },
-    {
-      "keyword": "cowboys vs packers",
-      "score": 11000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-20 17:44:04"
     },
     {
       "keyword": "oregon school shooting",
@@ -114,6 +114,13 @@
       "timestamp": "2026-10-19 05:33:53"
     },
     {
+      "keyword": "commanders vs 49ers",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-20 22:07:40"
+    },
+    {
       "keyword": "mike ditka",
       "score": 8000000,
       "traffic_numeric": 1000000,
@@ -142,18 +149,18 @@
       "timestamp": "2026-10-15 21:53:31"
     },
     {
-      "keyword": "commanders vs 49ers",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-20 17:44:04"
-    },
-    {
       "keyword": "alabama vs tennessee",
       "score": 5200000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-10-19 14:10:33"
+    },
+    {
+      "keyword": "jalen hurts blood clot",
+      "score": 5200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-20 22:07:40"
     },
     {
       "keyword": "dream vs valkyries",
@@ -177,11 +184,11 @@
       "timestamp": "2026-10-15 17:33:54"
     },
     {
-      "keyword": "jalen hurts blood clot",
+      "keyword": "kim jong un",
       "score": 4200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-20 17:44:04"
+      "timestamp": "2026-10-20 22:07:40"
     },
     {
       "keyword": "auburn vs georgia",
@@ -203,18 +210,11 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-10-18 21:06:56"
-    },
-    {
-      "keyword": "kim jong un",
-      "score": 3200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-20 17:44:04"
     }
   ],
   "category_stats": {
-    "其他": 78,
-    "体育": 47,
+    "其他": 79,
+    "体育": 50,
     "娱乐/生活": 8,
     "科技/AI": 8
   },

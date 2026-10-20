@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20 05:24:47",
+  "last_updated": "2026-10-20 12:27:01",
   "trends": [
     {
       "keyword": "rj mitte",
@@ -10,10 +10,17 @@
     },
     {
       "keyword": "tesla roadster",
-      "score": 28000000,
+      "score": 30000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-20 05:24:47"
+      "timestamp": "2026-10-20 12:27:01"
+    },
+    {
+      "keyword": "wnba finals",
+      "score": 24900000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-10-20 12:27:01"
     },
     {
       "keyword": "brewers vs dodgers",
@@ -30,25 +37,18 @@
       "timestamp": "2026-10-18 16:16:22"
     },
     {
-      "keyword": "wnba finals",
-      "score": 19900000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-10-20 05:24:47"
-    },
-    {
       "keyword": "oregon shooting",
-      "score": 16000000,
+      "score": 18000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-20 05:24:47"
+      "timestamp": "2026-10-20 12:27:01"
     },
     {
       "keyword": "you can see everything",
-      "score": 15600000,
+      "score": 17600000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-20 05:24:47"
+      "timestamp": "2026-10-20 12:27:01"
     },
     {
       "keyword": "dodgers vs brewers",
@@ -72,17 +72,17 @@
       "timestamp": "2026-10-16 21:47:58"
     },
     {
-      "keyword": "seahawks vs broncos",
-      "score": 11000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-18 21:06:56"
-    },
-    {
       "keyword": "oregon school shooting",
       "score": 11000000,
       "traffic_numeric": 2000000,
       "category": "其他",
+      "timestamp": "2026-10-18 21:06:56"
+    },
+    {
+      "keyword": "seahawks vs broncos",
+      "score": 11000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
       "timestamp": "2026-10-18 21:06:56"
     },
     {
@@ -107,6 +107,13 @@
       "timestamp": "2026-10-19 14:10:33"
     },
     {
+      "keyword": "cowboys vs packers",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-20 12:27:01"
+    },
+    {
       "keyword": "shane gillis",
       "score": 8700000,
       "traffic_numeric": 500000,
@@ -128,25 +135,18 @@
       "timestamp": "2026-10-19 14:10:33"
     },
     {
-      "keyword": "bills vs rams",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-14 22:09:46"
-    },
-    {
-      "keyword": "cowboys vs packers",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-20 05:24:47"
-    },
-    {
       "keyword": "press secretary",
       "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-18 16:16:22"
+    },
+    {
+      "keyword": "bills vs rams",
+      "score": 7000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-14 22:09:46"
     },
     {
       "keyword": "alabama vs tennessee",
@@ -170,6 +170,13 @@
       "timestamp": "2026-10-19 14:10:33"
     },
     {
+      "keyword": "commanders vs 49ers",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-20 12:27:01"
+    },
+    {
       "keyword": "susan dell",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -191,29 +198,22 @@
       "timestamp": "2026-10-18 21:06:56"
     },
     {
+      "keyword": "jalen hurts blood clot",
+      "score": 3200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-20 12:27:01"
+    },
+    {
       "keyword": "notre dame vs byu",
       "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-10-18 16:16:22"
-    },
-    {
-      "keyword": "carrie tv show",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-10-14 05:36:10"
-    },
-    {
-      "keyword": "jimmy carter nashville broadcaster passes away",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-17 16:11:07"
     }
   ],
   "category_stats": {
-    "其他": 75,
+    "其他": 77,
     "体育": 46,
     "科技/AI": 9,
     "娱乐/生活": 8

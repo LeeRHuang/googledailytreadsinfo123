@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21 17:51:18",
+  "last_updated": "2026-10-21 22:02:31",
   "trends": [
     {
       "keyword": "rj mitte",
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "you can see everything",
-      "score": 27600000,
+      "score": 29600000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-21 17:51:18"
+      "timestamp": "2026-10-21 22:02:30"
     },
     {
       "keyword": "wnba finals",
@@ -65,17 +65,17 @@
       "timestamp": "2026-10-21 12:29:36"
     },
     {
-      "keyword": "seahawks vs broncos",
-      "score": 11000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-18 21:06:56"
-    },
-    {
       "keyword": "oregon school shooting",
       "score": 11000000,
       "traffic_numeric": 2000000,
       "category": "其他",
+      "timestamp": "2026-10-18 21:06:56"
+    },
+    {
+      "keyword": "seahawks vs broncos",
+      "score": 11000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
       "timestamp": "2026-10-18 21:06:56"
     },
     {
@@ -84,6 +84,20 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-17 05:14:35"
+    },
+    {
+      "keyword": "jalen hurts blood clot",
+      "score": 9200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-21 22:02:30"
+    },
+    {
+      "keyword": "rays vs guardians",
+      "score": 9000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-19 14:10:33"
     },
     {
       "keyword": "dodgers vs brewers",
@@ -100,18 +114,18 @@
       "timestamp": "2026-10-16 21:47:58"
     },
     {
-      "keyword": "rays vs guardians",
-      "score": 9000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-19 14:10:33"
-    },
-    {
-      "keyword": "jalen hurts blood clot",
+      "keyword": "kim jong un",
       "score": 8200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-21 17:51:18"
+      "timestamp": "2026-10-21 22:02:30"
+    },
+    {
+      "keyword": "76ers vs knicks",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-21 22:02:30"
     },
     {
       "keyword": "ilhan omar",
@@ -119,13 +133,6 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-10-19 05:33:53"
-    },
-    {
-      "keyword": "kim jong un",
-      "score": 7200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-21 17:51:18"
     },
     {
       "keyword": "press secretary",
@@ -149,13 +156,6 @@
       "timestamp": "2026-10-19 14:10:33"
     },
     {
-      "keyword": "76ers vs knicks",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-21 17:51:18"
-    },
-    {
       "keyword": "alabama vs tennessee",
       "score": 5200000,
       "traffic_numeric": 1000000,
@@ -163,18 +163,18 @@
       "timestamp": "2026-10-19 14:10:33"
     },
     {
+      "keyword": "psg vs barcelona",
+      "score": 5100000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-21 22:02:30"
+    },
+    {
       "keyword": "dream vs valkyries",
       "score": 5000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-10-20 17:44:04"
-    },
-    {
-      "keyword": "psg vs barcelona",
-      "score": 4100000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-21 17:51:18"
     },
     {
       "keyword": "auburn vs georgia",
@@ -191,13 +191,6 @@
       "timestamp": "2026-10-15 17:33:54"
     },
     {
-      "keyword": "mike ditka",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-16 05:06:41"
-    },
-    {
       "keyword": "victoria secret fashion show 2026",
       "score": 4000000,
       "traffic_numeric": 500000,
@@ -205,17 +198,24 @@
       "timestamp": "2026-10-21 05:22:48"
     },
     {
-      "keyword": "ohio state vs indiana",
+      "keyword": "mike ditka",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-16 05:06:41"
+    },
+    {
+      "keyword": "paris",
       "score": 3600000,
       "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-18 21:06:56"
+      "category": "其他",
+      "timestamp": "2026-10-20 22:07:40"
     }
   ],
   "category_stats": {
-    "其他": 83,
-    "体育": 52,
-    "科技/AI": 8,
+    "其他": 86,
+    "体育": 54,
+    "科技/AI": 9,
     "娱乐/生活": 7
   },
   "insights": []

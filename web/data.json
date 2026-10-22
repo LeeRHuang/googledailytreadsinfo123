@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-10-21 22:02:31",
+  "last_updated": "2026-10-22 05:23:46",
   "trends": [
     {
       "keyword": "rj mitte",
-      "score": 68000000,
+      "score": 64000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-10-19 14:10:33"
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "you can see everything",
-      "score": 29600000,
+      "score": 31600000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-21 22:02:30"
+      "timestamp": "2026-10-22 05:23:46"
     },
     {
       "keyword": "wnba finals",
@@ -44,18 +44,18 @@
       "timestamp": "2026-10-20 12:27:01"
     },
     {
-      "keyword": "selma blair",
-      "score": 16000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-10-18 16:16:22"
-    },
-    {
       "keyword": "cowboys vs packers",
       "score": 15000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-10-21 12:29:36"
+    },
+    {
+      "keyword": "selma blair",
+      "score": 14000000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-10-18 16:16:22"
     },
     {
       "keyword": "commanders vs 49ers",
@@ -65,13 +65,6 @@
       "timestamp": "2026-10-21 12:29:36"
     },
     {
-      "keyword": "oregon school shooting",
-      "score": 11000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-18 21:06:56"
-    },
-    {
       "keyword": "seahawks vs broncos",
       "score": 11000000,
       "traffic_numeric": 2000000,
@@ -79,18 +72,32 @@
       "timestamp": "2026-10-18 21:06:56"
     },
     {
-      "keyword": "six flags death",
-      "score": 10000000,
-      "traffic_numeric": 1000000,
+      "keyword": "oregon school shooting",
+      "score": 11000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-17 05:14:35"
+      "timestamp": "2026-10-18 21:06:56"
     },
     {
       "keyword": "jalen hurts blood clot",
+      "score": 10200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-22 05:23:46"
+    },
+    {
+      "keyword": "dream vs valkyries",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-10-22 05:23:46"
+    },
+    {
+      "keyword": "kim jong un",
       "score": 9200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-21 22:02:30"
+      "timestamp": "2026-10-22 05:23:46"
     },
     {
       "keyword": "rays vs guardians",
@@ -100,39 +107,32 @@
       "timestamp": "2026-10-19 14:10:33"
     },
     {
-      "keyword": "dodgers vs brewers",
-      "score": 9000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-15 21:53:31"
-    },
-    {
-      "keyword": "katie zacharia",
-      "score": 9000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-16 21:47:58"
-    },
-    {
-      "keyword": "kim jong un",
-      "score": 8200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-21 22:02:30"
-    },
-    {
       "keyword": "76ers vs knicks",
-      "score": 8000000,
+      "score": 9000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-10-21 22:02:30"
+      "timestamp": "2026-10-22 05:23:46"
+    },
+    {
+      "keyword": "six flags death",
+      "score": 8000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-17 05:14:35"
     },
     {
       "keyword": "ilhan omar",
-      "score": 7500000,
+      "score": 7100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-10-19 05:33:53"
+    },
+    {
+      "keyword": "katie zacharia",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-16 21:47:58"
     },
     {
       "keyword": "press secretary",
@@ -142,18 +142,32 @@
       "timestamp": "2026-10-18 16:16:22"
     },
     {
-      "keyword": "shane gillis",
-      "score": 6500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-17 21:07:05"
+      "keyword": "psg vs barcelona",
+      "score": 6100000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-22 05:23:46"
+    },
+    {
+      "keyword": "dodgers vs brewers",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-15 21:53:31"
     },
     {
       "keyword": "guardians vs rays",
-      "score": 6200000,
+      "score": 5700000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-10-19 14:10:33"
+    },
+    {
+      "keyword": "shane gillis",
+      "score": 5500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-17 21:07:05"
     },
     {
       "keyword": "alabama vs tennessee",
@@ -163,32 +177,11 @@
       "timestamp": "2026-10-19 14:10:33"
     },
     {
-      "keyword": "psg vs barcelona",
-      "score": 5100000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-21 22:02:30"
-    },
-    {
-      "keyword": "dream vs valkyries",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-10-20 17:44:04"
-    },
-    {
       "keyword": "auburn vs georgia",
       "score": 4100000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-10-19 14:10:33"
-    },
-    {
-      "keyword": "champions league",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-15 17:33:54"
     },
     {
       "keyword": "victoria secret fashion show 2026",
@@ -198,11 +191,11 @@
       "timestamp": "2026-10-21 05:22:48"
     },
     {
-      "keyword": "mike ditka",
-      "score": 4000000,
+      "keyword": "ohio state vs indiana",
+      "score": 3600000,
       "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-16 05:06:41"
+      "category": "体育",
+      "timestamp": "2026-10-18 21:06:56"
     },
     {
       "keyword": "paris",
@@ -210,13 +203,20 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-20 22:07:40"
+    },
+    {
+      "keyword": "thunder vs spurs",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-22 05:23:46"
     }
   ],
   "category_stats": {
-    "其他": 86,
-    "体育": 54,
-    "科技/AI": 9,
-    "娱乐/生活": 7
+    "其他": 85,
+    "体育": 55,
+    "科技/AI": 10,
+    "娱乐/生活": 5
   },
   "insights": []
 }

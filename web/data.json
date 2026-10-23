@@ -1,30 +1,30 @@
 {
-  "last_updated": "2026-10-23 17:48:17",
+  "last_updated": "2026-10-23 21:50:25",
   "trends": [
     {
       "keyword": "rj mitte",
-      "score": 52000000,
+      "score": 50000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-10-19 14:10:33"
     },
     {
-      "keyword": "tesla roadster",
-      "score": 34000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-21 05:22:48"
-    },
-    {
       "keyword": "you can see everything",
-      "score": 33200000,
+      "score": 33000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-10-22 12:35:44"
     },
     {
+      "keyword": "tesla roadster",
+      "score": 32000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-10-21 05:22:48"
+    },
+    {
       "keyword": "wnba finals",
-      "score": 24600000,
+      "score": 24500000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-10-20 12:27:01"
@@ -38,17 +38,10 @@
     },
     {
       "keyword": "kim jong un",
-      "score": 16200000,
+      "score": 17200000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-23 17:48:17"
-    },
-    {
-      "keyword": "cowboys vs packers",
-      "score": 15000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-21 12:29:36"
+      "timestamp": "2026-10-23 21:50:25"
     },
     {
       "keyword": "dream vs valkyries",
@@ -56,6 +49,13 @@
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-10-22 12:35:44"
+    },
+    {
+      "keyword": "cowboys vs packers",
+      "score": 15000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-21 12:29:36"
     },
     {
       "keyword": "76ers vs knicks",
@@ -79,13 +79,6 @@
       "timestamp": "2026-10-22 12:35:44"
     },
     {
-      "keyword": "oregon school shooting",
-      "score": 9000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-18 21:06:56"
-    },
-    {
       "keyword": "rays vs guardians",
       "score": 8500000,
       "traffic_numeric": 1000000,
@@ -100,8 +93,15 @@
       "timestamp": "2026-10-23 12:20:21"
     },
     {
-      "keyword": "selma blair",
+      "keyword": "oregon school shooting",
       "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-10-18 21:06:56"
+    },
+    {
+      "keyword": "selma blair",
+      "score": 7000000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-10-18 16:16:22"
@@ -114,25 +114,18 @@
       "timestamp": "2026-10-18 16:16:22"
     },
     {
+      "keyword": "patriots vs bears",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-23 21:50:25"
+    },
+    {
       "keyword": "tesla flying car",
       "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-22 22:01:50"
-    },
-    {
-      "keyword": "brewers vs dodgers",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-17 11:13:25"
-    },
-    {
-      "keyword": "seahawks vs broncos",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-18 21:06:56"
     },
     {
       "keyword": "alabama vs tennessee",
@@ -142,13 +135,6 @@
       "timestamp": "2026-10-19 14:10:33"
     },
     {
-      "keyword": "ilhan omar",
-      "score": 5000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-19 05:33:53"
-    },
-    {
       "keyword": "cavaliers vs 76ers",
       "score": 5000000,
       "traffic_numeric": 2000000,
@@ -156,11 +142,18 @@
       "timestamp": "2026-10-23 17:48:17"
     },
     {
-      "keyword": "patriots vs bears",
+      "keyword": "seahawks vs broncos",
       "score": 5000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-10-23 17:48:17"
+      "timestamp": "2026-10-18 21:06:56"
+    },
+    {
+      "keyword": "ilhan omar",
+      "score": 4500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-19 05:33:53"
     },
     {
       "keyword": "hot dog recall",
@@ -170,6 +163,13 @@
       "timestamp": "2026-10-23 12:20:21"
     },
     {
+      "keyword": "john anderson",
+      "score": 4400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-23 21:50:25"
+    },
+    {
       "keyword": "auburn vs georgia",
       "score": 4100000,
       "traffic_numeric": 1000000,
@@ -177,11 +177,25 @@
       "timestamp": "2026-10-19 14:10:33"
     },
     {
+      "keyword": "brewers vs dodgers",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-17 11:13:25"
+    },
+    {
       "keyword": "victoria secret fashion show 2026",
       "score": 4000000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-10-21 05:22:48"
+    },
+    {
+      "keyword": "nba",
+      "score": 3700000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-23 21:50:25"
     },
     {
       "keyword": "ohio state vs indiana",
@@ -196,26 +210,12 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-20 22:07:40"
-    },
-    {
-      "keyword": "credit",
-      "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-23 12:20:21"
-    },
-    {
-      "keyword": "thunder vs spurs",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-22 05:23:46"
     }
   ],
   "category_stats": {
-    "其他": 92,
-    "体育": 57,
-    "科技/AI": 8,
+    "其他": 89,
+    "体育": 58,
+    "科技/AI": 9,
     "娱乐/生活": 5
   },
   "insights": []

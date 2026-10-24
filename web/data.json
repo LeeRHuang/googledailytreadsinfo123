@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-10-24 11:47:44",
+  "last_updated": "2026-10-24 16:16:47",
   "trends": [
     {
       "keyword": "rj mitte",
-      "score": 40000000,
+      "score": 35000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-10-19 14:10:33"
     },
     {
       "keyword": "you can see everything",
-      "score": 32000000,
+      "score": 31000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-10-22 12:35:44"
     },
     {
       "keyword": "tesla roadster",
-      "score": 28000000,
+      "score": 26000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-10-21 05:22:48"
@@ -31,10 +31,10 @@
     },
     {
       "keyword": "kim jong un",
-      "score": 20200000,
+      "score": 21200000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-24 11:47:44"
+      "timestamp": "2026-10-24 16:16:46"
     },
     {
       "keyword": "oregon shooting",
@@ -72,18 +72,18 @@
       "timestamp": "2026-10-21 12:29:36"
     },
     {
+      "keyword": "patriots vs bears",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-24 16:16:46"
+    },
+    {
       "keyword": "jalen hurts blood clot",
       "score": 11200000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-22 12:35:44"
-    },
-    {
-      "keyword": "patriots vs bears",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-24 11:47:44"
     },
     {
       "keyword": "psg vs barcelona",
@@ -93,18 +93,11 @@
       "timestamp": "2026-10-23 12:20:21"
     },
     {
-      "keyword": "rays vs guardians",
-      "score": 6500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-19 14:10:33"
-    },
-    {
       "keyword": "john anderson",
-      "score": 6400000,
+      "score": 7400000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-24 11:47:44"
+      "timestamp": "2026-10-24 16:16:46"
     },
     {
       "keyword": "tesla flying car",
@@ -114,6 +107,13 @@
       "timestamp": "2026-10-22 22:01:50"
     },
     {
+      "keyword": "rays vs guardians",
+      "score": 5500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-19 14:10:33"
+    },
+    {
       "keyword": "alabama vs tennessee",
       "score": 5200000,
       "traffic_numeric": 1000000,
@@ -121,11 +121,11 @@
       "timestamp": "2026-10-19 14:10:33"
     },
     {
-      "keyword": "selma blair",
+      "keyword": "vivek ramaswamy",
       "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-10-18 16:16:22"
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-24 16:16:46"
     },
     {
       "keyword": "cavaliers vs 76ers",
@@ -133,13 +133,6 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-10-23 17:48:17"
-    },
-    {
-      "keyword": "press secretary",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-18 16:16:22"
     },
     {
       "keyword": "nba",
@@ -156,13 +149,6 @@
       "timestamp": "2026-10-23 12:20:21"
     },
     {
-      "keyword": "vivek ramaswamy",
-      "score": 4500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-24 11:47:44"
-    },
-    {
       "keyword": "auburn vs georgia",
       "score": 4100000,
       "traffic_numeric": 1000000,
@@ -170,11 +156,11 @@
       "timestamp": "2026-10-19 14:10:33"
     },
     {
-      "keyword": "oregon school shooting",
+      "keyword": "selma blair",
       "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-18 21:06:56"
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-10-18 16:16:22"
     },
     {
       "keyword": "victoria secret fashion show 2026",
@@ -184,11 +170,18 @@
       "timestamp": "2026-10-21 05:22:48"
     },
     {
-      "keyword": "barbara palvin",
-      "score": 3600000,
-      "traffic_numeric": 200000,
+      "keyword": "press secretary",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-24 05:07:28"
+      "timestamp": "2026-10-18 16:16:22"
+    },
+    {
+      "keyword": "tom skerritt",
+      "score": 3700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-24 16:16:46"
     },
     {
       "keyword": "paris",
@@ -198,23 +191,30 @@
       "timestamp": "2026-10-20 22:07:40"
     },
     {
-      "keyword": "ohio state vs indiana",
+      "keyword": "barbara palvin",
       "score": 3600000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-18 21:06:56"
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-10-24 05:07:28"
     },
     {
-      "keyword": "ilhan omar",
+      "keyword": "rockets vs spurs",
       "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-19 05:33:53"
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-24 16:16:46"
+    },
+    {
+      "keyword": "thunder vs spurs",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-22 05:23:46"
     }
   ],
   "category_stats": {
-    "其他": 86,
-    "体育": 63,
+    "其他": 80,
+    "体育": 67,
     "科技/AI": 10,
     "娱乐/生活": 4
   },

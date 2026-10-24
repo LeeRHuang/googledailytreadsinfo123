@@ -1,47 +1,54 @@
 {
-  "last_updated": "2026-10-24 16:16:47",
+  "last_updated": "2026-10-24 21:15:23",
   "trends": [
     {
       "keyword": "rj mitte",
-      "score": 35000000,
+      "score": 30000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-10-19 14:10:33"
     },
     {
       "keyword": "you can see everything",
-      "score": 31000000,
+      "score": 30000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-10-22 12:35:44"
     },
     {
       "keyword": "tesla roadster",
-      "score": 26000000,
+      "score": 24000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-10-21 05:22:48"
     },
     {
       "keyword": "wnba finals",
-      "score": 24500000,
+      "score": 24000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-10-20 12:27:01"
     },
     {
       "keyword": "kim jong un",
-      "score": 21200000,
+      "score": 22200000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-24 16:16:46"
+      "timestamp": "2026-10-24 21:15:23"
     },
     {
       "keyword": "oregon shooting",
-      "score": 18000000,
+      "score": 16000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-10-20 12:27:01"
+    },
+    {
+      "keyword": "cowboys vs packers",
+      "score": 15000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-21 12:29:36"
     },
     {
       "keyword": "dream vs valkyries",
@@ -51,11 +58,11 @@
       "timestamp": "2026-10-22 12:35:44"
     },
     {
-      "keyword": "cowboys vs packers",
-      "score": 15000000,
+      "keyword": "patriots vs bears",
+      "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-10-21 12:29:36"
+      "timestamp": "2026-10-24 21:15:23"
     },
     {
       "keyword": "76ers vs knicks",
@@ -72,18 +79,18 @@
       "timestamp": "2026-10-21 12:29:36"
     },
     {
-      "keyword": "patriots vs bears",
-      "score": 12000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-24 16:16:46"
-    },
-    {
       "keyword": "jalen hurts blood clot",
-      "score": 11200000,
+      "score": 11000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-22 12:35:44"
+    },
+    {
+      "keyword": "john anderson",
+      "score": 8400000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-24 21:15:23"
     },
     {
       "keyword": "psg vs barcelona",
@@ -93,32 +100,11 @@
       "timestamp": "2026-10-23 12:20:21"
     },
     {
-      "keyword": "john anderson",
-      "score": 7400000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-24 16:16:46"
-    },
-    {
       "keyword": "tesla flying car",
       "score": 6000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-22 22:01:50"
-    },
-    {
-      "keyword": "rays vs guardians",
-      "score": 5500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-19 14:10:33"
-    },
-    {
-      "keyword": "alabama vs tennessee",
-      "score": 5200000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-19 14:10:33"
     },
     {
       "keyword": "vivek ramaswamy",
@@ -135,6 +121,13 @@
       "timestamp": "2026-10-23 17:48:17"
     },
     {
+      "keyword": "alabama vs tennessee",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-19 14:10:33"
+    },
+    {
       "keyword": "nba",
       "score": 4700000,
       "traffic_numeric": 1000000,
@@ -149,18 +142,32 @@
       "timestamp": "2026-10-23 12:20:21"
     },
     {
-      "keyword": "auburn vs georgia",
-      "score": 4100000,
+      "keyword": "rays vs guardians",
+      "score": 4500000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-10-19 14:10:33"
     },
     {
-      "keyword": "selma blair",
+      "keyword": "tom skerritt",
+      "score": 4200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-24 21:15:23"
+    },
+    {
+      "keyword": "rays vs brewers",
       "score": 4000000,
       "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-10-18 16:16:22"
+      "category": "体育",
+      "timestamp": "2026-10-24 21:15:23"
+    },
+    {
+      "keyword": "auburn vs georgia",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-19 14:10:33"
     },
     {
       "keyword": "victoria secret fashion show 2026",
@@ -168,20 +175,6 @@
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-10-21 05:22:48"
-    },
-    {
-      "keyword": "press secretary",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-18 16:16:22"
-    },
-    {
-      "keyword": "tom skerritt",
-      "score": 3700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-24 16:16:46"
     },
     {
       "keyword": "paris",
@@ -198,11 +191,18 @@
       "timestamp": "2026-10-24 05:07:28"
     },
     {
-      "keyword": "rockets vs spurs",
+      "keyword": "warriors vs lakers",
       "score": 3500000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-10-24 16:16:46"
+      "timestamp": "2026-10-22 22:01:50"
+    },
+    {
+      "keyword": "credit",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-23 12:20:21"
     },
     {
       "keyword": "thunder vs spurs",
@@ -214,9 +214,9 @@
   ],
   "category_stats": {
     "其他": 80,
-    "体育": 67,
+    "体育": 69,
     "科技/AI": 10,
-    "娱乐/生活": 4
+    "娱乐/生活": 5
   },
   "insights": []
 }

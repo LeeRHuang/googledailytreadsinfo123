@@ -1,40 +1,47 @@
 {
-  "last_updated": "2026-10-25 05:25:32",
+  "last_updated": "2026-10-25 12:06:15",
   "trends": [
     {
       "keyword": "you can see everything",
-      "score": 29000000,
+      "score": 28000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-10-22 12:35:44"
     },
     {
-      "keyword": "rj mitte",
-      "score": 25000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-10-19 14:10:33"
-    },
-    {
       "keyword": "kim jong un",
-      "score": 23200000,
+      "score": 24200000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-25 05:25:32"
+      "timestamp": "2026-10-25 12:06:15"
     },
     {
       "keyword": "tesla roadster",
-      "score": 22000000,
+      "score": 20000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-10-21 05:22:48"
     },
     {
+      "keyword": "rj mitte",
+      "score": 20000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-10-19 14:10:33"
+    },
+    {
       "keyword": "wnba finals",
-      "score": 22000000,
+      "score": 20000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-10-20 12:27:01"
+    },
+    {
+      "keyword": "patriots vs bears",
+      "score": 16000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-25 12:06:15"
     },
     {
       "keyword": "dream vs valkyries",
@@ -59,17 +66,10 @@
     },
     {
       "keyword": "oregon shooting",
-      "score": 14000000,
+      "score": 12000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-10-20 12:27:01"
-    },
-    {
-      "keyword": "patriots vs bears",
-      "score": 14000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-24 21:15:23"
     },
     {
       "keyword": "commanders vs 49ers",
@@ -87,10 +87,10 @@
     },
     {
       "keyword": "john anderson",
-      "score": 9400000,
+      "score": 10400000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-25 05:25:32"
+      "timestamp": "2026-10-25 12:06:15"
     },
     {
       "keyword": "psg vs barcelona",
@@ -98,6 +98,13 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-10-23 12:20:21"
+    },
+    {
+      "keyword": "rays vs brewers",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-25 12:06:15"
     },
     {
       "keyword": "nba",
@@ -114,18 +121,18 @@
       "timestamp": "2026-10-22 22:01:50"
     },
     {
-      "keyword": "rays vs brewers",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-25 05:25:32"
-    },
-    {
       "keyword": "vivek ramaswamy",
       "score": 5500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-10-25 05:25:32"
+    },
+    {
+      "keyword": "tom skerritt",
+      "score": 5200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-25 12:06:15"
     },
     {
       "keyword": "cavaliers vs 76ers",
@@ -135,11 +142,11 @@
       "timestamp": "2026-10-23 17:48:17"
     },
     {
-      "keyword": "tom skerritt",
-      "score": 4700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-25 05:25:32"
+      "keyword": "nba scores",
+      "score": 4800000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-25 12:06:15"
     },
     {
       "keyword": "hot dog recall",
@@ -156,27 +163,6 @@
       "timestamp": "2026-10-21 05:22:48"
     },
     {
-      "keyword": "alabama vs tennessee",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-19 14:10:33"
-    },
-    {
-      "keyword": "nba scores",
-      "score": 3800000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-25 05:25:32"
-    },
-    {
-      "keyword": "paris",
-      "score": 3600000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-20 22:07:40"
-    },
-    {
       "keyword": "barbara palvin",
       "score": 3600000,
       "traffic_numeric": 200000,
@@ -184,11 +170,11 @@
       "timestamp": "2026-10-24 05:07:28"
     },
     {
-      "keyword": "rays vs guardians",
+      "keyword": "thunder vs spurs",
       "score": 3500000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-10-19 14:10:33"
+      "timestamp": "2026-10-22 05:23:46"
     },
     {
       "keyword": "rockets vs spurs",
@@ -198,6 +184,13 @@
       "timestamp": "2026-10-24 16:16:46"
     },
     {
+      "keyword": "credit",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-23 12:20:21"
+    },
+    {
       "keyword": "warriors vs lakers",
       "score": 3500000,
       "traffic_numeric": 2000000,
@@ -205,16 +198,23 @@
       "timestamp": "2026-10-22 22:01:50"
     },
     {
-      "keyword": "thunder vs spurs",
-      "score": 3500000,
+      "keyword": "paris",
+      "score": 3400000,
       "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-22 05:23:46"
+      "category": "其他",
+      "timestamp": "2026-10-20 22:07:40"
+    },
+    {
+      "keyword": "ufc 333",
+      "score": 3200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-25 12:06:15"
     }
   ],
   "category_stats": {
-    "其他": 80,
-    "体育": 74,
+    "其他": 81,
+    "体育": 76,
     "科技/AI": 10,
     "娱乐/生活": 5
   },

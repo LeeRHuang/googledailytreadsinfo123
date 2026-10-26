@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25 21:27:22",
+  "last_updated": "2026-10-26 05:32:33",
   "trends": [
     {
       "keyword": "you can see everything",
@@ -16,18 +16,18 @@
       "timestamp": "2026-10-25 16:59:58"
     },
     {
-      "keyword": "patriots vs bears",
-      "score": 16000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-25 12:06:15"
-    },
-    {
       "keyword": "tesla roadster",
       "score": 16000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-10-21 05:22:48"
+    },
+    {
+      "keyword": "patriots vs bears",
+      "score": 16000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-25 12:06:15"
     },
     {
       "keyword": "wnba finals",
@@ -51,6 +51,13 @@
       "timestamp": "2026-10-21 12:29:36"
     },
     {
+      "keyword": "rays vs brewers",
+      "score": 14000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-26 05:32:33"
+    },
+    {
       "keyword": "76ers vs knicks",
       "score": 14000000,
       "traffic_numeric": 2000000,
@@ -59,17 +66,10 @@
     },
     {
       "keyword": "john anderson",
-      "score": 12400000,
+      "score": 13400000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-25 21:27:21"
-    },
-    {
-      "keyword": "rays vs brewers",
-      "score": 12000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-25 21:27:21"
+      "timestamp": "2026-10-26 05:32:33"
     },
     {
       "keyword": "commanders vs 49ers",
@@ -108,17 +108,17 @@
     },
     {
       "keyword": "vivek ramaswamy",
-      "score": 7000000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-25 21:27:21"
+      "timestamp": "2026-10-26 05:32:33"
     },
     {
       "keyword": "nba scores",
-      "score": 6800000,
+      "score": 7800000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-10-25 16:59:58"
+      "timestamp": "2026-10-26 05:32:33"
     },
     {
       "keyword": "nba",
@@ -129,10 +129,10 @@
     },
     {
       "keyword": "tom skerritt",
-      "score": 6200000,
+      "score": 6700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-10-25 21:27:21"
+      "timestamp": "2026-10-26 05:32:33"
     },
     {
       "keyword": "tesla flying car",
@@ -170,6 +170,13 @@
       "timestamp": "2026-10-21 05:22:48"
     },
     {
+      "keyword": "ethan klein",
+      "score": 3620000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-26 05:32:33"
+    },
+    {
       "keyword": "barbara palvin",
       "score": 3600000,
       "traffic_numeric": 200000,
@@ -184,11 +191,11 @@
       "timestamp": "2026-10-23 12:20:21"
     },
     {
-      "keyword": "rockets vs spurs",
+      "keyword": "warriors vs lakers",
       "score": 3500000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-10-24 16:16:46"
+      "timestamp": "2026-10-22 22:01:50"
     },
     {
       "keyword": "thunder vs spurs",
@@ -198,24 +205,17 @@
       "timestamp": "2026-10-22 05:23:46"
     },
     {
-      "keyword": "warriors vs lakers",
+      "keyword": "rockets vs spurs",
       "score": 3500000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-10-22 22:01:50"
-    },
-    {
-      "keyword": "ethan klein",
-      "score": 3120000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-25 21:27:21"
+      "timestamp": "2026-10-24 16:16:46"
     }
   ],
   "category_stats": {
-    "其他": 79,
-    "体育": 78,
-    "科技/AI": 11,
+    "体育": 82,
+    "其他": 81,
+    "科技/AI": 12,
     "娱乐/生活": 5
   },
   "insights": []

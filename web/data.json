@@ -1,19 +1,12 @@
 {
-  "last_updated": "2026-10-26 23:00:03",
+  "last_updated": "2026-10-27 05:48:14",
   "trends": [
     {
       "keyword": "kim jong un",
-      "score": 25000000,
+      "score": 24000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-10-25 16:59:58"
-    },
-    {
-      "keyword": "you can see everything",
-      "score": 20000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-22 12:35:44"
     },
     {
       "keyword": "patriots vs bears",
@@ -30,11 +23,18 @@
       "timestamp": "2026-10-26 23:00:03"
     },
     {
+      "keyword": "you can see everything",
+      "score": 18000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-10-22 12:35:44"
+    },
+    {
       "keyword": "john anderson",
-      "score": 15400000,
+      "score": 16400000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-26 23:00:03"
+      "timestamp": "2026-10-27 05:48:14"
     },
     {
       "keyword": "dream vs valkyries",
@@ -51,53 +51,32 @@
       "timestamp": "2026-10-23 12:20:21"
     },
     {
-      "keyword": "commanders vs 49ers",
-      "score": 12000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-21 12:29:36"
-    },
-    {
-      "keyword": "jalen hurts blood clot",
-      "score": 10000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-22 12:35:44"
-    },
-    {
-      "keyword": "cowboys vs packers",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-21 12:29:36"
-    },
-    {
-      "keyword": "tesla roadster",
-      "score": 10000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-21 05:22:48"
-    },
-    {
-      "keyword": "wnba finals",
-      "score": 10000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-10-20 12:27:01"
-    },
-    {
       "keyword": "vivek ramaswamy",
-      "score": 10000000,
+      "score": 10500000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-26 23:00:03"
+      "timestamp": "2026-10-27 05:48:14"
+    },
+    {
+      "keyword": "commanders vs 49ers",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-21 12:29:36"
     },
     {
       "keyword": "nba scores",
-      "score": 8800000,
+      "score": 9800000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-10-26 13:41:11"
+      "timestamp": "2026-10-27 05:48:14"
+    },
+    {
+      "keyword": "jalen hurts blood clot",
+      "score": 9000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-22 12:35:44"
     },
     {
       "keyword": "psg vs barcelona",
@@ -107,11 +86,32 @@
       "timestamp": "2026-10-23 12:20:21"
     },
     {
+      "keyword": "cowboys vs packers",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-21 12:29:36"
+    },
+    {
+      "keyword": "tesla roadster",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-10-21 05:22:48"
+    },
+    {
       "keyword": "tom skerritt",
       "score": 7700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-10-26 23:00:03"
+    },
+    {
+      "keyword": "chiefs vs seahawks",
+      "score": 7000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-27 05:48:14"
     },
     {
       "keyword": "nba",
@@ -128,6 +128,20 @@
       "timestamp": "2026-10-22 22:01:50"
     },
     {
+      "keyword": "ethan klein",
+      "score": 5120000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-27 05:48:14"
+    },
+    {
+      "keyword": "wnba finals",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-10-20 12:27:01"
+    },
+    {
       "keyword": "cavaliers vs 76ers",
       "score": 5000000,
       "traffic_numeric": 2000000,
@@ -135,18 +149,11 @@
       "timestamp": "2026-10-23 17:48:17"
     },
     {
-      "keyword": "chiefs vs seahawks",
-      "score": 5000000,
-      "traffic_numeric": 2000000,
+      "keyword": "barcelona vs real madrid",
+      "score": 4900000,
+      "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-10-26 23:00:03"
-    },
-    {
-      "keyword": "ethan klein",
-      "score": 4620000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-26 23:00:03"
+      "timestamp": "2026-10-27 05:48:14"
     },
     {
       "keyword": "hot dog recall",
@@ -170,25 +177,25 @@
       "timestamp": "2026-10-26 13:41:11"
     },
     {
-      "keyword": "oregon shooting",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-20 12:27:01"
-    },
-    {
-      "keyword": "barcelona vs real madrid",
-      "score": 3900000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-26 23:00:03"
-    },
-    {
       "keyword": "daylight saving time",
       "score": 3600000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-26 23:00:03"
+    },
+    {
+      "keyword": "warriors vs lakers",
+      "score": 3500000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-22 22:01:50"
+    },
+    {
+      "keyword": "credit",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-23 12:20:21"
     },
     {
       "keyword": "thunder vs spurs",
@@ -203,20 +210,19 @@
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-10-24 16:16:46"
-    },
-    {
-      "keyword": "warriors vs lakers",
-      "score": 3500000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-22 22:01:50"
     }
   ],
   "category_stats": {
-    "其他": 88,
-    "体育": 68,
+    "其他": 87,
+    "体育": 72,
     "科技/AI": 11,
-    "娱乐/生活": 4
+    "娱乐/生活": 3
   },
-  "insights": []
+  "insights": [
+    {
+      "title": "季节性效率/计划应用",
+      "context": "新年计划相关关键词搜索量激增。",
+      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
+    }
+  ]
 }

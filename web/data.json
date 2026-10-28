@@ -1,19 +1,12 @@
 {
-  "last_updated": "2026-10-28 06:21:46",
+  "last_updated": "2026-10-28 13:37:25",
   "trends": [
     {
       "keyword": "john anderson",
-      "score": 20400000,
+      "score": 21400000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-28 06:21:46"
-    },
-    {
-      "keyword": "kim jong un",
-      "score": 20000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-25 16:59:58"
+      "timestamp": "2026-10-28 13:37:25"
     },
     {
       "keyword": "rays vs brewers",
@@ -23,6 +16,13 @@
       "timestamp": "2026-10-28 06:21:46"
     },
     {
+      "keyword": "kim jong un",
+      "score": 19000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-10-25 16:59:58"
+    },
+    {
       "keyword": "patriots vs bears",
       "score": 18000000,
       "traffic_numeric": 2000000,
@@ -30,11 +30,11 @@
       "timestamp": "2026-10-26 13:41:11"
     },
     {
-      "keyword": "76ers vs knicks",
+      "keyword": "cowboys vs eagles",
       "score": 12000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-10-23 12:20:21"
+      "timestamp": "2026-10-28 13:37:25"
     },
     {
       "keyword": "nba scores",
@@ -58,18 +58,25 @@
       "timestamp": "2026-10-22 12:35:44"
     },
     {
-      "keyword": "you can see everything",
+      "keyword": "who won the ballon d'or 2026",
       "score": 10000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-22 12:35:44"
+      "timestamp": "2026-10-28 13:37:25"
     },
     {
-      "keyword": "cowboys vs eagles",
+      "keyword": "brewers vs rays",
       "score": 10000000,
       "traffic_numeric": 2000000,
       "category": "体育",
-      "timestamp": "2026-10-28 06:21:46"
+      "timestamp": "2026-10-28 13:37:25"
+    },
+    {
+      "keyword": "76ers vs knicks",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-23 12:20:21"
     },
     {
       "keyword": "chiefs vs seahawks",
@@ -79,18 +86,11 @@
       "timestamp": "2026-10-27 12:42:16"
     },
     {
-      "keyword": "brewers vs rays",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-28 06:21:46"
-    },
-    {
-      "keyword": "who won the ballon d'or 2026",
+      "keyword": "you can see everything",
       "score": 8000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-28 06:21:46"
+      "timestamp": "2026-10-22 12:35:44"
     },
     {
       "keyword": "tom skerritt",
@@ -101,10 +101,10 @@
     },
     {
       "keyword": "ethan klein",
-      "score": 7120000,
+      "score": 7620000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-10-28 06:21:46"
+      "timestamp": "2026-10-28 13:37:25"
     },
     {
       "keyword": "nba",
@@ -114,20 +114,6 @@
       "timestamp": "2026-10-25 05:25:32"
     },
     {
-      "keyword": "tesla flying car",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-22 22:01:50"
-    },
-    {
-      "keyword": "psg vs barcelona",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-23 12:20:21"
-    },
-    {
       "keyword": "barcelona vs real madrid",
       "score": 5900000,
       "traffic_numeric": 1000000,
@@ -135,18 +121,25 @@
       "timestamp": "2026-10-27 12:42:16"
     },
     {
+      "keyword": "psg vs barcelona",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-23 12:20:21"
+    },
+    {
+      "keyword": "tesla flying car",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-22 22:01:50"
+    },
+    {
       "keyword": "cavaliers vs 76ers",
       "score": 5000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-10-23 17:48:17"
-    },
-    {
-      "keyword": "jalen hurts blood clot",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-22 12:35:44"
     },
     {
       "keyword": "daylight saving time",
@@ -170,6 +163,13 @@
       "timestamp": "2026-10-27 22:52:34"
     },
     {
+      "keyword": "jalen hurts blood clot",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-22 12:35:44"
+    },
+    {
       "keyword": "steelers vs saints",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -177,11 +177,11 @@
       "timestamp": "2026-10-26 13:41:11"
     },
     {
-      "keyword": "clayface",
+      "keyword": "rockets vs spurs",
       "score": 3500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-27 05:48:14"
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-24 16:16:46"
     },
     {
       "keyword": "warriors vs lakers",
@@ -191,31 +191,31 @@
       "timestamp": "2026-10-22 22:01:50"
     },
     {
-      "keyword": "hot dog recall",
+      "keyword": "ballon d'or 2026",
+      "score": 3500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-10-28 06:21:46"
+    },
+    {
+      "keyword": "clayface",
       "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-10-23 12:20:21"
+      "timestamp": "2026-10-27 05:48:14"
     },
     {
       "keyword": "credit",
-      "score": 3500000,
+      "score": 3400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-10-23 12:20:21"
-    },
-    {
-      "keyword": "rockets vs spurs",
-      "score": 3500000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-24 16:16:46"
     }
   ],
   "category_stats": {
-    "其他": 85,
-    "体育": 74,
-    "科技/AI": 14,
+    "其他": 86,
+    "体育": 70,
+    "科技/AI": 13,
     "娱乐/生活": 2
   },
   "insights": [

@@ -1,9 +1,16 @@
 {
-  "last_updated": "2026-10-29 13:53:47",
+  "last_updated": "2026-10-29 22:59:27",
   "trends": [
     {
+      "keyword": "brewers vs rays",
+      "score": 21000000,
+      "traffic_numeric": 5000000,
+      "category": "体育",
+      "timestamp": "2026-10-29 22:59:27"
+    },
+    {
       "keyword": "john anderson",
-      "score": 22000000,
+      "score": 21000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-28 22:57:27"
@@ -16,13 +23,6 @@
       "timestamp": "2026-10-28 06:21:46"
     },
     {
-      "keyword": "brewers vs rays",
-      "score": 19000000,
-      "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-10-29 13:53:47"
-    },
-    {
       "keyword": "patriots vs bears",
       "score": 18000000,
       "traffic_numeric": 2000000,
@@ -30,18 +30,18 @@
       "timestamp": "2026-10-26 13:41:11"
     },
     {
-      "keyword": "kim jong un",
-      "score": 15000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-25 16:59:58"
-    },
-    {
       "keyword": "cowboys vs eagles",
       "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-10-28 22:57:27"
+    },
+    {
+      "keyword": "kim jong un",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-10-25 16:59:58"
     },
     {
       "keyword": "nba scores",
@@ -58,18 +58,11 @@
       "timestamp": "2026-10-28 22:57:27"
     },
     {
-      "keyword": "vivek ramaswamy",
-      "score": 9500000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-27 05:48:14"
-    },
-    {
       "keyword": "ethan klein",
-      "score": 9120000,
+      "score": 9620000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-10-29 13:53:47"
+      "timestamp": "2026-10-29 22:59:27"
     },
     {
       "keyword": "chiefs vs seahawks",
@@ -79,8 +72,15 @@
       "timestamp": "2026-10-27 12:42:16"
     },
     {
+      "keyword": "vivek ramaswamy",
+      "score": 9000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-27 05:48:14"
+    },
+    {
       "keyword": "tom skerritt",
-      "score": 7700000,
+      "score": 7500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-10-26 23:00:03"
@@ -91,6 +91,13 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-10-27 12:42:16"
+    },
+    {
+      "keyword": "israel elections",
+      "score": 5700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-29 22:59:27"
     },
     {
       "keyword": "nba",
@@ -107,18 +114,18 @@
       "timestamp": "2026-10-23 17:48:17"
     },
     {
-      "keyword": "israel elections",
-      "score": 4700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-29 13:53:47"
-    },
-    {
       "keyword": "daylight saving time",
       "score": 4600000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-27 12:42:16"
+    },
+    {
+      "keyword": "eric bauza",
+      "score": 4400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-29 22:59:27"
     },
     {
       "keyword": "ufc 333",
@@ -128,11 +135,11 @@
       "timestamp": "2026-10-25 16:59:58"
     },
     {
-      "keyword": "76ers vs knicks",
+      "keyword": "jalen williams injury",
       "score": 4000000,
       "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-23 12:20:21"
+      "category": "其他",
+      "timestamp": "2026-10-27 22:52:34"
     },
     {
       "keyword": "steelers vs saints",
@@ -142,25 +149,11 @@
       "timestamp": "2026-10-26 13:41:11"
     },
     {
-      "keyword": "jalen williams injury",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-27 22:52:34"
-    },
-    {
-      "keyword": "eric bauza",
-      "score": 3900000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-29 13:53:47"
-    },
-    {
-      "keyword": "rockets vs spurs",
+      "keyword": "ballon d'or 2026",
       "score": 3500000,
       "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-24 16:16:46"
+      "category": "其他",
+      "timestamp": "2026-10-28 06:21:46"
     },
     {
       "keyword": "clayface",
@@ -170,11 +163,18 @@
       "timestamp": "2026-10-27 05:48:14"
     },
     {
-      "keyword": "ballon d'or 2026",
+      "keyword": "rockets vs spurs",
       "score": 3500000,
       "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-24 16:16:46"
+    },
+    {
+      "keyword": "donnie iris",
+      "score": 3450000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-28 06:21:46"
+      "timestamp": "2026-10-29 22:59:27"
     },
     {
       "keyword": "49ers vs falcons",
@@ -184,13 +184,6 @@
       "timestamp": "2026-10-26 13:41:11"
     },
     {
-      "keyword": "elizabeth holmes",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-22 22:01:50"
-    },
-    {
       "keyword": "lula",
       "score": 3000000,
       "traffic_numeric": 500000,
@@ -198,24 +191,31 @@
       "timestamp": "2026-10-27 18:28:17"
     },
     {
+      "keyword": "jason galanis",
+      "score": 2900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-29 22:59:27"
+    },
+    {
+      "keyword": "nicki minaj",
+      "score": 2800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-29 22:59:27"
+    },
+    {
       "keyword": "packers vs lions",
       "score": 2700000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-10-26 23:00:03"
-    },
-    {
-      "keyword": "nicki minaj",
-      "score": 2600000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-29 13:53:47"
     }
   ],
   "category_stats": {
     "其他": 87,
-    "体育": 71,
-    "科技/AI": 13,
+    "体育": 68,
+    "科技/AI": 12,
     "金融/商业": 1,
     "娱乐/生活": 1
   },

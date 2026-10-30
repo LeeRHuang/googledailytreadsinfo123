@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30 06:41:51",
+  "last_updated": "2026-10-30 13:36:10",
   "trends": [
     {
       "keyword": "brewers vs rays",
@@ -10,7 +10,7 @@
     },
     {
       "keyword": "john anderson",
-      "score": 20500000,
+      "score": 20000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-28 22:57:27"
@@ -24,7 +24,7 @@
     },
     {
       "keyword": "patriots vs bears",
-      "score": 16000000,
+      "score": 14000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-10-26 13:41:11"
@@ -37,18 +37,11 @@
       "timestamp": "2026-10-28 22:57:27"
     },
     {
-      "keyword": "kim jong un",
-      "score": 11000000,
-      "traffic_numeric": 2000000,
+      "keyword": "patrick stewart",
+      "score": 12000000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-10-25 16:59:58"
-    },
-    {
-      "keyword": "nba scores",
-      "score": 10400000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-27 12:42:16"
+      "timestamp": "2026-10-30 13:36:10"
     },
     {
       "keyword": "who won the ballon d'or 2026",
@@ -58,8 +51,22 @@
       "timestamp": "2026-10-28 22:57:27"
     },
     {
+      "keyword": "nba scores",
+      "score": 10200000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-27 12:42:16"
+    },
+    {
+      "keyword": "kim jong un",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-10-25 16:59:58"
+    },
+    {
       "keyword": "ethan klein",
-      "score": 9620000,
+      "score": 9600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-10-29 22:59:27"
@@ -73,31 +80,24 @@
     },
     {
       "keyword": "vivek ramaswamy",
-      "score": 8500000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-27 05:48:14"
     },
     {
-      "keyword": "patrick stewart",
-      "score": 7000000,
-      "traffic_numeric": 5000000,
+      "keyword": "israel elections",
+      "score": 7700000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-30 06:41:51"
+      "timestamp": "2026-10-30 13:36:10"
     },
     {
       "keyword": "tom skerritt",
-      "score": 7000000,
+      "score": 6500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-10-26 23:00:03"
-    },
-    {
-      "keyword": "israel elections",
-      "score": 6700000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-30 06:41:51"
     },
     {
       "keyword": "barcelona vs real madrid",
@@ -107,11 +107,18 @@
       "timestamp": "2026-10-27 12:42:16"
     },
     {
+      "keyword": "donnie iris",
+      "score": 5450000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-30 13:36:10"
+    },
+    {
       "keyword": "eric bauza",
-      "score": 4900000,
+      "score": 5400000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-10-30 06:41:51"
+      "timestamp": "2026-10-30 13:36:10"
     },
     {
       "keyword": "daylight saving time",
@@ -121,13 +128,6 @@
       "timestamp": "2026-10-27 12:42:16"
     },
     {
-      "keyword": "donnie iris",
-      "score": 4450000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-30 06:41:51"
-    },
-    {
       "keyword": "ufc 333",
       "score": 4200000,
       "traffic_numeric": 1000000,
@@ -135,11 +135,11 @@
       "timestamp": "2026-10-25 16:59:58"
     },
     {
-      "keyword": "cavaliers vs 76ers",
+      "keyword": "brewers parade",
       "score": 4000000,
       "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-23 17:48:17"
+      "category": "其他",
+      "timestamp": "2026-10-30 13:36:10"
     },
     {
       "keyword": "jalen williams injury",
@@ -163,11 +163,11 @@
       "timestamp": "2026-10-26 13:41:11"
     },
     {
-      "keyword": "rockets vs spurs",
-      "score": 3500000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-24 16:16:46"
+      "keyword": "jason galanis",
+      "score": 3900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-30 13:36:10"
     },
     {
       "keyword": "ballon d'or 2026",
@@ -184,11 +184,18 @@
       "timestamp": "2026-10-27 05:48:14"
     },
     {
-      "keyword": "jason galanis",
-      "score": 3400000,
+      "keyword": "rockets vs spurs",
+      "score": 3500000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-24 16:16:46"
+    },
+    {
+      "keyword": "nicki minaj",
+      "score": 3200000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-10-30 06:41:51"
+      "timestamp": "2026-10-30 13:36:10"
     },
     {
       "keyword": "49ers vs falcons",
@@ -203,21 +210,14 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-10-27 18:28:17"
-    },
-    {
-      "keyword": "nicki minaj",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-30 06:41:51"
     }
   ],
   "category_stats": {
-    "其他": 85,
-    "体育": 70,
+    "其他": 83,
+    "体育": 68,
     "科技/AI": 13,
-    "娱乐/生活": 2,
-    "金融/商业": 1
+    "金融/商业": 2,
+    "娱乐/生活": 2
   },
   "insights": [
     {

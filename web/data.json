@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-01 06:52:09",
+  "last_updated": "2026-11-01 18:08:43",
   "trends": [
     {
       "keyword": "patrick stewart",
-      "score": 37000000,
+      "score": 42000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-01 06:52:09"
+      "timestamp": "2026-11-01 18:08:43"
     },
     {
       "keyword": "brewers vs rays",
@@ -23,15 +23,8 @@
       "timestamp": "2026-10-28 22:57:27"
     },
     {
-      "keyword": "rays vs brewers",
-      "score": 14000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-28 06:21:46"
-    },
-    {
       "keyword": "john anderson",
-      "score": 13000000,
+      "score": 11000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-28 22:57:27"
@@ -42,6 +35,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-10-28 22:57:27"
+    },
+    {
+      "keyword": "rays vs brewers",
+      "score": 10000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-28 06:21:46"
     },
     {
       "keyword": "israel elections",
@@ -65,25 +65,25 @@
       "timestamp": "2026-10-31 13:07:42"
     },
     {
+      "keyword": "eric bauza",
+      "score": 7900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-01 18:08:43"
+    },
+    {
       "keyword": "ethan klein",
-      "score": 8000000,
+      "score": 7000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-10-29 22:59:27"
     },
     {
-      "keyword": "eric bauza",
-      "score": 7400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-01 06:52:09"
-    },
-    {
-      "keyword": "nba scores",
-      "score": 7000000,
+      "keyword": "daylight savings",
+      "score": 6000000,
       "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-27 12:42:16"
+      "category": "其他",
+      "timestamp": "2026-11-01 18:08:43"
     },
     {
       "keyword": "jason galanis",
@@ -93,13 +93,6 @@
       "timestamp": "2026-10-31 22:00:30"
     },
     {
-      "keyword": "barcelona vs real madrid",
-      "score": 5900000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-27 12:42:16"
-    },
-    {
       "keyword": "halloween",
       "score": 5800000,
       "traffic_numeric": 2000000,
@@ -107,18 +100,18 @@
       "timestamp": "2026-11-01 06:52:09"
     },
     {
+      "keyword": "barcelona vs real madrid",
+      "score": 5500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-27 12:42:16"
+    },
+    {
       "keyword": "vivek ramaswamy",
-      "score": 5000000,
+      "score": 4500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-27 05:48:14"
-    },
-    {
-      "keyword": "daylight saving time",
-      "score": 4600000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-27 12:42:16"
     },
     {
       "keyword": "nicki minaj",
@@ -128,39 +121,11 @@
       "timestamp": "2026-11-01 06:52:09"
     },
     {
-      "keyword": "jalen williams injury",
+      "keyword": "israel election results",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-27 22:52:34"
-    },
-    {
-      "keyword": "panthers vs packers",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-31 13:07:42"
-    },
-    {
-      "keyword": "daylight savings",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-01 06:52:09"
-    },
-    {
-      "keyword": "patriots vs bears",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-26 13:41:11"
-    },
-    {
-      "keyword": "steelers vs saints",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-10-26 13:41:11"
+      "timestamp": "2026-11-01 18:08:43"
     },
     {
       "keyword": "brewers parade",
@@ -168,6 +133,34 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-10-30 13:36:10"
+    },
+    {
+      "keyword": "daylight saving time",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-27 12:42:16"
+    },
+    {
+      "keyword": "jalen williams injury",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-27 22:52:34"
+    },
+    {
+      "keyword": "nba scores",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-27 12:42:16"
+    },
+    {
+      "keyword": "panthers vs packers",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-31 13:07:42"
     },
     {
       "keyword": "ballon d'or 2026",
@@ -178,17 +171,17 @@
     },
     {
       "keyword": "49ers vs falcons",
-      "score": 3050000,
+      "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-10-26 13:41:11"
     },
     {
-      "keyword": "israel election results",
+      "keyword": "steelers vs saints",
       "score": 3000000,
       "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-11-01 06:52:09"
+      "category": "科技/AI",
+      "timestamp": "2026-10-26 13:41:11"
     },
     {
       "keyword": "lula",
@@ -198,11 +191,11 @@
       "timestamp": "2026-10-27 18:28:17"
     },
     {
-      "keyword": "tom skerritt",
-      "score": 3000000,
-      "traffic_numeric": 500000,
+      "keyword": "canelo fight",
+      "score": 2950000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-26 23:00:03"
+      "timestamp": "2026-11-01 18:08:43"
     },
     {
       "keyword": "google stock",
@@ -210,14 +203,21 @@
       "traffic_numeric": 500000,
       "category": "金融/商业",
       "timestamp": "2026-10-31 13:07:42"
+    },
+    {
+      "keyword": "packers vs lions",
+      "score": 2700000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-10-26 23:00:03"
     }
   ],
   "category_stats": {
     "其他": 78,
-    "体育": 69,
+    "体育": 66,
     "科技/AI": 13,
-    "娱乐/生活": 3,
-    "金融/商业": 2
+    "金融/商业": 2,
+    "娱乐/生活": 2
   },
   "insights": [
     {

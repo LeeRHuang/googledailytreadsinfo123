@@ -1,51 +1,58 @@
 {
-  "last_updated": "2026-11-03 07:23:35",
+  "last_updated": "2026-11-03 19:52:28",
   "trends": [
     {
       "keyword": "patrick stewart",
-      "score": 62000000,
+      "score": 67000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-03 07:23:35"
+      "timestamp": "2026-11-03 19:52:28"
     },
     {
       "keyword": "brewers vs rays",
-      "score": 20000000,
+      "score": 16000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-10-29 22:59:27"
     },
     {
-      "keyword": "cowboys vs eagles",
-      "score": 12000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-28 22:57:27"
-    },
-    {
-      "keyword": "who won the ballon d'or 2026",
-      "score": 10200000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-28 22:57:27"
-    },
-    {
       "keyword": "israel elections",
-      "score": 9700000,
+      "score": 9500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-31 06:21:23"
     },
     {
       "keyword": "donnie iris",
-      "score": 8450000,
+      "score": 8400000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-10-31 13:07:42"
     },
     {
+      "keyword": "jack campbell",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-03 19:52:28"
+    },
+    {
+      "keyword": "native american heritage month",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-03 19:52:28"
+    },
+    {
+      "keyword": "cowboys vs eagles",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-10-28 22:57:27"
+    },
+    {
       "keyword": "eric bauza",
-      "score": 7400000,
+      "score": 7000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-01 18:08:43"
@@ -58,11 +65,11 @@
       "timestamp": "2026-11-03 07:23:35"
     },
     {
-      "keyword": "jack campbell",
-      "score": 6000000,
+      "keyword": "who won the ballon d'or 2026",
+      "score": 6200000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-03 07:23:35"
+      "timestamp": "2026-10-28 22:57:27"
     },
     {
       "keyword": "daylight savings",
@@ -72,18 +79,11 @@
       "timestamp": "2026-11-01 18:08:43"
     },
     {
-      "keyword": "john anderson",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-28 22:57:27"
-    },
-    {
-      "keyword": "native american heritage month",
+      "keyword": "martha stewart halloween costume",
       "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-03 07:23:35"
+      "timestamp": "2026-11-03 19:52:28"
     },
     {
       "keyword": "halloween",
@@ -91,13 +91,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-01 06:52:09"
-    },
-    {
-      "keyword": "ethan klein",
-      "score": 4500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-10-29 22:59:27"
     },
     {
       "keyword": "canelo fight",
@@ -114,6 +107,20 @@
       "timestamp": "2026-11-02 22:09:45"
     },
     {
+      "keyword": "john anderson",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-28 22:57:27"
+    },
+    {
+      "keyword": "plane crash florida",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-03 19:52:28"
+    },
+    {
       "keyword": "panthers vs packers",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -121,11 +128,11 @@
       "timestamp": "2026-10-31 13:07:42"
     },
     {
-      "keyword": "martha stewart halloween costume",
+      "keyword": "bears vs seahawks",
       "score": 4000000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-03 07:23:35"
+      "category": "体育",
+      "timestamp": "2026-11-03 19:52:28"
     },
     {
       "keyword": "brewers parade",
@@ -135,11 +142,32 @@
       "timestamp": "2026-10-30 13:36:10"
     },
     {
+      "keyword": "haley stevens",
+      "score": 3800000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-03 19:52:28"
+    },
+    {
+      "keyword": "jeffery simmons",
+      "score": 3600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-03 19:52:28"
+    },
+    {
       "keyword": "nicki minaj",
-      "score": 3900000,
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-01 06:52:09"
+    },
+    {
+      "keyword": "ethan klein",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-10-29 22:59:27"
     },
     {
       "keyword": "heidi klum",
@@ -156,13 +184,6 @@
       "timestamp": "2026-11-02 22:09:45"
     },
     {
-      "keyword": "jeffery simmons",
-      "score": 3100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-03 07:23:35"
-    },
-    {
       "keyword": "ohio state vs usc",
       "score": 3000000,
       "traffic_numeric": 1000000,
@@ -177,13 +198,6 @@
       "timestamp": "2026-10-31 13:07:42"
     },
     {
-      "keyword": "haley stevens",
-      "score": 2800000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-11-03 07:23:35"
-    },
-    {
       "keyword": "jennifer lawrence",
       "score": 2450000,
       "traffic_numeric": 200000,
@@ -191,32 +205,18 @@
       "timestamp": "2026-11-02 22:09:45"
     },
     {
-      "keyword": "walter koenig",
-      "score": 2200000,
-      "traffic_numeric": 200000,
+      "keyword": "where to vote",
+      "score": 2300000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-31 13:07:42"
-    },
-    {
-      "keyword": "chiefs vs broncos",
-      "score": 2200000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-11-02 22:09:45"
-    },
-    {
-      "keyword": "ao3",
-      "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-03 07:23:35"
+      "timestamp": "2026-11-03 19:52:28"
     }
   ],
   "category_stats": {
-    "其他": 86,
-    "体育": 65,
-    "科技/AI": 11,
-    "娱乐/生活": 3,
+    "其他": 90,
+    "体育": 60,
+    "科技/AI": 9,
+    "娱乐/生活": 4,
     "金融/商业": 3
   },
   "insights": [

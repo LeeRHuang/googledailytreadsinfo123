@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-11-02 22:09:45",
+  "last_updated": "2026-11-03 07:23:35",
   "trends": [
     {
       "keyword": "patrick stewart",
-      "score": 57000000,
+      "score": 62000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-02 22:09:45"
+      "timestamp": "2026-11-03 07:23:35"
     },
     {
       "keyword": "brewers vs rays",
-      "score": 21000000,
+      "score": 20000000,
       "traffic_numeric": 5000000,
       "category": "体育",
       "timestamp": "2026-10-29 22:59:27"
     },
     {
       "keyword": "cowboys vs eagles",
-      "score": 14000000,
+      "score": 12000000,
       "traffic_numeric": 2000000,
       "category": "体育",
       "timestamp": "2026-10-28 22:57:27"
@@ -44,32 +44,25 @@
       "timestamp": "2026-10-31 13:07:42"
     },
     {
-      "keyword": "john anderson",
-      "score": 8000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-28 22:57:27"
-    },
-    {
       "keyword": "eric bauza",
-      "score": 7800000,
+      "score": 7400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-01 18:08:43"
     },
     {
       "keyword": "jason galanis",
-      "score": 6400000,
+      "score": 6900000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-02 22:09:45"
+      "timestamp": "2026-11-03 07:23:35"
     },
     {
-      "keyword": "chiefs vs seahawks",
+      "keyword": "jack campbell",
       "score": 6000000,
       "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-27 12:42:16"
+      "category": "其他",
+      "timestamp": "2026-11-03 07:23:35"
     },
     {
       "keyword": "daylight savings",
@@ -77,6 +70,20 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-01 18:08:43"
+    },
+    {
+      "keyword": "john anderson",
+      "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-10-28 22:57:27"
+    },
+    {
+      "keyword": "native american heritage month",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-03 07:23:35"
     },
     {
       "keyword": "halloween",
@@ -87,7 +94,7 @@
     },
     {
       "keyword": "ethan klein",
-      "score": 5500000,
+      "score": 4500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-10-29 22:59:27"
@@ -107,13 +114,6 @@
       "timestamp": "2026-11-02 22:09:45"
     },
     {
-      "keyword": "nicki minaj",
-      "score": 4300000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-01 06:52:09"
-    },
-    {
       "keyword": "panthers vs packers",
       "score": 4000000,
       "traffic_numeric": 1000000,
@@ -121,18 +121,11 @@
       "timestamp": "2026-10-31 13:07:42"
     },
     {
-      "keyword": "jack campbell",
+      "keyword": "martha stewart halloween costume",
       "score": 4000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-02 22:09:45"
-    },
-    {
-      "keyword": "native american heritage month",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-02 22:09:45"
+      "timestamp": "2026-11-03 07:23:35"
     },
     {
       "keyword": "brewers parade",
@@ -142,25 +135,18 @@
       "timestamp": "2026-10-30 13:36:10"
     },
     {
-      "keyword": "rays vs brewers",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-10-28 06:21:46"
-    },
-    {
-      "keyword": "jalen williams injury",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
+      "keyword": "nicki minaj",
+      "score": 3900000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-10-27 22:52:34"
+      "timestamp": "2026-11-01 06:52:09"
     },
     {
-      "keyword": "ballon d'or 2026",
+      "keyword": "heidi klum",
       "score": 3500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-28 06:21:46"
+      "timestamp": "2026-11-03 07:23:35"
     },
     {
       "keyword": "cardinals vs cowboys",
@@ -170,18 +156,11 @@
       "timestamp": "2026-11-02 22:09:45"
     },
     {
-      "keyword": "barcelona vs real madrid",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-10-27 12:42:16"
-    },
-    {
-      "keyword": "heidi klum",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
+      "keyword": "jeffery simmons",
+      "score": 3100000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-02 06:57:41"
+      "timestamp": "2026-11-03 07:23:35"
     },
     {
       "keyword": "ohio state vs usc",
@@ -198,23 +177,44 @@
       "timestamp": "2026-10-31 13:07:42"
     },
     {
-      "keyword": "jeffery simmons",
-      "score": 2600000,
-      "traffic_numeric": 500000,
+      "keyword": "haley stevens",
+      "score": 2800000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-31 22:00:30"
+      "timestamp": "2026-11-03 07:23:35"
+    },
+    {
+      "keyword": "jennifer lawrence",
+      "score": 2450000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-11-02 22:09:45"
     },
     {
       "keyword": "walter koenig",
-      "score": 2500000,
+      "score": 2200000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-10-31 13:07:42"
+    },
+    {
+      "keyword": "chiefs vs broncos",
+      "score": 2200000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-11-02 22:09:45"
+    },
+    {
+      "keyword": "ao3",
+      "score": 2100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-03 07:23:35"
     }
   ],
   "category_stats": {
-    "其他": 88,
-    "体育": 60,
+    "其他": 86,
+    "体育": 65,
     "科技/AI": 11,
     "娱乐/生活": 3,
     "金融/商业": 3

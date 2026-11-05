@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05 07:33:41",
+  "last_updated": "2026-11-05 20:18:47",
   "trends": [
     {
       "keyword": "patrick stewart",
@@ -10,17 +10,17 @@
     },
     {
       "keyword": "james talarico",
-      "score": 15000000,
+      "score": 20000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-05 07:33:41"
+      "timestamp": "2026-11-05 20:18:47"
     },
     {
       "keyword": "jack campbell",
-      "score": 14000000,
+      "score": 16000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-05 07:33:41"
+      "timestamp": "2026-11-05 20:18:47"
     },
     {
       "keyword": "native american heritage month",
@@ -30,25 +30,46 @@
       "timestamp": "2026-11-04 20:20:32"
     },
     {
-      "keyword": "mississippi senate race",
-      "score": 7200000,
+      "keyword": "election results",
+      "score": 10000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-05 07:33:41"
+      "timestamp": "2026-11-05 20:18:47"
     },
     {
-      "keyword": "brewers vs rays",
+      "keyword": "mississippi senate race",
+      "score": 9200000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-11-05 20:18:47"
+    },
+    {
+      "keyword": "plane crash florida",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-05 20:18:47"
+    },
+    {
+      "keyword": "gina hinojosa",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-05 20:18:47"
+    },
+    {
+      "keyword": "abdul el-sayed",
+      "score": 7000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-05 20:18:47"
+    },
+    {
+      "keyword": "texas election results",
       "score": 7000000,
       "traffic_numeric": 5000000,
-      "category": "体育",
-      "timestamp": "2026-10-29 22:59:27"
-    },
-    {
-      "keyword": "donnie iris",
-      "score": 6500000,
-      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-10-31 13:07:42"
+      "timestamp": "2026-11-05 20:18:47"
     },
     {
       "keyword": "michigan election results",
@@ -58,18 +79,18 @@
       "timestamp": "2026-11-05 07:33:41"
     },
     {
-      "keyword": "gina hinojosa",
+      "keyword": "donnie iris",
       "score": 6000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-05 07:33:41"
+      "timestamp": "2026-10-31 13:07:42"
     },
     {
-      "keyword": "abdul el-sayed",
+      "keyword": "daylight savings",
       "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-05 07:33:41"
+      "timestamp": "2026-11-01 18:08:43"
     },
     {
       "keyword": "martha stewart halloween costume",
@@ -86,27 +107,6 @@
       "timestamp": "2026-11-05 07:33:41"
     },
     {
-      "keyword": "daylight savings",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-01 18:08:43"
-    },
-    {
-      "keyword": "israel elections",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-31 06:21:23"
-    },
-    {
-      "keyword": "plane crash florida",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-04 20:20:32"
-    },
-    {
       "keyword": "halloween",
       "score": 5800000,
       "traffic_numeric": 2000000,
@@ -114,25 +114,18 @@
       "timestamp": "2026-11-01 06:52:09"
     },
     {
-      "keyword": "election results",
+      "keyword": "israel elections",
       "score": 5000000,
-      "traffic_numeric": 5000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-05 07:33:41"
+      "timestamp": "2026-10-31 06:21:23"
     },
     {
       "keyword": "jason galanis",
-      "score": 5000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-03 07:23:35"
-    },
-    {
-      "keyword": "eric bauza",
       "score": 4500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-01 18:08:43"
+      "timestamp": "2026-11-03 07:23:35"
     },
     {
       "keyword": "canelo fight",
@@ -156,13 +149,6 @@
       "timestamp": "2026-11-04 07:12:56"
     },
     {
-      "keyword": "bears vs seahawks",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-11-03 19:52:28"
-    },
-    {
       "keyword": "brewers parade",
       "score": 4000000,
       "traffic_numeric": 2000000,
@@ -175,6 +161,27 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-10-31 13:07:42"
+    },
+    {
+      "keyword": "byron donalds",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-05 20:18:47"
+    },
+    {
+      "keyword": "bears vs seahawks",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-11-03 19:52:28"
+    },
+    {
+      "keyword": "eric bauza",
+      "score": 4000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-01 18:08:43"
     },
     {
       "keyword": "haley stevens",
@@ -198,26 +205,19 @@
       "timestamp": "2026-11-03 07:23:35"
     },
     {
-      "keyword": "cardinals vs cowboys",
-      "score": 3100000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-11-02 22:09:45"
-    },
-    {
-      "keyword": "election results so far",
-      "score": 3000000,
+      "keyword": "alaska senate race",
+      "score": 3500000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-04 20:20:32"
+      "timestamp": "2026-11-05 20:18:47"
     }
   ],
   "category_stats": {
-    "其他": 106,
-    "体育": 53,
-    "科技/AI": 6,
-    "娱乐/生活": 4,
-    "金融/商业": 3
+    "其他": 108,
+    "体育": 48,
+    "金融/商业": 5,
+    "科技/AI": 5,
+    "娱乐/生活": 4
   },
   "insights": [
     {

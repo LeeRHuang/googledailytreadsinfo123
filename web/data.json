@@ -1,26 +1,40 @@
 {
-  "last_updated": "2026-11-05 20:18:47",
+  "last_updated": "2026-11-06 07:40:38",
   "trends": [
     {
       "keyword": "patrick stewart",
-      "score": 67000000,
+      "score": 60000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-03 19:52:28"
     },
     {
       "keyword": "james talarico",
-      "score": 20000000,
+      "score": 25000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-05 20:18:47"
+      "timestamp": "2026-11-06 07:40:38"
     },
     {
       "keyword": "jack campbell",
-      "score": 16000000,
+      "score": 18000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-05 20:18:47"
+      "timestamp": "2026-11-06 07:40:38"
+    },
+    {
+      "keyword": "mississippi senate race",
+      "score": 14200000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-11-06 07:40:38"
+    },
+    {
+      "keyword": "abdul el-sayed",
+      "score": 12000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-11-06 07:40:38"
     },
     {
       "keyword": "native american heritage month",
@@ -37,11 +51,25 @@
       "timestamp": "2026-11-05 20:18:47"
     },
     {
-      "keyword": "mississippi senate race",
-      "score": 9200000,
+      "keyword": "gina hinojosa",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-06 07:40:38"
+    },
+    {
+      "keyword": "florida plane crash",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-06 07:40:38"
+    },
+    {
+      "keyword": "texas election results",
+      "score": 8000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-05 20:18:47"
+      "timestamp": "2026-11-06 07:40:38"
     },
     {
       "keyword": "plane crash florida",
@@ -51,25 +79,11 @@
       "timestamp": "2026-11-05 20:18:47"
     },
     {
-      "keyword": "gina hinojosa",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-05 20:18:47"
-    },
-    {
-      "keyword": "abdul el-sayed",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-05 20:18:47"
-    },
-    {
-      "keyword": "texas election results",
-      "score": 7000000,
+      "keyword": "california election results",
+      "score": 7200000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-05 20:18:47"
+      "timestamp": "2026-11-06 07:40:38"
     },
     {
       "keyword": "michigan election results",
@@ -79,11 +93,11 @@
       "timestamp": "2026-11-05 07:33:41"
     },
     {
-      "keyword": "donnie iris",
+      "keyword": "martha stewart halloween costume",
       "score": 6000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-10-31 13:07:42"
+      "timestamp": "2026-11-03 19:52:28"
     },
     {
       "keyword": "daylight savings",
@@ -93,20 +107,6 @@
       "timestamp": "2026-11-01 18:08:43"
     },
     {
-      "keyword": "martha stewart halloween costume",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-03 19:52:28"
-    },
-    {
-      "keyword": "florida plane crash",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-05 07:33:41"
-    },
-    {
       "keyword": "halloween",
       "score": 5800000,
       "traffic_numeric": 2000000,
@@ -114,18 +114,11 @@
       "timestamp": "2026-11-01 06:52:09"
     },
     {
-      "keyword": "israel elections",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-10-31 06:21:23"
-    },
-    {
-      "keyword": "jason galanis",
+      "keyword": "alaska senate race",
       "score": 4500000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-03 07:23:35"
+      "timestamp": "2026-11-06 07:40:38"
     },
     {
       "keyword": "canelo fight",
@@ -149,17 +142,10 @@
       "timestamp": "2026-11-04 07:12:56"
     },
     {
-      "keyword": "brewers parade",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-10-30 13:36:10"
-    },
-    {
-      "keyword": "panthers vs packers",
+      "keyword": "donnie iris",
       "score": 4000000,
       "traffic_numeric": 1000000,
-      "category": "体育",
+      "category": "其他",
       "timestamp": "2026-10-31 13:07:42"
     },
     {
@@ -177,23 +163,16 @@
       "timestamp": "2026-11-03 19:52:28"
     },
     {
-      "keyword": "eric bauza",
+      "keyword": "xavier becerra",
       "score": 4000000,
-      "traffic_numeric": 500000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-01 18:08:43"
+      "timestamp": "2026-11-06 07:40:38"
     },
     {
       "keyword": "haley stevens",
       "score": 3800000,
       "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-11-03 19:52:28"
-    },
-    {
-      "keyword": "jeffery simmons",
-      "score": 3600000,
-      "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-03 19:52:28"
     },
@@ -205,19 +184,40 @@
       "timestamp": "2026-11-03 07:23:35"
     },
     {
-      "keyword": "alaska senate race",
+      "keyword": "jason galanis",
       "score": 3500000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-05 20:18:47"
+      "timestamp": "2026-11-03 07:23:35"
+    },
+    {
+      "keyword": "cardinals vs cowboys",
+      "score": 3100000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-11-02 22:09:45"
+    },
+    {
+      "keyword": "lauren boebert",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-06 07:40:38"
+    },
+    {
+      "keyword": "ohio state vs usc",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-11-01 22:32:29"
     }
   ],
   "category_stats": {
-    "其他": 108,
+    "其他": 104,
     "体育": 48,
     "金融/商业": 5,
     "科技/AI": 5,
-    "娱乐/生活": 4
+    "娱乐/生活": 3
   },
   "insights": [
     {

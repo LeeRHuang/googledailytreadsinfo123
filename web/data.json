@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-07 13:36:31",
+  "last_updated": "2026-11-07 22:29:22",
   "trends": [
     {
       "keyword": "patrick stewart",
-      "score": 40000000,
+      "score": 35000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-03 19:52:28"
@@ -16,6 +16,13 @@
       "timestamp": "2026-11-06 07:40:38"
     },
     {
+      "keyword": "alaska senate race",
+      "score": 21500000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-11-07 22:29:21"
+    },
+    {
       "keyword": "jack campbell",
       "score": 20000000,
       "traffic_numeric": 2000000,
@@ -23,25 +30,18 @@
       "timestamp": "2026-11-06 19:47:45"
     },
     {
+      "keyword": "gina hinojosa",
+      "score": 17000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-07 22:29:21"
+    },
+    {
       "keyword": "abdul el-sayed",
       "score": 17000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-06 19:47:45"
-    },
-    {
-      "keyword": "alaska senate race",
-      "score": 16500000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-11-07 13:36:31"
-    },
-    {
-      "keyword": "gina hinojosa",
-      "score": 15000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-07 13:36:31"
     },
     {
       "keyword": "mississippi senate race",
@@ -59,10 +59,10 @@
     },
     {
       "keyword": "election results",
-      "score": 10000003,
+      "score": 10000004,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-07 13:36:31"
+      "timestamp": "2026-11-07 22:29:21"
     },
     {
       "keyword": "texas election results",
@@ -79,6 +79,13 @@
       "timestamp": "2026-11-07 13:36:31"
     },
     {
+      "keyword": "florida plane crash",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-06 07:40:38"
+    },
+    {
       "keyword": "plane crash florida",
       "score": 8000000,
       "traffic_numeric": 2000000,
@@ -86,11 +93,11 @@
       "timestamp": "2026-11-05 20:18:47"
     },
     {
-      "keyword": "florida plane crash",
-      "score": 8000000,
-      "traffic_numeric": 2000000,
+      "keyword": "lauren boebert",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-06 07:40:38"
+      "timestamp": "2026-11-07 22:29:21"
     },
     {
       "keyword": "michigan election results",
@@ -100,18 +107,25 @@
       "timestamp": "2026-11-05 07:33:41"
     },
     {
-      "keyword": "lauren boebert",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-11-07 13:36:31"
-    },
-    {
       "keyword": "martha stewart halloween costume",
       "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-03 19:52:28"
+    },
+    {
+      "keyword": "habibi meaning",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-07 22:29:21"
+    },
+    {
+      "keyword": "republican party",
+      "score": 5000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-07 22:29:21"
     },
     {
       "keyword": "xavier becerra",
@@ -121,11 +135,32 @@
       "timestamp": "2026-11-06 19:47:45"
     },
     {
-      "keyword": "daylight savings",
+      "keyword": "rhabdomyolysis",
+      "score": 4700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-07 22:29:21"
+    },
+    {
+      "keyword": "jon ossoff",
       "score": 4500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-07 22:29:21"
+    },
+    {
+      "keyword": "zelda",
+      "score": 4500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-07 22:29:21"
+    },
+    {
+      "keyword": "rob sand",
+      "score": 4400000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-01 18:08:43"
+      "timestamp": "2026-11-07 22:29:21"
     },
     {
       "keyword": "where to vote",
@@ -135,18 +170,11 @@
       "timestamp": "2026-11-04 07:12:56"
     },
     {
-      "keyword": "rhabdomyolysis",
+      "keyword": "russell brand",
       "score": 4200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-07 13:36:31"
-    },
-    {
-      "keyword": "canelo fight",
-      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-02 06:57:41"
+      "timestamp": "2026-11-07 22:29:21"
     },
     {
       "keyword": "bears vs seahawks",
@@ -156,39 +184,18 @@
       "timestamp": "2026-11-03 19:52:28"
     },
     {
+      "keyword": "daylight savings",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-01 18:08:43"
+    },
+    {
       "keyword": "byron donalds",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-11-05 20:18:47"
-    },
-    {
-      "keyword": "habibi meaning",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-07 13:36:31"
-    },
-    {
-      "keyword": "jon ossoff",
-      "score": 4000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-07 13:36:31"
-    },
-    {
-      "keyword": "halloween",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-01 06:52:09"
-    },
-    {
-      "keyword": "zelda",
-      "score": 4000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-07 13:36:31"
     },
     {
       "keyword": "haley stevens",
@@ -198,26 +205,19 @@
       "timestamp": "2026-11-03 19:52:28"
     },
     {
-      "keyword": "heidi klum",
+      "keyword": "canelo fight",
       "score": 3500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-03 07:23:35"
-    },
-    {
-      "keyword": "israel election results",
-      "score": 3400000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-02 22:09:45"
+      "timestamp": "2026-11-02 06:57:41"
     }
   ],
   "category_stats": {
-    "其他": 100,
-    "体育": 44,
-    "科技/AI": 4,
+    "其他": 102,
+    "体育": 43,
     "金融/商业": 4,
-    "娱乐/生活": 3
+    "科技/AI": 3,
+    "娱乐/生活": 2
   },
   "insights": [
     {

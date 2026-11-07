@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-06 19:47:45",
+  "last_updated": "2026-11-07 06:46:12",
   "trends": [
     {
       "keyword": "patrick stewart",
-      "score": 55000000,
+      "score": 45000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-03 19:52:28"
@@ -37,6 +37,13 @@
       "timestamp": "2026-11-06 07:40:38"
     },
     {
+      "keyword": "gina hinojosa",
+      "score": 13000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-07 06:46:12"
+    },
+    {
       "keyword": "native american heritage month",
       "score": 12000000,
       "traffic_numeric": 2000000,
@@ -44,18 +51,18 @@
       "timestamp": "2026-11-04 20:20:32"
     },
     {
-      "keyword": "gina hinojosa",
-      "score": 11000000,
-      "traffic_numeric": 2000000,
+      "keyword": "alaska senate race",
+      "score": 11500000,
+      "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-06 19:47:45"
+      "timestamp": "2026-11-07 06:46:12"
     },
     {
       "keyword": "election results",
-      "score": 10000001,
+      "score": 10000002,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-06 19:47:45"
+      "timestamp": "2026-11-07 06:46:12"
     },
     {
       "keyword": "florida plane crash",
@@ -80,10 +87,10 @@
     },
     {
       "keyword": "california election results",
-      "score": 7700000,
+      "score": 7900000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-06 19:47:45"
+      "timestamp": "2026-11-07 06:46:12"
     },
     {
       "keyword": "michigan election results",
@@ -93,20 +100,6 @@
       "timestamp": "2026-11-05 07:33:41"
     },
     {
-      "keyword": "alaska senate race",
-      "score": 6500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-06 19:47:45"
-    },
-    {
-      "keyword": "daylight savings",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-01 18:08:43"
-    },
-    {
       "keyword": "martha stewart halloween costume",
       "score": 6000000,
       "traffic_numeric": 2000000,
@@ -114,8 +107,22 @@
       "timestamp": "2026-11-03 19:52:28"
     },
     {
+      "keyword": "lauren boebert",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-07 06:46:12"
+    },
+    {
+      "keyword": "daylight savings",
+      "score": 5000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-01 18:08:43"
+    },
+    {
       "keyword": "halloween",
-      "score": 5700000,
+      "score": 5000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-01 06:52:09"
@@ -126,13 +133,6 @@
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-11-06 19:47:45"
-    },
-    {
-      "keyword": "canelo fight",
-      "score": 4450000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-11-02 06:57:41"
     },
     {
       "keyword": "israel election results",
@@ -149,11 +149,11 @@
       "timestamp": "2026-11-04 07:12:56"
     },
     {
-      "keyword": "byron donalds",
-      "score": 4000000,
+      "keyword": "canelo fight",
+      "score": 4200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-05 20:18:47"
+      "timestamp": "2026-11-02 06:57:41"
     },
     {
       "keyword": "bears vs seahawks",
@@ -163,11 +163,11 @@
       "timestamp": "2026-11-03 19:52:28"
     },
     {
-      "keyword": "lauren boebert",
+      "keyword": "byron donalds",
       "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-06 19:47:45"
+      "timestamp": "2026-11-05 20:18:47"
     },
     {
       "keyword": "haley stevens",
@@ -177,6 +177,20 @@
       "timestamp": "2026-11-03 19:52:28"
     },
     {
+      "keyword": "rhabdomyolysis",
+      "score": 3700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-07 06:46:12"
+    },
+    {
+      "keyword": "zelda",
+      "score": 3500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-07 06:46:12"
+    },
+    {
       "keyword": "heidi klum",
       "score": 3500000,
       "traffic_numeric": 2000000,
@@ -184,11 +198,11 @@
       "timestamp": "2026-11-03 07:23:35"
     },
     {
-      "keyword": "rhabdomyolysis",
-      "score": 3200000,
+      "keyword": "jon ossoff",
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-06 19:47:45"
+      "timestamp": "2026-11-07 06:46:12"
     },
     {
       "keyword": "cardinals vs cowboys",
@@ -196,28 +210,14 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-11-02 22:09:45"
-    },
-    {
-      "keyword": "zelda",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-06 19:47:45"
-    },
-    {
-      "keyword": "jason galanis",
-      "score": 3000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-03 07:23:35"
     }
   ],
   "category_stats": {
-    "其他": 105,
+    "其他": 106,
     "体育": 47,
     "金融/商业": 5,
-    "娱乐/生活": 3,
-    "科技/AI": 3
+    "科技/AI": 4,
+    "娱乐/生活": 3
   },
   "insights": [
     {

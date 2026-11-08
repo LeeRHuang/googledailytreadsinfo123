@@ -1,9 +1,16 @@
 {
-  "last_updated": "2026-11-08 14:04:20",
+  "last_updated": "2026-11-08 22:30:34",
   "trends": [
     {
+      "keyword": "alaska senate race",
+      "score": 26500000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-11-08 22:30:34"
+    },
+    {
       "keyword": "patrick stewart",
-      "score": 30000000,
+      "score": 25000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-03 19:52:28"
@@ -14,13 +21,6 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-06 07:40:38"
-    },
-    {
-      "keyword": "alaska senate race",
-      "score": 24500000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-11-08 14:04:20"
     },
     {
       "keyword": "gina hinojosa",
@@ -37,6 +37,13 @@
       "timestamp": "2026-11-06 19:47:45"
     },
     {
+      "keyword": "mississippi senate race",
+      "score": 19200002,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-11-08 22:30:34"
+    },
+    {
       "keyword": "abdul el-sayed",
       "score": 17000000,
       "traffic_numeric": 5000000,
@@ -44,11 +51,18 @@
       "timestamp": "2026-11-06 19:47:45"
     },
     {
-      "keyword": "mississippi senate race",
-      "score": 14200002,
+      "keyword": "2026 united states senate elections",
+      "score": 16000001,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-08 14:04:20"
+      "timestamp": "2026-11-08 22:30:34"
+    },
+    {
+      "keyword": "2026 us election results",
+      "score": 15000007,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-11-08 22:30:34"
     },
     {
       "keyword": "native american heritage month",
@@ -58,18 +72,11 @@
       "timestamp": "2026-11-04 20:20:32"
     },
     {
-      "keyword": "2026 united states senate elections",
-      "score": 11000001,
-      "traffic_numeric": 5000000,
+      "keyword": "habibi meaning",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-08 14:04:20"
-    },
-    {
-      "keyword": "2026 us election results",
-      "score": 10000007,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-11-08 14:04:20"
+      "timestamp": "2026-11-08 22:30:34"
     },
     {
       "keyword": "election results",
@@ -79,11 +86,11 @@
       "timestamp": "2026-11-07 22:29:21"
     },
     {
-      "keyword": "habibi meaning",
+      "keyword": "lauren boebert",
       "score": 10000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-08 14:04:20"
+      "timestamp": "2026-11-08 22:30:34"
     },
     {
       "keyword": "texas election results",
@@ -91,13 +98,6 @@
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-07 13:36:31"
-    },
-    {
-      "keyword": "lauren boebert",
-      "score": 9000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-11-08 14:04:20"
     },
     {
       "keyword": "california election results",
@@ -128,18 +128,18 @@
       "timestamp": "2026-11-06 07:40:38"
     },
     {
+      "keyword": "russell brand",
+      "score": 6700000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-08 22:30:34"
+    },
+    {
       "keyword": "michigan election results",
       "score": 6500000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-05 07:33:41"
-    },
-    {
-      "keyword": "republican party",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-08 06:52:51"
     },
     {
       "keyword": "martha stewart halloween costume",
@@ -149,16 +149,16 @@
       "timestamp": "2026-11-03 19:52:28"
     },
     {
+      "keyword": "republican party",
+      "score": 6000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-08 06:52:51"
+    },
+    {
       "keyword": "rhabdomyolysis",
       "score": 5700000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-08 14:04:20"
-    },
-    {
-      "keyword": "russell brand",
-      "score": 5700000,
-      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-11-08 14:04:20"
     },
@@ -191,13 +191,6 @@
       "timestamp": "2026-11-04 07:12:56"
     },
     {
-      "keyword": "byron donalds",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-11-05 20:18:47"
-    },
-    {
       "keyword": "bears vs seahawks",
       "score": 4000000,
       "traffic_numeric": 2000000,
@@ -205,17 +198,24 @@
       "timestamp": "2026-11-03 19:52:28"
     },
     {
+      "keyword": "byron donalds",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-05 20:18:47"
+    },
+    {
       "keyword": "haley stevens",
-      "score": 3800000,
+      "score": 3700000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-11-03 19:52:28"
     }
   ],
   "category_stats": {
-    "其他": 101,
-    "体育": 40,
-    "科技/AI": 4,
+    "其他": 97,
+    "体育": 50,
+    "科技/AI": 6,
     "金融/商业": 4,
     "娱乐/生活": 2
   },

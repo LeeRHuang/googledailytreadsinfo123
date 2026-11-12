@@ -1,33 +1,40 @@
 {
-  "last_updated": "2026-11-12 07:57:21",
+  "last_updated": "2026-11-12 20:42:07",
   "trends": [
     {
       "keyword": "alaska senate race",
-      "score": 32000000,
+      "score": 30000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-10 20:06:21"
     },
     {
       "keyword": "2026 us election results",
-      "score": 25000004,
+      "score": 25000003,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-09 22:54:40"
     },
     {
-      "keyword": "mississippi senate race",
-      "score": 19000002,
+      "keyword": "jensen huang",
+      "score": 20700000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-09 22:54:40"
+      "timestamp": "2026-11-12 20:42:07"
     },
     {
       "keyword": "russell brand",
-      "score": 18700000,
+      "score": 18500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-12 07:57:21"
+    },
+    {
+      "keyword": "mississippi senate race",
+      "score": 17000002,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-11-09 22:54:40"
     },
     {
       "keyword": "2026 united states senate elections",
@@ -44,39 +51,25 @@
       "timestamp": "2026-11-11 07:14:02"
     },
     {
-      "keyword": "jensen huang",
-      "score": 15700000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-11-12 07:57:21"
-    },
-    {
       "keyword": "gina hinojosa",
-      "score": 15000000,
+      "score": 13000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-08 14:04:20"
     },
     {
       "keyword": "lauren boebert",
-      "score": 13000000,
+      "score": 12000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-11-10 20:06:21"
     },
     {
       "keyword": "abdul el-sayed",
-      "score": 11000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-11-06 19:47:45"
-    },
-    {
-      "keyword": "james talarico",
       "score": 10000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-06 07:40:38"
+      "timestamp": "2026-11-06 19:47:45"
     },
     {
       "keyword": "veterans day 2026",
@@ -86,25 +79,25 @@
       "timestamp": "2026-11-12 07:57:21"
     },
     {
+      "keyword": "kirk cousins",
+      "score": 7000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-12 20:42:07"
+    },
+    {
       "keyword": "california election results",
-      "score": 7200000,
+      "score": 6700000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-08 06:52:51"
     },
     {
       "keyword": "jon ossoff",
-      "score": 7000000,
+      "score": 6500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-08 14:04:20"
-    },
-    {
-      "keyword": "texas election results",
-      "score": 7000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-11-07 13:36:31"
     },
     {
       "keyword": "republican party",
@@ -114,25 +107,11 @@
       "timestamp": "2026-11-08 06:52:51"
     },
     {
-      "keyword": "jack campbell",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-06 19:47:45"
-    },
-    {
-      "keyword": "election results",
-      "score": 5000004,
+      "keyword": "james talarico",
+      "score": 5000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-07 22:29:21"
-    },
-    {
-      "keyword": "kirk cousins",
-      "score": 5000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-12 07:57:21"
+      "timestamp": "2026-11-06 07:40:38"
     },
     {
       "keyword": "rob sand",
@@ -149,8 +128,22 @@
       "timestamp": "2026-11-11 07:14:02"
     },
     {
-      "keyword": "rhabdomyolysis",
+      "keyword": "jack campbell",
       "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-06 19:47:45"
+    },
+    {
+      "keyword": "mississippi election results",
+      "score": 3500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-10 07:48:59"
+    },
+    {
+      "keyword": "rhabdomyolysis",
+      "score": 3500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-08 14:04:20"
@@ -163,11 +156,18 @@
       "timestamp": "2026-11-10 07:48:59"
     },
     {
-      "keyword": "mississippi election results",
-      "score": 3500000,
+      "keyword": "bills vs vikings",
+      "score": 3000000,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-10 07:48:59"
+      "category": "体育",
+      "timestamp": "2026-11-10 20:06:21"
+    },
+    {
+      "keyword": "cowboys vs colts",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-11-09 22:54:40"
     },
     {
       "keyword": "nithya raman",
@@ -184,25 +184,18 @@
       "timestamp": "2026-11-10 07:48:59"
     },
     {
-      "keyword": "cowboys vs colts",
-      "score": 3000000,
+      "keyword": "pete hegseth",
+      "score": 2500000,
       "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-11-09 22:54:40"
+      "category": "其他",
+      "timestamp": "2026-11-10 20:06:21"
     },
     {
       "keyword": "zelda",
-      "score": 3000000,
+      "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-07 22:29:21"
-    },
-    {
-      "keyword": "bills vs vikings",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-11-10 20:06:21"
     },
     {
       "keyword": "greg abbott",
@@ -210,13 +203,21 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-07 13:36:31"
+    },
+    {
+      "keyword": "rochelle fleming",
+      "score": 2400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-12 07:57:21"
     }
   ],
   "category_stats": {
-    "其他": 86,
-    "体育": 41,
-    "科技/AI": 10,
-    "金融/商业": 3
+    "其他": 87,
+    "体育": 43,
+    "科技/AI": 11,
+    "金融/商业": 2,
+    "娱乐/生活": 1
   },
   "insights": [
     {

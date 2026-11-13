@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12 20:42:07",
+  "last_updated": "2026-11-13 07:32:14",
   "trends": [
     {
       "keyword": "alaska senate race",
@@ -17,10 +17,10 @@
     },
     {
       "keyword": "jensen huang",
-      "score": 20700000,
+      "score": 20700001,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-12 20:42:07"
+      "timestamp": "2026-11-13 07:32:14"
     },
     {
       "keyword": "russell brand",
@@ -72,18 +72,18 @@
       "timestamp": "2026-11-06 19:47:45"
     },
     {
+      "keyword": "kirk cousins",
+      "score": 9000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-13 07:32:14"
+    },
+    {
       "keyword": "veterans day 2026",
       "score": 8000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-12 07:57:21"
-    },
-    {
-      "keyword": "kirk cousins",
-      "score": 7000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-12 20:42:07"
     },
     {
       "keyword": "california election results",
@@ -135,13 +135,6 @@
       "timestamp": "2026-11-06 19:47:45"
     },
     {
-      "keyword": "mississippi election results",
-      "score": 3500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-10 07:48:59"
-    },
-    {
       "keyword": "rhabdomyolysis",
       "score": 3500000,
       "traffic_numeric": 500000,
@@ -152,6 +145,13 @@
       "keyword": "stephen miller",
       "score": 3500000,
       "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-10 07:48:59"
+    },
+    {
+      "keyword": "mississippi election results",
+      "score": 3500000,
+      "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-10 07:48:59"
     },
@@ -170,13 +170,6 @@
       "timestamp": "2026-11-09 22:54:40"
     },
     {
-      "keyword": "nithya raman",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-11-07 06:46:12"
-    },
-    {
       "keyword": "raiders vs 49ers",
       "score": 3000000,
       "traffic_numeric": 1000000,
@@ -184,11 +177,11 @@
       "timestamp": "2026-11-10 07:48:59"
     },
     {
-      "keyword": "pete hegseth",
-      "score": 2500000,
+      "keyword": "nithya raman",
+      "score": 3000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-10 20:06:21"
+      "timestamp": "2026-11-07 06:46:12"
     },
     {
       "keyword": "zelda",
@@ -196,6 +189,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-07 22:29:21"
+    },
+    {
+      "keyword": "pete hegseth",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-10 20:06:21"
     },
     {
       "keyword": "greg abbott",
@@ -213,11 +213,11 @@
     }
   ],
   "category_stats": {
-    "其他": 87,
-    "体育": 43,
+    "其他": 89,
+    "体育": 47,
     "科技/AI": 11,
-    "金融/商业": 2,
-    "娱乐/生活": 1
+    "娱乐/生活": 3,
+    "金融/商业": 2
   },
   "insights": [
     {

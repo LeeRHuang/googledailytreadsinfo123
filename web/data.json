@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14 18:40:17",
+  "last_updated": "2026-11-14 22:59:04",
   "trends": [
     {
       "keyword": "2026 us election results",
@@ -17,31 +17,17 @@
     },
     {
       "keyword": "2026 united states senate elections",
-      "score": 17000001,
+      "score": 17000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-09 07:17:16"
     },
     {
-      "keyword": "alaska senate race",
-      "score": 17000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-11-10 20:06:21"
-    },
-    {
       "keyword": "russell brand",
-      "score": 15500000,
+      "score": 14500000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-12 07:57:21"
-    },
-    {
-      "keyword": "habibi meaning",
-      "score": 12500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-11 07:14:02"
     },
     {
       "keyword": "mississippi senate race",
@@ -51,6 +37,20 @@
       "timestamp": "2026-11-09 22:54:40"
     },
     {
+      "keyword": "alaska senate race",
+      "score": 12000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-10 20:06:21"
+    },
+    {
+      "keyword": "nvidia",
+      "score": 12000000,
+      "traffic_numeric": 5000000,
+      "category": "科技/AI",
+      "timestamp": "2026-11-14 22:59:04"
+    },
+    {
       "keyword": "kirk cousins",
       "score": 11000000,
       "traffic_numeric": 2000000,
@@ -58,11 +58,11 @@
       "timestamp": "2026-11-13 20:15:23"
     },
     {
-      "keyword": "lauren boebert",
-      "score": 8000000,
-      "traffic_numeric": 1000000,
+      "keyword": "habibi meaning",
+      "score": 10500000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-10 20:06:21"
+      "timestamp": "2026-11-11 07:14:02"
     },
     {
       "keyword": "veterans day 2026",
@@ -72,39 +72,46 @@
       "timestamp": "2026-11-12 07:57:21"
     },
     {
-      "keyword": "nvidia",
+      "keyword": "lauren boebert",
       "score": 7000000,
-      "traffic_numeric": 5000000,
-      "category": "科技/AI",
-      "timestamp": "2026-11-14 18:40:17"
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-10 20:06:21"
+    },
+    {
+      "keyword": "james gunn",
+      "score": 4200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-14 22:59:04"
+    },
+    {
+      "keyword": "gta 6",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-14 22:59:04"
+    },
+    {
+      "keyword": "dana white",
+      "score": 4000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-11 07:14:02"
     },
     {
       "keyword": "gina hinojosa",
-      "score": 6000000,
+      "score": 4000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-08 14:04:20"
     },
     {
       "keyword": "jon ossoff",
-      "score": 4500000,
+      "score": 4000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-08 14:04:20"
-    },
-    {
-      "keyword": "dana white",
-      "score": 4200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-11 07:14:02"
-    },
-    {
-      "keyword": "james gunn",
-      "score": 3700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-14 18:40:17"
     },
     {
       "keyword": "mississippi election results",
@@ -112,13 +119,6 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-10 07:48:59"
-    },
-    {
-      "keyword": "gta 6",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-11-14 18:40:17"
     },
     {
       "keyword": "cowboys vs colts",
@@ -142,11 +142,18 @@
       "timestamp": "2026-11-10 20:06:21"
     },
     {
-      "keyword": "republican party",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
+      "keyword": "anthony clark",
+      "score": 2800000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-08 06:52:51"
+      "timestamp": "2026-11-14 22:59:04"
+    },
+    {
+      "keyword": "dan hicks",
+      "score": 2700000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-14 22:59:04"
     },
     {
       "keyword": "building collapse nyc",
@@ -163,32 +170,32 @@
       "timestamp": "2026-11-12 07:57:21"
     },
     {
-      "keyword": "anthony clark",
+      "keyword": "yella beezy",
       "score": 2300000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-14 18:40:17"
-    },
-    {
-      "keyword": "dan hicks",
-      "score": 2200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-14 18:40:17"
+      "timestamp": "2026-11-14 22:59:04"
     },
     {
       "keyword": "microsoft outage",
-      "score": 2000004,
+      "score": 2000005,
       "traffic_numeric": 2000000,
       "category": "其他",
+      "timestamp": "2026-11-14 22:59:04"
+    },
+    {
+      "keyword": "nvidia stock",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
       "timestamp": "2026-11-14 18:40:17"
     },
     {
-      "keyword": "buccaneers vs bears",
+      "keyword": "disco singer rochelle fleming passes",
       "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-11-09 22:54:40"
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-11-14 07:06:03"
     },
     {
       "keyword": "election results 2026",
@@ -198,24 +205,17 @@
       "timestamp": "2026-11-08 22:30:34"
     },
     {
-      "keyword": "mississippi senate race 2026",
+      "keyword": "commanders vs giants",
       "score": 2000000,
       "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-11-10 20:06:21"
-    },
-    {
-      "keyword": "nvidia stock",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-11-14 18:40:17"
+      "category": "体育",
+      "timestamp": "2026-11-13 20:15:23"
     }
   ],
   "category_stats": {
-    "其他": 86,
-    "体育": 52,
-    "科技/AI": 14,
+    "其他": 81,
+    "体育": 54,
+    "科技/AI": 15,
     "娱乐/生活": 3,
     "金融/商业": 1
   },

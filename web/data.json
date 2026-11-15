@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15 07:20:28",
+  "last_updated": "2026-11-15 19:15:15",
   "trends": [
     {
       "keyword": "jensen huang",
@@ -9,39 +9,32 @@
       "timestamp": "2026-11-13 20:15:23"
     },
     {
+      "keyword": "nvidia",
+      "score": 19000000,
+      "traffic_numeric": 5000000,
+      "category": "科技/AI",
+      "timestamp": "2026-11-15 19:15:15"
+    },
+    {
       "keyword": "2026 us election results",
-      "score": 20000000,
+      "score": 15000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-09 22:54:40"
     },
     {
-      "keyword": "nvidia",
-      "score": 17000000,
-      "traffic_numeric": 5000000,
-      "category": "科技/AI",
-      "timestamp": "2026-11-15 07:20:28"
-    },
-    {
       "keyword": "russell brand",
-      "score": 13500000,
+      "score": 13000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-12 07:57:21"
     },
     {
       "keyword": "mississippi senate race",
-      "score": 12000001,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-11-09 22:54:40"
-    },
-    {
-      "keyword": "2026 united states senate elections",
       "score": 12000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-09 07:17:16"
+      "timestamp": "2026-11-09 22:54:40"
     },
     {
       "keyword": "kirk cousins",
@@ -52,17 +45,10 @@
     },
     {
       "keyword": "alaska senate race",
-      "score": 10000000,
+      "score": 9000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-10 20:06:21"
-    },
-    {
-      "keyword": "habibi meaning",
-      "score": 8500000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-11 07:14:02"
     },
     {
       "keyword": "veterans day 2026",
@@ -72,18 +58,39 @@
       "timestamp": "2026-11-12 07:57:21"
     },
     {
-      "keyword": "lauren boebert",
+      "keyword": "2026 united states senate elections",
+      "score": 7000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-11-09 07:17:16"
+    },
+    {
+      "keyword": "habibi meaning",
+      "score": 6500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-11 07:14:02"
+    },
+    {
+      "keyword": "gta 6",
       "score": 6000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-15 19:15:15"
+    },
+    {
+      "keyword": "lauren boebert",
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-11-10 20:06:21"
     },
     {
-      "keyword": "gta 6",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
+      "keyword": "ufc 334",
+      "score": 4700000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-15 07:20:28"
+      "timestamp": "2026-11-15 19:15:15"
     },
     {
       "keyword": "james gunn",
@@ -93,18 +100,25 @@
       "timestamp": "2026-11-15 07:20:28"
     },
     {
-      "keyword": "microsoft outage",
-      "score": 4000005,
-      "traffic_numeric": 2000000,
+      "keyword": "dan hicks",
+      "score": 4200000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-15 07:20:28"
+      "timestamp": "2026-11-15 19:15:15"
     },
     {
-      "keyword": "dana white",
-      "score": 3500000,
+      "keyword": "microsoft outage",
+      "score": 4000006,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-15 19:15:15"
+    },
+    {
+      "keyword": "yella beezy",
+      "score": 3300000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-11 07:14:02"
+      "timestamp": "2026-11-15 19:15:15"
     },
     {
       "keyword": "anthony clark",
@@ -114,11 +128,18 @@
       "timestamp": "2026-11-15 07:20:28"
     },
     {
-      "keyword": "dan hicks",
-      "score": 3200000,
+      "keyword": "dana white",
+      "score": 3000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-15 07:20:28"
+      "timestamp": "2026-11-11 07:14:02"
+    },
+    {
+      "keyword": "cowboys vs colts",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-11-09 22:54:40"
     },
     {
       "keyword": "bills vs vikings",
@@ -135,18 +156,11 @@
       "timestamp": "2026-11-10 07:48:59"
     },
     {
-      "keyword": "cowboys vs colts",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-11-09 22:54:40"
-    },
-    {
-      "keyword": "yella beezy",
-      "score": 2800000,
+      "keyword": "sam hartman",
+      "score": 2700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-15 07:20:28"
+      "timestamp": "2026-11-15 19:15:15"
     },
     {
       "keyword": "building collapse nyc",
@@ -156,13 +170,6 @@
       "timestamp": "2026-11-14 18:40:17"
     },
     {
-      "keyword": "ufc 334",
-      "score": 2700000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-15 07:20:28"
-    },
-    {
       "keyword": "rochelle fleming",
       "score": 2400000,
       "traffic_numeric": 500000,
@@ -170,18 +177,25 @@
       "timestamp": "2026-11-12 07:57:21"
     },
     {
-      "keyword": "sam hartman",
-      "score": 2200000,
+      "keyword": "nations league",
+      "score": 2300000,
       "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-15 07:20:28"
+      "category": "体育",
+      "timestamp": "2026-11-15 19:15:15"
     },
     {
-      "keyword": "jon ossoff",
+      "keyword": "mississippi senate race 2026",
       "score": 2000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-08 14:04:20"
+      "timestamp": "2026-11-10 20:06:21"
+    },
+    {
+      "keyword": "commanders vs giants",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-11-13 20:15:23"
     },
     {
       "keyword": "buccaneers vs bears",
@@ -191,31 +205,17 @@
       "timestamp": "2026-11-09 22:54:40"
     },
     {
-      "keyword": "gina hinojosa",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-08 14:04:20"
-    },
-    {
       "keyword": "disco singer rochelle fleming passes",
       "score": 2000000,
       "traffic_numeric": 500000,
       "category": "娱乐/生活",
       "timestamp": "2026-11-14 07:06:03"
-    },
-    {
-      "keyword": "election results 2026",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-08 22:30:34"
     }
   ],
   "category_stats": {
-    "其他": 79,
-    "体育": 57,
-    "科技/AI": 16,
+    "其他": 76,
+    "体育": 56,
+    "科技/AI": 17,
     "娱乐/生活": 3,
     "金融/商业": 1
   },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17 08:31:44",
+  "last_updated": "2026-11-17 21:24:14",
   "trends": [
     {
       "keyword": "nvidia",
@@ -10,7 +10,7 @@
     },
     {
       "keyword": "jensen huang",
-      "score": 16000002,
+      "score": 14000002,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-13 20:15:23"
@@ -21,6 +21,13 @@
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-13 20:15:23"
+    },
+    {
+      "keyword": "microsoft outage",
+      "score": 8000008,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-17 21:24:14"
     },
     {
       "keyword": "gta 6",
@@ -37,25 +44,18 @@
       "timestamp": "2026-11-12 07:57:21"
     },
     {
+      "keyword": "dan hicks",
+      "score": 7200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-17 21:24:14"
+    },
+    {
       "keyword": "russell brand",
-      "score": 8000000,
+      "score": 6000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-12 07:57:21"
-    },
-    {
-      "keyword": "dan hicks",
-      "score": 6200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-11-17 08:31:44"
-    },
-    {
-      "keyword": "microsoft outage",
-      "score": 6000008,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-17 08:31:44"
     },
     {
       "keyword": "49ers vs cowboys",
@@ -66,10 +66,17 @@
     },
     {
       "keyword": "yella beezy",
-      "score": 4800000,
+      "score": 5300000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-17 08:31:44"
+      "timestamp": "2026-11-17 21:24:14"
+    },
+    {
+      "keyword": "robert pattinson",
+      "score": 5000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-17 21:24:14"
     },
     {
       "keyword": "ufc 334",
@@ -80,17 +87,10 @@
     },
     {
       "keyword": "sam hartman",
-      "score": 4200000,
+      "score": 4700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-17 08:31:44"
-    },
-    {
-      "keyword": "james gunn",
-      "score": 4200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-16 07:17:40"
+      "timestamp": "2026-11-17 21:24:14"
     },
     {
       "keyword": "vikings vs packers",
@@ -100,18 +100,18 @@
       "timestamp": "2026-11-16 22:40:13"
     },
     {
+      "keyword": "james gunn",
+      "score": 4000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-16 07:17:40"
+    },
+    {
       "keyword": "anthony clark",
       "score": 3300000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-15 07:20:28"
-    },
-    {
-      "keyword": "robert pattinson",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-17 08:31:44"
     },
     {
       "keyword": "steelers vs bengals",
@@ -121,18 +121,18 @@
       "timestamp": "2026-11-17 08:31:44"
     },
     {
+      "keyword": "mexico vs jamaica",
+      "score": 3000000,
+      "traffic_numeric": 500000,
+      "category": "科技/AI",
+      "timestamp": "2026-11-17 21:24:14"
+    },
+    {
       "keyword": "building collapse nyc",
       "score": 2700000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-14 18:40:17"
-    },
-    {
-      "keyword": "mexico vs jamaica",
-      "score": 2500000,
-      "traffic_numeric": 500000,
-      "category": "科技/AI",
-      "timestamp": "2026-11-17 08:31:44"
     },
     {
       "keyword": "nations league",
@@ -149,11 +149,11 @@
       "timestamp": "2026-11-16 22:40:13"
     },
     {
-      "keyword": "alaska senate race",
+      "keyword": "bank outage",
       "score": 2000000,
-      "traffic_numeric": 2000000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-10 20:06:21"
+      "timestamp": "2026-11-17 21:24:14"
     },
     {
       "keyword": "commanders vs giants",
@@ -163,20 +163,6 @@
       "timestamp": "2026-11-13 20:15:23"
     },
     {
-      "keyword": "patriots vs lions",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-11-16 07:17:40"
-    },
-    {
-      "keyword": "disco singer rochelle fleming passes",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-11-14 07:06:03"
-    },
-    {
       "keyword": "drake maye injury",
       "score": 2000000,
       "traffic_numeric": 1000000,
@@ -184,11 +170,18 @@
       "timestamp": "2026-11-17 08:31:44"
     },
     {
-      "keyword": "rochelle fleming",
+      "keyword": "nvidia stock",
       "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-12 07:57:21"
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-11-14 18:40:17"
+    },
+    {
+      "keyword": "patriots vs lions",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-11-16 07:17:40"
     },
     {
       "keyword": "seahawks vs raiders",
@@ -198,11 +191,18 @@
       "timestamp": "2026-11-16 22:40:13"
     },
     {
-      "keyword": "nvidia stock",
+      "keyword": "chargers vs ravens",
       "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-11-14 18:40:17"
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-11-17 21:24:14"
+    },
+    {
+      "keyword": "disco singer rochelle fleming passes",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-11-14 07:06:03"
     },
     {
       "keyword": "social security cuts",
@@ -214,7 +214,7 @@
   ],
   "category_stats": {
     "其他": 78,
-    "体育": 48,
+    "体育": 46,
     "科技/AI": 19,
     "娱乐/生活": 3,
     "金融/商业": 2

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18 08:11:14",
+  "last_updated": "2026-11-18 20:59:30",
   "trends": [
     {
       "keyword": "nvidia",
@@ -9,53 +9,46 @@
       "timestamp": "2026-11-15 19:15:15"
     },
     {
+      "keyword": "microsoft outage",
+      "score": 12000008,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-18 20:59:30"
+    },
+    {
       "keyword": "jensen huang",
-      "score": 12000002,
+      "score": 10000002,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-13 20:15:23"
-    },
-    {
-      "keyword": "microsoft outage",
-      "score": 10000008,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-18 08:11:14"
-    },
-    {
-      "keyword": "kirk cousins",
-      "score": 9000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-13 20:15:23"
-    },
-    {
-      "keyword": "dan hicks",
-      "score": 8200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-11-18 08:11:14"
     },
     {
       "keyword": "gta 6",
-      "score": 7500000,
-      "traffic_numeric": 1000000,
+      "score": 9500000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-16 22:40:13"
+      "timestamp": "2026-11-18 20:59:30"
     },
     {
-      "keyword": "veterans day 2026",
-      "score": 7000000,
-      "traffic_numeric": 5000000,
+      "keyword": "dan hicks",
+      "score": 9200000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-12 07:57:21"
+      "timestamp": "2026-11-18 20:59:30"
     },
     {
       "keyword": "robert pattinson",
-      "score": 7000000,
+      "score": 9000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-18 08:11:14"
+      "timestamp": "2026-11-18 20:59:30"
+    },
+    {
+      "keyword": "kirk cousins",
+      "score": 8000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-13 20:15:23"
     },
     {
       "keyword": "49ers vs cowboys",
@@ -73,10 +66,24 @@
     },
     {
       "keyword": "sam hartman",
-      "score": 5200000,
+      "score": 5700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-18 08:11:14"
+      "timestamp": "2026-11-18 20:59:30"
+    },
+    {
+      "keyword": "mexico vs jamaica",
+      "score": 5000000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-11-18 20:59:30"
+    },
+    {
+      "keyword": "veterans day 2026",
+      "score": 5000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-11-12 07:57:21"
     },
     {
       "keyword": "ufc 334",
@@ -93,25 +100,18 @@
       "timestamp": "2026-11-16 22:40:13"
     },
     {
-      "keyword": "russell brand",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-12 07:57:21"
-    },
-    {
-      "keyword": "mexico vs jamaica",
-      "score": 4000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-11-18 08:11:14"
-    },
-    {
       "keyword": "james gunn",
-      "score": 3800000,
+      "score": 3600000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-16 07:17:40"
+    },
+    {
+      "keyword": "drake maye injury",
+      "score": 3500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-18 20:59:30"
     },
     {
       "keyword": "anthony clark",
@@ -119,13 +119,6 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-15 07:20:28"
-    },
-    {
-      "keyword": "drake maye injury",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-11-18 08:11:14"
     },
     {
       "keyword": "steelers vs bengals",
@@ -142,6 +135,13 @@
       "timestamp": "2026-11-14 18:40:17"
     },
     {
+      "keyword": "richard sterban",
+      "score": 2300000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-18 20:59:30"
+    },
+    {
       "keyword": "nations league",
       "score": 2300000,
       "traffic_numeric": 500000,
@@ -156,10 +156,45 @@
       "timestamp": "2026-11-16 22:40:13"
     },
     {
-      "keyword": "bank outage",
+      "keyword": "nvidia stock",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-11-14 18:40:17"
+    },
+    {
+      "keyword": "russell brand",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-12 07:57:21"
+    },
+    {
+      "keyword": "patriots vs lions",
       "score": 2000000,
       "traffic_numeric": 1000000,
-      "category": "其他",
+      "category": "体育",
+      "timestamp": "2026-11-16 07:17:40"
+    },
+    {
+      "keyword": "concacaf nations league",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-11-18 20:59:30"
+    },
+    {
+      "keyword": "disco singer rochelle fleming passes",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-11-14 07:06:03"
+    },
+    {
+      "keyword": "chargers vs ravens",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
       "timestamp": "2026-11-17 21:24:14"
     },
     {
@@ -170,54 +205,19 @@
       "timestamp": "2026-11-13 20:15:23"
     },
     {
-      "keyword": "nvidia stock",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-11-14 18:40:17"
-    },
-    {
-      "keyword": "patriots vs lions",
+      "keyword": "bank outage",
       "score": 2000000,
       "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-11-16 07:17:40"
-    },
-    {
-      "keyword": "seahawks vs raiders",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-11-16 22:40:13"
-    },
-    {
-      "keyword": "chargers vs ravens",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-11-17 21:24:14"
-    },
-    {
-      "keyword": "disco singer rochelle fleming passes",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-11-14 07:06:03"
-    },
-    {
-      "keyword": "social security cuts",
-      "score": 1900000,
-      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-14 22:59:04"
+      "timestamp": "2026-11-17 21:24:14"
     }
   ],
   "category_stats": {
     "其他": 76,
-    "体育": 48,
-    "科技/AI": 18,
+    "体育": 47,
+    "科技/AI": 17,
     "娱乐/生活": 4,
-    "金融/商业": 2
+    "金融/商业": 1
   },
   "insights": [
     {

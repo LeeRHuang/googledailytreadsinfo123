@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-11-19 08:00:49",
+  "last_updated": "2026-11-19 21:02:56",
   "trends": [
+    {
+      "keyword": "gta 6",
+      "score": 19000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-11-19 21:02:55"
+    },
     {
       "keyword": "nvidia",
       "score": 19000000,
@@ -9,39 +16,32 @@
       "timestamp": "2026-11-15 19:15:15"
     },
     {
-      "keyword": "gta 6",
-      "score": 14500000,
-      "traffic_numeric": 5000000,
+      "keyword": "robert pattinson",
+      "score": 13000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-19 08:00:49"
+      "timestamp": "2026-11-19 21:02:55"
     },
     {
       "keyword": "microsoft outage",
-      "score": 12000008,
+      "score": 10000008,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-18 20:59:30"
     },
     {
-      "keyword": "robert pattinson",
-      "score": 11000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-19 08:00:49"
-    },
-    {
       "keyword": "dan hicks",
-      "score": 9200000,
+      "score": 9000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-11-18 20:59:30"
     },
     {
       "keyword": "sam hartman",
-      "score": 6200000,
+      "score": 6700000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-19 08:00:49"
+      "timestamp": "2026-11-19 21:02:55"
     },
     {
       "keyword": "49ers vs cowboys",
@@ -51,25 +51,11 @@
       "timestamp": "2026-11-17 08:31:44"
     },
     {
-      "keyword": "kirk cousins",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-13 20:15:23"
-    },
-    {
       "keyword": "yella beezy",
-      "score": 5600000,
+      "score": 5400000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-18 08:11:14"
-    },
-    {
-      "keyword": "jensen huang",
-      "score": 5000002,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-11-13 20:15:23"
     },
     {
       "keyword": "mexico vs jamaica",
@@ -93,6 +79,13 @@
       "timestamp": "2026-11-16 22:40:13"
     },
     {
+      "keyword": "kirk cousins",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-13 20:15:23"
+    },
+    {
       "keyword": "drake maye injury",
       "score": 3500000,
       "traffic_numeric": 1000000,
@@ -100,15 +93,8 @@
       "timestamp": "2026-11-18 20:59:30"
     },
     {
-      "keyword": "james gunn",
-      "score": 3400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-16 07:17:40"
-    },
-    {
       "keyword": "anthony clark",
-      "score": 3200000,
+      "score": 3000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-15 07:20:28"
@@ -121,18 +107,11 @@
       "timestamp": "2026-11-17 08:31:44"
     },
     {
-      "keyword": "building collapse nyc",
-      "score": 2500000,
+      "keyword": "james gunn",
+      "score": 2900000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-14 18:40:17"
-    },
-    {
-      "keyword": "nations league",
-      "score": 2300000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-11-15 19:15:15"
+      "timestamp": "2026-11-16 07:17:40"
     },
     {
       "keyword": "richard sterban",
@@ -142,6 +121,13 @@
       "timestamp": "2026-11-18 20:59:30"
     },
     {
+      "keyword": "nations league",
+      "score": 2300000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-11-15 19:15:15"
+    },
+    {
       "keyword": "faa ground stop",
       "score": 2000006,
       "traffic_numeric": 2000000,
@@ -149,25 +135,18 @@
       "timestamp": "2026-11-16 22:40:13"
     },
     {
-      "keyword": "bank outage",
+      "keyword": "building collapse nyc",
       "score": 2000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-17 21:24:14"
+      "timestamp": "2026-11-14 18:40:17"
     },
     {
-      "keyword": "commanders vs giants",
+      "keyword": "chargers vs ravens",
       "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-11-13 20:15:23"
-    },
-    {
-      "keyword": "disco singer rochelle fleming passes",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-11-14 07:06:03"
+      "timestamp": "2026-11-17 21:24:14"
     },
     {
       "keyword": "patriots vs lions",
@@ -191,11 +170,18 @@
       "timestamp": "2026-11-16 22:40:13"
     },
     {
-      "keyword": "chargers vs ravens",
+      "keyword": "bank outage",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-17 21:24:14"
+    },
+    {
+      "keyword": "commanders vs giants",
       "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-11-17 21:24:14"
+      "timestamp": "2026-11-13 20:15:23"
     },
     {
       "keyword": "concacaf nations league",
@@ -210,14 +196,28 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-14 22:59:04"
+    },
+    {
+      "keyword": "the body netflix",
+      "score": 1650000,
+      "traffic_numeric": 200000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-11-17 21:24:14"
+    },
+    {
+      "keyword": "pterodactyl mexico",
+      "score": 1600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-19 21:02:55"
     }
   ],
   "category_stats": {
-    "其他": 78,
-    "体育": 49,
-    "科技/AI": 14,
+    "其他": 86,
+    "体育": 46,
+    "科技/AI": 13,
     "娱乐/生活": 6,
-    "金融/商业": 1
+    "金融/商业": 2
   },
   "insights": []
 }

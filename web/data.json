@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20 07:51:58",
+  "last_updated": "2026-11-20 20:48:17",
   "trends": [
     {
       "keyword": "nvidia",
@@ -10,35 +10,42 @@
     },
     {
       "keyword": "gta 6",
-      "score": 18500000,
+      "score": 18000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-19 21:02:55"
     },
     {
       "keyword": "robert pattinson",
-      "score": 15000000,
+      "score": 17000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-20 07:51:58"
+      "timestamp": "2026-11-20 20:48:17"
     },
     {
       "keyword": "microsoft outage",
-      "score": 10000007,
+      "score": 10000006,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-18 20:59:30"
     },
     {
+      "keyword": "gta 6 reviews",
+      "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-11-20 20:48:17"
+    },
+    {
       "keyword": "dan hicks",
-      "score": 8500000,
+      "score": 8000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-11-18 20:59:30"
     },
     {
       "keyword": "sam hartman",
-      "score": 7200000,
+      "score": 7000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-20 07:51:58"
@@ -51,25 +58,25 @@
       "timestamp": "2026-11-17 08:31:44"
     },
     {
-      "keyword": "yella beezy",
-      "score": 5200000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-18 08:11:14"
-    },
-    {
-      "keyword": "gta 6 reviews",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-11-20 07:51:58"
-    },
-    {
       "keyword": "mexico vs jamaica",
       "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-11-18 20:59:30"
+    },
+    {
+      "keyword": "anthropic stock",
+      "score": 5000000,
+      "traffic_numeric": 2000000,
+      "category": "金融/商业",
+      "timestamp": "2026-11-20 20:48:17"
+    },
+    {
+      "keyword": "yella beezy",
+      "score": 5000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-18 08:11:14"
     },
     {
       "keyword": "ufc 334",
@@ -79,6 +86,13 @@
       "timestamp": "2026-11-15 19:15:15"
     },
     {
+      "keyword": "drake maye injury",
+      "score": 4500000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-20 20:48:17"
+    },
+    {
       "keyword": "vikings vs packers",
       "score": 4000000,
       "traffic_numeric": 2000000,
@@ -86,18 +100,11 @@
       "timestamp": "2026-11-16 22:40:13"
     },
     {
-      "keyword": "drake maye injury",
-      "score": 3500000,
+      "keyword": "ps5",
+      "score": 3200000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-18 20:59:30"
-    },
-    {
-      "keyword": "anthropic stock",
-      "score": 3000000,
-      "traffic_numeric": 2000000,
-      "category": "金融/商业",
-      "timestamp": "2026-11-20 07:51:58"
+      "timestamp": "2026-11-20 20:48:17"
     },
     {
       "keyword": "steelers vs bengals",
@@ -107,18 +114,18 @@
       "timestamp": "2026-11-17 08:31:44"
     },
     {
-      "keyword": "anthony clark",
-      "score": 2500000,
+      "keyword": "pterodactyl mexico",
+      "score": 2600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-15 07:20:28"
+      "timestamp": "2026-11-20 20:48:17"
     },
     {
-      "keyword": "james gunn",
-      "score": 2400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-16 07:17:40"
+      "keyword": "hunger games sunrise on the reaping",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-11-20 20:48:17"
     },
     {
       "keyword": "richard sterban",
@@ -128,25 +135,11 @@
       "timestamp": "2026-11-18 20:59:30"
     },
     {
-      "keyword": "ps5",
-      "score": 2200000,
+      "keyword": "fiona the hippo",
+      "score": 2100000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-20 07:51:58"
-    },
-    {
-      "keyword": "pterodactyl mexico",
-      "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-20 07:51:58"
-    },
-    {
-      "keyword": "nations league",
-      "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-11-15 19:15:15"
+      "timestamp": "2026-11-20 20:48:17"
     },
     {
       "keyword": "faa ground stop",
@@ -156,24 +149,17 @@
       "timestamp": "2026-11-16 22:40:13"
     },
     {
-      "keyword": "nvidia stock",
+      "keyword": "bank outage",
       "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-11-14 18:40:17"
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-17 21:24:14"
     },
     {
       "keyword": "chargers vs ravens",
       "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-11-17 21:24:14"
-    },
-    {
-      "keyword": "bank outage",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
       "timestamp": "2026-11-17 21:24:14"
     },
     {
@@ -184,11 +170,25 @@
       "timestamp": "2026-11-16 22:40:13"
     },
     {
+      "keyword": "anthony clark",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-15 07:20:28"
+    },
+    {
       "keyword": "patriots vs lions",
       "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-11-16 07:17:40"
+    },
+    {
+      "keyword": "nvidia stock",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "科技/AI",
+      "timestamp": "2026-11-14 18:40:17"
     },
     {
       "keyword": "concacaf nations league",
@@ -198,23 +198,23 @@
       "timestamp": "2026-11-18 20:59:30"
     },
     {
-      "keyword": "kirk cousins",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-13 20:15:23"
+      "keyword": "nations league",
+      "score": 1900000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-11-15 19:15:15"
     },
     {
-      "keyword": "social security cuts",
-      "score": 1700000,
+      "keyword": "james gunn",
+      "score": 1900000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-14 22:59:04"
+      "timestamp": "2026-11-16 07:17:40"
     }
   ],
   "category_stats": {
-    "其他": 85,
-    "体育": 48,
+    "其他": 83,
+    "体育": 47,
     "科技/AI": 13,
     "娱乐/生活": 5,
     "金融/商业": 2

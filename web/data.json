@@ -1,58 +1,58 @@
 {
-  "last_updated": "2026-11-21 07:51:32",
+  "last_updated": "2026-11-21 19:54:48",
   "trends": [
     {
       "keyword": "robert pattinson",
-      "score": 19000000,
+      "score": 21000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-21 07:51:32"
+      "timestamp": "2026-11-21 19:54:47"
+    },
+    {
+      "keyword": "gta 6 reviews",
+      "score": 20000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-11-21 19:54:47"
     },
     {
       "keyword": "gta 6",
-      "score": 18000000,
+      "score": 17000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-19 21:02:55"
     },
     {
-      "keyword": "gta 6 reviews",
-      "score": 15000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-11-21 07:51:32"
-    },
-    {
       "keyword": "nvidia",
-      "score": 14000000,
+      "score": 12000000,
       "traffic_numeric": 5000000,
       "category": "科技/AI",
       "timestamp": "2026-11-15 19:15:15"
     },
     {
       "keyword": "microsoft outage",
-      "score": 10000005,
+      "score": 10000004,
       "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-18 20:59:30"
-    },
-    {
-      "keyword": "dan hicks",
-      "score": 7500000,
-      "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-11-18 20:59:30"
     },
     {
       "keyword": "anthropic stock",
-      "score": 7000000,
+      "score": 9000000,
       "traffic_numeric": 2000000,
       "category": "金融/商业",
-      "timestamp": "2026-11-21 07:51:32"
+      "timestamp": "2026-11-21 19:54:47"
+    },
+    {
+      "keyword": "dan hicks",
+      "score": 7000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-18 20:59:30"
     },
     {
       "keyword": "sam hartman",
-      "score": 6500000,
+      "score": 6000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-20 07:51:58"
@@ -65,25 +65,18 @@
       "timestamp": "2026-11-17 08:31:44"
     },
     {
+      "keyword": "ps5",
+      "score": 5200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-21 19:54:47"
+    },
+    {
       "keyword": "mexico vs jamaica",
       "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-11-18 20:59:30"
-    },
-    {
-      "keyword": "ufc 334",
-      "score": 4700000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-15 19:15:15"
-    },
-    {
-      "keyword": "yella beezy",
-      "score": 4500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-18 08:11:14"
     },
     {
       "keyword": "drake maye injury",
@@ -93,11 +86,25 @@
       "timestamp": "2026-11-20 20:48:17"
     },
     {
-      "keyword": "ps5",
-      "score": 4200000,
+      "keyword": "ufc 334",
+      "score": 4500000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-15 19:15:15"
+    },
+    {
+      "keyword": "hunger games sunrise on the reaping",
+      "score": 4500000,
+      "traffic_numeric": 1000000,
+      "category": "娱乐/生活",
+      "timestamp": "2026-11-21 19:54:47"
+    },
+    {
+      "keyword": "fiona the hippo",
+      "score": 4100000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-21 07:51:32"
+      "timestamp": "2026-11-21 19:54:47"
     },
     {
       "keyword": "vikings vs packers",
@@ -107,18 +114,11 @@
       "timestamp": "2026-11-16 22:40:13"
     },
     {
-      "keyword": "hunger games sunrise on the reaping",
-      "score": 3500000,
-      "traffic_numeric": 1000000,
-      "category": "娱乐/生活",
-      "timestamp": "2026-11-21 07:51:32"
-    },
-    {
-      "keyword": "fiona the hippo",
-      "score": 3100000,
-      "traffic_numeric": 1000000,
+      "keyword": "yella beezy",
+      "score": 4000000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-21 07:51:32"
+      "timestamp": "2026-11-18 08:11:14"
     },
     {
       "keyword": "pterodactyl mexico",
@@ -143,24 +143,10 @@
     },
     {
       "keyword": "faa ground stop",
-      "score": 2000005,
+      "score": 2000004,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-16 22:40:13"
-    },
-    {
-      "keyword": "patriots vs lions",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-11-16 07:17:40"
-    },
-    {
-      "keyword": "chargers vs ravens",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-11-17 21:24:14"
     },
     {
       "keyword": "seahawks vs raiders",
@@ -170,11 +156,11 @@
       "timestamp": "2026-11-16 22:40:13"
     },
     {
-      "keyword": "nvidia stock",
+      "keyword": "chargers vs ravens",
       "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-11-14 18:40:17"
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-11-17 21:24:14"
     },
     {
       "keyword": "concacaf nations league",
@@ -184,18 +170,18 @@
       "timestamp": "2026-11-18 20:59:30"
     },
     {
+      "keyword": "patriots vs lions",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-11-16 07:17:40"
+    },
+    {
       "keyword": "bank outage",
       "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-11-17 21:24:14"
-    },
-    {
-      "keyword": "nations league",
-      "score": 1700000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-11-15 19:15:15"
     },
     {
       "keyword": "ella langley",
@@ -205,17 +191,31 @@
       "timestamp": "2026-11-20 20:48:17"
     },
     {
+      "keyword": "snl sister skit",
+      "score": 1600000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-21 19:54:47"
+    },
+    {
       "keyword": "ground stop",
       "score": 1500000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-11-17 08:31:44"
+    },
+    {
+      "keyword": "nations league",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-11-15 19:15:15"
     }
   ],
   "category_stats": {
-    "其他": 82,
-    "体育": 45,
-    "科技/AI": 13,
+    "其他": 80,
+    "体育": 48,
+    "科技/AI": 12,
     "娱乐/生活": 4,
     "金融/商业": 2
   },

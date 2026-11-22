@@ -1,54 +1,54 @@
 {
-  "last_updated": "2026-11-22 07:41:18",
+  "last_updated": "2026-11-22 20:00:26",
   "trends": [
     {
       "keyword": "gta 6 reviews",
-      "score": 25000000,
+      "score": 30000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-22 07:41:18"
+      "timestamp": "2026-11-22 20:00:26"
     },
     {
       "keyword": "robert pattinson",
-      "score": 23000000,
+      "score": 24000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-22 07:41:18"
+      "timestamp": "2026-11-22 20:00:26"
     },
     {
       "keyword": "gta 6",
-      "score": 15000000,
+      "score": 14000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-19 21:02:55"
     },
     {
       "keyword": "anthropic stock",
-      "score": 11000000,
+      "score": 13000000,
       "traffic_numeric": 2000000,
       "category": "金融/商业",
-      "timestamp": "2026-11-22 07:41:18"
-    },
-    {
-      "keyword": "microsoft outage",
-      "score": 8000003,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-18 20:59:30"
+      "timestamp": "2026-11-22 20:00:26"
     },
     {
       "keyword": "hunger games sunrise on the reaping",
-      "score": 6500000,
+      "score": 8500000,
       "traffic_numeric": 2000000,
       "category": "娱乐/生活",
-      "timestamp": "2026-11-22 07:41:18"
+      "timestamp": "2026-11-22 20:00:26"
     },
     {
-      "keyword": "dan hicks",
-      "score": 6000000,
-      "traffic_numeric": 1000000,
+      "keyword": "microsoft outage",
+      "score": 8000002,
+      "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-18 20:59:30"
+    },
+    {
+      "keyword": "fiona the hippo",
+      "score": 6100000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-22 20:00:26"
     },
     {
       "keyword": "49ers vs cowboys",
@@ -65,15 +65,15 @@
       "timestamp": "2026-11-21 19:54:47"
     },
     {
-      "keyword": "fiona the hippo",
-      "score": 5100000,
+      "keyword": "dan hicks",
+      "score": 5000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-22 07:41:18"
+      "timestamp": "2026-11-18 20:59:30"
     },
     {
       "keyword": "sam hartman",
-      "score": 5000000,
+      "score": 4500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-20 07:51:58"
@@ -87,17 +87,10 @@
     },
     {
       "keyword": "mexico vs jamaica",
-      "score": 4500000,
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-11-18 20:59:30"
-    },
-    {
-      "keyword": "vikings vs packers",
-      "score": 4000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-11-16 22:40:13"
     },
     {
       "keyword": "pterodactyl mexico",
@@ -115,30 +108,37 @@
     },
     {
       "keyword": "yella beezy",
-      "score": 3000000,
+      "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-18 08:11:14"
     },
     {
       "keyword": "richard sterban",
-      "score": 2300000,
+      "score": 2100000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-18 20:59:30"
     },
     {
       "keyword": "faa ground stop",
-      "score": 2000002,
+      "score": 2000001,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-16 22:40:13"
     },
     {
-      "keyword": "chargers vs ravens",
+      "keyword": "concacaf nations league",
+      "score": 2000000,
+      "traffic_numeric": 500000,
+      "category": "体育",
+      "timestamp": "2026-11-18 20:59:30"
+    },
+    {
+      "keyword": "bank outage",
       "score": 2000000,
       "traffic_numeric": 1000000,
-      "category": "体育",
+      "category": "其他",
       "timestamp": "2026-11-17 21:24:14"
     },
     {
@@ -149,38 +149,17 @@
       "timestamp": "2026-11-16 22:40:13"
     },
     {
-      "keyword": "ufc 334",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-15 19:15:15"
-    },
-    {
-      "keyword": "concacaf nations league",
-      "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "体育",
-      "timestamp": "2026-11-18 20:59:30"
-    },
-    {
-      "keyword": "nvidia",
-      "score": 2000000,
-      "traffic_numeric": 2000000,
-      "category": "科技/AI",
-      "timestamp": "2026-11-15 19:15:15"
-    },
-    {
-      "keyword": "patriots vs lions",
+      "keyword": "vikings vs packers",
       "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "体育",
-      "timestamp": "2026-11-16 07:17:40"
+      "timestamp": "2026-11-16 22:40:13"
     },
     {
-      "keyword": "bank outage",
+      "keyword": "chargers vs ravens",
       "score": 2000000,
       "traffic_numeric": 1000000,
-      "category": "其他",
+      "category": "体育",
       "timestamp": "2026-11-17 21:24:14"
     },
     {
@@ -198,11 +177,11 @@
       "timestamp": "2026-11-21 19:54:47"
     },
     {
-      "keyword": "ground stop",
-      "score": 1500000,
-      "traffic_numeric": 1000000,
+      "keyword": "manni l perez",
+      "score": 1600000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-17 08:31:44"
+      "timestamp": "2026-11-22 20:00:26"
     },
     {
       "keyword": "aidan hutchinson",
@@ -210,12 +189,33 @@
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-11-17 08:31:44"
+    },
+    {
+      "keyword": "grammy nominations 2027",
+      "score": 1500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-19 08:00:49"
+    },
+    {
+      "keyword": "john madden",
+      "score": 1300000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-11-22 20:00:26"
+    },
+    {
+      "keyword": "ohio state vs nebraska",
+      "score": 1200000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-11-22 07:41:18"
     }
   ],
   "category_stats": {
-    "其他": 77,
-    "体育": 45,
-    "科技/AI": 12,
+    "其他": 78,
+    "体育": 49,
+    "科技/AI": 10,
     "娱乐/生活": 4,
     "金融/商业": 2
   },

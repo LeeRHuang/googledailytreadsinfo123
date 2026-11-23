@@ -1,61 +1,54 @@
 {
-  "last_updated": "2026-11-22 20:00:26",
+  "last_updated": "2026-11-23 08:22:15",
   "trends": [
     {
       "keyword": "gta 6 reviews",
-      "score": 30000000,
+      "score": 35000000,
       "traffic_numeric": 5000000,
       "category": "其他",
-      "timestamp": "2026-11-22 20:00:26"
+      "timestamp": "2026-11-23 08:22:15"
     },
     {
       "keyword": "robert pattinson",
-      "score": 24000000,
+      "score": 26000000,
       "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-22 20:00:26"
+      "timestamp": "2026-11-23 08:22:15"
+    },
+    {
+      "keyword": "anthropic stock",
+      "score": 15000000,
+      "traffic_numeric": 2000000,
+      "category": "金融/商业",
+      "timestamp": "2026-11-23 08:22:15"
     },
     {
       "keyword": "gta 6",
-      "score": 14000000,
+      "score": 13000000,
       "traffic_numeric": 5000000,
       "category": "其他",
       "timestamp": "2026-11-19 21:02:55"
     },
     {
-      "keyword": "anthropic stock",
-      "score": 13000000,
-      "traffic_numeric": 2000000,
-      "category": "金融/商业",
-      "timestamp": "2026-11-22 20:00:26"
-    },
-    {
       "keyword": "hunger games sunrise on the reaping",
-      "score": 8500000,
+      "score": 10500000,
       "traffic_numeric": 2000000,
       "category": "娱乐/生活",
-      "timestamp": "2026-11-22 20:00:26"
+      "timestamp": "2026-11-23 08:22:15"
     },
     {
       "keyword": "microsoft outage",
-      "score": 8000002,
+      "score": 8000001,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-18 20:59:30"
     },
     {
       "keyword": "fiona the hippo",
-      "score": 6100000,
+      "score": 7100000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-22 20:00:26"
-    },
-    {
-      "keyword": "49ers vs cowboys",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-11-17 08:31:44"
+      "timestamp": "2026-11-23 08:22:15"
     },
     {
       "keyword": "ps5",
@@ -65,20 +58,6 @@
       "timestamp": "2026-11-21 19:54:47"
     },
     {
-      "keyword": "dan hicks",
-      "score": 5000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-11-18 20:59:30"
-    },
-    {
-      "keyword": "sam hartman",
-      "score": 4500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-20 07:51:58"
-    },
-    {
       "keyword": "drake maye injury",
       "score": 4500000,
       "traffic_numeric": 1000000,
@@ -86,8 +65,29 @@
       "timestamp": "2026-11-20 20:48:17"
     },
     {
-      "keyword": "mexico vs jamaica",
+      "keyword": "49ers vs cowboys",
       "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-11-17 08:31:44"
+    },
+    {
+      "keyword": "sam hartman",
+      "score": 4000000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-20 07:51:58"
+    },
+    {
+      "keyword": "dan hicks",
+      "score": 4000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-18 20:59:30"
+    },
+    {
+      "keyword": "mexico vs jamaica",
+      "score": 3500000,
       "traffic_numeric": 1000000,
       "category": "科技/AI",
       "timestamp": "2026-11-18 20:59:30"
@@ -100,32 +100,32 @@
       "timestamp": "2026-11-21 07:51:32"
     },
     {
-      "keyword": "steelers vs bengals",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-11-17 08:31:44"
+      "keyword": "manni l perez",
+      "score": 2100000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-23 08:22:15"
     },
     {
       "keyword": "yella beezy",
-      "score": 2500000,
+      "score": 2000000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-18 08:11:14"
     },
     {
-      "keyword": "richard sterban",
-      "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-18 20:59:30"
-    },
-    {
       "keyword": "faa ground stop",
-      "score": 2000001,
+      "score": 2000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-16 22:40:13"
+    },
+    {
+      "keyword": "steelers vs bengals",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-11-17 08:31:44"
     },
     {
       "keyword": "concacaf nations league",
@@ -142,25 +142,25 @@
       "timestamp": "2026-11-17 21:24:14"
     },
     {
-      "keyword": "seahawks vs raiders",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-11-16 22:40:13"
-    },
-    {
-      "keyword": "vikings vs packers",
-      "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-11-16 22:40:13"
-    },
-    {
       "keyword": "chargers vs ravens",
       "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-11-17 21:24:14"
+    },
+    {
+      "keyword": "richard sterban",
+      "score": 1900000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-18 20:59:30"
+    },
+    {
+      "keyword": "john madden",
+      "score": 1800000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-23 08:22:15"
     },
     {
       "keyword": "ella langley",
@@ -177,11 +177,18 @@
       "timestamp": "2026-11-21 19:54:47"
     },
     {
-      "keyword": "manni l perez",
-      "score": 1600000,
+      "keyword": "grammy nominations 2027",
+      "score": 1500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-22 20:00:26"
+      "timestamp": "2026-11-19 08:00:49"
+    },
+    {
+      "keyword": "steelers vs eagles",
+      "score": 1500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-11-23 08:22:15"
     },
     {
       "keyword": "aidan hutchinson",
@@ -191,18 +198,11 @@
       "timestamp": "2026-11-17 08:31:44"
     },
     {
-      "keyword": "grammy nominations 2027",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-19 08:00:49"
-    },
-    {
-      "keyword": "john madden",
-      "score": 1300000,
+      "keyword": "mandy gta 6",
+      "score": 1350000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-11-22 20:00:26"
+      "timestamp": "2026-11-23 08:22:15"
     },
     {
       "keyword": "ohio state vs nebraska",
@@ -214,8 +214,8 @@
   ],
   "category_stats": {
     "其他": 78,
-    "体育": 49,
-    "科技/AI": 10,
+    "体育": 45,
+    "科技/AI": 12,
     "娱乐/生活": 4,
     "金融/商业": 2
   },

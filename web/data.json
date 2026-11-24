@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24 10:30:52",
+  "last_updated": "2026-11-24 22:54:25",
   "trends": [
     {
       "keyword": "gta 6 reviews",
@@ -9,18 +9,18 @@
       "timestamp": "2026-11-24 00:25:59"
     },
     {
+      "keyword": "anthropic stock",
+      "score": 21000000,
+      "traffic_numeric": 2000000,
+      "category": "金融/商业",
+      "timestamp": "2026-11-24 22:54:25"
+    },
+    {
       "keyword": "robert pattinson",
-      "score": 23000000,
+      "score": 21000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-23 08:22:15"
-    },
-    {
-      "keyword": "anthropic stock",
-      "score": 19000000,
-      "traffic_numeric": 2000000,
-      "category": "金融/商业",
-      "timestamp": "2026-11-24 10:30:52"
     },
     {
       "keyword": "gta 6",
@@ -44,13 +44,6 @@
       "timestamp": "2026-11-24 10:30:52"
     },
     {
-      "keyword": "microsoft outage",
-      "score": 6000000,
-      "traffic_numeric": 2000000,
-      "category": "其他",
-      "timestamp": "2026-11-18 20:59:30"
-    },
-    {
       "keyword": "ps5",
       "score": 5200000,
       "traffic_numeric": 1000000,
@@ -58,39 +51,53 @@
       "timestamp": "2026-11-21 19:54:47"
     },
     {
+      "keyword": "microsoft outage",
+      "score": 4000000,
+      "traffic_numeric": 2000000,
+      "category": "其他",
+      "timestamp": "2026-11-18 20:59:30"
+    },
+    {
+      "keyword": "tom jackson",
+      "score": 3200000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-24 22:54:25"
+    },
+    {
       "keyword": "pterodactyl mexico",
-      "score": 3100000,
+      "score": 2900000,
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-21 07:51:32"
     },
     {
-      "keyword": "sam hartman",
-      "score": 3000000,
+      "keyword": "maxx morando",
+      "score": 2800000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-24 22:54:25"
+    },
+    {
+      "keyword": "iowa lead explosion",
+      "score": 2600000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-20 07:51:58"
+      "timestamp": "2026-11-24 22:54:25"
     },
     {
-      "keyword": "dan hicks",
-      "score": 3000000,
-      "traffic_numeric": 1000000,
+      "keyword": "mandy gta 6",
+      "score": 2550000,
+      "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-18 20:59:30"
+      "timestamp": "2026-11-24 22:54:25"
     },
     {
-      "keyword": "vikings vs 49ers",
+      "keyword": "john madden",
       "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-11-24 10:30:52"
-    },
-    {
-      "keyword": "mexico vs jamaica",
-      "score": 2500000,
-      "traffic_numeric": 1000000,
-      "category": "科技/AI",
-      "timestamp": "2026-11-18 20:59:30"
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-24 22:54:25"
     },
     {
       "keyword": "drake maye injury",
@@ -107,11 +114,18 @@
       "timestamp": "2026-11-24 10:30:52"
     },
     {
-      "keyword": "john madden",
-      "score": 2300000,
+      "keyword": "vikings vs 49ers",
+      "score": 2500000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-11-24 10:30:52"
+    },
+    {
+      "keyword": "sam hartman",
+      "score": 2500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-24 00:25:59"
+      "timestamp": "2026-11-20 07:51:58"
     },
     {
       "keyword": "joseph zada",
@@ -121,32 +135,25 @@
       "timestamp": "2026-11-24 00:25:59"
     },
     {
-      "keyword": "tom jackson",
-      "score": 2200000,
+      "keyword": "dan hicks",
+      "score": 2000000,
       "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-24 10:30:52"
+      "timestamp": "2026-11-18 20:59:30"
     },
     {
-      "keyword": "iowa lead explosion",
-      "score": 2100000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-24 10:30:52"
+      "keyword": "bengals vs commanders",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "体育",
+      "timestamp": "2026-11-24 22:54:25"
     },
     {
-      "keyword": "mandy gta 6",
-      "score": 2050000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-24 10:30:52"
-    },
-    {
-      "keyword": "maxx morando",
-      "score": 1800000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-24 10:30:52"
+      "keyword": "mexico vs jamaica",
+      "score": 2000000,
+      "traffic_numeric": 1000000,
+      "category": "科技/AI",
+      "timestamp": "2026-11-18 20:59:30"
     },
     {
       "keyword": "ella langley",
@@ -154,6 +161,13 @@
       "traffic_numeric": 500000,
       "category": "其他",
       "timestamp": "2026-11-20 20:48:17"
+    },
+    {
+      "keyword": "riemann hypothesis",
+      "score": 1650000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-11-24 22:54:25"
     },
     {
       "keyword": "snl sister skit",
@@ -170,18 +184,11 @@
       "timestamp": "2026-11-23 08:22:15"
     },
     {
-      "keyword": "richard sterban",
-      "score": 1500000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-18 20:59:30"
-    },
-    {
-      "keyword": "riemann hypothesis",
-      "score": 1450000,
+      "keyword": "stephen wilson jr",
+      "score": 1400000,
       "traffic_numeric": 200000,
       "category": "其他",
-      "timestamp": "2026-11-24 10:30:52"
+      "timestamp": "2026-11-24 22:54:25"
     },
     {
       "keyword": "ohio state vs nebraska",
@@ -191,13 +198,6 @@
       "timestamp": "2026-11-22 07:41:18"
     },
     {
-      "keyword": "stephen wilson jr",
-      "score": 1200000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-11-24 00:25:59"
-    },
-    {
       "keyword": "disney discontinues hulu standalone app",
       "score": 1050000,
       "traffic_numeric": 500000,
@@ -205,19 +205,25 @@
       "timestamp": "2026-11-24 10:30:52"
     },
     {
-      "keyword": "bengals vs commanders",
+      "keyword": "colts vs texans",
       "score": 1000000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 500000,
       "category": "体育",
-      "timestamp": "2026-11-24 10:30:52"
+      "timestamp": "2026-11-20 20:48:17"
     }
   ],
   "category_stats": {
     "其他": 82,
-    "体育": 44,
-    "科技/AI": 10,
+    "体育": 46,
+    "科技/AI": 9,
     "娱乐/生活": 4,
     "金融/商业": 3
   },
-  "insights": []
+  "insights": [
+    {
+      "title": "季节性效率/计划应用",
+      "context": "新年计划相关关键词搜索量激增。",
+      "suggestion": "开发带有社交对赌性质的‘新年目标达成’应用，通过押金模式强制用户坚持习惯。"
+    }
+  ]
 }

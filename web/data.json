@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26 09:08:35",
+  "last_updated": "2026-11-26 22:10:03",
   "trends": [
     {
       "keyword": "gta 6 reviews",
@@ -10,28 +10,35 @@
     },
     {
       "keyword": "anthropic stock",
-      "score": 23000000,
+      "score": 22000000,
       "traffic_numeric": 2000000,
       "category": "金融/商业",
       "timestamp": "2026-11-25 09:23:59"
     },
     {
       "keyword": "robert pattinson",
-      "score": 15000000,
+      "score": 13000000,
       "traffic_numeric": 2000000,
       "category": "其他",
       "timestamp": "2026-11-23 08:22:15"
     },
     {
-      "keyword": "hunger games sunrise on the reaping",
+      "keyword": "thanksgiving 2026",
       "score": 10000000,
+      "traffic_numeric": 5000000,
+      "category": "其他",
+      "timestamp": "2026-11-26 22:10:03"
+    },
+    {
+      "keyword": "hunger games sunrise on the reaping",
+      "score": 9500000,
       "traffic_numeric": 2000000,
       "category": "娱乐/生活",
       "timestamp": "2026-11-23 08:22:15"
     },
     {
       "keyword": "fiona the hippo",
-      "score": 9100000,
+      "score": 9000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-11-24 10:30:52"
@@ -44,32 +51,32 @@
       "timestamp": "2026-11-26 09:08:35"
     },
     {
-      "keyword": "thanksgiving 2026",
-      "score": 5000000,
-      "traffic_numeric": 2000000,
+      "keyword": "tom jackson",
+      "score": 4200000,
+      "traffic_numeric": 1000000,
       "category": "其他",
-      "timestamp": "2026-11-26 09:08:35"
+      "timestamp": "2026-11-26 22:10:03"
     },
     {
-      "keyword": "gta 6",
-      "score": 5000000,
-      "traffic_numeric": 5000000,
-      "category": "其他",
-      "timestamp": "2026-11-19 21:02:55"
+      "keyword": "packers vs rams",
+      "score": 4050000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-11-26 22:10:03"
     },
     {
       "keyword": "ps5",
-      "score": 4500000,
+      "score": 4000000,
       "traffic_numeric": 1000000,
       "category": "其他",
       "timestamp": "2026-11-21 19:54:47"
     },
     {
-      "keyword": "tom jackson",
+      "keyword": "is walmart open on thanksgiving",
       "score": 3200000,
-      "traffic_numeric": 1000000,
+      "traffic_numeric": 2000000,
       "category": "其他",
-      "timestamp": "2026-11-24 22:54:25"
+      "timestamp": "2026-11-26 22:10:03"
     },
     {
       "keyword": "aaron rodgers",
@@ -79,13 +86,6 @@
       "timestamp": "2026-11-26 09:08:35"
     },
     {
-      "keyword": "mandy gta 6",
-      "score": 3050000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-25 09:23:59"
-    },
-    {
       "keyword": "bengals vs commanders",
       "score": 3000000,
       "traffic_numeric": 1000000,
@@ -93,17 +93,45 @@
       "timestamp": "2026-11-25 09:23:59"
     },
     {
-      "keyword": "iowa lead explosion",
-      "score": 2600000,
+      "keyword": "mandy gta 6",
+      "score": 3000000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-24 22:54:25"
+      "timestamp": "2026-11-25 09:23:59"
+    },
+    {
+      "keyword": "iowa lead detonation",
+      "score": 3000000,
+      "traffic_numeric": 1000000,
+      "category": "其他",
+      "timestamp": "2026-11-26 22:10:03"
     },
     {
       "keyword": "vikings vs 49ers",
       "score": 2500000,
       "traffic_numeric": 1000000,
       "category": "体育",
+      "timestamp": "2026-11-24 10:30:52"
+    },
+    {
+      "keyword": "iowa lead explosion",
+      "score": 2500000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-24 22:54:25"
+    },
+    {
+      "keyword": "riemann hypothesis",
+      "score": 2450000,
+      "traffic_numeric": 200000,
+      "category": "其他",
+      "timestamp": "2026-11-26 22:10:03"
+    },
+    {
+      "keyword": "manni l perez",
+      "score": 2400000,
+      "traffic_numeric": 500000,
+      "category": "其他",
       "timestamp": "2026-11-24 10:30:52"
     },
     {
@@ -114,20 +142,6 @@
       "timestamp": "2026-11-24 22:54:25"
     },
     {
-      "keyword": "manni l perez",
-      "score": 2400000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-24 10:30:52"
-    },
-    {
-      "keyword": "riemann hypothesis",
-      "score": 2250000,
-      "traffic_numeric": 200000,
-      "category": "其他",
-      "timestamp": "2026-11-26 09:08:35"
-    },
-    {
       "keyword": "joseph zada",
       "score": 2200000,
       "traffic_numeric": 2000000,
@@ -135,11 +149,11 @@
       "timestamp": "2026-11-24 00:25:59"
     },
     {
-      "keyword": "packers vs rams",
-      "score": 2050000,
-      "traffic_numeric": 2000000,
-      "category": "体育",
-      "timestamp": "2026-11-26 09:08:35"
+      "keyword": "miss universe 2026",
+      "score": 2200000,
+      "traffic_numeric": 500000,
+      "category": "其他",
+      "timestamp": "2026-11-26 22:10:03"
     },
     {
       "keyword": "wind advisory",
@@ -149,18 +163,18 @@
       "timestamp": "2026-11-26 09:08:35"
     },
     {
-      "keyword": "pterodactyl mexico",
+      "keyword": "bears vs lions",
       "score": 2000000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-21 07:51:32"
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-11-26 22:10:03"
     },
     {
-      "keyword": "iowa lead detonation",
+      "keyword": "nfl",
       "score": 2000000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-11-26 09:08:35"
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-11-26 22:10:03"
     },
     {
       "keyword": "ezra frech",
@@ -170,25 +184,25 @@
       "timestamp": "2026-11-26 09:08:35"
     },
     {
+      "keyword": "nfl games today",
+      "score": 2000000,
+      "traffic_numeric": 2000000,
+      "category": "体育",
+      "timestamp": "2026-11-26 22:10:03"
+    },
+    {
       "keyword": "stephen wilson jr",
-      "score": 1700000,
+      "score": 1600000,
       "traffic_numeric": 200000,
       "category": "其他",
       "timestamp": "2026-11-25 22:06:16"
     },
     {
-      "keyword": "miss universe 2026",
-      "score": 1700000,
-      "traffic_numeric": 500000,
-      "category": "其他",
-      "timestamp": "2026-11-26 09:08:35"
-    },
-    {
-      "keyword": "ella langley",
+      "keyword": "pterodactyl mexico",
       "score": 1500000,
       "traffic_numeric": 500000,
       "category": "其他",
-      "timestamp": "2026-11-20 20:48:17"
+      "timestamp": "2026-11-21 07:51:32"
     },
     {
       "keyword": "steelers vs eagles",
@@ -196,26 +210,12 @@
       "traffic_numeric": 1000000,
       "category": "体育",
       "timestamp": "2026-11-23 08:22:15"
-    },
-    {
-      "keyword": "ohio state vs nebraska",
-      "score": 1200000,
-      "traffic_numeric": 1000000,
-      "category": "体育",
-      "timestamp": "2026-11-22 07:41:18"
-    },
-    {
-      "keyword": "is walmart open on thanksgiving",
-      "score": 1200000,
-      "traffic_numeric": 1000000,
-      "category": "其他",
-      "timestamp": "2026-11-26 09:08:35"
     }
   ],
   "category_stats": {
-    "其他": 78,
-    "体育": 52,
-    "科技/AI": 8,
+    "其他": 80,
+    "体育": 58,
+    "科技/AI": 9,
     "娱乐/生活": 4,
     "金融/商业": 2
   },
